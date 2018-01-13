@@ -96,9 +96,7 @@
             "www.merrymilkfoods.com",
             "www.monarchslo.com",
             "www.mtmsms.com",
-            "www.nwhomecare.co.uk"
-        ],
-        "to_test": [
+            "www.nwhomecare.co.uk",
             "www.onwey.com",
             "www.playfromcolumbiahouse.com",
             "www.playsations.com",
@@ -122,6 +120,7 @@
             "xchangetrak.com",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv"
-        ]
+        ],
+        "to_test": []
     }
 }
