@@ -1,5 +1,8 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
+        "1515816860": [
+            "torgi.kz"
+        ],
         "to_test": [
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
@@ -116,7 +119,8 @@
             "www.xtds.info",
             "xchangetrak.com",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv"
+            "ztb.cztv.tv",
+            "sostox.com"
         ]
     }
 }
