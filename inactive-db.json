@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1515642359": [
+        "to_test": [
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
             "absolutely-clean-up-pc-errors.com",
@@ -117,7 +117,6 @@
             "xchangetrak.com",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv"
-        ],
-        "to_test": []
+        ]
     }
 }
