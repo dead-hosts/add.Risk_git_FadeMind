@@ -2,9 +2,8 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1515816860": [
             "torgi.kz",
-            "www.nikolamireasa.com"
-        ],
-        "to_test": [
+            "www.nikolamireasa.com",
+            "www.torgi.kz",
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
             "absolutely-clean-up-pc-errors.com",
@@ -64,6 +63,7 @@
             "shop.pcsecurityshield.com",
             "skype.tom.com",
             "sonyplaystion.com",
+            "sostox.com",
             "srch.startnow.com",
             "stats.openload.co",
             "tarakc1.net",
@@ -82,7 +82,6 @@
             "www.boostsoftware.com",
             "www.cadastrodacopa.net",
             "www.cazzigrossi.org",
-            "www.cleanallvirus.com",
             "www.clickbanksites.info",
             "www.dotnetadvisor.info",
             "www.ecxcite.com",
@@ -97,7 +96,9 @@
             "www.merrymilkfoods.com",
             "www.monarchslo.com",
             "www.mtmsms.com",
-            "www.nwhomecare.co.uk",
+            "www.nwhomecare.co.uk"
+        ],
+        "to_test": [
             "www.onwey.com",
             "www.playfromcolumbiahouse.com",
             "www.playsations.com",
@@ -120,8 +121,7 @@
             "www.xtds.info",
             "xchangetrak.com",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv",
-            "sostox.com"
+            "ztb.cztv.tv"
         ]
     }
 }
