@@ -1,7 +1,11 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "to_test": [
+        "1515989741": [
             "torgi.kz",
+            "tracking-stats-tr.usa.cc",
+            "winlock.usa.cc"
+        ],
+        "to_test": [
             "www.nikolamireasa.com",
             "www.torgi.kz",
             "6.bbnfaces.net",
@@ -63,7 +67,6 @@
             "shop.pcsecurityshield.com",
             "skype.tom.com",
             "sonyplaystion.com",
-            "sostox.com",
             "srch.startnow.com",
             "stats.openload.co",
             "tarakc1.net",
@@ -119,7 +122,8 @@
             "www.xtds.info",
             "xchangetrak.com",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv"
+            "ztb.cztv.tv",
+            "sostox.com"
         ]
     }
 }
