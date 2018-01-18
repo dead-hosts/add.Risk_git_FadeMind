@@ -1,6 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1515989741": [
+        "1516247297": [
+            "6.mamaswishes.com"
+        ],
+        "to_test": [
             "torgi.kz",
             "tracking-stats-tr.usa.cc",
             "winlock.usa.cc",
@@ -125,8 +128,8 @@
             "www.xtds.info",
             "xchangetrak.com",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv"
-        ],
-        "to_test": []
+            "ztb.cztv.tv",
+            "6.bbnface.com"
+        ]
     }
 }
