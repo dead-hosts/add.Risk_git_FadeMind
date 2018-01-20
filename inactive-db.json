@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1516247297": [
+        "to_test": [
             "6.mamaswishes.com",
             "sostox.com",
             "track.rtdock.com",
@@ -128,7 +128,6 @@
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv"
-        ],
-        "to_test": []
+        ]
     }
 }
