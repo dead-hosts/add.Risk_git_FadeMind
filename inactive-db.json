@@ -1,26 +1,6 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "www.antalya.ru"
-        ],
-        "to_test": [
-            "6.mamaswishes.com",
-            "sostox.com",
-            "track.rtdock.com",
-            "www.cybermecca.com",
-            "www.hacking-facebook.com",
-            "www.legendofdragoon.com",
-            "www.lottoga.com",
-            "www.maconbraves.com",
-            "www.mormonchurchgenealogy.com",
-            "www.myshovel.com",
-            "www.nikolamireasa.com",
-            "www.reg-cleaners.com",
-            "www.smartgiveaway.com",
-            "www.zoophil.com",
-            "xpath.syncrvprodist.com",
-            "6.bbnface.com",
-            "6.bbnfaces.net",
+        "1516423477": [
             "aa.newsblock.dt00.net",
             "absolutely-clean-up-pc-errors.com",
             "ad.hizlireklam.com",
@@ -77,16 +57,19 @@
             "shop.pcsecurityshield.com",
             "skype.tom.com",
             "sonyplaystion.com",
+            "sostox.com",
             "srch.startnow.com",
             "stats.openload.co",
             "tarakc1.net",
             "the-best-tracker.com",
             "toolbar.startnow.com",
+            "track.rtdock.com",
             "tracking.domobmedia.com",
             "trk.pcsecurityshield.com",
             "vroll.net",
             "ws.poolnoodle.tech",
             "www.absolutely-clean-up-pc-errors.com",
+            "www.antalya.ru",
             "www.apple-updates.com",
             "www.atousoft.com",
             "www.bdsmcompany.com",
@@ -102,18 +85,22 @@
             "www.freegamessource.com",
             "www.gliamicidellunicef.it",
             "www.greatwalltour.org",
+            "www.hacking-facebook.com",
             "www.hornytraffic.com",
             "www.ilovecheating.com",
             "www.inlinea.co.uk",
             "www.installm.net",
             "www.merrymilkfoods.com",
             "www.monarchslo.com",
+            "www.mormonchurchgenealogy.com",
             "www.mtmsms.com",
+            "www.nikolamireasa.com",
             "www.nwhomecare.co.uk",
             "www.onwey.com",
             "www.playfromcolumbiahouse.com",
             "www.playsations.com",
             "www.pussygreen.com",
+            "www.reg-cleaners.com",
             "www.safemobilelink.com",
             "www.sasson-cpa.co.il",
             "www.searchatomic.com",
@@ -131,6 +118,9 @@
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv"
+        ],
+        "to_test": [
+            "6.bbnfaces.net"
         ]
     }
 }
