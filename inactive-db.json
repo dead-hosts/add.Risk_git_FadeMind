@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "www.antalya.ru"
-        ],
         "to_test": [
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
@@ -121,7 +118,8 @@
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv",
-            "sasson-cpa.co.il"
+            "sasson-cpa.co.il",
+            "www.antalya.ru"
         ]
     }
 }
