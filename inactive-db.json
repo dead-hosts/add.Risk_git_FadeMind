@@ -1,5 +1,8 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
+        "0": [
+            "sasson-cpa.co.il"
+        ],
         "to_test": [
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
