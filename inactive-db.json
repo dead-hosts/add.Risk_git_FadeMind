@@ -113,15 +113,14 @@
             "www.surch.co.uk",
             "www.tarakc1.net",
             "www.tnctrx.com",
-            "www.trusearch.net"
-        ],
-        "to_test": [
+            "www.trusearch.net",
             "www.ukantivirus.co.uk",
             "www.vroll.net",
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv"
-        ]
+        ],
+        "to_test": []
     }
 }
