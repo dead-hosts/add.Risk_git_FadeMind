@@ -1,7 +1,8 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1517112090": [
-            "download.56.com"
+            "download.56.com",
+            "www.antalya.ru"
         ],
         "to_test": [
             "6.bbnfaces.net",
@@ -73,7 +74,6 @@
             "vroll.net",
             "ws.poolnoodle.tech",
             "www.absolutely-clean-up-pc-errors.com",
-            "www.antalya.ru",
             "www.apple-updates.com",
             "www.atousoft.com",
             "www.bdsmcompany.com",
