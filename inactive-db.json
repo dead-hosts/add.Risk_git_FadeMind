@@ -2,9 +2,8 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1517112090": [
             "download.56.com",
-            "www.antalya.ru"
-        ],
-        "to_test": [
+            "www.antalya.ru",
+            "www.trusearch.net",
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
             "absolutely-clean-up-pc-errors.com",
@@ -76,7 +75,6 @@
             "www.absolutely-clean-up-pc-errors.com",
             "www.apple-updates.com",
             "www.atousoft.com",
-            "www.bdsmcompany.com",
             "www.belshar.com",
             "www.bestcomputeradvisor.com",
             "www.boostsoftware.com",
@@ -116,14 +114,13 @@
             "www.surch.co.uk",
             "www.tarakc1.net",
             "www.tnctrx.com",
-            "www.trusearch.net",
             "www.ukantivirus.co.uk",
             "www.vroll.net",
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv",
-            "down3.feiyang163.com"
-        ]
+            "ztb.cztv.tv"
+        ],
+        "to_test": []
     }
 }
