@@ -92,9 +92,8 @@
             "www.inlinea.co.uk",
             "www.installm.net",
             "www.merrymilkfoods.com",
-            "brans.pl"
-        ],
-        "to_test": [
+            "brans.pl",
+            "www.trusearch.net",
             "www.monarchslo.com",
             "www.mormonchurchgenealogy.com",
             "www.mtmsms.com",
@@ -121,8 +120,8 @@
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv",
-            "www.trusearch.net"
-        ]
+            "ztb.cztv.tv"
+        ],
+        "to_test": []
     }
 }
