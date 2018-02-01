@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "ecxcite.com"
-        ],
         "to_test": [
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
@@ -121,7 +118,8 @@
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv"
+            "ztb.cztv.tv",
+            "ecxcite.com"
         ]
     }
 }
