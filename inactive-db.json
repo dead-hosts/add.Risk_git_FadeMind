@@ -1,5 +1,8 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
+        "1517459632": [
+            "www.brans.pl"
+        ],
         "to_test": [
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
@@ -70,7 +73,6 @@
             "vroll.net",
             "ws.poolnoodle.tech",
             "www.absolutely-clean-up-pc-errors.com",
-            "www.antalya.ru",
             "www.apple-updates.com",
             "www.atousoft.com",
             "www.belshar.com",
@@ -119,7 +121,8 @@
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv",
-            "ecxcite.com"
+            "ecxcite.com",
+            "www.antalya.ru"
         ]
     }
 }
