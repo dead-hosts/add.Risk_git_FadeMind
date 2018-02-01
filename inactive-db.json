@@ -1,9 +1,8 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1517459632": [
-            "www.brans.pl"
-        ],
-        "to_test": [
+            "www.brans.pl",
+            "www.trusearch.net",
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
             "absolutely-clean-up-pc-errors.com",
@@ -35,6 +34,7 @@
             "download.game-store.es",
             "download.mywebsearch.com",
             "download.ttrili.com",
+            "ecxcite.com",
             "facebookasciiart.com",
             "files4.downloadnet1188.com",
             "files5.downloadnet1188.com",
@@ -73,6 +73,7 @@
             "vroll.net",
             "ws.poolnoodle.tech",
             "www.absolutely-clean-up-pc-errors.com",
+            "www.antalya.ru",
             "www.apple-updates.com",
             "www.atousoft.com",
             "www.belshar.com",
@@ -93,7 +94,6 @@
             "www.inlinea.co.uk",
             "www.installm.net",
             "www.merrymilkfoods.com",
-            "www.trusearch.net",
             "www.monarchslo.com",
             "www.mormonchurchgenealogy.com",
             "www.mtmsms.com",
@@ -120,9 +120,8 @@
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv",
-            "ecxcite.com",
-            "www.antalya.ru"
-        ]
+            "ztb.cztv.tv"
+        ],
+        "to_test": []
     }
 }
