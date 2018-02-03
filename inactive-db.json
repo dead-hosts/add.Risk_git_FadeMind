@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "ecxcite.com"
-        ],
         "to_test": [
             "www.brans.pl",
             "www.trusearch.net",
@@ -122,7 +119,8 @@
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv"
+            "ztb.cztv.tv",
+            "ecxcite.com"
         ]
     }
 }
