@@ -1,6 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1517459632": [
+        "0": [
+            "ecxcite.com"
+        ],
+        "to_test": [
             "www.brans.pl",
             "www.trusearch.net",
             "6.bbnfaces.net",
@@ -34,7 +37,6 @@
             "download.game-store.es",
             "download.mywebsearch.com",
             "download.ttrili.com",
-            "ecxcite.com",
             "facebookasciiart.com",
             "files4.downloadnet1188.com",
             "files5.downloadnet1188.com",
@@ -121,7 +123,6 @@
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv"
-        ],
-        "to_test": []
+        ]
     }
 }
