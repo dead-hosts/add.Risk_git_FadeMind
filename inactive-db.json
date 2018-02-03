@@ -1,10 +1,7 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "www.antalya.ru"
-        ],
-        "to_test": [
-            "www.trusearch.net",
+        "1517633494": [
+            "xtds.info",
             "6.bbnfaces.net",
             "aa.newsblock.dt00.net",
             "absolutely-clean-up-pc-errors.com",
@@ -30,12 +27,12 @@
             "dotnetadvisor.info",
             "down.guangsu.cn",
             "down.hit020.com",
-            "down.unadnet.com.cn",
             "download.cdn.downloadquick.net",
             "download.downloadquick.net",
             "download.game-store.es",
             "download.mywebsearch.com",
             "download.ttrili.com",
+            "ecxcite.com",
             "facebookasciiart.com",
             "files4.downloadnet1188.com",
             "files5.downloadnet1188.com",
@@ -74,6 +71,7 @@
             "vroll.net",
             "ws.poolnoodle.tech",
             "www.absolutely-clean-up-pc-errors.com",
+            "www.antalya.ru",
             "www.apple-updates.com",
             "www.atousoft.com",
             "www.belshar.com",
@@ -99,7 +97,9 @@
             "www.mtmsms.com",
             "www.nikolamireasa.com",
             "www.nwhomecare.co.uk",
-            "www.onwey.com",
+            "www.onwey.com"
+        ],
+        "to_test": [
             "www.playfromcolumbiahouse.com",
             "www.playsations.com",
             "www.pussygreen.com",
@@ -121,7 +121,7 @@
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv",
-            "ecxcite.com"
+            "www.trusearch.net"
         ]
     }
 }
