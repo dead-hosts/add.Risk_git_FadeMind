@@ -111,9 +111,7 @@
             "www.sonyplaystion.com",
             "www.sostox.com",
             "www.startnow.com",
-            "www.stressx.org"
-        ],
-        "to_test": [
+            "www.stressx.org",
             "www.surch.co.uk",
             "www.tarakc1.net",
             "www.tnctrx.com",
@@ -123,6 +121,7 @@
             "www.xtds.info",
             "zeus.rhsystems.ru",
             "ztb.cztv.tv"
-        ]
+        ],
+        "to_test": []
     }
 }
