@@ -3,9 +3,7 @@
         "1517976399": [
             "ecxcite.com",
             "www.antalya.ru",
-            "www.gaja79.com"
-        ],
-        "to_test": [
+            "www.gaja79.com",
             "www.trusearch.net",
             "xtds.info",
             "6.bbnfaces.net",
@@ -27,6 +25,7 @@
             "cfg.mywebsearch.com",
             "checktraf.com",
             "clickbank.pcsecurityshield.com",
+            "clickbanksites.info",
             "cp.pleasedontslaymy.download",
             "d32k27yvyi4kmv.cloudfront.net",
             "dl.microsword.net",
@@ -113,7 +112,9 @@
             "www.sonyplaystion.com",
             "www.sostox.com",
             "www.startnow.com",
-            "www.stressx.org",
+            "www.stressx.org"
+        ],
+        "to_test": [
             "www.surch.co.uk",
             "www.tarakc1.net",
             "www.tnctrx.com",
@@ -122,8 +123,7 @@
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv",
-            "clickbanksites.info"
+            "ztb.cztv.tv"
         ]
     }
 }
