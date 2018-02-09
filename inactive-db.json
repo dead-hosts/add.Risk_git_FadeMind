@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1517976399": [
-            "ecxcite.com",
+        "1518149157": [
+            "ecxcite.com"
+        ],
+        "to_test": [
             "www.antalya.ru",
             "www.trusearch.net",
             "xtds.info",
@@ -24,7 +26,6 @@
             "cfg.mywebsearch.com",
             "checktraf.com",
             "clickbank.pcsecurityshield.com",
-            "clickbanksites.info",
             "cp.pleasedontslaymy.download",
             "d32k27yvyi4kmv.cloudfront.net",
             "dl.microsword.net",
@@ -120,8 +121,8 @@
             "www.wincleaneras.com",
             "www.xtds.info",
             "zeus.rhsystems.ru",
-            "ztb.cztv.tv"
-        ],
-        "to_test": []
+            "ztb.cztv.tv",
+            "clickbanksites.info"
+        ]
     }
 }
