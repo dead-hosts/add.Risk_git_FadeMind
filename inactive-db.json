@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "to_test": [
+        "1518930065": [
             "7979-69504_159.c.adprotect.net",
             "clickbanksites.info",
             "ecxcite.com",
@@ -11,6 +11,7 @@
             "www.scanspyware.net",
             "www.trusearch.net",
             "xtds.info"
-        ]
+        ],
+        "to_test": []
     }
 }
