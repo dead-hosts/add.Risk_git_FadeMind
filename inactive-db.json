@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "nikolamireasa.com"
-        ],
         "to_test": [
             "7979-69504_159.c.adprotect.net",
             "clickbanksites.info",
@@ -13,7 +10,8 @@
             "www.flashplayer_macro.kit.net",
             "www.scanspyware.net",
             "www.trusearch.net",
-            "xtds.info"
+            "xtds.info",
+            "nikolamireasa.com"
         ]
     }
 }
