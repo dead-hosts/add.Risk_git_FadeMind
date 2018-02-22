@@ -2,20 +2,19 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1519273402": [
             "nikolamireasa.com",
-            "www.scanspyware.net"
-        ],
-        "to_test": [
+            "www.scanspyware.net",
             "www.vacationcellular.net",
             "7979-69504_159.c.adprotect.net",
             "clickbanksites.info",
             "ecxcite.com",
             "flashplayer_macro.kit.net",
+            "mormonchurchgenealogy.com",
             "wincleaneras.com",
             "www.antalya.ru",
             "www.flashplayer_macro.kit.net",
             "www.trusearch.net",
-            "xtds.info",
-            "mormonchurchgenealogy.com"
-        ]
+            "xtds.info"
+        ],
+        "to_test": []
     }
 }
