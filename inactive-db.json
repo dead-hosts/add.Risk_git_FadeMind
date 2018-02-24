@@ -1,6 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1519273402": [
+        "0": [
+            "d1.windows8downloads.com"
+        ],
+        "to_test": [
             "nikolamireasa.com",
             "www.scanspyware.net",
             "www.vacationcellular.net",
@@ -14,7 +17,6 @@
             "www.flashplayer_macro.kit.net",
             "www.trusearch.net",
             "xtds.info"
-        ],
-        "to_test": []
+        ]
     }
 }
