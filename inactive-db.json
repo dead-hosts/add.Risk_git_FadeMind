@@ -1,23 +1,24 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "d1.windows8downloads.com"
+        "1519619318": [
+            "mormonchurchgenealogy.com",
+            "nikolamireasa.com",
+            "reg-cleaners.com"
         ],
         "to_test": [
-            "nikolamireasa.com",
-            "reg-cleaners.com",
             "www.scanspyware.net",
             "www.vacationcellular.net",
             "7979-69504_159.c.adprotect.net",
             "clickbanksites.info",
             "ecxcite.com",
             "flashplayer_macro.kit.net",
-            "mormonchurchgenealogy.com",
             "wincleaneras.com",
             "www.antalya.ru",
             "www.flashplayer_macro.kit.net",
             "www.trusearch.net",
-            "xtds.info"
+            "xtds.info",
+            "d1.windows8downloads.com",
+            "mlpoint.pt"
         ]
     }
 }
