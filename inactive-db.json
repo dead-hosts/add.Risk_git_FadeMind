@@ -1,6 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1520138199": [
+        "0": [
+            "d1.windows8downloads.com"
+        ],
+        "to_test": [
             "nikolamireasa.com",
             "reg-cleaners.com",
             "www.butterfly-media.co.uk",
@@ -11,7 +14,6 @@
             "www.vacationcellular.net",
             "7979-69504_159.c.adprotect.net",
             "clickbanksites.info",
-            "d1.windows8downloads.com",
             "ecxcite.com",
             "flashplayer_macro.kit.net",
             "mormonchurchgenealogy.com",
@@ -20,7 +22,6 @@
             "www.flashplayer_macro.kit.net",
             "www.trusearch.net",
             "xtds.info"
-        ],
-        "to_test": []
+        ]
     }
 }
