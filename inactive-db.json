@@ -2,11 +2,12 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1520482332": [
             "bigmart.com.np",
-            "d1.windows8downloads.com"
+            "d1.windows8downloads.com",
+            "mormonchurchgenealogy.com",
+            "nikolamireasa.com",
+            "reg-cleaners.com"
         ],
         "to_test": [
-            "nikolamireasa.com",
-            "reg-cleaners.com",
             "www.butterfly-media.co.uk",
             "www.goolegames.com",
             "www.newcracks.net",
@@ -16,7 +17,6 @@
             "clickbanksites.info",
             "ecxcite.com",
             "flashplayer_macro.kit.net",
-            "mormonchurchgenealogy.com",
             "wincleaneras.com",
             "www.antalya.ru",
             "www.flashplayer_macro.kit.net",
