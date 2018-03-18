@@ -19,7 +19,6 @@
             "www.securetrk1.com",
             "www.triplequadturbo.com",
             "www.vacationcellular.net",
-            "www.wpxn.com",
             "www.xsedu.zj.cn",
             "7979-69504_159.c.adprotect.net",
             "affiliate.gwmtracker.com",
@@ -29,10 +28,9 @@
             "wincleaneras.com",
             "www.antalya.ru",
             "www.flashplayer_macro.kit.net",
-            "www.trusearch.net"
-        ],
-        "to_test": [
+            "www.trusearch.net",
             "xtds.info"
-        ]
+        ],
+        "to_test": []
     }
 }
