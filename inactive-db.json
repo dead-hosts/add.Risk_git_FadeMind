@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1521346860": [
-            "d1.windows8downloads.com",
+        "1521519713": [
+            "d1.windows8downloads.com"
+        ],
+        "to_test": [
             "hackhero.tk",
             "img.xratedbucks.com",
             "m-barati.de",
@@ -21,7 +23,6 @@
             "www.vacationcellular.net",
             "www.xsedu.zj.cn",
             "7979-69504_159.c.adprotect.net",
-            "affiliate.gwmtracker.com",
             "clickbanksites.info",
             "ecxcite.com",
             "flashplayer_macro.kit.net",
@@ -29,8 +30,8 @@
             "www.antalya.ru",
             "www.flashplayer_macro.kit.net",
             "www.trusearch.net",
-            "xtds.info"
-        ],
-        "to_test": []
+            "xtds.info",
+            "affiliate.gwmtracker.com"
+        ]
     }
 }
