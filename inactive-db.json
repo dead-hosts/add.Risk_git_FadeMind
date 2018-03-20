@@ -1,15 +1,15 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1521519713": [
-            "d1.windows8downloads.com"
-        ],
-        "to_test": [
+            "d1.windows8downloads.com",
             "hackhero.tk",
             "img.xratedbucks.com",
             "m-barati.de",
             "mormonchurchgenealogy.com",
             "nikolamireasa.com",
-            "reg-cleaners.com",
+            "reg-cleaners.com"
+        ],
+        "to_test": [
             "www.butterfly-media.co.uk",
             "www.fixio-pc-cleaner.com",
             "www.goolegames.com",
