@@ -5,7 +5,8 @@
             "brans.pl",
             "d1.windows8downloads.com",
             "desirevandoorne.nl",
-            "hackhero.tk"
+            "hackhero.tk",
+            ""
         ],
         "to_test": [
             "img.xratedbucks.com",
@@ -32,8 +33,7 @@
             "www.antalya.ru",
             "www.flashplayer_macro.kit.net",
             "www.trusearch.net",
-            "xtds.info",
-            ""
+            "xtds.info"
         ]
     }
 }
