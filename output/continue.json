@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "number_of_down": 17,
-        "number_of_invalid": 4,
-        "number_of_tested": 2866,
-        "number_of_up": 2845
+        "number_of_down": 23,
+        "number_of_invalid": 5,
+        "number_of_tested": 3599,
+        "number_of_up": 3571
     }
 }
