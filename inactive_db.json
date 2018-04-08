@@ -21,9 +21,7 @@
             "vacationcellular.net",
             "www.39dvd-999.com",
             "www.antalya.ru",
-            "www.bigstoreoffers.co.uk"
-        ],
-        "to_test": [
+            "www.bigstoreoffers.co.uk",
             "www.brans.pl",
             "www.butterfly-media.co.uk",
             "www.customersupporthelp.com",
@@ -41,7 +39,9 @@
             "www.securetracking2.com",
             "www.securetrk1.com",
             "www.triplequadturbo.com",
-            "www.vacationcellular.net",
+            "www.vacationcellular.net"
+        ],
+        "to_test": [
             "7979-69504_159.c.adprotect.net"
         ]
     }
