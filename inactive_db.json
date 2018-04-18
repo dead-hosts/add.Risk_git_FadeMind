@@ -20,9 +20,7 @@
             "reg-cleaners.com",
             "serviceyourpaypal.com",
             "tangabilder.to",
-            "vacationcellular.net"
-        ],
-        "to_test": [
+            "vacationcellular.net",
             "www.39dvd-999.com",
             "www.altafista.com",
             "www.antalya.ru",
@@ -45,10 +43,13 @@
             "www.ocpersian.com",
             "www.securetracking2.com",
             "www.securetrk1.com",
+            "www.tangabilder.to",
             "www.triplequadturbo.com",
             "www.vacationcellular.net",
             "www.wallpapers91.com",
-            "xpath.syncrvprodist.com",
+            "xpath.syncrvprodist.com"
+        ],
+        "to_test": [
             "7979-69504_159.c.adprotect.net"
         ]
     }
