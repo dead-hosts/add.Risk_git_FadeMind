@@ -1,11 +1,10 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1524544531": [
+        "1524717425": [
             "affiliate.gwmtracker.com",
             "app.pho8.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
-            "brans.pl",
             "c.pioneeringad.com",
             "clicksimpact.cashtrk.com",
             "d1.windows8downloads.com",
@@ -16,7 +15,9 @@
             "hackhero.tk",
             "img.xratedbucks.com",
             "j.pioneeringad.com",
-            "mormonchurchgenealogy.com",
+            "mormonchurchgenealogy.com"
+        ],
+        "to_test": [
             "nikolamireasa.com",
             "reg-cleaners.com",
             "serviceyourpaypal.com",
@@ -46,9 +47,7 @@
             "www.tangabilder.to",
             "www.vacationcellular.net",
             "www.wallpapers91.com",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
+            "xpath.syncrvprodist.com",
             "7979-69504_159.c.adprotect.net"
         ]
     }
