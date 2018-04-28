@@ -20,9 +20,7 @@
             "reg-cleaners.com",
             "serviceyourpaypal.com",
             "tangabilder.to",
-            "vacationcellular.net"
-        ],
-        "to_test": [
+            "vacationcellular.net",
             "www.39dvd-999.com",
             "www.altafista.com",
             "www.antalya.ru",
@@ -31,6 +29,7 @@
             "www.classicallyabsurdphotography.com",
             "www.customersupporthelp.com",
             "www.desirevandoorne.nl",
+            "www.findit-quick.com",
             "www.fixio-pc-cleaner.com",
             "www.flashplayer_macro.kit.net",
             "www.fxlayer.net",
@@ -47,7 +46,9 @@
             "www.triplequadturbo.com",
             "www.vacationcellular.net",
             "www.wallpapers91.com",
-            "xpath.syncrvprodist.com",
+            "xpath.syncrvprodist.com"
+        ],
+        "to_test": [
             "7979-69504_159.c.adprotect.net"
         ]
     }
