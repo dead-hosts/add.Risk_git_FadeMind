@@ -20,9 +20,7 @@
             "galtthemes.ezthemes.com",
             "img.xratedbucks.com",
             "mormonchurchgenealogy.com",
-            "nikolamireasa.com"
-        ],
-        "to_test": [
+            "nikolamireasa.com",
             "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
@@ -30,7 +28,9 @@
             "serviceyourpaypal.com",
             "tangabilder.to",
             "themexp.ezthemes.com",
-            "topdesktop.ezthemes.com",
+            "topdesktop.ezthemes.com"
+        ],
+        "to_test": [
             "vacationcellular.net",
             "wallpapers91.com",
             "wateristian.com",
