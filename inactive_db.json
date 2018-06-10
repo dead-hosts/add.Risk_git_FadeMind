@@ -59,13 +59,10 @@
             "www.lycosgamesville.com",
             "www.mamameidia.com",
             "www.mamamidia.com",
-            "www.newcracks.net"
-        ],
-        "to_test": [
+            "www.newcracks.net",
             "www.rivasearchpage.com",
             "www.securetracking2.com",
             "www.securetrk1.com",
-            "www.sevenstars7.com",
             "www.stimul-m.com.ua",
             "www.tangabilder.to",
             "www.themexp.org",
@@ -77,7 +74,9 @@
             "www.wallpapers91.com",
             "www.xicaxique.com.br",
             "xicaxique.com.br",
-            "xpath.syncrvprodist.com",
+            "xpath.syncrvprodist.com"
+        ],
+        "to_test": [
             "7979-69504_159.c.adprotect.net"
         ]
     }
