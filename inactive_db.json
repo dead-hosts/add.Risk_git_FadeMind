@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1528952552": [
+        "1529051674": [
             "altafista.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
@@ -14,7 +14,9 @@
             "dl.ezthemes.com",
             "dl1.ezthemes.com",
             "electra-jjh.com.br",
-            "ezthemes.ezthemes.com",
+            "ezthemes.ezthemes.com"
+        ],
+        "to_test": [
             "fixio-pc-cleaner.com",
             "flashplayer_macro.kit.net",
             "funskins.ezthemes.com",
@@ -75,9 +77,7 @@
             "www.wallpapers91.com",
             "www.xicaxique.com.br",
             "xicaxique.com.br",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
+            "xpath.syncrvprodist.com",
             "7979-69504_159.c.adprotect.net"
         ]
     }
