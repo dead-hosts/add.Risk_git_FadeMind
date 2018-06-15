@@ -19,7 +19,7 @@ As [funilrys/dead-hosts](https://github.com/funilrys/dead-hosts) grew up, it bec
 # About PyFunceble
 ihK7HdiJoWIFU8GfvUtl6H012DvIAGVg1DCtSe6GDhmQZJg6EZ4Aa0jUPIzTAEI+L0dfIIzW6n/cJhsJGbODa7VQq8BHpvyMqNHsHxH/aI+ZsL5FJPbvf81BIGcsPZgfa1EsTNsLje4+/twrg262kSDhln5kNgGhU4bHBPRsffQ2TsOS6+M2NVl4G2zVYFcmfLMqJkVJREDnYhPu79U4zfI+i4L5qtCmIBlS2PzhVF357cqi6d3Sx8HI5yjJ8tmqCiuAMxqcJB6H4tGaDzawhwXGgKloILuta6WGCWI2E/5WqH/v4c1E+6LQjVg30tBFjw30ktl3PFm+7vgpJCDDMePeQ63czKZRj9mNgaYohaCtpG4GC6XYqjH+UUjMo8rTd/XPopvThZP0PvEJ8Aysgyw+ubo36aZ/r1mLy+xH4lGpuN2iRJ6aVjfkrKYX/U9MLfPAvjQ5cug3iKH7cy2ZEOjeCvPO2Kwr//fhgJQXLvyPC68L+uRc2lo5MlkpoBGawp+7khTLOIEzrRneoYsu2rg01YtErkXN3Upx9WxQ5uWX8i57YikDKBXavPxzsOW18l/+1Vi9ecoCOZeAuVggRdsQINqrv8qxiwuSD7p92yKvTXlFpFoO1YA0et4rKvFvWwTZDpk/0TisUJhwb2qLLOJNkTN0p2ab15XZsSyp718=
 
-PyFunceble like [Funceble](https://github.com/funilrys/funceble) is a tool to check domains or IP availability by returning 3 possible [status](https://github.com/funilrys/PyFunceble/wiki/Columns#status): ACTIVE, INACTIVE or INVALID.
+PyFunceble like [Funceble](https://github.com/funilrys/funceble) is a tool to check domains or IP availability by returning 3 possible [status](https://pyfunceble.readthedocs.io/en/dev/colomns.html#status): ACTIVE, INACTIVE or INVALID.
 
 It also has been described by one of its most active user as:
 
@@ -29,7 +29,7 @@ If you need any further information about PyFunceble or Funceble please report t
 
 ## About the status returned by PyFunceble
 
-For an up to date version of this part, please report to the [Status](https://github.com/funilrys/PyFunceble/wiki/Columns#status) section of our Wiki.
+For an up to date version of this part, please report to the [Status](https://pyfunceble.readthedocs.io/en/dev/colomns.html#status) section of our Wiki.
 
 ### ACTIVE
 
