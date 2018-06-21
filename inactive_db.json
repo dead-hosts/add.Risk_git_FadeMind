@@ -26,9 +26,7 @@
             "nikolamireasa.com",
             "npktrk1.com",
             "nwhomecare.co.uk",
-            "orders.webpower.com"
-        ],
-        "to_test": [
+            "orders.webpower.com",
             "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
@@ -36,7 +34,9 @@
             "serviceyourpaypal.com",
             "tangabilder.to",
             "themexp.ezthemes.com",
-            "topdesktop.ezthemes.com",
+            "topdesktop.ezthemes.com"
+        ],
+        "to_test": [
             "vacationcellular.net",
             "wallpapers91.com",
             "wateristian.com",
