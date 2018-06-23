@@ -32,9 +32,7 @@
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
             "server.toolbar.rediff.com",
-            "serviceyourpaypal.com"
-        ],
-        "to_test": [
+            "serviceyourpaypal.com",
             "tangabilder.to",
             "themexp.ezthemes.com",
             "topdesktop.ezthemes.com",
@@ -44,7 +42,9 @@
             "www.abacusfinance.co.uk",
             "www.adlock.in",
             "www.alexanderinteriorsanddesign.com",
-            "www.altafista.com",
+            "www.altafista.com"
+        ],
+        "to_test": [
             "www.antalya.ru",
             "www.anticarredodolomiti.com",
             "www.bigstoreoffers.co.uk",
