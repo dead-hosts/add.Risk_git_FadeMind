@@ -29,9 +29,7 @@
             "npktrk1.com",
             "nwhomecare.co.uk",
             "orders.webpower.com",
-            "reg-cleaners.com"
-        ],
-        "to_test": [
+            "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
             "server.toolbar.rediff.com",
@@ -39,7 +37,9 @@
             "tangabilder.to",
             "themexp.ezthemes.com",
             "topdesktop.ezthemes.com",
-            "track.viralvidi.com",
+            "track.viralvidi.com"
+        ],
+        "to_test": [
             "vacationcellular.net",
             "wallpapers91.com",
             "wateristian.com",
