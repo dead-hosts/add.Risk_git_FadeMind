@@ -19,9 +19,7 @@
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "fixio-pc-cleaner.com",
-            "flashplayer_macro.kit.net"
-        ],
-        "to_test": [
+            "flashplayer_macro.kit.net",
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "img.xratedbucks.com",
@@ -31,7 +29,9 @@
             "npktrk1.com",
             "nwhomecare.co.uk",
             "orders.webpower.com",
-            "reg-cleaners.com",
+            "reg-cleaners.com"
+        ],
+        "to_test": [
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
             "server.toolbar.rediff.com",
