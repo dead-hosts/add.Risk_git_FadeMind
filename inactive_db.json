@@ -32,9 +32,7 @@
             "orders.webpower.com",
             "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
-            "registryregistrytool.triedtool.com"
-        ],
-        "to_test": [
+            "registryregistrytool.triedtool.com",
             "server.toolbar.rediff.com",
             "serviceyourpaypal.com",
             "tangabilder.to",
@@ -42,7 +40,9 @@
             "topdesktop.ezthemes.com",
             "track.viralvidi.com",
             "vacationcellular.net",
-            "wallpapers91.com",
+            "wallpapers91.com"
+        ],
+        "to_test": [
             "wateristian.com",
             "www.abacusfinance.co.uk",
             "www.aintdoinshit.com",
