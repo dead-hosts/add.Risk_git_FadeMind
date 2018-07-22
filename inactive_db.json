@@ -1,13 +1,11 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "freeserials.ws"
-        ],
         "to_test": [
             "rq.adtrackdirect.com",
             "www.grendizer.biz",
             "www.h-adachi.org",
-            "www.regdefense.com"
+            "www.regdefense.com",
+            "freeserials.ws"
         ]
     }
 }
