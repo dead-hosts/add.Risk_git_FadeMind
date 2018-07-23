@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "rq.adtrackdirect.com"
-        ],
         "to_test": [
             "www.advancedsoftwaresupport.com",
             "www.brans.pl",
@@ -10,7 +7,8 @@
             "www.grendizer.biz",
             "www.regdefense.com",
             "www.xpop.co",
-            "xpop.co"
+            "xpop.co",
+            "rq.adtrackdirect.com"
         ]
     }
 }
