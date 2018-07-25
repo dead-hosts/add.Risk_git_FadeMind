@@ -1,18 +1,19 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "rq.adtrackdirect.com"
+        "1532498648": [
+            "www.brans.pl",
+            "www.grendizer.biz",
+            "www.iybasketball.info",
+            "www.nowgifttown.com"
         ],
         "to_test": [
-            "www.advancedsoftwaresupport.com",
-            "www.freeserials.ws",
-            "www.grendizer.biz",
-            "www.nowgifttown.com",
             "www.regdefense.com",
             "www.top10registrycleaners.com",
             "www.xpop.co",
             "xpop.co",
-            "demo.vertexinfo.in"
+            "demo.vertexinfo.in",
+            "rq.adtrackdirect.com",
+            "www.advancedsoftwaresupport.com"
         ]
     }
 }
