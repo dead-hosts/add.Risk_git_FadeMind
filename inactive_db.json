@@ -1,6 +1,11 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1532389339": [
+        "0": [
+            "demo.vertexinfo.in"
+        ],
+        "to_test": [
+            "rq.adtrackdirect.com",
+            "www.advancedsoftwaresupport.com",
             "www.freeserials.ws",
             "www.grendizer.biz",
             "www.nowgifttown.com",
@@ -8,10 +13,6 @@
             "www.top10registrycleaners.com",
             "www.xpop.co",
             "xpop.co"
-        ],
-        "to_test": [
-            "rq.adtrackdirect.com",
-            "www.advancedsoftwaresupport.com"
         ]
     }
 }
