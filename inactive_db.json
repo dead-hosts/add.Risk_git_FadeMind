@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "demo.vertexinfo.in"
-        ],
         "to_test": [
             "rq.adtrackdirect.com",
             "www.advancedsoftwaresupport.com",
@@ -12,7 +9,8 @@
             "www.regdefense.com",
             "www.top10registrycleaners.com",
             "www.xpop.co",
-            "xpop.co"
+            "xpop.co",
+            "demo.vertexinfo.in"
         ]
     }
 }
