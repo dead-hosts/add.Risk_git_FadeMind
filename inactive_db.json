@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1533447572": [
-            "f8350e7c1.se",
+        "1533620573": [
+            "f8350e7c1.se"
+        ],
+        "to_test": [
             "handlerhackz.tk",
             "img.thebugs.ws",
             "infospace.tk",
@@ -25,9 +27,7 @@
             "www.top10registrycleaners.com",
             "www.xpop.co",
             "xpop.co",
-            "yk.handlerhackz.tk"
-        ],
-        "to_test": [
+            "yk.handlerhackz.tk",
             "crackguru.tk"
         ]
     }
