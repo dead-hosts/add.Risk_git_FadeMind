@@ -13,9 +13,7 @@
             "wmediaplayernow.com",
             "www.advancedsoftwaresupport.com",
             "www.catz4.com",
-            "www.cudacorp.com"
-        ],
-        "to_test": [
+            "www.cudacorp.com",
             "www.federatedstores.com",
             "www.firstconsumers.com",
             "www.grendizer.biz",
@@ -27,7 +25,9 @@
             "www.playersaid.com",
             "www.regdefense.com",
             "www.thebugs.ws",
-            "www.top10registrycleaners.com",
+            "www.top10registrycleaners.com"
+        ],
+        "to_test": [
             "www.xpop.co",
             "xpop.co",
             "yk.handlerhackz.tk",
