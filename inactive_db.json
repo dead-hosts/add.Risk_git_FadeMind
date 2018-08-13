@@ -1,12 +1,14 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1534139094": [
-            "f8350e7c1.se"
-        ],
-        "to_test": [
+            "f8350e7c1.se",
             "handlerhackz.tk",
+            "holdhelptime.com",
             "img.thebugs.ws",
             "infospace.tk",
+            "installm.net"
+        ],
+        "to_test": [
             "rahulthehacker.tk",
             "rq.adtrackdirect.com",
             "socialme.tk",
