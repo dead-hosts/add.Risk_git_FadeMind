@@ -1,9 +1,11 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
+        "1534485753": [
+            "sasson-cpa.co.il",
+            "stimul-m.com.ua"
+        ],
         "to_test": [
             "www.playersaid.com",
-            "rq.adtrackdirect.com",
-            "stimul-m.com.ua",
             "wmediaplayernow.com",
             "www.advancedsoftwaresupport.com",
             "www.brans.pl",
@@ -23,7 +25,8 @@
             "www.top10registrycleaners.com",
             "www.xpop.co",
             "xpop.co",
-            "f8350e7c1.se"
+            "f8350e7c1.se",
+            "rq.adtrackdirect.com"
         ]
     }
 }
