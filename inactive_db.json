@@ -1,11 +1,7 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "0": [
-            "f8350e7c1.se"
-        ],
         "to_test": [
             "www.playersaid.com",
-            "img.thebugs.ws",
             "rq.adtrackdirect.com",
             "stimul-m.com.ua",
             "wmediaplayernow.com",
@@ -26,7 +22,8 @@
             "www.thebugs.ws",
             "www.top10registrycleaners.com",
             "www.xpop.co",
-            "xpop.co"
+            "xpop.co",
+            "f8350e7c1.se"
         ]
     }
 }
