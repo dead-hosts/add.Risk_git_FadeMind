@@ -1,12 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1534666944": [
-            "bseaqmi.angelcities.com",
-            "cuoujvfi.angelcities.com",
-            "dqxaszsk.angelcities.com",
-            "f8350e7c1.se",
-            "ficcionaliza.angelcities.com",
-            "fkooaee.angelcities.com",
+        "1534830497": [
+            "f8350e7c1.se"
+        ],
+        "to_test": [
             "jzrvquay.angelcities.com",
             "kosdyvore.angelcities.com",
             "kvvijrmu.angelcities.com",
@@ -49,10 +46,8 @@
             "xyxudubax.angelcities.com",
             "yitkomfj.angelcities.com",
             "ylgingq.angelcities.com",
-            "yvdeuwn.angelcities.com"
-        ],
-        "to_test": [
-            "aitsngnuu.angelcities.com"
+            "yvdeuwn.angelcities.com",
+            "aintdoinshit.com"
         ]
     }
 }
