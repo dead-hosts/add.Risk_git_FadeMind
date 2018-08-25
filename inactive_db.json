@@ -9,13 +9,15 @@
             "sandbox.tk",
             "stimul-m.com.ua",
             "strangeduckfilms.com",
-            "stressx.org"
-        ],
-        "to_test": [
+            "stressx.org",
             "wmediaplayernow.com",
+            "www.adobe-flashplayer.com",
             "www.advancedsoftwaresupport.com",
+            "www.anglewinks.com",
             "www.atofilms.com",
+            "www.bormis.com",
             "www.brans.pl",
+            "www.buffalogoesout.com",
             "www.bugsurf.com",
             "www.catz4.com",
             "www.cudacorp.com",
@@ -26,8 +28,11 @@
             "www.grendizer.biz",
             "www.hnskorea.co.kr",
             "www.holdhelptime.com",
+            "www.ieginc.com",
             "www.imagesmovies.com",
-            "www.intera-x.com",
+            "www.intera-x.com"
+        ],
+        "to_test": [
             "www.nkgamers.com",
             "www.nowgifttown.com",
             "www.playersaid.com",
