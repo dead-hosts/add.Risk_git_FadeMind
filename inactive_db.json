@@ -2,12 +2,12 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1535348653": [
             "aintdoinshit.com",
-            "f8350e7c1.se"
-        ],
-        "to_test": [
+            "f8350e7c1.se",
             "grendizer.biz",
             "rainbowcolours.me.uk",
-            "rq.adtrackdirect.com",
+            "rq.adtrackdirect.com"
+        ],
+        "to_test": [
             "sandbox.tk",
             "stimul-m.com.ua",
             "strangeduckfilms.com",
