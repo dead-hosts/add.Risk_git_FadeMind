@@ -10,9 +10,7 @@
             "rq.adtrackdirect.com",
             "sandbox.tk",
             "stimul-m.com.ua",
-            "strangeduckfilms.com"
-        ],
-        "to_test": [
+            "strangeduckfilms.com",
             "wmediaplayernow.com",
             "www.adobe-flashplayer.com",
             "www.anglewinks.com",
@@ -29,12 +27,13 @@
             "www.flashdem.fr",
             "www.getmeaticket.co.uk",
             "www.grendizer.biz",
-            "www.h-adachi.org",
             "www.hnskorea.co.kr",
             "www.holdhelptime.com",
             "www.imagesmovies.com",
             "www.intera-x.com",
-            "www.joetoons.com",
+            "www.joetoons.com"
+        ],
+        "to_test": [
             "www.nkgamers.com",
             "www.nowgifttown.com",
             "www.playersaid.com",
