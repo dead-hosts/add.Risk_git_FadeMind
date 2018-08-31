@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1535521488": [
-            "actrck.com",
+        "1535694322": [
             "aintdoinshit.com",
-            "antispyware.onlinedownloads.org",
-            "f8350e7c1.se",
+            "f8350e7c1.se"
+        ],
+        "to_test": [
             "grendizer.biz",
             "rainbowcolours.me.uk",
             "rq.adtrackdirect.com",
@@ -44,7 +44,6 @@
             "www.xpop.co",
             "www.zoogdisany.com",
             "xpop.co"
-        ],
-        "to_test": []
+        ]
     }
 }
