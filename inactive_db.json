@@ -15,11 +15,8 @@
             "wmediaplayernow.com",
             "www.adobe-flashplayer.com",
             "www.anglewinks.com",
-            "www.atofilms.com"
-        ],
-        "to_test": [
+            "www.atofilms.com",
             "www.bormis.com",
-            "www.brans.pl",
             "www.buffalogoesout.com",
             "www.bugsurf.com",
             "www.calllwave.com",
@@ -40,7 +37,9 @@
             "www.nowgifttown.com",
             "www.playersaid.com",
             "www.registry-cleaners-compared.com",
-            "www.registrysweeper.com",
+            "www.registrysweeper.com"
+        ],
+        "to_test": [
             "www.top10registrycleaners.com",
             "www.trx625.com",
             "www.upproar.com",
