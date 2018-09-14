@@ -1,8 +1,15 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1536709772": [
-            "www.wwwdiscounthotel.com"
+        "1536904202": [
+            "afa15.com.ne.kr",
+            "aitsngnuu.angelcities.com",
+            "bseaqmi.angelcities.com",
+            "cuoujvfi.angelcities.com",
+            "dqxaszsk.angelcities.com",
+            "ficcionaliza.angelcities.com"
         ],
-        "to_test": []
+        "to_test": [
+            "www.wwwdiscounthotel.com"
+        ]
     }
 }
