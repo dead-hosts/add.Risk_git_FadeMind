@@ -2,11 +2,11 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1537249958": [
             "afa15.com.ne.kr",
-            "federatedstores.com"
+            "federatedstores.com",
+            "glb.activeprospect.com",
+            "holdhelptime.com"
         ],
         "to_test": [
-            "glb.activeprospect.com",
-            "holdhelptime.com",
             "www.columbianhouse.com",
             "www.dateck.com",
             "www.gamesharkcentral.com",
