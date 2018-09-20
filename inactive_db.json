@@ -8,12 +8,13 @@
             "5.googlenews.xorg.pl",
             "agstracker.com",
             "burnvirusnow33.xorg.pl",
-            "cleanupit22p.xorg.pl"
-        ],
-        "to_test": [
+            "cleanupit22p.xorg.pl",
             "federatedstores.com",
             "glb.activeprospect.com",
-            "holdhelptime.com",
+            "googlenews.xorg.pl",
+            "holdhelptime.com"
+        ],
+        "to_test": [
             "www.brans.pl",
             "www.columbianhouse.com",
             "www.dateck.com",
