@@ -7,13 +7,14 @@
             "4.googlenews.xorg.pl",
             "5.googlenews.xorg.pl",
             "burnvirusnow33.xorg.pl",
-            "cleanupit22p.xorg.pl"
-        ],
-        "to_test": [
+            "cleanupit22p.xorg.pl",
+            "ezthemes.com",
             "federatedstores.com",
             "glb.activeprospect.com",
             "googlenews.xorg.pl",
-            "holdhelptime.com",
+            "holdhelptime.com"
+        ],
+        "to_test": [
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
             "securezone33.xorg.pl",
