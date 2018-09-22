@@ -23,11 +23,10 @@
             "www.bestserials.com",
             "www.columbianhouse.com",
             "www.dateck.com",
-            "www.gamesharkcentral.com"
-        ],
-        "to_test": [
+            "www.gamesharkcentral.com",
             "www.wwwdiscounthotel.com",
             "x.onaudience.com"
-        ]
+        ],
+        "to_test": []
     }
 }
