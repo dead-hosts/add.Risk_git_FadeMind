@@ -30,11 +30,11 @@
             "www.genforumgenealogy.com",
             "www.gowin7.com",
             "www.notrecommended.co.uk",
-            "www.secuurity.net"
-        ],
-        "to_test": [
+            "www.secuurity.net",
             "www.wwwdiscounthotel.com",
+            "www.xed.pl",
             "x.onaudience.com"
-        ]
+        ],
+        "to_test": []
     }
 }
