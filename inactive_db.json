@@ -31,13 +31,11 @@
             "www.gamesharkcentral.com",
             "www.gowin7.com",
             "www.h-adachi.org",
-            "www.safelinking.net"
-        ],
-        "to_test": [
+            "www.safelinking.net",
             "www.secuurity.net",
             "www.wwwdiscounthotel.com",
-            "www.xed.pl",
             "x.onaudience.com"
-        ]
+        ],
+        "to_test": []
     }
 }
