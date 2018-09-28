@@ -1,16 +1,18 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1537941292": [
+        "1538114146": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
             "4.googlenews.xorg.pl",
             "5.googlenews.xorg.pl",
-            "analytics.safelinking.net",
+            "banners.images.streamray.com",
             "b.gowin7.com",
             "b.secuurity.net",
             "burnvirusnow33.xorg.pl",
-            "cleanupit22p.xorg.pl",
+            "cleanupit22p.xorg.pl"
+        ],
+        "to_test": [
             "federatedstores.com",
             "glb.activeprospect.com",
             "googlenews.xorg.pl",
@@ -35,7 +37,6 @@
             "www.secuurity.net",
             "www.wwwdiscounthotel.com",
             "x.onaudience.com"
-        ],
-        "to_test": []
+        ]
     }
 }
