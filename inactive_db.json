@@ -15,14 +15,14 @@
             "federatedstores.com",
             "glb.activeprospect.com",
             "googlenews.xorg.pl",
-            "holdhelptime.com"
-        ],
-        "to_test": [
+            "holdhelptime.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
             "retarcl.net",
             "sasson-cpa.co.il",
-            "securezone33.xorg.pl",
+            "securezone33.xorg.pl"
+        ],
+        "to_test": [
             "testtralala.xorg.pl",
             "trueguardscaner33-p.xorg.pl",
             "www.ackjeeves.com",
