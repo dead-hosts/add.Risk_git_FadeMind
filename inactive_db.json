@@ -29,16 +29,17 @@
             "www.adamsmarkhotels.com",
             "www.anycracks.com",
             "www.bestserials.com",
-            "www.bluemounten.com"
-        ],
-        "to_test": [
+            "www.bluemounten.com",
             "www.columbianhouse.com",
             "www.dateck.com",
+            "wwwdiynet.com",
             "www.gamesharkcentral.com",
             "www.gowin7.com",
             "www.joecartonn.com",
             "www.littlesturgisrally.com",
-            "www.secuurity.net",
+            "www.secuurity.net"
+        ],
+        "to_test": [
             "www.wwwbigfoot.com",
             "www.wwwbluemoutain.com",
             "www.wwwbowcreek.com",
@@ -46,7 +47,6 @@
             "www.wwwdiscounthotel.com",
             "www.wwwgamepro.com",
             "www.wwwtwa.com",
-            "wwwdiynet.com",
             "x.onaudience.com"
         ]
     }
