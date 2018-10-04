@@ -41,9 +41,7 @@
             "www.littlesturgisrally.com",
             "www.progettocrea.org",
             "www.rubanners.com",
-            "www.secuurity.net"
-        ],
-        "to_test": [
+            "www.secuurity.net",
             "www.wwwbigfoot.com",
             "www.wwwbluemoutain.com",
             "www.wwwbowcreek.com",
@@ -52,6 +50,7 @@
             "www.wwwgamepro.com",
             "www.wwwtwa.com",
             "x.onaudience.com"
-        ]
+        ],
+        "to_test": []
     }
 }
