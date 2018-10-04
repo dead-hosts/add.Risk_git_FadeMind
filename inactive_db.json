@@ -21,9 +21,7 @@
             "pub.ftv-publicite.fr",
             "retarcl.net",
             "sasson-cpa.co.il",
-            "securezone33.xorg.pl"
-        ],
-        "to_test": [
+            "securezone33.xorg.pl",
             "testtralala.xorg.pl",
             "trueguardscaner33-p.xorg.pl",
             "whengirlsgowild.com",
@@ -32,7 +30,9 @@
             "www.anycracks.com",
             "www.bestserials.com",
             "www.bluemounten.com",
-            "www.columbianhouse.com",
+            "www.columbianhouse.com"
+        ],
+        "to_test": [
             "www.dateck.com",
             "www.gamesharkcentral.com",
             "www.gowin7.com",
