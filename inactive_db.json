@@ -1,7 +1,10 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1538746916": [
-            "aircrack-ng.softonic.fr"
-        ]
+            "aircrack-ng.softonic.fr",
+            "google-hacks.softonic.fr",
+            "keygen-password-generator.softonic.fr"
+        ],
+        "to_test": []
     }
 }
