@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1539410749": [
-            "agstracker.com"
+            "agstracker.com",
+            "www.catgallery.com",
+            "www.comairairlines.com"
         ],
         "to_test": []
     }
