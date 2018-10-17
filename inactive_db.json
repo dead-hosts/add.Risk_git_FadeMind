@@ -1,12 +1,15 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1539585460": [
+        "1539756450": [
+            "6.bbnface.com",
+            "6.mamaswishes.com"
+        ],
+        "to_test": [
             "twairlines.com",
             "verifiedbyverisigned.com",
             "www.catgallery.com",
             "www.comairairlines.com",
             "www.spamnuker.com"
-        ],
-        "to_test": []
+        ]
     }
 }
