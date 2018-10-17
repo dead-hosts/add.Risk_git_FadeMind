@@ -6,10 +6,11 @@
             "twairlines.com",
             "verifiedbyverisigned.com",
             "www.catgallery.com",
-            "www.comairairlines.com"
-        ],
-        "to_test": [
+            "www.comairairlines.com",
+            "www.poesiadelsud.it",
+            "www.prorodeosportmed.com",
             "www.spamnuker.com"
-        ]
+        ],
+        "to_test": []
     }
 }
