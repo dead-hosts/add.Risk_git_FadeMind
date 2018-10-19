@@ -1,8 +1,10 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1539756450": [
+        "1539929331": [
             "6.bbnface.com",
-            "6.mamaswishes.com",
+            "flashdem.fr"
+        ],
+        "to_test": [
             "twairlines.com",
             "verifiedbyverisigned.com",
             "www.catgallery.com",
@@ -11,7 +13,6 @@
             "www.prorodeosportmed.com",
             "www.spamnuker.com",
             "www.zoophil.com"
-        ],
-        "to_test": []
+        ]
     }
 }
