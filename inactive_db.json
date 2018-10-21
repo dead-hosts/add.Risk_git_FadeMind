@@ -1,20 +1,21 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1539929331": [
+        "1540102090": [
             "6.bbnface.com",
-            "flashdem.fr",
+            "flashdem.fr"
+        ],
+        "to_test": [
             "twairlines.com",
             "verifiedbyverisigned.com",
             "www.bonzybuddy.com",
             "www.catgallery.com",
             "www.comairairlines.com",
-            "wwwdiscounthotel.com",
             "www.expressaffiliatesite.com",
             "www.poesiadelsud.it",
             "www.prorodeosportmed.com",
             "www.spamnuker.com",
-            "www.zooggames.com"
-        ],
-        "to_test": []
+            "www.zooggames.com",
+            "wwwdiscounthotel.com"
+        ]
     }
 }
