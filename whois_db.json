@@ -2608,7 +2608,7 @@
         "nmapquest.com": {
             "epoch": "1540684800",
             "expiration_date": "28-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "nryb.com": {
             "epoch": "1569024000",
@@ -2646,9 +2646,9 @@
             "state": "future"
         },
         "onadstracker.com": {
-            "epoch": "1540512000",
-            "expiration_date": "26-oct-2018",
-            "state": "past"
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
         },
         "onclickpredictiv.com": {
             "epoch": "1556323200",
@@ -2828,7 +2828,7 @@
         "petrafashion.com": {
             "epoch": "1540684800",
             "expiration_date": "28-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "petrenko.biz": {
             "epoch": "1550275200",
