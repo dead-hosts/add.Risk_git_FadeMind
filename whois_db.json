@@ -1531,9 +1531,9 @@
             "state": "future"
         },
         "gameplaylabs.com": {
-            "epoch": "1540598400",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "gamepor.com": {
             "epoch": "1548201600",
@@ -1916,9 +1916,9 @@
             "state": "future"
         },
         "installm.net": {
-            "epoch": "1540512000",
-            "expiration_date": "26-oct-2018",
-            "state": "past"
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
         },
         "instorm.com": {
             "epoch": "1549584000",

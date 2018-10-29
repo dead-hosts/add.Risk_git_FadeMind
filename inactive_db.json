@@ -1,8 +1,7 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "down": 1,
-        "invalid": 0,
-        "tested": 808,
-        "up": 807
+        "1540793937": [
+            "go.goroost.com"
+        ]
     }
 }
