@@ -4330,6 +4330,11 @@
             "expiration_date": "16-jan-2019",
             "state": "future"
         },
+        "xtrafic.ro": {
+            "epoch": "1540857600",
+            "expiration_date": "30-oct-2018",
+            "state": "future"
+        },
         "xvika.net": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
