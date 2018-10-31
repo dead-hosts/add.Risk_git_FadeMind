@@ -2,10 +2,12 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1540966662": [
             "cznshuya.ivnet.ru",
-            "go.goroost.com"
+            "go.goroost.com",
+            "www.arecio.work",
+            "www.assculturaleincontri.it",
+            "www.dogpial.com"
         ],
         "to_test": [
-            "www.dogpial.com",
             "www.lateecapes.com",
             "www.safepccleaner.com"
         ]
