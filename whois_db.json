@@ -2826,9 +2826,9 @@
             "state": "past"
         },
         "petrafashion.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "petrenko.biz": {
             "epoch": "1550275200",
