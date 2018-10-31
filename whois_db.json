@@ -4330,10 +4330,15 @@
             "expiration_date": "16-jan-2019",
             "state": "future"
         },
+        "xed.pl": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
         "xtrafic.ro": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "xvika.net": {
             "epoch": "1544486400",

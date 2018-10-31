@@ -5,11 +5,11 @@
             "go.goroost.com",
             "www.arecio.work",
             "www.assculturaleincontri.it",
-            "www.dogpial.com"
-        ],
-        "to_test": [
+            "www.dogpial.com",
             "www.lateecapes.com",
-            "www.safepccleaner.com"
-        ]
+            "www.safepccleaner.com",
+            "www.xtrafic.ro"
+        ],
+        "to_test": []
     }
 }
