@@ -1966,8 +1966,8 @@
             "state": "future"
         },
         "iyfnzgb.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "japanesevehicles.us": {
@@ -2061,9 +2061,9 @@
             "state": "future"
         },
         "kalantzis.net": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "katia-paliotti.com": {
             "epoch": "1546387200",
@@ -2561,8 +2561,8 @@
             "state": "future"
         },
         "nestscape.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "netcscape.com": {
