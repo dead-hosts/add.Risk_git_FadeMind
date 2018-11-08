@@ -418,7 +418,7 @@
         "ayehcleaners.com": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "balook.com": {
             "epoch": "1567468800",
@@ -1048,7 +1048,7 @@
         "cswilliamsburg.com": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ctibank.com": {
             "epoch": "1545609600",
@@ -1123,7 +1123,7 @@
         "divx.it": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "djsrp.com": {
             "epoch": "1548979200",
@@ -1588,7 +1588,7 @@
         "get-avast.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "get-quadcleaner.com": {
             "epoch": "1565654400",
