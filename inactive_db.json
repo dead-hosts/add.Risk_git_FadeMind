@@ -1,17 +1,18 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1541830726": [
+        "1542003639": [
             "ackjeeves.com",
             "adamsmarkhotels.com",
-            "bluemounten.com",
+            "bluemounten.com"
+        ],
+        "to_test": [
             "joecartonn.com",
             "secuurity.net",
             "tube.exclusiotv.be",
-            "wwwbowcreek.com",
-            "wwwcareerpath.com",
             "www.guaranty.com.cn",
-            "www.iybasketball.info"
-        ],
-        "to_test": []
+            "www.iybasketball.info",
+            "wwwbowcreek.com",
+            "wwwcareerpath.com"
+        ]
     }
 }
