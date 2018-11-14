@@ -2383,7 +2383,7 @@
         "media-playerz.com": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mediaplayercodecpack.com": {
             "epoch": "1650240000",
@@ -2588,7 +2588,7 @@
         "newcracks.net": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "neweed.org": {
             "epoch": "1575763200",
@@ -3261,8 +3261,8 @@
             "state": "future"
         },
         "searchmagnified.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "searchnet.com": {
