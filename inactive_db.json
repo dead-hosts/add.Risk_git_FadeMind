@@ -15,10 +15,9 @@
             "tube.exclusiotv.be",
             "wwwbowcreek.com",
             "www.buyskype.ru",
-            "www.iybasketball.info"
-        ],
-        "to_test": [
+            "www.iybasketball.info",
             "www.uptodatecontent.net"
-        ]
+        ],
+        "to_test": []
     }
 }
