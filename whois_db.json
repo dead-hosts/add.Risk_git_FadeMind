@@ -4206,9 +4206,9 @@
             "state": "future"
         },
         "wwwcdnow.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "wwwcheaptickets.com": {
             "epoch": "1586044800",
