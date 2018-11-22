@@ -1,13 +1,15 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1542695063": [
+        "1542867887": [
             "ackjeeves.com",
             "adamsmarkhotels.com",
             "afa15.com.ne.kr",
             "bluemounten.com",
             "buyskype.ru",
-            "comairairlines.com",
-            "joecartonn.com",
+            "hackhero.tk",
+            "joecartonn.com"
+        ],
+        "to_test": [
             "logger.cash-media.de",
             "mp3playerprovider.com",
             "perfectionautorepairs.com",
@@ -16,14 +18,13 @@
             "tracking-stats-tr.usa.cc",
             "tube.exclusiotv.be",
             "winlock.usa.cc",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com",
             "www.buyskype.ru",
             "www.innatek.com",
             "www.iybasketball.info",
             "www.uptodatecontent.net",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "zoogdiesney.com"
-        ],
-        "to_test": []
+        ]
     }
 }

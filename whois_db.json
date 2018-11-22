@@ -956,9 +956,9 @@
             "state": "future"
         },
         "comairairlines.com": {
-            "epoch": "1535587200",
-            "expiration_date": "30-aug-2018",
-            "state": "past"
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "comfz.com": {
             "epoch": "1564531200",
@@ -1096,8 +1096,8 @@
             "state": "future"
         },
         "desifever.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "digiaquascr.com": {
@@ -1821,8 +1821,8 @@
             "state": "future"
         },
         "hot-bot.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "hot2015rewards.com": {
