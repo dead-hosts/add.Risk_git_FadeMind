@@ -21,11 +21,9 @@
             "wwwbowcreek.com",
             "www.buyskype.ru",
             "www.innatek.com",
-            "www.iybasketball.info"
+            "www.iybasketball.info",
+            "www.uptodatecontent.net"
         ],
-        "to_test": [
-            "www.uptodatecontent.net",
-            "zoogdiesney.com"
-        ]
+        "to_test": []
     }
 }
