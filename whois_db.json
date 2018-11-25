@@ -4426,9 +4426,9 @@
             "state": "future"
         },
         "zooggames.com": {
-            "epoch": "1536192000",
-            "expiration_date": "06-sep-2018",
-            "state": "past"
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "zoomovies.org": {
             "epoch": "1566432000",
