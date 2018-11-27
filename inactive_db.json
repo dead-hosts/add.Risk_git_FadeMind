@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "to_test": [
-            "www.automoneygenerator.com",
-            "www.ayehcleaners.com"
-        ]
+        "1543301811": [
+            "www.ecpmrocks.com"
+        ],
+        "to_test": []
     }
 }
