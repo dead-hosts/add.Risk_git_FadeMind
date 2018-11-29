@@ -4251,9 +4251,9 @@
             "state": "future"
         },
         "wwwmancow.com": {
-            "epoch": "1536537600",
-            "expiration_date": "10-sep-2018",
-            "state": "past"
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
         },
         "wwwnwa.com": {
             "epoch": "1566000000",
@@ -4363,7 +4363,7 @@
         "yrals.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ytdownloader.com": {
             "epoch": "1560211200",
