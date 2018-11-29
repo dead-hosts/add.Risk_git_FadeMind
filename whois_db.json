@@ -2151,9 +2151,9 @@
             "state": "future"
         },
         "lennoxcollections.com": {
-            "epoch": "1536537600",
-            "expiration_date": "10-sep-2018",
-            "state": "past"
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
         },
         "letssearch.com": {
             "epoch": "1581206400",
@@ -3196,8 +3196,8 @@
             "state": "future"
         },
         "sankakustatic.com": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "sasdiskcleaner.com": {
@@ -3273,7 +3273,7 @@
         "searchnigeria.net": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "searchnut.com": {
             "epoch": "1557273600",

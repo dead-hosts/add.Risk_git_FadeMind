@@ -3,7 +3,10 @@
         "1543473292": [
             "atl.my.bidsystem.com",
             "cxpixel.bidsystem.com",
-            "feedx.bidsystem.com"
-        ]
+            "feedx.bidsystem.com",
+            "kc.mv.bidsystem.com",
+            "pda.mv.bidsystem.com"
+        ],
+        "to_test": []
     }
 }
