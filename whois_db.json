@@ -3893,7 +3893,7 @@
         "tuckows.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "turkeyrank.com": {
             "epoch": "1546560000",
@@ -4113,7 +4113,7 @@
         "wordseach.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "wpxn.com": {
             "epoch": "1570406400",

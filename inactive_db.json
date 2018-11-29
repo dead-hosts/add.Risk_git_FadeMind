@@ -5,7 +5,9 @@
             "cxpixel.bidsystem.com",
             "feedx.bidsystem.com",
             "kc.mv.bidsystem.com",
-            "pda.mv.bidsystem.com"
+            "pda.mv.bidsystem.com",
+            "socpixel.bidsystem.com",
+            "tagline.bidsystem.com"
         ],
         "to_test": []
     }
