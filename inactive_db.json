@@ -3,11 +3,11 @@
         "1543646086": [
             "atl.my.bidsystem.com",
             "cxpixel.bidsystem.com",
-            "feedx.bidsystem.com"
+            "feedx.bidsystem.com",
+            "kc.mv.bidsystem.com",
+            "pda.mv.bidsystem.com"
         ],
         "to_test": [
-            "kc.mv.bidsystem.com",
-            "pda.mv.bidsystem.com",
             "socpixel.bidsystem.com",
             "tagline.bidsystem.com",
             "www.mycpvlife.com",

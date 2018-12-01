@@ -2606,9 +2606,9 @@
             "state": "future"
         },
         "nmapquest.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "nryb.com": {
             "epoch": "1569024000",
@@ -2666,8 +2666,8 @@
             "state": "future"
         },
         "onlinedownloads.org": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "onwardclick.com": {
@@ -3271,9 +3271,9 @@
             "state": "future"
         },
         "searchnigeria.net": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
-            "state": "past"
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
         },
         "searchnut.com": {
             "epoch": "1557273600",
