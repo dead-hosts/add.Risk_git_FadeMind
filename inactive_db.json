@@ -9,12 +9,11 @@
             "kc.mv.bidsystem.com",
             "pda.mv.bidsystem.com",
             "socpixel.bidsystem.com",
-            "tagline.bidsystem.com"
-        ],
-        "to_test": [
+            "tagline.bidsystem.com",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ]
+        ],
+        "to_test": []
     }
 }

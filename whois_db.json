@@ -4296,13 +4296,13 @@
             "state": "future"
         },
         "x-diesel.biz": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "x-diesel.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "x-diesel.info": {
@@ -4311,8 +4311,8 @@
             "state": "future"
         },
         "x-diesel.org": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "x-park.net": {
@@ -4443,7 +4443,7 @@
         "zoophil.com": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "zoosexart.com": {
             "epoch": "1546732800",
