@@ -2808,7 +2808,7 @@
         "pcsecurityshield.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "pdf-platinum.info": {
             "epoch": "1551052800",
@@ -3026,9 +3026,9 @@
             "state": "future"
         },
         "registry-cleaners-compared.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
-            "state": "past"
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
         },
         "registry-error-cleaner.com": {
             "epoch": "1565222400",
