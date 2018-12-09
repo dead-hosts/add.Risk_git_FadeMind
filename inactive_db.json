@@ -4,12 +4,12 @@
             "atl.my.bidsystem.com",
             "cxpixel.bidsystem.com",
             "feedx.bidsystem.com",
-            "gamerevoluton.com"
-        ],
-        "to_test": [
+            "gamerevoluton.com",
             "kc.mv.bidsystem.com",
             "patrickhickey.eu",
-            "pda.mv.bidsystem.com",
+            "pda.mv.bidsystem.com"
+        ],
+        "to_test": [
             "socpixel.bidsystem.com",
             "tagline.bidsystem.com",
             "tmgr.ccmbg.com",
