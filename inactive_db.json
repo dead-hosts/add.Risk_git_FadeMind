@@ -1,10 +1,12 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1544164534": [
+        "1544337361": [
             "atl.my.bidsystem.com",
             "cxpixel.bidsystem.com",
             "feedx.bidsystem.com",
-            "gamerevoluton.com",
+            "gamerevoluton.com"
+        ],
+        "to_test": [
             "kc.mv.bidsystem.com",
             "patrickhickey.eu",
             "pda.mv.bidsystem.com",
@@ -15,7 +17,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": []
+        ]
     }
 }
