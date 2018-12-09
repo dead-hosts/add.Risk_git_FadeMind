@@ -11,13 +11,13 @@
             "socpixel.bidsystem.com",
             "tagline.bidsystem.com",
             "tritratrullala.gekitzelt.de",
-            "www.disable-uac.com"
-        ],
-        "to_test": [
+            "www.disable-uac.com",
+            "www.onadstracker.com",
             "www.patrickhickey.eu",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ]
+        ],
+        "to_test": []
     }
 }
