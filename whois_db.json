@@ -2251,8 +2251,8 @@
             "state": "future"
         },
         "lufhansa.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "lufthansaairlines.com": {
@@ -2566,8 +2566,8 @@
             "state": "future"
         },
         "netcscape.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "netscae.com": {
@@ -2756,9 +2756,9 @@
             "state": "future"
         },
         "paypal-exchange.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
-            "state": "past"
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
         },
         "paypalcz.cz": {
             "epoch": "1571011200",
@@ -2891,9 +2891,9 @@
             "state": "future"
         },
         "pokemonporno.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "poker.cm": {
             "epoch": "1558137600",
@@ -3183,7 +3183,7 @@
         "safepccleaner.com": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "samaclub.com": {
             "epoch": "1666656000",
@@ -3536,8 +3536,8 @@
             "state": "future"
         },
         "stephens-laughlin.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1607558400",
+            "expiration_date": "10-dec-2020",
             "state": "future"
         },
         "stop-sign.com": {
