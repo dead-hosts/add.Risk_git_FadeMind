@@ -4343,12 +4343,12 @@
         "xvika.net": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "xvika.org": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ymxpb.com": {
             "epoch": "1569456000",
