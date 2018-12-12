@@ -2876,8 +2876,8 @@
             "state": "future"
         },
         "playgril.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "playsataion.com": {
@@ -2916,8 +2916,8 @@
             "state": "future"
         },
         "predictivesearch.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "premiumpedia.com": {
@@ -3181,9 +3181,9 @@
             "state": "future"
         },
         "safepccleaner.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
-            "state": "past"
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
         },
         "samaclub.com": {
             "epoch": "1666656000",
