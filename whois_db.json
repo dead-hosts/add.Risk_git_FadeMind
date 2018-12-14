@@ -446,9 +446,9 @@
             "state": "future"
         },
         "bde3d.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
-            "state": "past"
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
         },
         "bdsmcompany.com": {
             "epoch": "1548547200",
@@ -1106,8 +1106,8 @@
             "state": "future"
         },
         "dimarsbg.com": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
             "state": "future"
         },
         "directxex.com": {
@@ -1353,7 +1353,7 @@
         "ezthemes.com": {
             "epoch": "1544745600",
             "expiration_date": "14-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "fabrics-store.com": {
             "epoch": "1601251200",
