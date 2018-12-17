@@ -2978,7 +2978,7 @@
         "quad-cleaner.com": {
             "epoch": "1545004800",
             "expiration_date": "17-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "qualityindustrialcoatings.com": {
             "epoch": "1554076800",
