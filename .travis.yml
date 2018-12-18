@@ -1,15 +1,20 @@
 env:
   global:
-    - secure: DDxsGBhga7edFcE5X3wxmBEzQlh7tjBVIwJepFUu1BdP8+KfDYZ4N6MTNuY16sVdd6Evu4MTaRVX1EfTvbV2OY2e3bLZGja3jou4xLGsPv98c/3MWyt/yxpCCPk58yLkIyhmQ560ac6MGMsOrGCyjmcqeXu8XbLagEnub16KUl5V3l3mOc78JcYQhfjf7MedZchYdN825CM0T7/iemqybjjwx+0JgTm2NleWlkRM1UVd2dCx8VuRma7PgK88jyLEphQcp8o+WN3KnZUfi23Jm7xE1iqHl0rCnpXVksDxNnK/h/S0YxJnTQav9OeW4towRIcWRj1wAzc5HN/At7fjZeiDxIbWzjGRFk93QW3nx0auaF/Pbi4qowLR3HNC7EnKSGXE6/aUYOoxm8FN131F3NSRw0ecuYRt2K77OoeAP/0UWz1ewUX4UzQWE5VkK6Hly4AuUf6MJG8EHKz/6n+eJY6NIYyUYeS15u4uZGVMf1iQ85ag9Yk3v0LSCbeR6nmFhIV5t+SQ19gxJcS3F3z5yvd7Xd6xMB6gezLux20w7r7EzqS/Vup5v5XnY6+p0x5t6xO717S9wIUEOfFr/bTYiWhdSEVgUnc8mnLIczp6BEL0j2CQPaGJZLK/3Eg2OoQ9V+PkPFCEnj7X2m63SR93nCDQj684sf9BwmYin5CwQwE=
+    - secure: atRtBBJWfp+z+AaDjCTQB1o2okF62XDxLt3gUrIoqXHr19YdWGP8CcoXUcF9z3i2ZKa8ZF4eHHbzE4ZmwvnJPM6VchPiZ2AEGNK1urs+EhRxhIeyZOkK1XFfKZP33mVd/PuWhxc7UFXOBmVHlyFM1y7KXlVycuQ+XIhldCYASwrMeWnskuj9aube7s55i0Ajz2/RRsIYJD0s/kxPjyuwqcorC2yZG0oNMjaRrDjPh4TYEGTXfU1t5dIi7gjEqCV8LVeZ4u92qr6CY4AOC9GLt2oTgfcwGM291H3orLI+QH/ZAwtfMqDrYwKdzHgW0EVayDVB600OiRHBe0VT7usNJF6M2iXX3WqFO7SHNUoq09YPwG/Qs5Muu2s0vbwuWPwtJsGgmLU1RH31v3D/yud2tsqt9F0qJ729Lhemw/NyCIf4q0sE+sBFyQq9qBHSLME1LL/bk8lL8ek/4ARfzWtKNDEaAi9S7rFeqyWQNp4Ul3HuBEx/Lbt61eTzFR+MeX/QCoeW7HjirQ3x+3iwl1KuVP/ynyykJiadZ1uQQ92vw7F4CeYCchtjPfrOkjmZPU/hTrse6IC79g4f8J5VUGoAVOj4EUWgqGxcW//D8ZR19+JsVjqIVPZJiBBdlfXLxR85NMo6yRVjVb0r7NzzmB0GMPsRNC55ldpnFciAOdpsJdY=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/add.Risk_git_FadeMind
     - GIT_BRANCH: master
+    - UPDATE_ME_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/update_me.py
+    - ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
+
+dist: xenial
+sudo: required
 
 language: python
 
 python:
-  - "3.6.6"
+  - "3.7"
 
 matrix:
   fast_finish: true
@@ -17,19 +22,22 @@ matrix:
 cache:
   - pip
 
-sudo: required
-
 addons:
   apt:
     packages:
       - dos2unix
 
 install:
-  - pip3 install pyfunceble-dev
+  - pip3 install --upgrade pip
+  - pip3 install requests
+
+before_script:
+  - if [[ ! -f .administrators ]]; then wget "${UPDATE_ME_LOCATION}" -o /dev/null -O update_me.py && chmod +x update_me.py; else echo "update_me not downloaded :)"; fi
+  - if [[ ! -f .administrators ]]; then wget "${ADMIN_LOCATION}" -o /dev/null -O admin.py && chmod +x admin.py; else echo "admin not downloaded :)"; fi
 
 script:
-  - python3 ./update_me.py
+  - python3 update_me.py
 
 notifications:
-  on_success:   change
-  on_failure:   always
+  on_success: change
+  on_failure: always
