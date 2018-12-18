@@ -2173,7 +2173,7 @@
         "liders.biz": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "lifeeverest.com": {
             "epoch": "1557360000",
@@ -2976,9 +2976,9 @@
             "state": "future"
         },
         "quad-cleaner.com": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
-            "state": "past"
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
         },
         "qualityindustrialcoatings.com": {
             "epoch": "1554076800",
@@ -3353,7 +3353,7 @@
         "sentrol.cl": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "seoholding.com": {
             "epoch": "1566432000",
