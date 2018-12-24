@@ -5,10 +5,9 @@
             "www.desifever.com",
             "www.dzzrenjanin.rs",
             "www.get-avast.com",
-            "www.goolges.com"
-        ],
-        "to_test": [
+            "www.goolges.com",
             "www.sentrol.cl"
-        ]
+        ],
+        "to_test": []
     }
 }
