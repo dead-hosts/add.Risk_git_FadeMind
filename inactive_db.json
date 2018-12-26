@@ -1,11 +1,13 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "to_test": [
+        "1545808122": [
             "www.ayehcleaners.com",
             "www.desifever.com",
-            "www.dzzrenjanin.rs",
             "www.get-avast.com",
             "www.goolges.com",
+            "www.jque.net"
+        ],
+        "to_test": [
             "www.sentrol.cl"
         ]
     }
