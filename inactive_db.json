@@ -8,10 +8,9 @@
             "www.desifever.com",
             "www.get-avast.com",
             "www.goolges.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.sentrol.cl"
-        ]
+        ],
+        "to_test": []
     }
 }
