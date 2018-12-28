@@ -18,7 +18,7 @@
         "105vibe.com": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "11hour.com": {
             "epoch": "1575676800",
@@ -931,8 +931,8 @@
             "state": "future"
         },
         "cogivea.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "coldwellbanker.net": {
@@ -1266,8 +1266,8 @@
             "state": "future"
         },
         "eftps.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "egoldenglove.com": {
