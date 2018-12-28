@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1545979629": [
             "click.silvercash.com",
-            "exit.silvercash.com"
+            "exit.silvercash.com",
+            "smc.silvercash.com"
         ],
         "to_test": [
             "www.ayehcleaners.com",
