@@ -1271,9 +1271,9 @@
             "state": "future"
         },
         "egoldenglove.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
-            "state": "past"
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
         },
         "emrlogistics.com": {
             "epoch": "1570838400",
@@ -1863,7 +1863,7 @@
         "icracks.net": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ieginc.com": {
             "epoch": "1555977600",
