@@ -7,10 +7,9 @@
             "www.get-avast.com",
             "www.goolges.com",
             "www.hot2015rewards.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.sentrol.cl"
-        ]
+        ],
+        "to_test": []
     }
 }
