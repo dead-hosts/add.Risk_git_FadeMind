@@ -8,10 +8,10 @@
             "www.goolges.com",
             "www.hot2015rewards.com",
             "www.hot-bot.com",
-            "www.jque.net"
+            "www.jque.net",
+            "www.sentrol.cl",
+            "www.wwwcdnow.com"
         ],
-        "to_test": [
-            "www.sentrol.cl"
-        ]
+        "to_test": []
     }
 }
