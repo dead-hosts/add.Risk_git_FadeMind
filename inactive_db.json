@@ -11,11 +11,10 @@
             "www.hot2015rewards.com",
             "www.hot-bot.com",
             "www.ieginc.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.sentrol.cl",
             "www.wwwcdnow.com"
-        ]
+        ],
+        "to_test": []
     }
 }
