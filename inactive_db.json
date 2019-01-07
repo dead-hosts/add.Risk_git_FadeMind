@@ -1,18 +1,17 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1546671861": [
+        "to_test": [
             "rahulthehacker.tk",
             "www.ayehcleaners.com",
             "www.desifever.com",
             "www.freebitmoney.com",
             "www.get-avast.com",
             "www.goolges.com",
-            "www.hot2015rewards.com",
             "www.hot-bot.com",
+            "www.hot2015rewards.com",
             "www.jque.net",
             "www.sentrol.cl",
             "www.wwwcdnow.com"
-        ],
-        "to_test": []
+        ]
     }
 }
