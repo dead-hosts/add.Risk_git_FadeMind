@@ -2183,7 +2183,7 @@
         "linconpark.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "linkbucks.com": {
             "epoch": "1575244800",
@@ -2216,8 +2216,8 @@
             "state": "future"
         },
         "livewell.net": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "lo2.me": {
@@ -2546,9 +2546,9 @@
             "state": "future"
         },
         "n149adserv.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "nbrtrack.com": {
             "epoch": "1547856000",
@@ -3118,7 +3118,7 @@
         "riskymail4free.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "rivasearchpage.com": {
             "epoch": "1560297600",
