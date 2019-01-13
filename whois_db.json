@@ -4413,7 +4413,7 @@
         "zoogdiseny.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "zoogdisiny.com": {
             "epoch": "1536537600",
