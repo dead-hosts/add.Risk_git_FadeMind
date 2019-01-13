@@ -1,11 +1,13 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1547189861": [
+        "1547362755": [
             "ftp.flyfishusa.com",
-            "handlerhackz.tk",
+            "handlerhackz.tk"
+        ],
+        "to_test": [
             "rahulthehacker.tk",
-            "www.automoneygenerator.com",
             "www.auto-overview.com",
+            "www.automoneygenerator.com",
             "www.ayehcleaners.com",
             "www.collectiable.com",
             "www.desifever.com",
@@ -13,14 +15,13 @@
             "www.freebitmoney.com",
             "www.get-avast.com",
             "www.goolges.com",
-            "www.hot2015rewards.com",
             "www.hot-bot.com",
+            "www.hot2015rewards.com",
             "www.jque.net",
             "www.sentrol.cl",
             "www.tuckows.com",
             "www.wwwcdnow.com",
             "yk.handlerhackz.tk"
-        ],
-        "to_test": []
+        ]
     }
 }

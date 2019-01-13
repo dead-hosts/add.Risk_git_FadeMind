@@ -806,9 +806,9 @@
             "state": "future"
         },
         "cleanallvirus.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "cleanersoft.com": {
             "epoch": "1565222400",
@@ -853,7 +853,7 @@
         "cleanup-your-computer.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "clearshieldredirect.com": {
             "epoch": "1559779200",
@@ -1073,7 +1073,7 @@
         "cybermecca.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cybertown.ru": {
             "epoch": "1563840000",
