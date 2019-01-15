@@ -12,17 +12,15 @@
             "www.forex-instruments.info",
             "www.freebitmoney.com",
             "www.get-avast.com",
-            "www.goolges.com"
-        ],
-        "to_test": [
-            "www.hot-bot.com",
+            "www.goolges.com",
             "www.hot2015rewards.com",
+            "www.hot-bot.com",
             "www.jque.net",
-            "www.sentrol.cl",
-            "www.theweatherspace.com",
+            "www.paypal-exchange.com",
             "www.tuckows.com",
             "www.wwwcdnow.com",
             "yk.handlerhackz.tk"
-        ]
+        ],
+        "to_test": []
     }
 }
