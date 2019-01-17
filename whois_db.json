@@ -4328,7 +4328,7 @@
         "xchangetrak.com": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "xed.pl": {
             "epoch": "1548892800",
@@ -4423,7 +4423,7 @@
         "zoogdisny.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "zooggames.com": {
             "epoch": "1574553600",
