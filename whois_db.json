@@ -438,7 +438,7 @@
         "bannerpromotion.it": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "barclaysghana.org": {
             "epoch": "1573516800",
@@ -708,7 +708,7 @@
         "certified-toolbar.com": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ceskarepublika.net": {
             "epoch": "1562457600",
