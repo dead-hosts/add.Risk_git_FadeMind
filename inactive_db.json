@@ -30,9 +30,7 @@
             "rapsubs.popunder.ru",
             "relaxsearch.uphero.com",
             "saloboy.popunder.ru",
-            "sayhello.popunder.ru"
-        ],
-        "to_test": [
+            "sayhello.popunder.ru",
             "soski.popunder.ru",
             "spike669.popunder.ru",
             "stepan007.popunder.ru",
@@ -46,16 +44,18 @@
             "wera.popunder.ru",
             "www.auto-overview.com",
             "www.ayehcleaners.com",
+            "www.beyondwhois.com",
             "www.collectiable.com",
             "www.desifever.com",
             "www.forex-instruments.info",
             "www.freebitmoney.com",
             "www.get-avast.com",
             "www.goolges.com",
-            "www.hot-bot.com",
             "www.hot2015rewards.com",
-            "www.jque.net",
-            "www.jsing.net",
+            "www.hot-bot.com",
+            "www.jque.net"
+        ],
+        "to_test": [
             "www.online.sh.cn",
             "www.paypal-exchange.com",
             "www.playsataion.com",
