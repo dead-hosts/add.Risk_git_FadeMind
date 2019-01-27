@@ -48,24 +48,26 @@
             "www.forex-instruments.info",
             "www.freebitmoney.com",
             "www.get-avast.com",
-            "www.goolges.com"
-        ],
-        "to_test": [
-            "gajime.popunder.ru",
-            "www.hot-bot.com",
-            "www.hot2015rewards.com",
+            "www.goolges.com",
             "www.jque.net",
+            "www.online.sh.cn",
             "www.paypal-exchange.com",
+            "www.playsataion.com",
             "www.pokemonporno.com",
             "www.popunder.ru",
-            "www.root--servers.org",
             "www.tuckows.com",
             "www.wwwcdnow.com",
+            "www.xsedu.zj.cn",
             "www.xvika.net",
             "www.xvika.org",
             "yk.handlerhackz.tk",
             "zampolit1990.popunder.ru",
             "zonawm.biz.popunder.ru"
+        ],
+        "to_test": [
+            "gajime.popunder.ru",
+            "www.hot-bot.com",
+            "www.hot2015rewards.com"
         ]
     }
 }
