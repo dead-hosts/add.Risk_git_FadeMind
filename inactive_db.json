@@ -29,10 +29,7 @@
             "rahulthehacker.tk",
             "rapsubs.popunder.ru",
             "saloboy.popunder.ru",
-            "sayhello.popunder.ru"
-        ],
-        "to_test": [
-            "gajime.popunder.ru",
+            "sayhello.popunder.ru",
             "soski.popunder.ru",
             "spike669.popunder.ru",
             "stepan007.popunder.ru",
@@ -48,11 +45,13 @@
             "www.ayehcleaners.com",
             "www.beyondwhois.com",
             "www.collectiable.com",
-            "www.desifever.com",
             "www.forex-instruments.info",
             "www.freebitmoney.com",
             "www.get-avast.com",
-            "www.goolges.com",
+            "www.goolges.com"
+        ],
+        "to_test": [
+            "gajime.popunder.ru",
             "www.hot-bot.com",
             "www.hot2015rewards.com",
             "www.jque.net",

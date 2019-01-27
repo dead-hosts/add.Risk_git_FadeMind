@@ -3726,8 +3726,8 @@
             "state": "future"
         },
         "totemcash.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "towerecords.com": {
@@ -3941,9 +3941,9 @@
             "state": "future"
         },
         "uprour.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "uptodatecontent.net": {
             "epoch": "1569628800",
@@ -3966,8 +3966,8 @@
             "state": "future"
         },
         "vdhu.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "venturead.com": {
@@ -4108,7 +4108,7 @@
         "wmserver.net": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "wordseach.com": {
             "epoch": "1574899200",
