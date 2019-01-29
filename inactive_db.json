@@ -46,25 +46,25 @@
             "www.collectiable.com",
             "www.forex-instruments.info",
             "www.freebitmoney.com",
-            "www.get-avast.com"
-        ],
-        "to_test": [
+            "www.get-avast.com",
             "www.hot-bot.com",
-            "www.hot2015rewards.com",
             "www.jque.net",
-            "www.online.sh.cn",
             "www.paypal-exchange.com",
             "www.playsataion.com",
             "www.pokemonporno.com",
             "www.popunder.ru",
+            "www.quad-cleaner.com",
             "www.tuckows.com",
+            "www.wmserver.net",
             "www.wwwcdnow.com",
-            "www.xsedu.zj.cn",
             "www.xvika.net",
             "www.xvika.org",
             "yk.handlerhackz.tk",
             "zampolit1990.popunder.ru",
             "zonawm.biz.popunder.ru"
+        ],
+        "to_test": [
+            "www.hot2015rewards.com"
         ]
     }
 }
