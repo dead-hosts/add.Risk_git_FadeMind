@@ -1,20 +1,10 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1548745179": [
-            "1gavcom.popunder.ru",
-            "anrysys.popunder.ru",
-            "balakin.popunder.ru",
-            "basterr.popunder.ru",
-            "bizbor.popunder.ru",
-            "blackchek.popunder.ru",
-            "bugera.popunder.ru",
-            "clik2008.popunder.ru",
-            "darseo.popunder.ru",
-            "djeps.popunder.ru",
-            "ead-soft.popunder.ru",
-            "freegroupvideo.popunder.ru",
-            "ftp.flyfishusa.com",
-            "gajime.popunder.ru",
+        "1548918483": [
+            "dl.heima8.com",
+            "ftp.flyfishusa.com"
+        ],
+        "to_test": [
             "h0rnd0g.popunder.ru",
             "handlerhackz.tk",
             "hapjes-maken.eu",
@@ -48,6 +38,7 @@
             "www.freebitmoney.com",
             "www.get-avast.com",
             "www.hot-bot.com",
+            "www.hot2015rewards.com",
             "www.jque.net",
             "www.paypal-exchange.com",
             "www.playsataion.com",
@@ -62,9 +53,6 @@
             "yk.handlerhackz.tk",
             "zampolit1990.popunder.ru",
             "zonawm.biz.popunder.ru"
-        ],
-        "to_test": [
-            "www.hot2015rewards.com"
         ]
     }
 }
