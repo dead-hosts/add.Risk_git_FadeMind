@@ -1,9 +1,12 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1549091398": [
+        "1549264316": [
+            "fsl.sytes.net",
             "ftp.flyfishusa.com",
             "handlerhackz.tk",
-            "hapjes-maken.eu",
+            "hapjes-maken.eu"
+        ],
+        "to_test": [
             "hira.hopto.org",
             "ming-dun.com.tw",
             "rahulthehacker.tk",
@@ -15,8 +18,8 @@
             "www.forex-instruments.info",
             "www.freebitmoney.com",
             "www.get-avast.com",
-            "www.hot2015rewards.com",
             "www.hot-bot.com",
+            "www.hot2015rewards.com",
             "www.icracks.net",
             "www.jque.net",
             "www.n149adserv.com",
@@ -30,7 +33,6 @@
             "www.xvika.net",
             "www.xvika.org",
             "yk.handlerhackz.tk"
-        ],
-        "to_test": []
+        ]
     }
 }
