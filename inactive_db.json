@@ -14,11 +14,9 @@
             "www.collectiable.com",
             "www.forex-instruments.info",
             "www.freebitmoney.com",
-            "www.get-avast.com"
-        ],
-        "to_test": [
+            "www.get-avast.com",
+            "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.hot2015rewards.com",
             "www.icracks.net",
             "www.jque.net",
             "www.n149adserv.com",
@@ -32,6 +30,7 @@
             "www.xvika.net",
             "www.xvika.org",
             "yk.handlerhackz.tk"
-        ]
+        ],
+        "to_test": []
     }
 }
