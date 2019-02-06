@@ -3,7 +3,7 @@
         "0iecfobt.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "1001movies.com": {
             "epoch": "1563926400",
@@ -73,7 +73,7 @@
         "94uyvwwh.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "acezsoftware.com": {
             "epoch": "1571011200",
@@ -1221,8 +1221,8 @@
             "state": "future"
         },
         "dzzrenjanin.rs": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
             "state": "future"
         },
         "ebdr3.com": {
