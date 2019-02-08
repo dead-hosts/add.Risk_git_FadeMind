@@ -1,14 +1,14 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
         "1549610022": [
-            "ftp.flyfishusa.com"
-        ],
-        "to_test": [
+            "ftp.flyfishusa.com",
             "handlerhackz.tk",
             "hapjes-maken.eu",
             "hira.hopto.org",
             "ming-dun.com.tw",
-            "rahulthehacker.tk",
+            "rahulthehacker.tk"
+        ],
+        "to_test": [
             "www.auto-overview.com",
             "www.ayehcleaners.com",
             "www.beyondwhois.com",
