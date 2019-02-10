@@ -4066,8 +4066,8 @@
             "state": "future"
         },
         "westerntaneyfire.com": {
-            "epoch": "1549756800",
-            "expiration_date": "10-feb-2019",
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "widestep.com": {
@@ -4171,14 +4171,14 @@
             "state": "future"
         },
         "wwwbluelight.com": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
-            "state": "past"
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
         },
         "wwwbluemountian.com": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "wwwbluemoutain.com": {
             "epoch": "1572739200",
