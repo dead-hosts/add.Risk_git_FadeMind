@@ -3748,7 +3748,7 @@
         "tracklead.net": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "trackzapper.com": {
             "epoch": "1550275200",
@@ -4176,9 +4176,9 @@
             "state": "future"
         },
         "wwwbluemountian.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
-            "state": "past"
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
         },
         "wwwbluemoutain.com": {
             "epoch": "1572739200",
