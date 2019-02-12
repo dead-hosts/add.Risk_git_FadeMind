@@ -15,9 +15,7 @@
             "www.collectiable.com",
             "www.egoldenglove.com",
             "www.forex-instruments.info",
-            "www.freebitmoney.com"
-        ],
-        "to_test": [
+            "www.freebitmoney.com",
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.icracks.net",
@@ -31,7 +29,10 @@
             "www.wmserver.net",
             "www.xvika.net",
             "www.xvika.org",
-            "yk.handlerhackz.tk"
-        ]
+            "yk.handlerhackz.tk",
+            "za2.zeroredirect8.com",
+            "zd1.zeroredirect6.com"
+        ],
+        "to_test": []
     }
 }
