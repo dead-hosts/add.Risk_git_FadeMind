@@ -1,9 +1,11 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1549782879": [
+        "1549955787": [
             "ftp.flyfishusa.com",
             "handlerhackz.tk",
-            "hapjes-maken.eu",
+            "hapjes-maken.eu"
+        ],
+        "to_test": [
             "hira.hopto.org",
             "ming-dun.com.tw",
             "rahulthehacker.tk",
@@ -16,6 +18,7 @@
             "www.forex-instruments.info",
             "www.freebitmoney.com",
             "www.google-docs.org",
+            "www.gxplugin.com",
             "www.icracks.net",
             "www.jque.net",
             "www.paypal-exchange.com",
@@ -28,9 +31,6 @@
             "www.xvika.net",
             "www.xvika.org",
             "yk.handlerhackz.tk"
-        ],
-        "to_test": [
-            "www.gxplugin.com"
         ]
     }
 }
