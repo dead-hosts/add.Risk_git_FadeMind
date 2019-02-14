@@ -516,9 +516,9 @@
             "state": "future"
         },
         "binadroid.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
-            "state": "past"
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
         },
         "bizneed.com": {
             "epoch": "1640476800",
@@ -948,7 +948,7 @@
         "columbahouse.com": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "columbianhouse.com": {
             "epoch": "1571443200",
@@ -998,7 +998,7 @@
         "coolfreehost.com": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "coreclickhoo.com": {
             "epoch": "1572480000",
