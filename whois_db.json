@@ -1816,9 +1816,9 @@
             "state": "future"
         },
         "hornytraffic.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
-            "state": "past"
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
         },
         "hot-bot.com": {
             "epoch": "1574208000",
@@ -2198,7 +2198,7 @@
         "liqwid.net": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "litec-fr.com": {
             "epoch": "1559260800",
