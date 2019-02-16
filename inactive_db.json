@@ -14,10 +14,7 @@
             "www.ayehcleaners.com",
             "www.beyondwhois.com",
             "www.egoldenglove.com",
-            "www.forex-instruments.info"
-        ],
-        "to_test": [
-            "www.freebitmoney.com",
+            "www.forex-instruments.info",
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
@@ -27,7 +24,6 @@
             "www.playsataion.com",
             "www.pokemonporno.com",
             "www.quad-cleaner.com",
-            "www.scanspyware.net",
             "www.tuckows.com",
             "www.unblocksit.es",
             "www.wmserver.net",
@@ -37,6 +33,9 @@
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
+        ],
+        "to_test": [
+            "www.freebitmoney.com"
         ]
     }
 }
