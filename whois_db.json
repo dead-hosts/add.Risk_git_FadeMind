@@ -2686,8 +2686,8 @@
             "state": "future"
         },
         "opendownloadmanager.com": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
             "state": "future"
         },
         "opensoftwareupdate.com": {
@@ -2751,8 +2751,8 @@
             "state": "future"
         },
         "payn.me": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "paypal-exchange.com": {
@@ -2773,7 +2773,7 @@
         "pc-detox.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "pccleaner.com": {
             "epoch": "1679961600",
@@ -3138,7 +3138,7 @@
         "root--servers.org": {
             "epoch": "1550620800",
             "expiration_date": "20-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "rowanmclean.com": {
             "epoch": "1701561600",
@@ -3338,7 +3338,7 @@
         "sellmeyourtraffic.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "sendfwd.com": {
             "epoch": "1564704000",
