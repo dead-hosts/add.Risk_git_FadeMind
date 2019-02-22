@@ -15,24 +15,8 @@
             "www.egoldenglove.com",
             "www.forex-instruments.info",
             "www.google-docs.org",
-            "www.gxplugin.com"
-        ],
-        "to_test": [
-            "www.hot-bot.com",
-            "www.icracks.net",
+            "www.gxplugin.com",
             "www.jque.net",
-            "www.lapiden.com",
-            "www.lcbcad.co.uk",
-            "www.leadingedgecash.com",
-            "www.lefos.net",
-            "www.legendofdragoon.com",
-            "www.letssearch.com",
-            "www.libecki.net",
-            "www.linktarget.com",
-            "www.liqwid.net",
-            "www.litec-fr.com",
-            "www.livejasmin.com",
-            "www.livewell.net",
             "www.paypal-exchange.com",
             "www.playsataion.com",
             "www.pokemonporno.com",
@@ -40,13 +24,17 @@
             "www.scanspyware.net",
             "www.tuckows.com",
             "www.unblocksit.es",
+            "www.winscholarship.com",
             "www.wmserver.net",
-            "www.wwwcdnow.com",
             "www.xvika.net",
             "www.xvika.org",
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
+        ],
+        "to_test": [
+            "www.hot-bot.com",
+            "www.icracks.net"
         ]
     }
 }

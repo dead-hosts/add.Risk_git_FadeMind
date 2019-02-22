@@ -4306,9 +4306,9 @@
             "state": "future"
         },
         "x-diesel.info": {
-            "epoch": "1550620800",
-            "expiration_date": "20-feb-2019",
-            "state": "past"
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
         },
         "x-diesel.org": {
             "epoch": "1575331200",
