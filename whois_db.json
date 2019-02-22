@@ -2693,12 +2693,12 @@
         "opensoftwareupdate.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "opensoftwareupdater.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "optimization-methods.com": {
             "epoch": "1558915200",
@@ -2771,9 +2771,9 @@
             "state": "future"
         },
         "pc-detox.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
-            "state": "past"
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
         },
         "pccleaner.com": {
             "epoch": "1679961600",
@@ -3136,9 +3136,9 @@
             "state": "future"
         },
         "root--servers.org": {
-            "epoch": "1550620800",
-            "expiration_date": "20-feb-2019",
-            "state": "past"
+            "epoch": "1613779200",
+            "expiration_date": "20-feb-2021",
+            "state": "future"
         },
         "rowanmclean.com": {
             "epoch": "1701561600",
@@ -3336,9 +3336,9 @@
             "state": "future"
         },
         "sellmeyourtraffic.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
-            "state": "past"
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
         },
         "sendfwd.com": {
             "epoch": "1564704000",
