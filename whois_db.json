@@ -2691,14 +2691,14 @@
             "state": "future"
         },
         "opensoftwareupdate.com": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
-            "state": "past"
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
         },
         "opensoftwareupdater.com": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
-            "state": "past"
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
         },
         "optimization-methods.com": {
             "epoch": "1558915200",
@@ -3061,8 +3061,8 @@
             "state": "future"
         },
         "registrycleanertop.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "registrydefender.com": {
