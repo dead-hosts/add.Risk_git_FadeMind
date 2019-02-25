@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1550962909": [
+        "1551079371": [
             "ftp.flyfishusa.com",
             "handlerhackz.tk",
-            "hapjes-maken.eu",
-            "hira.hopto.org",
+            "hira.hopto.org"
+        ],
+        "to_test": [
             "in.riskymail4free.com",
-            "brans.pl",
             "j.theadsnet.com",
             "rahulthehacker.tk",
             "unblocksit.es",
@@ -36,7 +36,6 @@
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ],
-        "to_test": []
+        ]
     }
 }
