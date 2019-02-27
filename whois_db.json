@@ -2110,6 +2110,11 @@
             "expiration_date": "29-sep-2019",
             "state": "future"
         },
+        "joincreditexpert.co.uk": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
         "joinourwebsite.com": {
             "epoch": "1566604800",
             "expiration_date": "24-aug-2019",
@@ -2210,6 +2215,11 @@
             "expiration_date": "14-nov-2019",
             "state": "future"
         },
+        "lanonna.co.uk": {
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
         "lapiden.com": {
             "epoch": "1586649600",
             "expiration_date": "12-apr-2020",
@@ -2218,6 +2228,11 @@
         "lateecapes.com": {
             "epoch": "1568505600",
             "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "lcbcad.co.uk": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
             "state": "future"
         },
         "leadingedgecash.com": {
@@ -2360,6 +2375,11 @@
             "expiration_date": "15-may-2019",
             "state": "future"
         },
+        "m-99.co.uk": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
         "m1crosoft.com": {
             "epoch": "1560297600",
             "expiration_date": "12-jun-2019",
@@ -2475,6 +2495,11 @@
             "expiration_date": "18-apr-2022",
             "state": "future"
         },
+        "meetyourmessenger.co.uk": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
         "meiluziai.info": {
             "epoch": "1579996800",
             "expiration_date": "26-jan-2020",
@@ -2498,6 +2523,11 @@
         "mil-colores.com": {
             "epoch": "1600387200",
             "expiration_date": "18-sep-2020",
+            "state": "future"
+        },
+        "ming-dun.com.tw": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
             "state": "future"
         },
         "minigameplanet.com": {
@@ -2533,6 +2563,36 @@
         "monarchslo.com": {
             "epoch": "1561507200",
             "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "monetisetrk.co.uk": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "monetisetrk2.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk3.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk4.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk5.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk6.co.uk": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
             "state": "future"
         },
         "monofeel.com": {
@@ -2600,6 +2660,11 @@
             "expiration_date": "21-aug-2019",
             "state": "future"
         },
+        "myoffers.co.uk": {
+            "epoch": "1669248000",
+            "expiration_date": "24-nov-2022",
+            "state": "future"
+        },
         "mysearch-engine.com": {
             "epoch": "1567123200",
             "expiration_date": "30-aug-2019",
@@ -2655,6 +2720,11 @@
             "expiration_date": "10-dec-2019",
             "state": "future"
         },
+        "netmag.co.uk": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
         "netscae.com": {
             "epoch": "1574208000",
             "expiration_date": "20-nov-2019",
@@ -2695,6 +2765,11 @@
             "expiration_date": "30-nov-2019",
             "state": "future"
         },
+        "notrecommended.co.uk": {
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
         "nryb.com": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
@@ -2725,6 +2800,11 @@
             "expiration_date": "10-jun-2019",
             "state": "future"
         },
+        "oldgames.zp.ua": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
         "omnicleaningservices.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
@@ -2743,6 +2823,11 @@
         "oneund.ru": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "online.sh.cn": {
+            "epoch": "1625097600",
+            "expiration_date": "01-jul-2021",
             "state": "future"
         },
         "onlineadmin.net": {
@@ -2850,6 +2935,11 @@
             "expiration_date": "14-oct-2019",
             "state": "future"
         },
+        "payperclickadvertising.org.uk": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
         "payusatax.com": {
             "epoch": "1688169600",
             "expiration_date": "01-jul-2023",
@@ -2858,6 +2948,11 @@
         "pc-detox.com": {
             "epoch": "1582070400",
             "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "pc-wallpapers.co.uk": {
+            "epoch": "1608336000",
+            "expiration_date": "19-dec-2020",
             "state": "future"
         },
         "pccleaner.com": {
@@ -2896,13 +2991,18 @@
             "state": "future"
         },
         "pdf-platinum.info": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
-            "state": "past"
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
         },
         "peiceline.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "penwithian.co.uk": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
             "state": "future"
         },
         "perfectionautorepairs.com": {
@@ -2975,6 +3075,11 @@
             "expiration_date": "01-oct-2019",
             "state": "future"
         },
+        "plumsoftware.co.uk": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
         "pokemonporno.com": {
             "epoch": "1575763200",
             "expiration_date": "08-dec-2019",
@@ -3045,6 +3150,11 @@
             "expiration_date": "19-jul-2019",
             "state": "future"
         },
+        "pumpkin.co.uk": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
         "puroclean.com": {
             "epoch": "1639267200",
             "expiration_date": "12-dec-2021",
@@ -3070,6 +3180,11 @@
             "expiration_date": "01-apr-2019",
             "state": "future"
         },
+        "quickcreditscore.co.uk": {
+            "epoch": "1625616000",
+            "expiration_date": "07-jul-2021",
+            "state": "future"
+        },
         "quinnwealth.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
@@ -3083,6 +3198,11 @@
         "rd-direct.com": {
             "epoch": "1573344000",
             "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "redhotchilli.co.uk": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
             "state": "future"
         },
         "redirectme.net": {
@@ -3175,9 +3295,19 @@
             "expiration_date": "15-nov-2019",
             "state": "future"
         },
+        "researchnow.co.uk": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
         "restore-pc.com": {
             "epoch": "1555891200",
             "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "rewardsnow.co.uk": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
             "state": "future"
         },
         "rewardszoneusa.com": {
@@ -3390,6 +3520,11 @@
             "expiration_date": "04-nov-2019",
             "state": "future"
         },
+        "securemypc.co.uk": {
+            "epoch": "1610755200",
+            "expiration_date": "16-jan-2021",
+            "state": "future"
+        },
         "securetracking2.com": {
             "epoch": "1564963200",
             "expiration_date": "05-aug-2019",
@@ -3416,8 +3551,8 @@
             "state": "future"
         },
         "selfsurveys.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "sellmeyourtraffic.com": {
