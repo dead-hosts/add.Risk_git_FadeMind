@@ -941,8 +941,8 @@
             "state": "future"
         },
         "clxcaf.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "cnbnews.com": {
@@ -1428,7 +1428,7 @@
         "facebookunblocking.com": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "fastdownload10.com": {
             "epoch": "1559174400",
@@ -1571,8 +1571,8 @@
             "state": "future"
         },
         "fxstra.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "fyxm.net": {
@@ -1761,8 +1761,8 @@
             "state": "future"
         },
         "gulf-industrial.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1614470400",
+            "expiration_date": "28-feb-2021",
             "state": "future"
         },
         "gwmtracker.com": {
@@ -1841,8 +1841,8 @@
             "state": "future"
         },
         "hgtzz.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "hidebux.com": {
