@@ -16,10 +16,7 @@
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.icracks.net"
-        ],
-        "to_test": [
-            "www.onlinedownloads.org",
+            "www.icracks.net",
             "www.paypal-exchange.com",
             "www.playsataion.com",
             "www.pokemonporno.com",
@@ -29,13 +26,15 @@
             "www.unblocksit.es",
             "www.winscholarship.com",
             "www.wmserver.net",
-            "www.xsedu.zj.cn",
+            "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
             "www.zoogdiseny.com",
+            "www.zoogdisny.com",
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
