@@ -16,9 +16,7 @@
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.icracks.net"
-        ],
-        "to_test": [
+            "www.icracks.net",
             "www.paypal-exchange.com",
             "www.playsataion.com",
             "www.pokemonporno.com",
@@ -36,6 +34,7 @@
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
