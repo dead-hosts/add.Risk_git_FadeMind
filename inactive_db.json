@@ -23,9 +23,7 @@
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.paypal-exchange.com",
             "www.pokemonporno.com",
             "www.riskymail4free.com",
@@ -43,6 +41,7 @@
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
