@@ -16,21 +16,11 @@
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.jque.net"
-        ],
-        "to_test": [
-            "ftp.flyfishusa.com",
-            "handlerhackz.tk",
-            "hira.hopto.org",
-            "in.riskymail4free.com",
-            "j.theadsnet.com",
-            "popunder.popcde.com",
-            "rahulthehacker.tk",
+            "www.jque.net",
             "www.paypal-exchange.com",
             "www.pokemonporno.com",
             "www.registrycleanerpro.net",
             "www.riskymail4free.com",
-            "www.tuckows.com",
             "www.unblocksit.es",
             "www.uprour.com",
             "www.winscholarship.com",
@@ -44,6 +34,15 @@
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
+        ],
+        "to_test": [
+            "ftp.flyfishusa.com",
+            "handlerhackz.tk",
+            "hira.hopto.org",
+            "in.riskymail4free.com",
+            "j.theadsnet.com",
+            "popunder.popcde.com",
+            "rahulthehacker.tk"
         ]
     }
 }
