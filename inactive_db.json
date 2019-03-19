@@ -1,6 +1,25 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1552808602": [
+        "1552980611": [
+            "a1.x-traceur.com",
+            "a12.x-traceur.com",
+            "a18.x-traceur.com",
+            "a20.x-traceur.com",
+            "a3.x-traceur.com",
+            "ayada.zapto.org",
+            "dlldlldll.sytes.net",
+            "doda.redirectme.net",
+            "fecabook.redirectme.net",
+            "finders.hopto.org",
+            "ftp.flyfishusa.com"
+        ],
+        "to_test": [
+            "handlerhackz.tk",
+            "hira.hopto.org",
+            "in.riskymail4free.com",
+            "j.theadsnet.com",
+            "popunder.popcde.com",
+            "rahulthehacker.tk",
             "unblocksit.es",
             "www.ayehcleaners.com",
             "www.beyondwhois.com",
@@ -34,15 +53,6 @@
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ],
-        "to_test": [
-            "ftp.flyfishusa.com",
-            "handlerhackz.tk",
-            "hira.hopto.org",
-            "in.riskymail4free.com",
-            "j.theadsnet.com",
-            "popunder.popcde.com",
-            "rahulthehacker.tk"
         ]
     }
 }
