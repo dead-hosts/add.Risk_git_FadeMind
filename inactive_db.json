@@ -33,15 +33,11 @@
             "www.gxplugin.com",
             "www.hot-bot.com",
             "www.instorm.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.paypal-exchange.com",
-            "www.pokemonporno.com",
             "www.registrycleanerpro.net",
             "www.riskymail4free.com",
             "www.scanspyware.net",
-            "www.smartgiveaway.com",
             "www.unblocksit.es",
             "www.uprour.com",
             "www.winscholarship.com",
@@ -56,10 +52,12 @@
             "www.xvika.org",
             "www.zoogdiseny.com",
             "www.zoogdisny.com",
+            "www.zootravel.com",
             "xxxxxxx.hopto.org",
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
