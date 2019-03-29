@@ -951,8 +951,8 @@
             "state": "future"
         },
         "cnn.cm": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "cnnnew.com": {
@@ -1091,8 +1091,8 @@
             "state": "future"
         },
         "cudacorp.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1616976000",
+            "expiration_date": "29-mar-2021",
             "state": "future"
         },
         "customersupporthelp.com": {
@@ -1923,7 +1923,7 @@
         "howtocleanacomputervirus.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "i-games.biz": {
             "epoch": "1568073600",

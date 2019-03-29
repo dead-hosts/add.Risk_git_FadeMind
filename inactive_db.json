@@ -1,15 +1,18 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1553672150": [
+        "1553845022": [
             "ayada.zapto.org",
             "dlldlldll.sytes.net",
             "doda.redirectme.net",
+            "download.fyxm.net",
             "fecabook.redirectme.net",
             "finders.hopto.org",
             "ftp.flyfishusa.com",
             "handlerhackz.tk",
             "havijrat.zapto.org",
-            "hira.hopto.org",
+            "hira.hopto.org"
+        ],
+        "to_test": [
             "in.riskymail4free.com",
             "j.theadsnet.com",
             "m-barati.de",
@@ -60,7 +63,6 @@
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ],
-        "to_test": []
+        ]
     }
 }
