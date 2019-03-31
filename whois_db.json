@@ -1176,8 +1176,8 @@
             "state": "future"
         },
         "dodostats.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "dogpial.com": {
@@ -1283,7 +1283,7 @@
         "ebocornac.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "ecdtrk.com": {
             "epoch": "1562889600",
@@ -1921,9 +1921,9 @@
             "state": "future"
         },
         "howtocleanacomputervirus.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
-            "state": "past"
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
+            "state": "future"
         },
         "i-games.biz": {
             "epoch": "1568073600",
