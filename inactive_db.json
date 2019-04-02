@@ -49,16 +49,13 @@
             "www.gamepor.com",
             "www.gamesharck.com",
             "www.google-docs.org",
-            "www.gxplugin.com"
-        ],
-        "to_test": [
+            "www.gxplugin.com",
             "www.hot-bot.com",
             "www.instorm.com",
             "www.jque.net",
+            "www.payn.me",
             "www.paypal-exchange.com",
-            "www.pokemonporno.com",
             "www.registrycleanerpro.net",
-            "www.riskymail4free.com",
             "www.scanspyware.net",
             "www.thebighits.com",
             "www.unblocksit.es",
@@ -76,12 +73,15 @@
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
-            "www.zoogdiseny.com",
             "www.zoogdisny.com",
+            "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
+            "y.zeroredirect.com",
             "yk.handlerhackz.tk",
+            "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }

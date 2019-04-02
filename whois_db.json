@@ -4600,6 +4600,11 @@
             "expiration_date": "11-dec-2019",
             "state": "future"
         },
+        "yatrk.xyz": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
         "ymxpb.com": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
