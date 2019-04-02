@@ -31,11 +31,11 @@
             "popunder.popcde.com",
             "q.zeroredirect.com",
             "rahulthehacker.tk",
-            "s.zeroredirect.com"
-        ],
-        "to_test": [
+            "s.zeroredirect.com",
+            "t.zeroredirect.com",
             "unblocksit.es",
             "urchman11.zapto.org",
+            "w.zeroredirect.com",
             "www.ayehcleaners.com",
             "www.beyondwhois.com",
             "www.bluemountain1.com",
@@ -49,7 +49,9 @@
             "www.gamepor.com",
             "www.gamesharck.com",
             "www.google-docs.org",
-            "www.gxplugin.com",
+            "www.gxplugin.com"
+        ],
+        "to_test": [
             "www.hot-bot.com",
             "www.instorm.com",
             "www.jque.net",
