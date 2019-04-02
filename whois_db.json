@@ -626,8 +626,8 @@
             "state": "future"
         },
         "bride1.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "browseraccelerator.com": {
@@ -1056,13 +1056,13 @@
             "state": "future"
         },
         "cracksplanet.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "crackzplanet.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "crazyprotocol.com": {
@@ -1236,8 +1236,8 @@
             "state": "future"
         },
         "downloadwarez.org": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "drivotracker.com": {
@@ -1281,9 +1281,9 @@
             "state": "future"
         },
         "ebocornac.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
         },
         "ecdtrk.com": {
             "epoch": "1562889600",
