@@ -31,9 +31,7 @@
             "popunder.popcde.com",
             "q.zeroredirect.com",
             "rahulthehacker.tk",
-            "s.zeroredirect.com"
-        ],
-        "to_test": [
+            "s.zeroredirect.com",
             "t.zeroredirect.com",
             "unblocksit.es",
             "urchman11.zapto.org",
@@ -42,6 +40,7 @@
             "www.beyondwhois.com",
             "www.bluemountain1.com",
             "www.bluemountain2.com",
+            "www.clean-search.com",
             "www.collectiable.com",
             "www.columbahouse.com",
             "www.egoldenglove.com",
@@ -51,9 +50,12 @@
             "www.gamepor.com",
             "www.gamesharck.com",
             "www.google-docs.org",
+            "www.googlwe.com",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.instorm.com",
+            "www.instorm.com"
+        ],
+        "to_test": [
             "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
