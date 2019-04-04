@@ -53,12 +53,11 @@
             "www.googlwe.com",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.instorm.com"
-        ],
-        "to_test": [
+            "www.instorm.com",
             "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
+            "www.pc-detox.com",
             "www.registrycleanerpro.net",
             "www.scanspyware.net",
             "www.thebighits.com",
@@ -85,6 +84,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
