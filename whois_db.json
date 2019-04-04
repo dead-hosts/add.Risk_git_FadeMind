@@ -196,8 +196,8 @@
             "state": "future"
         },
         "affntwklnk.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
             "state": "future"
         },
         "afftrack.com": {
@@ -871,8 +871,8 @@
             "state": "future"
         },
         "cleansofts.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "cleanuninstall.com": {
@@ -1071,8 +1071,8 @@
             "state": "future"
         },
         "credibleartstherapies.org": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
             "state": "future"
         },
         "cswilliamsburg.com": {
@@ -1636,8 +1636,8 @@
             "state": "future"
         },
         "gen2server.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "generationgirls.com": {
@@ -1723,7 +1723,7 @@
         "goolegames.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "goolges.com": {
             "epoch": "1573257600",
