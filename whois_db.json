@@ -1378,7 +1378,7 @@
         "everydaygays.com": {
             "epoch": "1554508800",
             "expiration_date": "06-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "exactadvertising.com": {
             "epoch": "1556755200",
@@ -1721,9 +1721,9 @@
             "state": "future"
         },
         "goolegames.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "goolges.com": {
             "epoch": "1573257600",
