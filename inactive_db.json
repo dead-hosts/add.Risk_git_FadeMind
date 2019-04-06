@@ -32,9 +32,7 @@
             "popunder.popcde.com",
             "q.zeroredirect.com",
             "rahulthehacker.tk",
-            "s.zeroredirect.com"
-        ],
-        "to_test": [
+            "s.zeroredirect.com",
             "t.zeroredirect.com",
             "unblocksit.es",
             "urchman11.zapto.org",
@@ -53,11 +51,13 @@
             "www.gamepor.com",
             "www.gamesharck.com",
             "www.google-docs.org",
-            "www.googlwe.com",
+            "www.goolegames.com",
             "www.gxplugin.com",
             "www.hot-bot.com",
             "www.instorm.com",
-            "www.jque.net",
+            "www.jque.net"
+        ],
+        "to_test": [
             "www.payn.me",
             "www.paypal-exchange.com",
             "www.pc-detox.com",
