@@ -55,16 +55,13 @@
             "www.gxplugin.com",
             "www.hot-bot.com",
             "www.instorm.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
             "www.pc-detox.com",
-            "www.playgril.com",
             "www.registrycleanerpro.net",
             "www.scanspyware.net",
-            "www.thebighits.com",
+            "www.speedrep.com",
             "www.unblocksit.es",
             "www.uprour.com",
             "www.wmserver.net",
@@ -80,7 +77,6 @@
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
-            "www.zoogdisny.com",
             "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
             "y.zeroredirect.com",
@@ -88,6 +84,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
