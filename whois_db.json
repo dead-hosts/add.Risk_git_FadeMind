@@ -2243,7 +2243,7 @@
         "lefos.net": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "legendofdragoon.com": {
             "epoch": "1562716800",
