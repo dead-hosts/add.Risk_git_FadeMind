@@ -54,18 +54,17 @@
             "www.google-docs.org",
             "www.goolegames.com",
             "www.gxplugin.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
             "www.pc-detox.com",
+            "www.pokemonporno.com",
             "www.registrycleanerpro.net",
+            "www.removearrest.com",
             "www.scanspyware.net",
             "www.speedrep.com",
             "www.thebighits.com",
             "www.unblocksit.es",
-            "www.uprour.com",
             "www.wwfsable.com",
             "www.wwwadultcheck.com",
             "www.wwwbluelight.com",
@@ -84,6 +83,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
