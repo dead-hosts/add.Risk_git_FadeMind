@@ -1223,7 +1223,7 @@
         "down1oads.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "downloads-whatsapp.com": {
             "epoch": "1569542400",
@@ -1551,13 +1551,13 @@
             "state": "future"
         },
         "frtya.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "frtyb.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "full-edition.info": {
