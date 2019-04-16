@@ -51,9 +51,7 @@
             "www.gamesharck.com",
             "www.google-docs.org",
             "www.goolegames.com",
-            "www.gxplugin.com"
-        ],
-        "to_test": [
+            "www.gxplugin.com",
             "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
@@ -82,6 +80,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
