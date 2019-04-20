@@ -51,9 +51,7 @@
             "www.enoratraffic.com",
             "www.forex-instruments.info",
             "www.google-docs.org",
-            "www.goolegames.com"
-        ],
-        "to_test": [
+            "www.goolegames.com",
             "www.gxplugin.com",
             "www.jque.net",
             "www.payn.me",
@@ -64,6 +62,7 @@
             "www.scanspyware.net",
             "www.thebighits.com",
             "www.unblocksit.es",
+            "www.winaproduct.com",
             "www.wwfsable.com",
             "www.wwwadultcheck.com",
             "www.wwwbluelight.com",
@@ -83,6 +82,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
