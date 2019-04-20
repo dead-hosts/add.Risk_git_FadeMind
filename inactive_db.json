@@ -34,9 +34,7 @@
             "q.zeroredirect.com",
             "qzip.cjb.net",
             "rahulthehacker.tk",
-            "s.zeroredirect.com"
-        ],
-        "to_test": [
+            "s.zeroredirect.com",
             "t.zeroredirect.com",
             "unblocksit.es",
             "urchman11.zapto.org",
@@ -53,8 +51,9 @@
             "www.enoratraffic.com",
             "www.forex-instruments.info",
             "www.google-docs.org",
-            "www.googlwe.com",
-            "www.goolegames.com",
+            "www.goolegames.com"
+        ],
+        "to_test": [
             "www.gxplugin.com",
             "www.jque.net",
             "www.payn.me",
