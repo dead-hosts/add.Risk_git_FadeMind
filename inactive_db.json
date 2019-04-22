@@ -53,12 +53,11 @@
             "www.google-docs.org",
             "www.goolegames.com",
             "www.gxplugin.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
             "www.pc-detox.com",
+            "www.pokemonporno.com",
             "www.qzip.cjb.net",
             "www.registrycleanerpro.net",
             "www.scanspyware.net",
@@ -84,6 +83,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
