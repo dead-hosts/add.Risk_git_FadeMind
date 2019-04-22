@@ -4083,7 +4083,7 @@
         "triplequadturbo.com": {
             "epoch": "1555891200",
             "expiration_date": "22-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "trk4.com": {
             "epoch": "1563062400",

@@ -34,9 +34,7 @@
             "q.zeroredirect.com",
             "qzip.cjb.net",
             "rahulthehacker.tk",
-            "s.zeroredirect.com"
-        ],
-        "to_test": [
+            "s.zeroredirect.com",
             "t.zeroredirect.com",
             "unblocksit.es",
             "urchman11.zapto.org",
@@ -55,7 +53,9 @@
             "www.google-docs.org",
             "www.goolegames.com",
             "www.gxplugin.com",
-            "www.jque.net",
+            "www.jque.net"
+        ],
+        "to_test": [
             "www.payn.me",
             "www.paypal-exchange.com",
             "www.pc-detox.com",
