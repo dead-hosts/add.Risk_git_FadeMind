@@ -56,13 +56,10 @@
             "www.goolegames.com",
             "www.goolges.com",
             "www.gxplugin.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
             "www.pc-detox.com",
-            "www.pokemonporno.com",
             "www.qzip.cjb.net",
             "www.registrycleanerpro.net",
             "www.scanspyware.net",
@@ -70,12 +67,9 @@
             "www.unblocksit.es",
             "www.winaproduct.com",
             "www.wwfsable.com",
-            "www.wwwadultcheck.com",
             "www.wwwbluelight.com",
             "www.wwwbluemountian.com",
             "www.wwwcallwave.com",
-            "www.wwwplaysite.com",
-            "www.wwwservicemerchandise.com",
             "www.wwwuproar.com",
             "www.x-diesel.info",
             "www.xchangetrak.com",
@@ -88,6 +82,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
