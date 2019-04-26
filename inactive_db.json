@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1556092213": [
+        "1556265017": [
+            "11163221-517901.c.adprotect.net",
             "a.zeroredirect.com",
             "ad.slutload.com",
             "adserve.cpmba.se",
@@ -20,7 +21,9 @@
             "handlerhackz.tk",
             "havijrat.zapto.org",
             "hira.hopto.org",
-            "i.zeroredirect.com",
+            "i.zeroredirect.com"
+        ],
+        "to_test": [
             "j.theadsnet.com",
             "j.zeroredirect.com",
             "k.zeroredirect.com",
@@ -82,7 +85,6 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ],
-        "to_test": []
+        ]
     }
 }
