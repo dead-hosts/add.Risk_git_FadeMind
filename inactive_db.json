@@ -53,9 +53,7 @@
             "www.google-docs.org",
             "www.goolegames.com",
             "www.gxplugin.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.payn.me",
             "www.paypal-exchange.com",
             "www.pc-detox.com",
@@ -81,6 +79,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
