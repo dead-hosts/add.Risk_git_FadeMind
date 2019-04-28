@@ -156,8 +156,8 @@
             "state": "future"
         },
         "adnetworkperformance.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
             "state": "future"
         },
         "adobe-flashplayer.com": {
@@ -1171,9 +1171,9 @@
             "state": "future"
         },
         "doctor-alex.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
-            "state": "past"
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
+            "state": "future"
         },
         "dodostats.com": {
             "epoch": "1585526400",
@@ -1563,7 +1563,7 @@
         "full-edition.info": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "fxlayer.net": {
             "epoch": "1558742400",
@@ -1676,8 +1676,8 @@
             "state": "future"
         },
         "gilvision.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
             "state": "future"
         },
         "globalcharge.com": {
