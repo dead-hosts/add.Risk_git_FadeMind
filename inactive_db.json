@@ -51,9 +51,7 @@
             "www.elisaart.it",
             "www.forex-instruments.info",
             "www.google-docs.org",
-            "www.goolegames.com"
-        ],
-        "to_test": [
+            "www.goolegames.com",
             "www.gxplugin.com",
             "www.jque.net",
             "www.payn.me",
@@ -66,9 +64,10 @@
             "www.unblocksit.es",
             "www.winaproduct.com",
             "www.wwfsable.com",
-            "www.wwwbluelight.com",
+            "www.wwwadultcheck.com",
             "www.wwwbluemountian.com",
             "www.wwwcallwave.com",
+            "www.wwwservicemerchandise.com",
             "www.wwwuproar.com",
             "www.x-diesel.info",
             "www.xchangetrak.com",
@@ -81,6 +80,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
