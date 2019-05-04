@@ -46,9 +46,9 @@
             "state": "future"
         },
         "39dvd-999.com": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
-            "state": "past"
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
+            "state": "future"
         },
         "77search.com": {
             "epoch": "1574899200",
@@ -133,7 +133,7 @@
         "adclickthru.net": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "additcinggames.com": {
             "epoch": "1582329600",
@@ -1381,9 +1381,9 @@
             "state": "future"
         },
         "exactadvertising.com": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
-            "state": "past"
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
+            "state": "future"
         },
         "exacttarget.com": {
             "epoch": "1613865600",
@@ -1508,7 +1508,7 @@
         "formessengers.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "fpcclicks.com": {
             "epoch": "1624492800",
