@@ -2203,7 +2203,7 @@
         "kowasaki.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "kwbtgame.com": {
             "epoch": "1571097600",
@@ -2346,8 +2346,8 @@
             "state": "future"
         },
         "lottoga.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "lufhansa.com": {
@@ -2638,7 +2638,7 @@
         "mueller-holz-bau.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "my-pc-cleaner.org": {
             "epoch": "1574640000",
@@ -2821,8 +2821,8 @@
             "state": "future"
         },
         "oneund.ru": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "online.sh.cn": {
@@ -3716,8 +3716,8 @@
             "state": "future"
         },
         "spywarebegone.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "spywareit.com": {
