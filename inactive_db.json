@@ -36,9 +36,7 @@
             "q.zeroredirect.com",
             "qzip.cjb.net",
             "rahulthehacker.tk",
-            "s.zeroredirect.com"
-        ],
-        "to_test": [
+            "s.zeroredirect.com",
             "t.zeroredirect.com",
             "unblocksit.es",
             "urchman11.zapto.org",
@@ -49,13 +47,14 @@
             "www.bluemountain2.com",
             "www.clean-search.com",
             "www.collectiable.com",
-            "www.columbahouse.com",
             "www.egoldenglove.com",
             "www.elisaart.it",
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.jque.net",
+            "www.jque.net"
+        ],
+        "to_test": [
             "www.ocpersian.com",
             "www.payn.me",
             "www.paypal-exchange.com",
