@@ -52,9 +52,7 @@
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.ocpersian.com",
             "www.payn.me",
             "www.paypal-exchange.com",
@@ -68,7 +66,6 @@
             "www.winaproduct.com",
             "www.wwwbluelight.com",
             "www.wwwbluemountian.com",
-            "www.wwwcallwave.com",
             "www.wwwuproar.com",
             "www.x-diesel.info",
             "www.xchangetrak.com",
@@ -81,6 +78,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
