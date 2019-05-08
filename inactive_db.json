@@ -55,11 +55,11 @@
             "www.elisaart.it",
             "www.facebookcrawl.co.cc",
             "www.google-docs.org",
-            "www.gxplugin.com"
-        ],
-        "to_test": [
+            "www.gxplugin.com",
+            "www.harmonyhollow.net",
             "www.hot-bot.com",
             "www.jque.net",
+            "www.notrecommended.co.uk",
             "www.ocpersian.com",
             "www.payn.me",
             "www.paypal-exchange.com",
@@ -67,6 +67,7 @@
             "www.qzip.cjb.net",
             "www.registrycleanerpro.net",
             "www.scanspyware.net",
+            "www.serveradobe.co.cc",
             "www.stephens-laughlin.com",
             "www.thebighits.com",
             "www.unblocksit.es",
@@ -85,6 +86,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
