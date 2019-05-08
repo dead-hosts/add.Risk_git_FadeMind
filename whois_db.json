@@ -2201,9 +2201,9 @@
             "state": "future"
         },
         "kowasaki.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
-            "state": "past"
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
+            "state": "future"
         },
         "kwbtgame.com": {
             "epoch": "1571097600",
@@ -2461,8 +2461,8 @@
             "state": "future"
         },
         "mathenea.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "maxbounty.com": {
@@ -2636,9 +2636,9 @@
             "state": "future"
         },
         "mueller-holz-bau.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
-            "state": "past"
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
+            "state": "future"
         },
         "my-pc-cleaner.org": {
             "epoch": "1574640000",
@@ -3381,8 +3381,8 @@
             "state": "future"
         },
         "sade-ecrivain.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "safelinking.net": {
@@ -3416,8 +3416,8 @@
             "state": "future"
         },
         "sasdiskcleaner.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "sayherbal.com": {
@@ -3491,8 +3491,8 @@
             "state": "future"
         },
         "searchnut.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "searchremagnified.com": {

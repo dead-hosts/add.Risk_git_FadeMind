@@ -26,9 +26,7 @@
             "i.trkjmp.com",
             "i.zeroredirect.com",
             "j.theadsnet.com",
-            "j.zeroredirect.com"
-        ],
-        "to_test": [
+            "j.zeroredirect.com",
             "k.zeroredirect.com",
             "l.zeroredirect.com",
             "m.zeroredirect.com",
@@ -40,6 +38,9 @@
             "qzip.cjb.net",
             "rahulthehacker.tk",
             "s.zeroredirect.com",
+            "serveradobe.co.cc"
+        ],
+        "to_test": [
             "t.zeroredirect.com",
             "unblocksit.es",
             "urchman11.zapto.org",
