@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1557129269": [
+        "1557302189": [
             "11163221-517901.c.adprotect.net",
             "6.mamaswishes.com",
             "a.zeroredirect.com",
@@ -14,6 +14,7 @@
             "doda.redirectme.net",
             "e.zeroredirect.com",
             "f.zeroredirect.com",
+            "facebookcrawl.co.cc",
             "fecabook.redirectme.net",
             "finders.hopto.org",
             "ftp.flyfishusa.com",
@@ -25,7 +26,9 @@
             "i.trkjmp.com",
             "i.zeroredirect.com",
             "j.theadsnet.com",
-            "j.zeroredirect.com",
+            "j.zeroredirect.com"
+        ],
+        "to_test": [
             "k.zeroredirect.com",
             "l.zeroredirect.com",
             "m.zeroredirect.com",
@@ -78,7 +81,6 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ],
-        "to_test": []
+        ]
     }
 }
