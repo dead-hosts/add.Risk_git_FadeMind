@@ -61,10 +61,8 @@
             "www.pc-detox.com",
             "www.qzip.cjb.net",
             "www.registrycleanerpro.net",
-            "www.scanspyware.net"
-        ],
-        "to_test": [
-            "www.stephens-laughlin.com",
+            "www.scanspyware.net",
+            "www.smithwick.net",
             "www.thebighits.com",
             "www.unblocksit.es",
             "www.winaproduct.com",
@@ -72,6 +70,7 @@
             "www.wwwbluemountian.com",
             "www.wwwuproar.com",
             "www.x-diesel.info",
+            "www.x-park.net",
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
@@ -82,6 +81,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
