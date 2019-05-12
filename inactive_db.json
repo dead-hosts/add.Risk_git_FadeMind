@@ -54,9 +54,7 @@
             "www.google-docs.org",
             "www.gxplugin.com",
             "www.hot-bot.com",
-            "www.jque.net"
-        ],
-        "to_test": [
+            "www.jque.net",
             "www.notrecommended.co.uk",
             "www.ocpersian.com",
             "www.payn.me",
@@ -64,19 +62,20 @@
             "www.pc-detox.com",
             "www.qzip.cjb.net",
             "www.registrycleanerpro.net",
+            "www.rickparty.com",
+            "www.rubiks.ca",
             "www.scanspyware.net",
-            "www.smithwick.net",
             "www.thebighits.com",
             "www.unblocksit.es",
+            "www.wdmwebs.us",
             "www.winaproduct.com",
             "www.wwwbluelight.com",
             "www.wwwbluemountian.com",
             "www.wwwuproar.com",
-            "www.x-diesel.info",
-            "www.x-park.net",
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www.zuverink.net",
             "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
             "y.zeroredirect.com",
@@ -84,6 +83,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
