@@ -47,12 +47,11 @@
             "www.beyondwhois.com",
             "www.bluemountain2.com",
             "www.clean-search.com",
-            "www.collectiable.com"
-        ],
-        "to_test": [
+            "www.collectiable.com",
             "www.egoldenglove.com",
             "www.elisaart.it",
             "www.google-docs.org",
+            "www.gratisweb.com",
             "www.gxplugin.com",
             "www.hot-bot.com",
             "www.jque.net",
@@ -63,20 +62,15 @@
             "www.pc-detox.com",
             "www.qzip.cjb.net",
             "www.registrycleanerpro.net",
-            "www.rickparty.com",
-            "www.rubiks.ca",
             "www.scanspyware.net",
             "www.thebighits.com",
             "www.unblocksit.es",
-            "www.wdmwebs.us",
             "www.winaproduct.com",
             "www.wwwbluelight.com",
-            "www.wwwbluemountian.com",
             "www.wwwuproar.com",
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
-            "www.zuverink.net",
             "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
             "y.zeroredirect.com",
@@ -84,6 +78,7 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ]
+        ],
+        "to_test": []
     }
 }
