@@ -1,6 +1,60 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1557820793": [
+        "1557993647": [
+            "11163221-517901.c.adprotect.net",
+            "6.mamaswishes.com",
+            "adserve.cpmba.se",
+            "ad.slutload.com"
+        ],
+        "1557993671": [
+            "a.zeroredirect.com",
+            "b.zeroredirect.com",
+            "compactiongames.gameaholic.com"
+        ],
+        "1557993728": [
+            "c.zeroredirect.com",
+            "d.zeroredirect.com"
+        ],
+        "1557993744": [
+            "finders.hopto.org",
+            "e.zeroredirect.com",
+            "ftp.flyfishusa.com",
+            "f.zeroredirect.com",
+            "g.zeroredirect.com",
+            "handlerhackz.tk",
+            "hira.hopto.org",
+            "h.zeroredirect.com"
+        ],
+        "1557993782": [
+            "i.trkjmp.com",
+            "i.zeroredirect.com",
+            "j.zeroredirect.com",
+            "k.zeroredirect.com",
+            "j.theadsnet.com",
+            "l.zeroredirect.com",
+            "mrace.hopto.org",
+            "m.zeroredirect.com",
+            "notrecommended.co.uk",
+            "n.zeroredirect.com",
+            "o.zeroredirect.com"
+        ],
+        "1557993932": [
+            "p.zeroredirect.com",
+            "rahulthehacker.tk",
+            "q.zeroredirect.com"
+        ],
+        "1557993933": [
+            "qzip.cjb.net",
+            "s.zeroredirect.com",
+            "t.zeroredirect.com"
+        ],
+        "1557994135": [
+            "www.39dvd-999.com",
+            "www.ayehcleaners.com",
+            "www.beyondwhois.com",
+            "www.bluemountain2.com"
+        ],
+        "to_test": [
             "11163221-517901.c.adprotect.net",
             "6.mamaswishes.com",
             "a.zeroredirect.com",
@@ -78,7 +132,6 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ],
-        "to_test": []
+        ]
     }
 }
