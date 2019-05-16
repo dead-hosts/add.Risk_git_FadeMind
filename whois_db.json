@@ -1515,9 +1515,9 @@
         "state": "future"
     },
     "fqtag.com": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "freebiesms.co.uk": {
         "epoch": "1629763200",
