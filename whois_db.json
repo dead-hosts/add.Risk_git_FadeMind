@@ -2730,8 +2730,8 @@
         "state": "future"
     },
     "neumashop.cl": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1621814400,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "newclick.com": {
@@ -3055,8 +3055,8 @@
         "state": "future"
     },
     "playersaid.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "playgril.com": {
@@ -3090,8 +3090,8 @@
         "state": "future"
     },
     "poppers-rush.ru": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "popunder.ru": {
