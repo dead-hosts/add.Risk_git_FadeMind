@@ -60,8 +60,8 @@
         "state": "future"
     },
     "7search.com": {
-        "epoch": "1558742400",
-        "expiration_date": "25-may-2019",
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "7softwaredreams.com": {
@@ -140,8 +140,8 @@
         "state": "future"
     },
     "adforati.com": {
-        "epoch": "1558396800",
-        "expiration_date": "21-may-2019",
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "adgtracker.com": {
@@ -275,8 +275,8 @@
         "state": "future"
     },
     "angelinajoliepics.com": {
-        "epoch": "1558483200",
-        "expiration_date": "22-may-2019",
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "angelsinuniform.com": {
@@ -315,9 +315,9 @@
         "state": "future"
     },
     "anmira.info": {
-        "epoch": "1558742400",
+        "epoch": 1558742400,
         "expiration_date": "25-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "ant.com": {
         "epoch": "1717372800",
@@ -425,8 +425,8 @@
         "state": "future"
     },
     "avis.cm": {
-        "epoch": "1558051200",
-        "expiration_date": "17-may-2019",
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "avskype.com": {
@@ -1515,9 +1515,9 @@
         "state": "future"
     },
     "fqtag.com": {
-        "epoch": 1557964800,
-        "expiration_date": "16-may-2019",
-        "state": "past"
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
     },
     "freebiesms.co.uk": {
         "epoch": "1629763200",
@@ -1565,8 +1565,8 @@
         "state": "future"
     },
     "fxlayer.net": {
-        "epoch": "1558742400",
-        "expiration_date": "25-may-2019",
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "fxstra.com": {
