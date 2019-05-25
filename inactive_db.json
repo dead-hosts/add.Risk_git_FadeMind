@@ -74,15 +74,7 @@
             "www.wwwuproar.com",
             "www.xchangetrak.com",
             "www.xvika.net",
-            "www.xvika.org"
-        ],
-        "to_test": [
-            "qzip.cjb.net",
-            "unblocksit.es",
-            "www.auctiondirectory.org",
-            "www.drivotracker.com",
-            "www.guaranty.com.cn",
-            "www.qzip.cjb.net",
+            "www.xvika.org",
             "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
             "y.zeroredirect.com",
@@ -90,6 +82,14 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
+        ],
+        "to_test": [
+            "qzip.cjb.net",
+            "unblocksit.es",
+            "www.auctiondirectory.org",
+            "www.drivotracker.com",
+            "www.guaranty.com.cn",
+            "www.qzip.cjb.net"
         ]
     }
 }
