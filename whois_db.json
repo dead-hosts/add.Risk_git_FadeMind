@@ -1430,9 +1430,9 @@
         "state": "future"
     },
     "fastdownload10.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "fastnclick.com": {
         "epoch": "1566604800",
