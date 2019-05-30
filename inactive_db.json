@@ -44,6 +44,7 @@
             "s.zeroredirect.com",
             "t.zeroredirect.com",
             "urchman11.zapto.org",
+            "w.zeroredirect.com",
             "www.39dvd-999.com",
             "www.akirkpatrick.com",
             "www.ayehcleaners.com",
@@ -71,14 +72,7 @@
             "www.theads.me",
             "www.thebighits.com",
             "www.unblocksit.es",
-            "www.vanguardair.com"
-        ],
-        "to_test": [
-            "unblocksit.es",
-            "w.zeroredirect.com",
-            "www.auctiondirectory.org",
-            "www.drivotracker.com",
-            "www.guaranty.com.cn",
+            "www.vanguardair.com",
             "www.winaproduct.com",
             "www.wwwbackstreetboys.com",
             "www.wwwbluelight.com",
@@ -87,7 +81,6 @@
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
-            "www.zbest.in",
             "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
             "y.zeroredirect.com",
@@ -95,6 +88,13 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
+        ],
+        "to_test": [
+            "unblocksit.es",
+            "www.auctiondirectory.org",
+            "www.drivotracker.com",
+            "www.guaranty.com.cn",
+            "www.zbest.in"
         ]
     }
 }
