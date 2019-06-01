@@ -21,9 +21,7 @@
             "finders.hopto.org",
             "ftp.flyfishusa.com",
             "g.zeroredirect.com",
-            "gbanners.hornymatches.com"
-        ],
-        "to_test": [
+            "gbanners.hornymatches.com",
             "h.zeroredirect.com",
             "handlerhackz.tk",
             "havijrat.zapto.org",
@@ -42,7 +40,9 @@
             "p.zeroredirect.com",
             "q.zeroredirect.com",
             "qzip.cjb.net",
-            "rahulthehacker.tk",
+            "rahulthehacker.tk"
+        ],
+        "to_test": [
             "s.zeroredirect.com",
             "t.zeroredirect.com",
             "unblocksit.es",
