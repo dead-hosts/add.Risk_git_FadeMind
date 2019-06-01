@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/add.Risk.list": {
-        "1559219694": [
+        "1559376514": [
             "11163221-517901.c.adprotect.net",
             "6.mamaswishes.com",
             "a.zeroredirect.com",
@@ -21,7 +21,9 @@
             "finders.hopto.org",
             "ftp.flyfishusa.com",
             "g.zeroredirect.com",
-            "gbanners.hornymatches.com",
+            "gbanners.hornymatches.com"
+        ],
+        "to_test": [
             "h.zeroredirect.com",
             "handlerhackz.tk",
             "havijrat.zapto.org",
@@ -43,20 +45,24 @@
             "rahulthehacker.tk",
             "s.zeroredirect.com",
             "t.zeroredirect.com",
+            "unblocksit.es",
             "urchman11.zapto.org",
             "w.zeroredirect.com",
             "www.39dvd-999.com",
             "www.akirkpatrick.com",
+            "www.auctiondirectory.org",
             "www.ayehcleaners.com",
             "www.beyondwhois.com",
             "www.bluemountain2.com",
             "www.butterfly-media.co.uk",
             "www.clean-search.com",
             "www.collectiable.com",
+            "www.drivotracker.com",
             "www.egoldenglove.com",
             "www.elisaart.it",
             "www.google-docs.org",
             "www.gratisweb.com",
+            "www.guaranty.com.cn",
             "www.gxplugin.com",
             "www.hot-bot.com",
             "www.jque.net",
@@ -81,6 +87,7 @@
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
+            "www.zbest.in",
             "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
             "y.zeroredirect.com",
@@ -88,13 +95,6 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
-        ],
-        "to_test": [
-            "unblocksit.es",
-            "www.auctiondirectory.org",
-            "www.drivotracker.com",
-            "www.guaranty.com.cn",
-            "www.zbest.in"
         ]
     }
 }
