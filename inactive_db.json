@@ -44,6 +44,7 @@
             "s.zeroredirect.com",
             "t.zeroredirect.com",
             "urchman11.zapto.org",
+            "w.zeroredirect.com",
             "www.39dvd-999.com",
             "www.ayehcleaners.com",
             "www.beyondwhois.com",
@@ -66,20 +67,11 @@
             "www.pc-detox.com",
             "www.qzip.cjb.net",
             "www.registrycleanerpro.net",
-            "www.scanspyware.net"
-        ],
-        "to_test": [
-            "unblocksit.es",
-            "w.zeroredirect.com",
-            "www.akirkpatrick.com",
-            "www.auctiondirectory.org",
-            "www.drivotracker.com",
-            "www.guaranty.com.cn",
+            "www.scanspyware.net",
             "www.theads.me",
             "www.thebighits.com",
             "www.unblocksit.es",
             "www.vanguardair.com",
-            "www.winaproduct.com",
             "www.wwwbackstreetboys.com",
             "www.wwwbluelight.com",
             "www.wwwgameshark.com",
@@ -87,7 +79,6 @@
             "www.xchangetrak.com",
             "www.xvika.net",
             "www.xvika.org",
-            "www.zbest.in",
             "x.zeroredirect.com",
             "xxxxxxx.hopto.org",
             "y.zeroredirect.com",
@@ -95,6 +86,15 @@
             "z.zeroredirect.com",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com"
+        ],
+        "to_test": [
+            "unblocksit.es",
+            "www.akirkpatrick.com",
+            "www.auctiondirectory.org",
+            "www.drivotracker.com",
+            "www.guaranty.com.cn",
+            "www.winaproduct.com",
+            "www.zbest.in"
         ]
     }
 }
