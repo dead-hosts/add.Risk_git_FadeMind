@@ -1870,9 +1870,9 @@
         "state": "future"
     },
     "hoerbird.net": {
-        "epoch": "1559520000",
+        "epoch": 1559520000,
         "expiration_date": "03-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "holika.com": {
         "epoch": "1562284800",
@@ -3225,9 +3225,9 @@
         "state": "future"
     },
     "registry-cleaner.net": {
-        "epoch": "1559520000",
+        "epoch": 1559520000,
         "expiration_date": "03-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "registry-cleaners-compared.com": {
         "epoch": "1575244800",
