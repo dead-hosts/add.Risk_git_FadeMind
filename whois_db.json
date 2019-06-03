@@ -1120,9 +1120,9 @@
         "state": "future"
     },
     "dentairemalin.com": {
-        "epoch": 1559347200,
-        "expiration_date": "01-jun-2019",
-        "state": "past"
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
     },
     "desifever.com": {
         "epoch": "1574294400",
@@ -1765,8 +1765,8 @@
         "state": "future"
     },
     "gwmtracker.com": {
-        "epoch": "1559520000",
-        "expiration_date": "03-jun-2019",
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "gxplugin.com": {
