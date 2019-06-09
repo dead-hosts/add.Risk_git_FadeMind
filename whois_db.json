@@ -2160,9 +2160,9 @@
         "state": "future"
     },
     "kazaa.com": {
-        "epoch": "1560038400",
+        "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "keygen.us": {
         "epoch": "1597795200",
@@ -3585,9 +3585,9 @@
         "state": "future"
     },
     "sevenstars7.com": {
-        "epoch": "1560038400",
+        "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "shareaza.com": {
         "epoch": "1717200000",
