@@ -2160,9 +2160,9 @@
         "state": "future"
     },
     "kazaa.com": {
-        "epoch": 1560038400,
-        "expiration_date": "09-jun-2019",
-        "state": "past"
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
     },
     "keygen.us": {
         "epoch": "1597795200",
@@ -2335,8 +2335,8 @@
         "state": "future"
     },
     "longtraffic.com": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "lostartofbeingadame.com": {
@@ -2530,8 +2530,8 @@
         "state": "future"
     },
     "minigameplanet.com": {
-        "epoch": "1560124800",
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "mlinktracker.com": {
@@ -2795,8 +2795,8 @@
         "state": "future"
     },
     "ojolink.fr": {
-        "epoch": "1560124800",
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "oldgames.zp.ua": {
@@ -3585,9 +3585,9 @@
         "state": "future"
     },
     "sevenstars7.com": {
-        "epoch": 1560038400,
-        "expiration_date": "09-jun-2019",
-        "state": "past"
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
     },
     "shareaza.com": {
         "epoch": "1717200000",
@@ -3625,9 +3625,9 @@
         "state": "future"
     },
     "skypeclass.com": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "skypefr.com": {
         "epoch": "1561766400",
