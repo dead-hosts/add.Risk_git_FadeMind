@@ -2380,8 +2380,8 @@
         "state": "future"
     },
     "m1crosoft.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "m57ku6sm.com": {
@@ -3335,8 +3335,8 @@
         "state": "future"
     },
     "rivasearchpage.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "rngetek.com": {
