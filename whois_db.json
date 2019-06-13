@@ -250,9 +250,9 @@
         "state": "future"
     },
     "amazing-offers.co.il": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "american-prize-center.com": {
         "epoch": "1597881600",
@@ -910,8 +910,8 @@
         "state": "future"
     },
     "clickthruserver.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1718150400,
+        "expiration_date": "12-jun-2024",
         "state": "future"
     },
     "cliop.com": {
