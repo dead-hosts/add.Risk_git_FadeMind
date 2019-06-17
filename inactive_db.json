@@ -23,10 +23,8 @@
             "ftp.flyfishusa.com",
             "g.zeroredirect.com",
             "gbanners.hornymatches.com",
-            "handlerhackz.tk"
-        ],
-        "to_test": [
             "h.zeroredirect.com",
+            "handlerhackz.tk",
             "havijrat.zapto.org",
             "hira.hopto.org",
             "i.trkjmp.com",
@@ -38,12 +36,14 @@
             "m.zeroredirect.com",
             "mrace.hopto.org",
             "n.zeroredirect.com",
-            "notrecommended.co.uk",
             "o.zeroredirect.com",
             "p.zeroredirect.com",
             "q.zeroredirect.com",
             "qzip.cjb.net",
-            "rahulthehacker.tk",
+            "rahulthehacker.tk"
+        ],
+        "to_test": [
+            "notrecommended.co.uk",
             "s.zeroredirect.com",
             "t.zeroredirect.com",
             "unblocksit.es",
