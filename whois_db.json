@@ -25,8 +25,8 @@
         "state": "future"
     },
     "11zz.com": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "123go.com": {
@@ -1400,8 +1400,8 @@
         "state": "future"
     },
     "eyes.by": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1623974400,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "ezthemes.com": {
