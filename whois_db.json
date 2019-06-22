@@ -400,9 +400,9 @@
         "state": "future"
     },
     "audia6.com": {
-        "epoch": "1561161600",
+        "epoch": 1561161600,
         "expiration_date": "22-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "auto-overview.com": {
         "epoch": "1574640000",
@@ -1185,8 +1185,8 @@
         "state": "future"
     },
     "doheth.co.uk": {
-        "epoch": "1561161600",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "dollarrentcar.com": {
@@ -1855,8 +1855,8 @@
         "state": "future"
     },
     "historykill.com": {
-        "epoch": "1561161600",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "hitwastedgarden.com": {
