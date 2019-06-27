@@ -290,9 +290,9 @@
         "state": "future"
     },
     "angolotesti.it": {
-        "epoch": 1560124800,
-        "expiration_date": "10-jun-2019",
-        "state": "past"
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
     },
     "animal-drawings.com": {
         "epoch": "1578268800",
@@ -515,9 +515,9 @@
         "state": "future"
     },
     "bestwm.info": {
-        "epoch": "1561593600",
+        "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "beyondwhois.com": {
         "epoch": "1584403200",
@@ -670,9 +670,9 @@
         "state": "future"
     },
     "cabeles.com": {
-        "epoch": "1561593600",
+        "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "cadillacescalade.com": {
         "epoch": "1624320000",
