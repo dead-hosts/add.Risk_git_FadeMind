@@ -81,9 +81,7 @@
             "g.zeroredirect.com": "INACTIVE"
         },
         "1561365645": {},
-        "1561623785": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
+        "1561623785": {},
         "1561710576": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -105,7 +103,8 @@
             "f.zeroredirect.com": "INACTIVE",
             "fecabook.redirectme.net": "INACTIVE",
             "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
+            "ftp.flyfishusa.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE"
         }
     }
 }
