@@ -150,9 +150,9 @@
         "state": "future"
     },
     "adlock.in": {
-        "epoch": "1562284800",
+        "epoch": 1562284800,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "adnetworkperformance.com": {
         "epoch": "1587945600",
