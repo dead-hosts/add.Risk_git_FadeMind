@@ -740,9 +740,9 @@
         "state": "future"
     },
     "ceskarepublika.net": {
-        "epoch": "1562457600",
+        "epoch": 1562457600,
         "expiration_date": "07-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "chaseonline.com": {
         "epoch": "1582848000",
