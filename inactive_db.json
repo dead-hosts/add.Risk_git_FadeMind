@@ -102,10 +102,7 @@
         "1562401617": {
             "d.zeroredirect.com": "INACTIVE"
         },
-        "1562488044": {
-            "dlldlldll.sytes.net": "INACTIVE",
-            "doda.redirectme.net": "INACTIVE"
-        },
+        "1562488044": {},
         "1562575061": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -119,7 +116,9 @@
             "bbs.bjchun.com": "INACTIVE",
             "c.zeroredirect.com": "INACTIVE",
             "cdn.opensubcontent.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
+            "compactiongames.gameaholic.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE"
         }
     }
 }
