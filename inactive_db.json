@@ -104,7 +104,6 @@
         },
         "1562488044": {},
         "1562575061": {
-            "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE"
         },
         "1562661560": {},
@@ -121,7 +120,8 @@
             "bbs.bjchun.com": "INACTIVE",
             "c.zeroredirect.com": "INACTIVE",
             "cdn.opensubcontent.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
+            "compactiongames.gameaholic.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE"
         }
     }
 }
