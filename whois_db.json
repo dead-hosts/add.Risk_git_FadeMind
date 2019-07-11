@@ -495,8 +495,8 @@
         "state": "future"
     },
     "bestadbid.com": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "bestappinstalls.com": {
@@ -895,8 +895,8 @@
         "state": "future"
     },
     "clickbank.net": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "clickcash.com": {
