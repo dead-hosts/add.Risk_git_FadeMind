@@ -1,16 +1,21 @@
 {
-    "arguments": [],
-    "clean_list_file": "clean.list",
-    "clean_original": "1",
-    "commit_autosave_message": "Test of add.Risk",
-    "currently_under_test": "0",
-    "days_until_next_test": "0",
-    "last_test": "1563578962",
-    "list_name": "add.Risk.list",
-    "name": "add.Risk",
+    "currently_under_test": true,
+    "custom_pyfunceble_config": {},
+    "days_until_next_test": 0.0,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2019-08-12T13:58:23.747791",
+    "last_download_timestamp": 1565618303.747791,
+    "latest_part_finish_datetime": "2019-08-12T14:08:35.958104",
+    "latest_part_finish_timestamp": 1565618915.958104,
+    "latest_part_start_datetime": "2019-08-12T13:58:24.385797",
+    "latest_part_start_timestamp": 1565618304.385797,
+    "name": "add.Risk_git_FadeMind",
+    "own_management": false,
     "ping": [
-        "FadeMind"
+        "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
-    "stable": "0"
+    "start_datetime": "2019-08-12T13:58:24.382879",
+    "start_timestamp": 1565618304.382879
 }

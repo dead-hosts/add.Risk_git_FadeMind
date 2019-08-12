@@ -5,8 +5,8 @@
         "state": "future"
     },
     "1001movies.com": {
-        "epoch": "1563926400",
-        "expiration_date": "24-jul-2019",
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "101malls.com": {
@@ -75,8 +75,8 @@
         "state": "future"
     },
     "abacusfinance.co.uk": {
-        "epoch": "1564099200",
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "accidentadvicehelpline.co.uk": {
@@ -225,8 +225,8 @@
         "state": "future"
     },
     "alaskaaair.com": {
-        "epoch": "1564099200",
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "albiondrugs.com": {
@@ -350,8 +350,8 @@
         "state": "future"
     },
     "areasnap.com": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "arecio.work": {
@@ -555,8 +555,8 @@
         "state": "future"
     },
     "blog-hits.com": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "blogrankers.com": {
@@ -620,8 +620,8 @@
         "state": "future"
     },
     "brevardmusic.com": {
-        "epoch": "1563667200",
-        "expiration_date": "21-jul-2019",
+        "epoch": 1721520000,
+        "expiration_date": "21-jul-2024",
         "state": "future"
     },
     "bride1.com": {
@@ -840,8 +840,8 @@
         "state": "future"
     },
     "cleanersoft.com": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "cleanmypc.com": {
@@ -855,8 +855,8 @@
         "state": "future"
     },
     "cleanproxy.com": {
-        "epoch": "1564704000",
-        "expiration_date": "02-aug-2019",
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "cleansearch.net": {
@@ -935,8 +935,8 @@
         "state": "future"
     },
     "cloudtracked.com": {
-        "epoch": "1565395200",
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "clxcaf.com": {
@@ -990,8 +990,8 @@
         "state": "future"
     },
     "comfz.com": {
-        "epoch": "1564531200",
-        "expiration_date": "31-jul-2019",
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "conds.ru": {
@@ -1010,8 +1010,8 @@
         "state": "future"
     },
     "contentcleaner.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "continentialairline.com": {
@@ -1105,8 +1105,8 @@
         "state": "future"
     },
     "cybertown.ru": {
-        "epoch": "1563840000",
-        "expiration_date": "23-jul-2019",
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "cyberzine.com": {
@@ -1130,9 +1130,9 @@
         "state": "future"
     },
     "digiaquascr.com": {
-        "epoch": "1565568000",
+        "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "dimarsbg.com": {
         "epoch": "1576195200",
@@ -1140,8 +1140,8 @@
         "state": "future"
     },
     "directxex.com": {
-        "epoch": "1563321600",
-        "expiration_date": "17-jul-2019",
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "disable-uac.com": {
@@ -1205,8 +1205,8 @@
         "state": "future"
     },
     "dotzup.com": {
-        "epoch": "1565568000",
-        "expiration_date": "12-aug-2019",
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "dougmlee.com": {
@@ -1215,8 +1215,8 @@
         "state": "future"
     },
     "dowdenphotography.com": {
-        "epoch": "1564876800",
-        "expiration_date": "04-aug-2019",
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "down1oads.com": {
@@ -1285,14 +1285,14 @@
         "state": "future"
     },
     "ecdtrk.com": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "eclean.or.kr": {
-        "epoch": 1560556800,
-        "expiration_date": "15-jun-2019",
-        "state": "past"
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
     },
     "eclkspsa.com": {
         "epoch": 1592179200,
@@ -1445,8 +1445,8 @@
         "state": "future"
     },
     "federicksofhollywood.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "femeedia.com": {
@@ -1700,8 +1700,8 @@
         "state": "future"
     },
     "google-docs.org": {
-        "epoch": "1562803200",
-        "expiration_date": "11-jul-2019",
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "googlew.com": {
