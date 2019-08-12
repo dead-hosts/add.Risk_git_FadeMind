@@ -4695,8 +4695,8 @@
         "state": "future"
     },
     "zoompegs.com": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "zoophil.com": {
@@ -4710,8 +4710,8 @@
         "state": "future"
     },
     "zootoplist.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "zootravel.com": {
