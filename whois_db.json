@@ -2525,8 +2525,8 @@
         "state": "future"
     },
     "ming-dun.com.tw": {
-        "epoch": "1565654400",
-        "expiration_date": "13-aug-2019",
+        "epoch": 1660348800,
+        "expiration_date": "13-aug-2022",
         "state": "future"
     },
     "minigameplanet.com": {
@@ -2610,18 +2610,18 @@
         "state": "past"
     },
     "mpmotrk.com": {
-        "epoch": "1565654400",
-        "expiration_date": "13-aug-2019",
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "mprptrk.com": {
-        "epoch": "1565654400",
-        "expiration_date": "13-aug-2019",
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "mpxxtrk.com": {
-        "epoch": "1565654400",
-        "expiration_date": "13-aug-2019",
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "ms-mvp.org": {
@@ -3030,9 +3030,9 @@
         "state": "future"
     },
     "php4you.biz": {
-        "epoch": 1565395200,
-        "expiration_date": "10-aug-2019",
-        "state": "past"
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
     },
     "pillsmoney.com": {
         "epoch": "1586044800",
