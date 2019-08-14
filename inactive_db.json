@@ -134,7 +134,6 @@
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
         "1565618315": {
-            "hira.hopto.org": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE",
             "n.zeroredirect.com": "INACTIVE",
             "q.zeroredirect.com": "INACTIVE",
@@ -184,6 +183,7 @@
             "h.zeroredirect.com": "INACTIVE",
             "handlerhackz.tk": "INACTIVE",
             "havijrat.zapto.org": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
             "i.trkjmp.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
