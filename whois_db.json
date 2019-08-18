@@ -500,9 +500,9 @@
         "state": "future"
     },
     "bestappinstalls.com": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "bestsearch.com": {
         "epoch": "1576368000",
