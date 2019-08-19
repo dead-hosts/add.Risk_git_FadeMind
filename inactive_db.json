@@ -222,7 +222,6 @@
             "f.zeroredirect.com": "INACTIVE"
         },
         "1566120639": {
-            "fecabook.redirectme.net": "INACTIVE",
             "finders.hopto.org": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
         },
@@ -243,7 +242,8 @@
             "d.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE",
-            "e.zeroredirect.com": "INACTIVE"
+            "e.zeroredirect.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE"
         }
     }
 }
