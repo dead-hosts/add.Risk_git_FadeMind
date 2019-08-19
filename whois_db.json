@@ -1350,9 +1350,9 @@
         "state": "future"
     },
     "epmclk.com": {
-        "epoch": "1566172800",
+        "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "equallyyolked.com": {
         "epoch": "1570233600",
