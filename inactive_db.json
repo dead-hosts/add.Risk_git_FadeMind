@@ -225,9 +225,7 @@
             "finders.hopto.org": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
         },
-        "1566207041": {
-            "fecabook.redirectme.net": "INACTIVE"
-        },
+        "1566207041": {},
         "1566377130": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -245,7 +243,8 @@
             "d.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE",
-            "e.zeroredirect.com": "INACTIVE"
+            "e.zeroredirect.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE"
         }
     }
 }
