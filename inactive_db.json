@@ -232,9 +232,7 @@
         },
         "1566550008": {},
         "1566636533": {
-            "d.zeroredirect.com": "INACTIVE",
-            "dlldlldll.sytes.net": "INACTIVE",
-            "doda.redirectme.net": "INACTIVE"
+            "d.zeroredirect.com": "INACTIVE"
         },
         "1566723094": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
@@ -249,7 +247,9 @@
             "b.zeroredirect.com": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "c.zeroredirect.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
+            "compactiongames.gameaholic.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE"
         }
     }
 }
