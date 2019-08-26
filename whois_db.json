@@ -185,9 +185,9 @@
         "state": "future"
     },
     "advancedsoftwaresupport.com": {
-        "epoch": "1566777600",
+        "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "aff12.com": {
         "epoch": "1575849600",
