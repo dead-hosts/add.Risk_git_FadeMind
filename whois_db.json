@@ -2040,9 +2040,9 @@
         "state": "future"
     },
     "itunesdownloadstore.com": {
-        "epoch": "1567987200",
+        "epoch": 1567987200,
         "expiration_date": "09-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "iybasketball.info": {
         "epoch": 1592870400,
@@ -2115,8 +2115,8 @@
         "state": "future"
     },
     "joinourwebsite.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "josip-stadler.org": {
@@ -2260,8 +2260,8 @@
         "state": "future"
     },
     "letzonke.com": {
-        "epoch": "1565913600",
-        "expiration_date": "16-aug-2019",
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "libecki.net": {
@@ -2355,8 +2355,8 @@
         "state": "future"
     },
     "lufthansaairlines.com": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "lufthanza.com": {
@@ -2445,8 +2445,8 @@
         "state": "future"
     },
     "mapquuest.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "marketingenhanced.com": {
@@ -2475,8 +2475,8 @@
         "state": "future"
     },
     "maxregistrycleaner.net": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "mcleanvahomes.com": {
@@ -2545,8 +2545,8 @@
         "state": "future"
     },
     "mmapquest.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "mmtracking.com": {
@@ -2655,8 +2655,8 @@
         "state": "future"
     },
     "mydati.com": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "myoffers.co.uk": {
@@ -2665,8 +2665,8 @@
         "state": "future"
     },
     "mysearch-engine.com": {
-        "epoch": "1567123200",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "mysearchweb.net": {
@@ -2705,8 +2705,8 @@
         "state": "future"
     },
     "neki.org": {
-        "epoch": "1567814400",
-        "expiration_date": "07-sep-2019",
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "nestscape.com": {
@@ -2755,8 +2755,8 @@
         "state": "future"
     },
     "nkgamers.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "nmapquest.com": {
@@ -2800,9 +2800,9 @@
         "state": "future"
     },
     "oldgames.zp.ua": {
-        "epoch": "1567728000",
+        "epoch": 1567728000,
         "expiration_date": "06-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "omnicleaningservices.com": {
         "epoch": "1583971200",
@@ -3020,8 +3020,8 @@
         "state": "future"
     },
     "petsmovies.com": {
-        "epoch": "1566432000",
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "pfaltzgraf.com": {
@@ -3120,8 +3120,8 @@
         "state": "future"
     },
     "primosearch.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "privdog.com": {
@@ -3150,8 +3150,8 @@
         "state": "future"
     },
     "pumpkin.co.uk": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "puroclean.com": {
@@ -3215,8 +3215,8 @@
         "state": "future"
     },
     "regdefense.com": {
-        "epoch": "1566691200",
-        "expiration_date": "25-aug-2019",
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "registry-clean-up.net": {
@@ -3390,8 +3390,8 @@
         "state": "future"
     },
     "safemobilelink.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "safepccleaner.com": {
@@ -3460,8 +3460,8 @@
         "state": "future"
     },
     "searchinquire.com": {
-        "epoch": "1566691200",
-        "expiration_date": "25-aug-2019",
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "searchmachine.com": {
@@ -3540,8 +3540,8 @@
         "state": "past"
     },
     "seekinstantly.com": {
-        "epoch": "1566691200",
-        "expiration_date": "25-aug-2019",
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "seethisinaction.com": {
@@ -3575,8 +3575,8 @@
         "state": "future"
     },
     "seoholding.com": {
-        "epoch": "1566432000",
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "seonetwizard.com": {
@@ -3670,8 +3670,8 @@
         "state": "future"
     },
     "softwareupdaterlp.com": {
-        "epoch": "1567382400",
-        "expiration_date": "02-sep-2019",
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "sompuserve.com": {
@@ -3725,13 +3725,13 @@
         "state": "future"
     },
     "spywarenuker.com": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "spywarespy.com": {
-        "epoch": "1567209600",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "srv2trking.com": {
