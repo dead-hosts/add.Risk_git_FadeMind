@@ -3765,8 +3765,8 @@
         "state": "future"
     },
     "stressx.org": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "stripteas.com": {
@@ -3885,8 +3885,8 @@
         "state": "future"
     },
     "thesearchster.com": {
-        "epoch": "1567900800",
-        "expiration_date": "08-sep-2019",
+        "epoch": 1631059200,
+        "expiration_date": "08-sep-2021",
         "state": "future"
     },
     "thesurfshield.com": {
@@ -3970,8 +3970,8 @@
         "state": "future"
     },
     "tracki112.com": {
-        "epoch": "1567296000",
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "tracklead.net": {
@@ -4200,8 +4200,8 @@
         "state": "future"
     },
     "vclicks.net": {
-        "epoch": "1566432000",
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "vdhu.com": {
