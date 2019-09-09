@@ -105,8 +105,8 @@
         "state": "future"
     },
     "adamsfilms.com": {
-        "epoch": "1567209600",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "adamsmarkhotels.com": {
@@ -420,8 +420,8 @@
         "state": "future"
     },
     "av-clean.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "avis.cm": {
@@ -440,8 +440,8 @@
         "state": "future"
     },
     "balook.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "bananarepubic.com": {
@@ -995,8 +995,8 @@
         "state": "future"
     },
     "conds.ru": {
-        "epoch": "1567555200",
-        "expiration_date": "04-sep-2019",
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "conduit.com": {
@@ -1115,8 +1115,8 @@
         "state": "future"
     },
     "cybilling.com": {
-        "epoch": "1567296000",
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "dentairemalin.com": {
@@ -1250,8 +1250,8 @@
         "state": "future"
     },
     "dualvaccine.com": {
-        "epoch": "1567123200",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "duplicatefilecleaner.com": {
@@ -1415,8 +1415,8 @@
         "state": "future"
     },
     "facebook.cm": {
-        "epoch": "1566950400",
-        "expiration_date": "28-aug-2019",
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "facebookloginsignin.com": {
@@ -1435,8 +1435,8 @@
         "state": "future"
     },
     "fastnclick.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "favicon.com": {
@@ -1485,8 +1485,8 @@
         "state": "future"
     },
     "fmcurling.org": {
-        "epoch": "1566172800",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "foreclousure.com": {
@@ -1590,9 +1590,9 @@
         "state": "future"
     },
     "gameatlas.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "gameplaylabs.com": {
         "epoch": "1572134400",
@@ -1750,8 +1750,8 @@
         "state": "future"
     },
     "gratisweb.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "guaranty.com.cn": {
@@ -1815,8 +1815,8 @@
         "state": "future"
     },
     "hefigo.com": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "helpmedownload.com": {
@@ -1845,8 +1845,8 @@
         "state": "future"
     },
     "hidebux.com": {
-        "epoch": "1566691200",
-        "expiration_date": "25-aug-2019",
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "hidemyass.com": {
