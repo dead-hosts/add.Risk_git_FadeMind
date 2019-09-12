@@ -720,9 +720,9 @@
         "state": "future"
     },
     "cecash.com": {
-        "epoch": 1568073600,
-        "expiration_date": "10-sep-2019",
-        "state": "past"
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
     },
     "centerfind.com": {
         "epoch": "1604707200",
@@ -780,8 +780,8 @@
         "state": "future"
     },
     "chilyregistrycleaner.com": {
-        "epoch": "1568246400",
-        "expiration_date": "12-sep-2019",
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "chlcotrk.com": {
