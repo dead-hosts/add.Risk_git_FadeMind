@@ -1015,8 +1015,8 @@
         "state": "future"
     },
     "continentialairline.com": {
-        "epoch": "1568419200",
-        "expiration_date": "14-sep-2019",
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "contniental.com": {
@@ -1180,8 +1180,8 @@
         "state": "future"
     },
     "dogpial.com": {
-        "epoch": "1568419200",
-        "expiration_date": "14-sep-2019",
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "doheth.co.uk": {
@@ -1190,8 +1190,8 @@
         "state": "future"
     },
     "dollarrentcar.com": {
-        "epoch": "1568419200",
-        "expiration_date": "14-sep-2019",
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "domainfwd.com": {
@@ -1465,9 +1465,9 @@
         "state": "future"
     },
     "firstconsumers.com": {
-        "epoch": "1568505600",
+        "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "fixcleaner.com": {
         "epoch": "1571875200",
