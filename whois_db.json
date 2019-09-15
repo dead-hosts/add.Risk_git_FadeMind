@@ -2225,8 +2225,8 @@
         "state": "future"
     },
     "lateecapes.com": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "lcbcad.co.uk": {
@@ -2395,8 +2395,8 @@
         "state": "future"
     },
     "maconbraves.com": {
-        "epoch": "1568419200",
-        "expiration_date": "14-sep-2019",
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "magellen.com": {
@@ -2425,9 +2425,9 @@
         "state": "future"
     },
     "mamamidia.com": {
-        "epoch": 1562630400,
-        "expiration_date": "09-jul-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "mansmith.net": {
         "epoch": 1594598400,
@@ -2470,8 +2470,8 @@
         "state": "future"
     },
     "maxregistrycleaner.com": {
-        "epoch": "1568419200",
-        "expiration_date": "14-sep-2019",
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "maxregistrycleaner.net": {
