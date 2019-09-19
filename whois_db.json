@@ -245,8 +245,8 @@
         "state": "future"
     },
     "allfet.info": {
-        "epoch": "1568764800",
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "amazing-offers.co.il": {
@@ -695,8 +695,8 @@
         "state": "future"
     },
     "catz4.com": {
-        "epoch": "1568764800",
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "caue971.org": {
@@ -750,13 +750,13 @@
         "state": "future"
     },
     "cheapstickets.com": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1632009600,
+        "expiration_date": "19-sep-2021",
         "state": "future"
     },
     "cheaptickests.com": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1632009600,
+        "expiration_date": "19-sep-2021",
         "state": "future"
     },
     "cheapticketes.com": {
