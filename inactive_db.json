@@ -155,9 +155,7 @@
         "1568628169": {},
         "1568714921": {},
         "1568883577": {
-            "s.zeroredirect.com": "INACTIVE",
             "t.zeroredirect.com": "INACTIVE",
-            "toolbar.wips.com": "INACTIVE",
             "urchman11.zapto.org": "INACTIVE",
             "w.zeroredirect.com": "INACTIVE",
             "www.amazing-offers.co.il": "INACTIVE",
@@ -275,7 +273,9 @@
             "q.zeroredirect.com": "INACTIVE",
             "qacupuzute.angelcities.com": "INACTIVE",
             "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE"
+            "rahulthehacker.tk": "INACTIVE",
+            "s.zeroredirect.com": "INACTIVE",
+            "toolbar.wips.com": "INACTIVE"
         }
     }
 }
