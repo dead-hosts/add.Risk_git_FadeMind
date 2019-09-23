@@ -155,19 +155,7 @@
         "1568628169": {},
         "1568714921": {},
         "1568883577": {},
-        "1569062770": {
-            "w.zeroredirect.com": "INACTIVE",
-            "x.zeroredirect.com": "INACTIVE",
-            "xxxxxxx.hopto.org": "INACTIVE",
-            "xyxudubax.angelcities.com": "INACTIVE",
-            "y.zeroredirect.com": "INACTIVE",
-            "yitkomfj.angelcities.com": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE",
-            "ylgingq.angelcities.com": "INACTIVE",
-            "yvdeuwn.angelcities.com": "INACTIVE",
-            "z.zeroredirect.com": "INACTIVE",
-            "zf1.quebec-bin.com": "INACTIVE"
-        },
+        "1569062770": {},
         "1569229267": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -238,6 +226,7 @@
             "uoaofgqu.angelcities.com": "INACTIVE",
             "uojamcse.angelcities.com": "INACTIVE",
             "urchman11.zapto.org": "INACTIVE",
+            "w.zeroredirect.com": "INACTIVE",
             "www.amazing-offers.co.il": "INACTIVE",
             "www.ayehcleaners.com": "INACTIVE",
             "www.balook.com": "INACTIVE",
@@ -285,7 +274,17 @@
             "www.wwwuproar.com": "INACTIVE",
             "www.xchangetrak.com": "INACTIVE",
             "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE"
+            "www.xvika.org": "INACTIVE",
+            "x.zeroredirect.com": "INACTIVE",
+            "xxxxxxx.hopto.org": "INACTIVE",
+            "xyxudubax.angelcities.com": "INACTIVE",
+            "y.zeroredirect.com": "INACTIVE",
+            "yitkomfj.angelcities.com": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE",
+            "ylgingq.angelcities.com": "INACTIVE",
+            "yvdeuwn.angelcities.com": "INACTIVE",
+            "z.zeroredirect.com": "INACTIVE",
+            "zf1.quebec-bin.com": "INACTIVE"
         }
     }
 }
