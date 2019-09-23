@@ -3655,9 +3655,9 @@
         "state": "future"
     },
     "smartgiveaway.com": {
-        "epoch": "1569196800",
+        "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "smithwick.net": {
         "epoch": "1852243200",
