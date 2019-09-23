@@ -1970,8 +1970,8 @@
         "state": "future"
     },
     "imagesmovies.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "img001.com": {
@@ -2070,18 +2070,18 @@
         "state": "future"
     },
     "jcwhiney.com": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "jcwhintey.com": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "jcwhitey.com": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "jdfabrication.com": {
@@ -2465,8 +2465,8 @@
         "state": "future"
     },
     "maxbounty.com": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "maxregistrycleaner.com": {
@@ -2537,6 +2537,11 @@
     "mlinktracker.com": {
         "epoch": "1588377600",
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "mlpoint.pt": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "mm26.com": {
