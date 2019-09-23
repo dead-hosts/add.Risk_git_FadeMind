@@ -95,8 +95,8 @@
         "state": "past"
     },
     "actrck.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "ad-souk.com": {
@@ -385,8 +385,8 @@
         "state": "future"
     },
     "atofilms.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "atousoft.com": {
@@ -560,8 +560,8 @@
         "state": "future"
     },
     "blogrankers.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "bluemountain1.com": {
