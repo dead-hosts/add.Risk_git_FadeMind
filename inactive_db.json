@@ -157,9 +157,7 @@
         "1568883577": {},
         "1569062770": {},
         "1569229267": {
-            "s.zeroredirect.com": "INACTIVE",
             "t.zeroredirect.com": "INACTIVE",
-            "toolbar.wips.com": "INACTIVE",
             "ualumphuoldi.angelcities.com": "INACTIVE",
             "uoaofgqu.angelcities.com": "INACTIVE",
             "uojamcse.angelcities.com": "INACTIVE",
@@ -268,7 +266,9 @@
             "p.zeroredirect.com": "INACTIVE",
             "q.zeroredirect.com": "INACTIVE",
             "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE"
+            "rahulthehacker.tk": "INACTIVE",
+            "s.zeroredirect.com": "INACTIVE",
+            "toolbar.wips.com": "INACTIVE"
         }
     }
 }
