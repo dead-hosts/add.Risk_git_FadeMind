@@ -3640,9 +3640,9 @@
         "state": "future"
     },
     "skyperec.com": {
-        "epoch": "1569369600",
+        "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "slorent.com": {
         "epoch": "1545177600",
