@@ -158,10 +158,6 @@
         "1569062770": {},
         "1569229267": {},
         "1569362709": {
-            "p.zeroredirect.com": "INACTIVE",
-            "q.zeroredirect.com": "INACTIVE",
-            "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE",
             "s.zeroredirect.com": "INACTIVE",
             "t.zeroredirect.com": "INACTIVE",
             "toolbar.wips.com": "INACTIVE",
@@ -263,7 +259,11 @@
             "m.zeroredirect.com": "INACTIVE",
             "mrace.hopto.org": "INACTIVE",
             "n.zeroredirect.com": "INACTIVE",
-            "o.zeroredirect.com": "INACTIVE"
+            "o.zeroredirect.com": "INACTIVE",
+            "p.zeroredirect.com": "INACTIVE",
+            "q.zeroredirect.com": "INACTIVE",
+            "qzip.cjb.net": "INACTIVE",
+            "rahulthehacker.tk": "INACTIVE"
         }
     }
 }
