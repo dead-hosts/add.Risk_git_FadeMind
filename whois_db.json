@@ -1040,9 +1040,9 @@
         "state": "future"
     },
     "cpatraffictracker.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "crackfulldownload.com": {
         "epoch": "1575849600",
@@ -1225,9 +1225,9 @@
         "state": "future"
     },
     "downloads-whatsapp.com": {
-        "epoch": "1569542400",
+        "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "downloadupload.com": {
         "epoch": "1581811200",
