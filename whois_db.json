@@ -3285,9 +3285,9 @@
         "state": "future"
     },
     "registrysweeper.com": {
-        "epoch": "1569628800",
+        "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "removearrest.com": {
         "epoch": "1650240000",
