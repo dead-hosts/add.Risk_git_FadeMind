@@ -430,9 +430,9 @@
         "state": "future"
     },
     "avskype.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
-        "state": "past"
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
     },
     "ayehcleaners.com": {
         "epoch": "1573084800",
@@ -510,8 +510,8 @@
         "state": "future"
     },
     "bestserials.com": {
-        "epoch": "1569628800",
-        "expiration_date": "28-sep-2019",
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "bestwm.info": {
