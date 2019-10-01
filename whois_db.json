@@ -1790,8 +1790,8 @@
         "state": "future"
     },
     "haedong.es.kr": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1664582400,
+        "expiration_date": "01-oct-2022",
         "state": "future"
     },
     "handyarchive.com": {
@@ -2105,9 +2105,9 @@
         "state": "past"
     },
     "joetoons.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "joincreditexpert.co.uk": {
         "epoch": "1573257600",
