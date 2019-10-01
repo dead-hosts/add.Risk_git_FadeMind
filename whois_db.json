@@ -160,8 +160,8 @@
         "state": "future"
     },
     "adobe-flashplayer.com": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "adprotect.net": {
@@ -635,8 +635,8 @@
         "state": "future"
     },
     "buffalogoesout.com": {
-        "epoch": "1569801600",
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "bugsurf.com": {
@@ -760,13 +760,13 @@
         "state": "future"
     },
     "cheapticketes.com": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1633046400,
+        "expiration_date": "01-oct-2021",
         "state": "future"
     },
     "cheapticketsinc.com": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1633046400,
+        "expiration_date": "01-oct-2021",
         "state": "future"
     },
     "cheapticketts.com": {
