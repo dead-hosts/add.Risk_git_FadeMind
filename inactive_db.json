@@ -163,13 +163,6 @@
         "1569752458": {},
         "1569920611": {
             "w.zeroredirect.com": "INACTIVE",
-            "www.wwwbackstreetboys.com": "INACTIVE",
-            "www.wwwbluelight.com": "INACTIVE",
-            "www.wwwgameshark.com": "INACTIVE",
-            "www.wwwuproar.com": "INACTIVE",
-            "www.xchangetrak.com": "INACTIVE",
-            "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE",
             "x.zeroredirect.com": "INACTIVE",
             "xxxxxxx.hopto.org": "INACTIVE",
             "y.zeroredirect.com": "INACTIVE",
@@ -265,7 +258,14 @@
             "www.travlers.com": "INACTIVE",
             "www.unblocksit.es": "INACTIVE",
             "www.updatesoftwaresend.com": "INACTIVE",
-            "www.vaultsappsbyte.com": "INACTIVE"
+            "www.vaultsappsbyte.com": "INACTIVE",
+            "www.wwwbackstreetboys.com": "INACTIVE",
+            "www.wwwbluelight.com": "INACTIVE",
+            "www.wwwgameshark.com": "INACTIVE",
+            "www.wwwuproar.com": "INACTIVE",
+            "www.xchangetrak.com": "INACTIVE",
+            "www.xvika.net": "INACTIVE",
+            "www.xvika.org": "INACTIVE"
         }
     }
 }
