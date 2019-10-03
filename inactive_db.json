@@ -161,11 +161,7 @@
         "1569574942": {},
         "1569665535": {},
         "1569752458": {},
-        "1569920611": {
-            "y.zeroredirect.com": "INACTIVE",
-            "z.zeroredirect.com": "INACTIVE",
-            "zf1.quebec-bin.com": "INACTIVE"
-        },
+        "1569920611": {},
         "1570093478": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -265,7 +261,10 @@
             "www.xvika.org": "INACTIVE",
             "x.zeroredirect.com": "INACTIVE",
             "xxxxxxx.hopto.org": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE"
+            "y.zeroredirect.com": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE",
+            "z.zeroredirect.com": "INACTIVE",
+            "zf1.quebec-bin.com": "INACTIVE"
         }
     }
 }
