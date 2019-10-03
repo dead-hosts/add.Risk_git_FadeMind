@@ -162,10 +162,7 @@
         "1569665535": {},
         "1569752458": {},
         "1569920611": {
-            "x.zeroredirect.com": "INACTIVE",
-            "xxxxxxx.hopto.org": "INACTIVE",
             "y.zeroredirect.com": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE",
             "z.zeroredirect.com": "INACTIVE",
             "zf1.quebec-bin.com": "INACTIVE"
         },
@@ -265,7 +262,10 @@
             "www.wwwuproar.com": "INACTIVE",
             "www.xchangetrak.com": "INACTIVE",
             "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE"
+            "www.xvika.org": "INACTIVE",
+            "x.zeroredirect.com": "INACTIVE",
+            "xxxxxxx.hopto.org": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE"
         }
     }
 }
