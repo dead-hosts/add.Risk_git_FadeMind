@@ -162,7 +162,6 @@
         "1569665535": {},
         "1569752458": {},
         "1569920611": {
-            "s.zeroredirect.com": "INACTIVE",
             "t.zeroredirect.com": "INACTIVE",
             "urchman11.zapto.org": "INACTIVE",
             "w.zeroredirect.com": "INACTIVE",
@@ -264,7 +263,8 @@
             "p.zeroredirect.com": "INACTIVE",
             "q.zeroredirect.com": "INACTIVE",
             "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE"
+            "rahulthehacker.tk": "INACTIVE",
+            "s.zeroredirect.com": "INACTIVE"
         }
     }
 }
