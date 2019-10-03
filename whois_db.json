@@ -285,9 +285,9 @@
         "state": "future"
     },
     "anglewinks.com": {
-        "epoch": "1570060800",
+        "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "angolotesti.it": {
         "epoch": 1591747200,
@@ -335,8 +335,8 @@
         "state": "future"
     },
     "anycracks.com": {
-        "epoch": "1569974400",
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "aproxtrack2.com": {
