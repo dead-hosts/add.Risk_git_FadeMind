@@ -164,7 +164,6 @@
         "1569920611": {},
         "1570093478": {
             "c.zeroredirect.com": "INACTIVE",
-            "cdn.opensubcontent.com": "INACTIVE",
             "compactiongames.gameaholic.com": "INACTIVE",
             "d.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE",
@@ -267,7 +266,8 @@
             "app.pho8.com": "INACTIVE",
             "ayada.zapto.org": "INACTIVE",
             "b.zeroredirect.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "cdn.opensubcontent.com": "INACTIVE"
         }
     }
 }
