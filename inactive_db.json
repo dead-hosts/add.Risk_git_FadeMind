@@ -133,20 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1570326956": {
-            "e.zeroredirect.com": "INACTIVE",
-            "f.zeroredirect.com": "INACTIVE",
-            "fecabook.redirectme.net": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE",
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "h.zeroredirect.com": "INACTIVE",
-            "hackairtel.tk": "INACTIVE",
-            "handlerhackz.tk": "INACTIVE",
-            "havijrat.zapto.org": "INACTIVE",
-            "hira.hopto.org": "INACTIVE"
-        },
         "1571348210": {
             "images.host.bannerflow.com": "INVALID"
         },
@@ -1895,6 +1881,80 @@
         },
         "1571394294": {
             "email.exacttarget.com": "INACTIVE"
+        },
+        "1571395888": {
+            "e.zeroredirect2.com": "INACTIVE"
+        },
+        "1571395889": {
+            "e.zeroredirect.com": "INACTIVE"
+        },
+        "1571395900": {
+            "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1571395917": {
+            "f.gj555.net": "INACTIVE"
+        },
+        "1571395919": {
+            "finders.hopto.org": "INACTIVE"
+        },
+        "1571395943": {
+            "fotologaso.miss-web.es": "INACTIVE"
+        },
+        "1571395948": {
+            "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1571395956": {
+            "f.zeroredirect.com": "INACTIVE",
+            "f.zeroredirect2.com": "INACTIVE"
+        },
+        "1571395967": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1571395990": {
+            "goldbye.vicp.net": "INACTIVE"
+        },
+        "1571395993": {
+            "graphics.streamray.com": "INACTIVE"
+        },
+        "1571396008": {
+            "g.zeroredirect.com": "INACTIVE"
+        },
+        "1571396023": {
+            "hackairtel.tk": "INACTIVE"
+        },
+        "1571396024": {
+            "hacking.mysteria.cz": "INACTIVE"
+        },
+        "1571396042": {
+            "handlerhackz.tk": "INACTIVE"
+        },
+        "1571396049": {
+            "havijrat.zapto.org": "INACTIVE"
+        },
+        "1571396062": {
+            "helpint.mywebsearch.com": "INACTIVE"
+        },
+        "1571396070": {
+            "hira.hopto.org": "INACTIVE"
+        },
+        "1571396080": {
+            "hosting.conduit.com": "INACTIVE"
+        },
+        "1571396090": {
+            "hustlercash.hit.bg": "INACTIVE"
+        },
+        "1571396096": {
+            "h.zeroredirect.com": "INACTIVE",
+            "hy-brasil.mhwang.com": "INACTIVE"
+        },
+        "1571396110": {
+            "iframes.prettyincash.com": "INACTIVE"
+        },
+        "1571396118": {
+            "images.brainfox.com": "INACTIVE"
+        },
+        "1571396124": {
+            "images.e-mailcom.co.uk": "INACTIVE"
         }
     }
 }

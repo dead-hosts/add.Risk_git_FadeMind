@@ -1345,8 +1345,8 @@
         "state": "future"
     },
     "epmads.com": {
-        "epoch": "1570924800",
-        "expiration_date": "13-oct-2019",
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "epmclk.com": {
@@ -1450,8 +1450,8 @@
         "state": "future"
     },
     "femeedia.com": {
-        "epoch": "1571270400",
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "filefortune.com": {
@@ -1685,8 +1685,8 @@
         "state": "future"
     },
     "gnuetella.com": {
-        "epoch": "1570665600",
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "go777site.com": {
@@ -1830,8 +1830,8 @@
         "state": "future"
     },
     "herezera.com": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "hertzsales.com": {
@@ -1940,8 +1940,8 @@
         "state": "future"
     },
     "icoocash.com": {
-        "epoch": "1570579200",
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "icracks.net": {
@@ -2205,8 +2205,8 @@
         "state": "future"
     },
     "kwbtgame.com": {
-        "epoch": "1571097600",
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "laexotic.com": {
@@ -2385,8 +2385,8 @@
         "state": "future"
     },
     "m57ku6sm.com": {
-        "epoch": "1570665600",
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "maatch.com": {
@@ -2455,8 +2455,8 @@
         "state": "future"
     },
     "martgage.com": {
-        "epoch": "1571097600",
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "mathenea.com": {
@@ -2495,9 +2495,9 @@
         "state": "future"
     },
     "meetyourmessenger.co.uk": {
-        "epoch": "1570147200",
+        "epoch": 1570147200,
         "expiration_date": "04-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "meiluziai.info": {
         "epoch": "1579996800",
@@ -2690,8 +2690,8 @@
         "state": "future"
     },
     "mytotalsearch.com": {
-        "epoch": "1571097600",
-        "expiration_date": "15-oct-2019",
+        "epoch": 1634256000,
+        "expiration_date": "15-oct-2021",
         "state": "future"
     },
     "mywebsearch.com": {
@@ -2755,8 +2755,8 @@
         "state": "future"
     },
     "neyscape.com": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1633996800,
+        "expiration_date": "12-oct-2021",
         "state": "future"
     },
     "nkgamers.com": {
@@ -2795,8 +2795,8 @@
         "state": "future"
     },
     "ohiomm.com": {
-        "epoch": "1570320000",
-        "expiration_date": "06-oct-2019",
+        "epoch": 1633478400,
+        "expiration_date": "06-oct-2021",
         "state": "future"
     },
     "ojolink.fr": {
@@ -2920,8 +2920,8 @@
         "state": "future"
     },
     "pay-per-search.com": {
-        "epoch": "1571356800",
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "payn.me": {
@@ -2935,8 +2935,8 @@
         "state": "future"
     },
     "paypalcz.cz": {
-        "epoch": "1571011200",
-        "expiration_date": "14-oct-2019",
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "payperclickadvertising.org.uk": {
@@ -2980,8 +2980,8 @@
         "state": "future"
     },
     "pcpitstop.com": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "pcregistrycleaner.com": {
@@ -3032,6 +3032,11 @@
     "pfaltzgraf.com": {
         "epoch": 1590624000,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "pgalvaoteles.pt": {
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "php4you.biz": {
@@ -3260,8 +3265,8 @@
         "state": "future"
     },
     "registrycleanersreviewed.com": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "registrycleanertechnology.com": {
@@ -3700,8 +3705,8 @@
         "state": "future"
     },
     "speedrep.com": {
-        "epoch": "1571097600",
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "spiderbait.com": {
@@ -3875,8 +3880,8 @@
         "state": "future"
     },
     "themillionaireinpjs.net": {
-        "epoch": "1571097600",
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "theroamingjew.com": {
@@ -4145,8 +4150,8 @@
         "state": "future"
     },
     "tzw.com": {
-        "epoch": "1571270400",
-        "expiration_date": "17-oct-2019",
+        "epoch": 1665964800,
+        "expiration_date": "17-oct-2022",
         "state": "future"
     },
     "unblockfacebook.co.uk": {
@@ -4175,8 +4180,8 @@
         "state": "future"
     },
     "upproar.com": {
-        "epoch": "1570233600",
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "uprour.com": {
@@ -4255,8 +4260,8 @@
         "state": "future"
     },
     "vpnaffiliates.com": {
-        "epoch": "1570752000",
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "vq918450.com": {
@@ -4270,8 +4275,8 @@
         "state": "future"
     },
     "warco.pl": {
-        "epoch": "1571270400",
-        "expiration_date": "17-oct-2019",
+        "epoch": 1634428800,
+        "expiration_date": "17-oct-2021",
         "state": "future"
     },
     "warezaccess.com": {
@@ -4285,8 +4290,8 @@
         "state": "future"
     },
     "warioland.com": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "watch24.com": {
@@ -4370,8 +4375,8 @@
         "state": "future"
     },
     "wpxn.com": {
-        "epoch": "1570406400",
-        "expiration_date": "07-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "writingassociates.com": {
