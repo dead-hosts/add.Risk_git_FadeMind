@@ -133,91 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1571348539": {
-            "www.zoompegs.com": "INVALID"
-        },
-        "1571348540": {
-            "w.zeroredirect.com": "INVALID",
-            "www.zoosexart.com": "INVALID",
-            "www.zootoplist.com": "INVALID",
-            "www.zootravel.com": "INVALID",
-            "x2.xclicks.net": "INVALID",
-            "x3.extreme-dm.com": "INVALID",
-            "x3.xclicks.net": "INVALID",
-            "x4.xclicks.net": "INVALID"
-        },
-        "1571348541": {
-            "x.bidswitch.net": "INVALID",
-            "x5.xclicks.net": "INVALID",
-            "x6.xclicks.net": "INVALID",
-            "xamateurpornlic.www1.biz": "INVALID",
-            "xchangetrak.com": "INVALID",
-            "xml.adfclick1.com": "INVALID",
-            "xml.adventurefeeds.com": "INVALID",
-            "xml.onwardclick.com": "INVALID",
-            "xml.revenuehits.com": "INVALID"
-        },
-        "1571348542": {
-            "xpornstarsckc.ddns.name": "INVALID",
-            "xporontube.tripod.com": "INVALID",
-            "xvika.net": "INVALID",
-            "xvika.org": "INVALID",
-            "xxx18.ucoz.com": "INVALID"
-        },
-        "1571348543": {
-            "x.zeroredirect.com": "INVALID",
-            "xxxxxxx.hopto.org": "INVALID",
-            "xyxudubax.angelcities.com": "INVALID",
-            "y.extreme-dm.com": "INVALID",
-            "y0.extreme-dm.com": "INVALID",
-            "y1.extreme-dm.com": "INVALID",
-            "ychan.drivershq.hop.clickbank.net": "INVALID",
-            "yitkomfj.angelcities.com": "INVALID"
-        },
-        "1571348551": {
-            "yk.handlerhackz.tk": "INVALID",
-            "ylgingq.angelcities.com": "INVALID"
-        },
-        "1571348552": {
-            "yvdeuwn.angelcities.com": "INVALID"
-        },
-        "1571348553": {
-            "y.zeroredirect.com": "INVALID",
-            "z0.extreme-dm.com": "INVALID",
-            "z1.extreme-dm.com": "INVALID",
-            "za.zeroredirect1.com": "INVALID",
-            "zb.zeroredirect1.com": "INVALID"
-        },
-        "1571348554": {
-            "z.extreme-dm.com": "INVALID",
-            "zc.zeroredirect1.com": "INVALID",
-            "zd.zeroredirect1.com": "INVALID",
-            "zd.zeroredirect2.com": "INVALID",
-            "zd1.zeroredirect1.com": "INVALID",
-            "ze.zeroredirect1.com": "INVALID",
-            "ze.zeroredirect2.com": "INVALID",
-            "ze1.zeroredirect1.com": "INVALID",
-            "zf.zeroredirect1.com": "INVALID",
-            "zf1.quebec-bin.com": "INVALID",
-            "zf1.zeroredirect11.com": "INVALID",
-            "zh1.zeroredirect11.com": "INVALID"
-        },
-        "1571348555": {
-            "zipitfast.com": "INVALID",
-            "zj.zeroredirect1.com": "INVALID",
-            "zj1.zeroredirect1.com": "INVALID",
-            "zk.zeroredirect1.com": "INVALID",
-            "zm1.zeroredirect5.com": "INVALID"
-        },
-        "1571348556": {
-            "zr1.zeroredirect11.com": "INVALID",
-            "zs1.zeroredirect1.com": "INVALID",
-            "zsc.scmspain.com": "INVALID"
-        },
-        "1571348557": {
-            "z.zeroredirect.com": "INVALID",
-            "zzz.clickbank.net": "INVALID"
-        },
         "1571562779": {
             "0.r.msn.com": "INACTIVE"
         },
@@ -1441,6 +1356,62 @@
         },
         "1571566125": {
             "www.zoogdisny.com": "INACTIVE"
+        },
+        "1571567012": {
+            "w.zeroredirect.com": "INACTIVE"
+        },
+        "1571567020": {
+            "x.bidswitch.net": "INACTIVE",
+            "xamateurpornlic.www1.biz": "INACTIVE"
+        },
+        "1571567029": {
+            "xpornstarsckc.ddns.name": "INACTIVE",
+            "xporontube.tripod.com": "INACTIVE"
+        },
+        "1571567030": {
+            "xxxxxxx.hopto.org": "INACTIVE"
+        },
+        "1571567031": {
+            "x.zeroredirect.com": "INACTIVE"
+        },
+        "1571567036": {
+            "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1571567050": {
+            "y.zeroredirect.com": "INACTIVE"
+        },
+        "1571567053": {
+            "za.zeroredirect1.com": "INACTIVE",
+            "zb.zeroredirect1.com": "INACTIVE",
+            "zc.zeroredirect1.com": "INACTIVE",
+            "zd1.zeroredirect1.com": "INACTIVE"
+        },
+        "1571567054": {
+            "zd.zeroredirect1.com": "INACTIVE",
+            "zd.zeroredirect2.com": "INACTIVE",
+            "ze.zeroredirect1.com": "INACTIVE",
+            "ze.zeroredirect2.com": "INACTIVE",
+            "ze1.zeroredirect1.com": "INACTIVE"
+        },
+        "1571567055": {
+            "zf.zeroredirect1.com": "INACTIVE",
+            "zf1.quebec-bin.com": "INACTIVE",
+            "zf1.zeroredirect11.com": "INACTIVE",
+            "zh1.zeroredirect11.com": "INACTIVE",
+            "zj.zeroredirect1.com": "INACTIVE",
+            "zj1.zeroredirect1.com": "INACTIVE",
+            "zk.zeroredirect1.com": "INACTIVE",
+            "zm1.zeroredirect5.com": "INACTIVE"
+        },
+        "1571567059": {
+            "zr1.zeroredirect11.com": "INACTIVE",
+            "zs1.zeroredirect1.com": "INACTIVE"
+        },
+        "1571567065": {
+            "zsc.scmspain.com": "INACTIVE"
+        },
+        "1571567066": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
