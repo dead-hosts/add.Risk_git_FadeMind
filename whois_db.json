@@ -3430,8 +3430,8 @@
         "state": "future"
     },
     "sayherbal.com": {
-        "epoch": "1571443200",
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "scanspyware.net": {
@@ -3450,8 +3450,8 @@
         "state": "future"
     },
     "searchatomic.com": {
-        "epoch": "1570320000",
-        "expiration_date": "06-oct-2019",
+        "epoch": 1577664000,
+        "expiration_date": "30-dec-2019",
         "state": "future"
     },
     "searchdiscovered.com": {
@@ -3685,9 +3685,9 @@
         "state": "future"
     },
     "sompuserve.com": {
-        "epoch": "1570406400",
+        "epoch": 1570406400,
         "expiration_date": "07-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "spamnuker.com": {
         "epoch": "1573948800",
