@@ -1990,8 +1990,8 @@
         "state": "future"
     },
     "innatek.com": {
-        "epoch": "1571529600",
-        "expiration_date": "20-oct-2019",
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "inndl.com": {
@@ -2835,8 +2835,8 @@
         "state": "future"
     },
     "onlineadmin.net": {
-        "epoch": "1570406400",
-        "expiration_date": "07-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "onlinedownloads.org": {
