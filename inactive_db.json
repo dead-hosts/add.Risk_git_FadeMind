@@ -133,39 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1571567053": {
-            "za.zeroredirect1.com": "INACTIVE",
-            "zb.zeroredirect1.com": "INACTIVE",
-            "zc.zeroredirect1.com": "INACTIVE",
-            "zd1.zeroredirect1.com": "INACTIVE"
-        },
-        "1571567054": {
-            "zd.zeroredirect1.com": "INACTIVE",
-            "zd.zeroredirect2.com": "INACTIVE",
-            "ze.zeroredirect1.com": "INACTIVE",
-            "ze.zeroredirect2.com": "INACTIVE",
-            "ze1.zeroredirect1.com": "INACTIVE"
-        },
-        "1571567055": {
-            "zf.zeroredirect1.com": "INACTIVE",
-            "zf1.quebec-bin.com": "INACTIVE",
-            "zf1.zeroredirect11.com": "INACTIVE",
-            "zh1.zeroredirect11.com": "INACTIVE",
-            "zj.zeroredirect1.com": "INACTIVE",
-            "zj1.zeroredirect1.com": "INACTIVE",
-            "zk.zeroredirect1.com": "INACTIVE",
-            "zm1.zeroredirect5.com": "INACTIVE"
-        },
-        "1571567059": {
-            "zr1.zeroredirect11.com": "INACTIVE",
-            "zs1.zeroredirect1.com": "INACTIVE"
-        },
-        "1571567065": {
-            "zsc.scmspain.com": "INACTIVE"
-        },
-        "1571567066": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1571695993": {
             "0.r.msn.com": "INACTIVE"
         },
@@ -1407,6 +1374,41 @@
         },
         "1571704463": {
             "y.zeroredirect.com": "INACTIVE"
+        },
+        "1571704909": {
+            "za.zeroredirect1.com": "INACTIVE",
+            "zb.zeroredirect1.com": "INACTIVE",
+            "zc.zeroredirect1.com": "INACTIVE"
+        },
+        "1571704910": {
+            "zd.zeroredirect1.com": "INACTIVE",
+            "zd.zeroredirect2.com": "INACTIVE",
+            "zd1.zeroredirect1.com": "INACTIVE",
+            "ze.zeroredirect1.com": "INACTIVE",
+            "ze.zeroredirect2.com": "INACTIVE",
+            "ze1.zeroredirect1.com": "INACTIVE"
+        },
+        "1571704911": {
+            "zf.zeroredirect1.com": "INACTIVE",
+            "zf1.quebec-bin.com": "INACTIVE",
+            "zf1.zeroredirect11.com": "INACTIVE",
+            "zh1.zeroredirect11.com": "INACTIVE",
+            "zj.zeroredirect1.com": "INACTIVE",
+            "zj1.zeroredirect1.com": "INACTIVE",
+            "zk.zeroredirect1.com": "INACTIVE"
+        },
+        "1571704912": {
+            "zm1.zeroredirect5.com": "INACTIVE"
+        },
+        "1571704917": {
+            "zr1.zeroredirect11.com": "INACTIVE",
+            "zs1.zeroredirect1.com": "INACTIVE"
+        },
+        "1571704923": {
+            "zsc.scmspain.com": "INACTIVE"
+        },
+        "1571704924": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
