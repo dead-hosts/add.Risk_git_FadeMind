@@ -133,64 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1571704429": {
-            "x.bidswitch.net": "INACTIVE",
-            "xamateurpornlic.www1.biz": "INACTIVE"
-        },
-        "1571704437": {
-            "xpornstarsckc.ddns.name": "INACTIVE",
-            "xporontube.tripod.com": "INACTIVE"
-        },
-        "1571704439": {
-            "xxxxxxx.hopto.org": "INACTIVE"
-        },
-        "1571704440": {
-            "x.zeroredirect.com": "INACTIVE"
-        },
-        "1571704449": {
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1571704463": {
-            "y.zeroredirect.com": "INACTIVE"
-        },
-        "1571704909": {
-            "za.zeroredirect1.com": "INACTIVE",
-            "zb.zeroredirect1.com": "INACTIVE",
-            "zc.zeroredirect1.com": "INACTIVE"
-        },
-        "1571704910": {
-            "zd.zeroredirect1.com": "INACTIVE",
-            "zd.zeroredirect2.com": "INACTIVE",
-            "zd1.zeroredirect1.com": "INACTIVE",
-            "ze.zeroredirect1.com": "INACTIVE",
-            "ze.zeroredirect2.com": "INACTIVE",
-            "ze1.zeroredirect1.com": "INACTIVE"
-        },
-        "1571704911": {
-            "zf.zeroredirect1.com": "INACTIVE",
-            "zf1.quebec-bin.com": "INACTIVE",
-            "zf1.zeroredirect11.com": "INACTIVE",
-            "zh1.zeroredirect11.com": "INACTIVE",
-            "zj.zeroredirect1.com": "INACTIVE",
-            "zj1.zeroredirect1.com": "INACTIVE",
-            "zk.zeroredirect1.com": "INACTIVE"
-        },
-        "1571704912": {
-            "zm1.zeroredirect5.com": "INACTIVE"
-        },
-        "1571704917": {
-            "zr1.zeroredirect11.com": "INACTIVE",
-            "zs1.zeroredirect1.com": "INACTIVE"
-        },
-        "1571704923": {
-            "zsc.scmspain.com": "INACTIVE"
-        },
-        "1571704924": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
-        "1571747124": {
-            "yvdeuwn.angelcities.com": "INACTIVE"
-        },
         "1572035209": {
             "0.r.msn.com": "INACTIVE"
         },
@@ -1473,6 +1415,62 @@
         },
         "1572049473": {
             "w.zeroredirect.com": "INACTIVE"
+        },
+        "1572052229": {
+            "x.bidswitch.net": "INACTIVE",
+            "xamateurpornlic.www1.biz": "INACTIVE"
+        },
+        "1572052238": {
+            "xpornstarsckc.ddns.name": "INACTIVE",
+            "xporontube.tripod.com": "INACTIVE"
+        },
+        "1572052240": {
+            "xxxxxxx.hopto.org": "INACTIVE"
+        },
+        "1572052242": {
+            "x.zeroredirect.com": "INACTIVE"
+        },
+        "1572052253": {
+            "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1572052269": {
+            "y.zeroredirect.com": "INACTIVE"
+        },
+        "1572052271": {
+            "za.zeroredirect1.com": "INACTIVE",
+            "zb.zeroredirect1.com": "INACTIVE",
+            "zc.zeroredirect1.com": "INACTIVE",
+            "zd1.zeroredirect1.com": "INACTIVE"
+        },
+        "1572052272": {
+            "zd.zeroredirect1.com": "INACTIVE",
+            "zd.zeroredirect2.com": "INACTIVE",
+            "ze1.zeroredirect1.com": "INACTIVE"
+        },
+        "1572052273": {
+            "ze.zeroredirect1.com": "INACTIVE",
+            "ze.zeroredirect2.com": "INACTIVE",
+            "zf.zeroredirect1.com": "INACTIVE",
+            "zf1.zeroredirect11.com": "INACTIVE",
+            "zh1.zeroredirect11.com": "INACTIVE"
+        },
+        "1572052274": {
+            "zj.zeroredirect1.com": "INACTIVE",
+            "zj1.zeroredirect1.com": "INACTIVE",
+            "zk.zeroredirect1.com": "INACTIVE",
+            "zm1.zeroredirect5.com": "INACTIVE"
+        },
+        "1572052278": {
+            "zr1.zeroredirect11.com": "INACTIVE"
+        },
+        "1572052279": {
+            "zs1.zeroredirect1.com": "INACTIVE"
+        },
+        "1572052285": {
+            "zsc.scmspain.com": "INACTIVE"
+        },
+        "1572052286": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
