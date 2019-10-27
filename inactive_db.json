@@ -133,208 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572039366": {
-            "email.exacttarget.com": "INACTIVE"
-        },
-        "1572039377": {
-            "e.zeroredirect2.com": "INACTIVE"
-        },
-        "1572039378": {
-            "e.zeroredirect.com": "INACTIVE"
-        },
-        "1572039389": {
-            "fecabook.redirectme.net": "INACTIVE"
-        },
-        "1572039406": {
-            "f.gj555.net": "INACTIVE"
-        },
-        "1572039413": {
-            "ficcionaliza.angelcities.com": "INACTIVE"
-        },
-        "1572039414": {
-            "finders.hopto.org": "INACTIVE"
-        },
-        "1572039434": {
-            "fotologaso.miss-web.es": "INACTIVE"
-        },
-        "1572039438": {
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
-        "1572039446": {
-            "f.zeroredirect2.com": "INACTIVE"
-        },
-        "1572039447": {
-            "f.zeroredirect.com": "INACTIVE"
-        },
-        "1572039457": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1572039473": {
-            "goldbye.vicp.net": "INACTIVE"
-        },
-        "1572039477": {
-            "graphics.streamray.com": "INACTIVE"
-        },
-        "1572039492": {
-            "g.zeroredirect.com": "INACTIVE"
-        },
-        "1572039493": {
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
-        "1572039504": {
-            "hackairtel.tk": "INACTIVE"
-        },
-        "1572039505": {
-            "hacking.mysteria.cz": "INACTIVE"
-        },
-        "1572039515": {
-            "handlerhackz.tk": "INACTIVE"
-        },
-        "1572039522": {
-            "havijrat.zapto.org": "INACTIVE"
-        },
-        "1572039535": {
-            "helpint.mywebsearch.com": "INACTIVE"
-        },
-        "1572039543": {
-            "hira.hopto.org": "INACTIVE"
-        },
-        "1572039552": {
-            "hosting.conduit.com": "INACTIVE"
-        },
-        "1572039564": {
-            "hustlercash.hit.bg": "INACTIVE"
-        },
-        "1572039571": {
-            "hy-brasil.mhwang.com": "INACTIVE"
-        },
-        "1572039572": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
-        "1572039586": {
-            "iframes.prettyincash.com": "INACTIVE"
-        },
-        "1572039596": {
-            "images.brainfox.com": "INACTIVE"
-        },
-        "1572039602": {
-            "images.e-mailcom.co.uk": "INACTIVE"
-        },
-        "1572039603": {
-            "images.host.bannerflow.com": "INACTIVE"
-        },
-        "1572039609": {
-            "img2.sankakustatic.com": "INACTIVE"
-        },
-        "1572039619": {
-            "internet-cleaning-tool.capital-software.qarchive.org": "INACTIVE"
-        },
-        "1572039621": {
-            "i.trkjmp.com": "INACTIVE"
-        },
-        "1572039623": {
-            "i.zeroredirect.com": "INACTIVE"
-        },
-        "1572039635": {
-            "jn.redirectme.net": "INACTIVE"
-        },
-        "1572039654": {
-            "j.theadsnet.com": "INACTIVE"
-        },
-        "1572039657": {
-            "j.zeroredirect.com": "INACTIVE"
-        },
-        "1572039663": {
-            "jzrvquay.angelcities.com": "INACTIVE"
-        },
-        "1572039670": {
-            "ka.bar.need2find.com": "INACTIVE"
-        },
-        "1572039688": {
-            "krs.ymxpb.com": "INACTIVE"
-        },
-        "1572039692": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
-        "1572039698": {
-            "kz.search.need2find.com": "INACTIVE"
-        },
-        "1572039703": {
-            "lcbcad.co.uk": "INACTIVE"
-        },
-        "1572039709": {
-            "leave.exacttarget.com": "INACTIVE"
-        },
-        "1572039713": {
-            "lilian.redirectme.net": "INACTIVE"
-        },
-        "1572039746": {
-            "l.zeroredirect.com": "INACTIVE"
-        },
-        "1572039765": {
-            "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
-        },
-        "1572039775": {
-            "marketing-internet-solution.naix.pureleads.sendori.com": "INACTIVE"
-        },
-        "1572039781": {
-            "marx-brothers.mhwang.com": "INACTIVE"
-        },
-        "1572039788": {
-            "maryscott.angelcities.com": "INACTIVE"
-        },
-        "1572039803": {
-            "mesopotemia222.zapto.org": "INACTIVE"
-        },
-        "1572039806": {
-            "meta.7search.com": "INACTIVE"
-        },
-        "1572039807": {
-            "microsofto.sytes.net": "INACTIVE"
-        },
-        "1572039816": {
-            "mobile.bitterstrawberry.org": "INACTIVE"
-        },
-        "1572039820": {
-            "mrace.hopto.org": "INACTIVE"
-        },
-        "1572039829": {
-            "m.zeroredirect.com": "INACTIVE"
-        },
-        "1572039859": {
-            "noredirecto.redirectme.net": "INACTIVE"
-        },
-        "1572039869": {
-            "ns1.ntkrnlpa.info": "INACTIVE"
-        },
-        "1572039877": {
-            "ns1.vicp.net": "INACTIVE",
-            "ns2.ntkrnlpa.info": "INACTIVE"
-        },
-        "1572039883": {
-            "ns2.vicp.net": "INACTIVE"
-        },
-        "1572039885": {
-            "ns3.ishosting.net": "INACTIVE"
-        },
-        "1572039886": {
-            "n.zeroredirect.com": "INACTIVE"
-        },
-        "1572039917": {
-            "oovqsvi.angelcities.com": "INACTIVE"
-        },
-        "1572039919": {
-            "orango.redirectme.net": "INACTIVE"
-        },
-        "1572039928": {
-            "o.zeroredirect.com": "INACTIVE"
-        },
-        "1572039934": {
-            "p3nlhclust404.shr.prod.phx3.secureserver.net": "INACTIVE"
-        },
-        "1572039936": {
-            "p.ato.mx": "INACTIVE"
-        },
         "1572039954": {
             "pfcuay.o-f.com": "INACTIVE"
         },
@@ -1473,6 +1271,211 @@
         },
         "1572168454": {
             "edits.mywebsearch.com": "INACTIVE"
+        },
+        "1572168572": {
+            "email.exacttarget.com": "INACTIVE"
+        },
+        "1572168583": {
+            "e.zeroredirect2.com": "INACTIVE"
+        },
+        "1572168584": {
+            "e.zeroredirect.com": "INACTIVE"
+        },
+        "1572168595": {
+            "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1572168612": {
+            "f.gj555.net": "INACTIVE"
+        },
+        "1572168614": {
+            "finders.hopto.org": "INACTIVE"
+        },
+        "1572168638": {
+            "fotologaso.miss-web.es": "INACTIVE"
+        },
+        "1572168643": {
+            "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1572168650": {
+            "f.zeroredirect2.com": "INACTIVE"
+        },
+        "1572168651": {
+            "f.zeroredirect.com": "INACTIVE"
+        },
+        "1572168663": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1572168686": {
+            "goldbye.vicp.net": "INACTIVE"
+        },
+        "1572168689": {
+            "graphics.streamray.com": "INACTIVE"
+        },
+        "1572168698": {
+            "g.zeroredirect.com": "INACTIVE"
+        },
+        "1572168699": {
+            "haartezenglish.redirectme.net": "INACTIVE"
+        },
+        "1572168707": {
+            "hackairtel.tk": "INACTIVE"
+        },
+        "1572168708": {
+            "hacking.mysteria.cz": "INACTIVE"
+        },
+        "1572168721": {
+            "handlerhackz.tk": "INACTIVE"
+        },
+        "1572168729": {
+            "havijrat.zapto.org": "INACTIVE"
+        },
+        "1572168741": {
+            "helpint.mywebsearch.com": "INACTIVE"
+        },
+        "1572168749": {
+            "hira.hopto.org": "INACTIVE"
+        },
+        "1572168765": {
+            "hosting.conduit.com": "INACTIVE"
+        },
+        "1572168780": {
+            "hustlercash.hit.bg": "INACTIVE"
+        },
+        "1572168787": {
+            "hy-brasil.mhwang.com": "INACTIVE"
+        },
+        "1572168788": {
+            "h.zeroredirect.com": "INACTIVE"
+        },
+        "1572168802": {
+            "iframes.prettyincash.com": "INACTIVE"
+        },
+        "1572168809": {
+            "images.brainfox.com": "INACTIVE"
+        },
+        "1572168815": {
+            "images.e-mailcom.co.uk": "INACTIVE",
+            "images.host.bannerflow.com": "INACTIVE"
+        },
+        "1572168822": {
+            "img2.sankakustatic.com": "INACTIVE"
+        },
+        "1572168833": {
+            "internet-cleaning-tool.capital-software.qarchive.org": "INACTIVE"
+        },
+        "1572168835": {
+            "i.trkjmp.com": "INACTIVE"
+        },
+        "1572168837": {
+            "i.zeroredirect.com": "INACTIVE"
+        },
+        "1572168848": {
+            "jn.redirectme.net": "INACTIVE"
+        },
+        "1572168869": {
+            "j.theadsnet.com": "INACTIVE"
+        },
+        "1572168871": {
+            "j.zeroredirect.com": "INACTIVE"
+        },
+        "1572168878": {
+            "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1572168895": {
+            "k-lite.tk": "INACTIVE"
+        },
+        "1572168902": {
+            "krs.ymxpb.com": "INACTIVE"
+        },
+        "1572168906": {
+            "k.zeroredirect.com": "INACTIVE"
+        },
+        "1572168912": {
+            "kz.search.need2find.com": "INACTIVE"
+        },
+        "1572168916": {
+            "lcbcad.co.uk": "INACTIVE"
+        },
+        "1572168922": {
+            "leave.exacttarget.com": "INACTIVE"
+        },
+        "1572168926": {
+            "lilian.redirectme.net": "INACTIVE"
+        },
+        "1572168954": {
+            "l.zeroredirect.com": "INACTIVE"
+        },
+        "1572168972": {
+            "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
+        },
+        "1572168981": {
+            "marketing-internet-solution.naix.pureleads.sendori.com": "INACTIVE"
+        },
+        "1572168988": {
+            "marx-brothers.mhwang.com": "INACTIVE"
+        },
+        "1572168994": {
+            "maryscott.angelcities.com": "INACTIVE"
+        },
+        "1572169010": {
+            "mesopotemia222.zapto.org": "INACTIVE"
+        },
+        "1572169013": {
+            "meta.7search.com": "INACTIVE"
+        },
+        "1572169015": {
+            "microsofto.sytes.net": "INACTIVE"
+        },
+        "1572169023": {
+            "mobile.bitterstrawberry.org": "INACTIVE"
+        },
+        "1572169029": {
+            "mrace.hopto.org": "INACTIVE"
+        },
+        "1572169042": {
+            "mycleanpc.tk": "INACTIVE"
+        },
+        "1572169045": {
+            "m.zeroredirect.com": "INACTIVE"
+        },
+        "1572169090": {
+            "noredirecto.redirectme.net": "INACTIVE"
+        },
+        "1572169096": {
+            "nourteenthp.angelcities.com": "INACTIVE"
+        },
+        "1572169099": {
+            "ns1.ntkrnlpa.info": "INACTIVE"
+        },
+        "1572169106": {
+            "ns1.vicp.net": "INACTIVE"
+        },
+        "1572169107": {
+            "ns2.ntkrnlpa.info": "INACTIVE"
+        },
+        "1572169113": {
+            "ns2.vicp.net": "INACTIVE"
+        },
+        "1572169115": {
+            "ns3.ishosting.net": "INACTIVE"
+        },
+        "1572169116": {
+            "n.zeroredirect.com": "INACTIVE"
+        },
+        "1572169147": {
+            "oovqsvi.angelcities.com": "INACTIVE"
+        },
+        "1572169150": {
+            "orango.redirectme.net": "INACTIVE"
+        },
+        "1572169158": {
+            "o.zeroredirect.com": "INACTIVE"
+        },
+        "1572169164": {
+            "p3nlhclust404.shr.prod.phx3.secureserver.net": "INACTIVE"
+        },
+        "1572169166": {
+            "p.ato.mx": "INACTIVE"
         }
     }
 }

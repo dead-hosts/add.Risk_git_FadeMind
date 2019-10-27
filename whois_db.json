@@ -1595,9 +1595,9 @@
         "state": "future"
     },
     "gameplaylabs.com": {
-        "epoch": "1572134400",
+        "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gamepor.com": {
         "epoch": "1579737600",
@@ -2000,8 +2000,8 @@
         "state": "future"
     },
     "installm.net": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "instorm.com": {
@@ -2435,8 +2435,8 @@
         "state": "future"
     },
     "mapqueat.com": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1635206400,
+        "expiration_date": "26-oct-2021",
         "state": "future"
     },
     "mapquestt.com": {
@@ -2815,8 +2815,8 @@
         "state": "future"
     },
     "onadstracker.com": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
         "state": "future"
     },
     "onclickpredictiv.com": {
