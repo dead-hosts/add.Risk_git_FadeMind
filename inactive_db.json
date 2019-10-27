@@ -133,274 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572045915": {
-            "toolbarwizard.vmn.net": "INACTIVE"
-        },
-        "1572045930": {
-            "track.clickbooth.com": "INACTIVE",
-            "tracker.bannerflow.com": "INACTIVE"
-        },
-        "1572045943": {
-            "translation.conduit.com": "INACTIVE"
-        },
-        "1572045952": {
-            "trk.simply.net": "INACTIVE"
-        },
-        "1572045960": {
-            "tttbbbttt.zapto.org": "INACTIVE"
-        },
-        "1572045968": {
-            "tube8vidscjk.ddns.name": "INACTIVE"
-        },
-        "1572045974": {
-            "tube8vidscqs.ddns.name": "INACTIVE"
-        },
-        "1572045980": {
-            "tube8vidscut.ddns.name": "INACTIVE"
-        },
-        "1572045986": {
-            "tube8vidsdst.ddns.name": "INACTIVE"
-        },
-        "1572045992": {
-            "tube8vidsfgd.ddns.name": "INACTIVE"
-        },
-        "1572045999": {
-            "tube8vidshhr.ddns.name": "INACTIVE"
-        },
-        "1572046005": {
-            "tube8vidshkk.ddns.name": "INACTIVE"
-        },
-        "1572046011": {
-            "tube8vidsiet.ddns.name": "INACTIVE"
-        },
-        "1572046017": {
-            "tube8vidsiww.ddns.name": "INACTIVE"
-        },
-        "1572046023": {
-            "tube8vidsjan.ddns.name": "INACTIVE"
-        },
-        "1572046029": {
-            "tube8vidsjhn.ddns.name": "INACTIVE"
-        },
-        "1572046035": {
-            "tube8vidsjtq.ddns.name": "INACTIVE"
-        },
-        "1572046041": {
-            "tube8vidslqk.ddns.name": "INACTIVE"
-        },
-        "1572046047": {
-            "tube8vidslrz.ddns.name": "INACTIVE"
-        },
-        "1572046053": {
-            "tube8vidsnrt.ddns.name": "INACTIVE"
-        },
-        "1572046059": {
-            "tube8vidsnvd.ddns.name": "INACTIVE"
-        },
-        "1572046065": {
-            "tube8vidsolh.ddns.name": "INACTIVE"
-        },
-        "1572046072": {
-            "tube8vidspeq.ddns.name": "INACTIVE"
-        },
-        "1572046078": {
-            "tube8vidsqof.ddns.name": "INACTIVE"
-        },
-        "1572046084": {
-            "tube8vidsrhl.ddns.name": "INACTIVE"
-        },
-        "1572046090": {
-            "tube8vidssjw.ddns.name": "INACTIVE"
-        },
-        "1572046096": {
-            "tube8vidstyp.ddns.name": "INACTIVE"
-        },
-        "1572046102": {
-            "tube8vidsvcs.ddns.name": "INACTIVE"
-        },
-        "1572046108": {
-            "tube8vidsvmr.ddns.name": "INACTIVE"
-        },
-        "1572046114": {
-            "tube8vidsvrx.ddns.name": "INACTIVE"
-        },
-        "1572046120": {
-            "tube8vidswtb.ddns.name": "INACTIVE"
-        },
-        "1572046126": {
-            "tube8vidswys.ddns.name": "INACTIVE"
-        },
-        "1572046133": {
-            "tube8vidsxlo.ddns.name": "INACTIVE"
-        },
-        "1572046139": {
-            "tube8vidsxpg.ddns.name": "INACTIVE"
-        },
-        "1572046145": {
-            "tube8vidsxwu.ddns.name": "INACTIVE"
-        },
-        "1572046151": {
-            "tube8vidsyip.ddns.name": "INACTIVE"
-        },
-        "1572046157": {
-            "tube8vidszmi.ddns.name": "INACTIVE"
-        },
-        "1572046163": {
-            "tube8vidsznj.ddns.name": "INACTIVE"
-        },
-        "1572046169": {
-            "tube8vidsznx.ddns.name": "INACTIVE"
-        },
-        "1572046175": {
-            "tube8vidszyj.ddns.name": "INACTIVE"
-        },
-        "1572046180": {
-            "t.zeroredirect.com": "INACTIVE"
-        },
-        "1572046198": {
-            "update.privdog.com": "INACTIVE"
-        },
-        "1572046199": {
-            "upload.luckyorange.net": "INACTIVE"
-        },
-        "1572046200": {
-            "urchman11.zapto.org": "INACTIVE"
-        },
-        "1572046202": {
-            "vf7.soundsecureredir.com": "INACTIVE"
-        },
-        "1572046219": {
-            "vyrus.redirectme.net": "INACTIVE"
-        },
-        "1572046229": {
-            "weatherbugbrowserbar.mywebsearch.com": "INACTIVE"
-        },
-        "1572046231": {
-            "webstats.thesoul-publishing.com": "INACTIVE"
-        },
-        "1572046242": {
-            "wp-stat.s3.amazonasw.com": "INACTIVE"
-        },
-        "1572046251": {
-            "ww1.tongji123.com": "INACTIVE"
-        },
-        "1572046257": {
-            "ww2.tongji123.com": "INACTIVE"
-        },
-        "1572046264": {
-            "ww3.tongji123.com": "INACTIVE"
-        },
-        "1572046270": {
-            "ww4.tongji123.com": "INACTIVE"
-        },
-        "1572046279": {
-            "www.11zz.com": "INACTIVE"
-        },
-        "1572046285": {
-            "www180.myway.com": "INACTIVE"
-        },
-        "1572046286": {
-            "www.2607.cn": "INACTIVE"
-        },
-        "1572046292": {
-            "www.adgtracker.com": "INACTIVE"
-        },
-        "1572046298": {
-            "www.ad-souk.com": "INACTIVE"
-        },
-        "1572046307": {
-            "www.advancedsoftwaresupport.com": "INACTIVE"
-        },
-        "1572046310": {
-            "www.alaksaair.com": "INACTIVE",
-            "www.alaskaaair.com": "INACTIVE"
-        },
-        "1572046319": {
-            "www.amazing-offers.co.il": "INACTIVE"
-        },
-        "1572046331": {
-            "www.anmira.info": "INACTIVE"
-        },
-        "1572046340": {
-            "www.av-clean.com": "INACTIVE"
-        },
-        "1572046343": {
-            "www.ayehcleaners.com": "INACTIVE"
-        },
-        "1572046344": {
-            "www.balook.com": "INACTIVE",
-            "www.bannanarepublic.com": "INACTIVE"
-        },
-        "1572046356": {
-            "www.beyondwhois.com": "INACTIVE"
-        },
-        "1572046369": {
-            "www.blogrankers.com": "INACTIVE",
-            "www.bluemountain2.com": "INACTIVE"
-        },
-        "1572046379": {
-            "www.butterfly-media.co.uk": "INACTIVE"
-        },
-        "1572046396": {
-            "www.cabeles.com": "INACTIVE"
-        },
-        "1572046403": {
-            "www.calworthingtonford.com": "INACTIVE"
-        },
-        "1572046409": {
-            "www.candidography.com": "INACTIVE"
-        },
-        "1572046415": {
-            "www.ceskarepublika.net": "INACTIVE"
-        },
-        "1572046416": {
-            "www.cgi-view-item-co-uk.xf.cz": "INACTIVE",
-            "www.cheapstickets.com": "INACTIVE"
-        },
-        "1572046417": {
-            "www.cheaptickests.com": "INACTIVE",
-            "www.cheapticketes.com": "INACTIVE"
-        },
-        "1572046423": {
-            "www.cheapticketsinc.com": "INACTIVE"
-        },
-        "1572046424": {
-            "www.cheapticketts.com": "INACTIVE",
-            "www.cheapticktes.com": "INACTIVE"
-        },
-        "1572046429": {
-            "www.cleanproxy.com": "INACTIVE"
-        },
-        "1572046435": {
-            "www.cleansite.us": "INACTIVE"
-        },
-        "1572046441": {
-            "www.cleansofts.com": "INACTIVE"
-        },
-        "1572046458": {
-            "www.clickcash.com": "INACTIVE"
-        },
-        "1572046459": {
-            "www.clxcaf.com": "INACTIVE"
-        },
-        "1572046461": {
-            "www.collectiable.com": "INACTIVE"
-        },
-        "1572046469": {
-            "www.coolfreehost.com": "INACTIVE"
-        },
-        "1572046478": {
-            "www.digiaquascr.com": "INACTIVE"
-        },
-        "1572048883": {
-            "www.dipli.unipa.it": "INACTIVE"
-        },
-        "1572048900": {
-            "www.dodostats.com": "INACTIVE"
-        },
-        "1572048901": {
-            "www.dollarrentcar.com": "INACTIVE"
-        },
         "1572048904": {
             "www.downloads-whatsapp.com": "INACTIVE"
         },
@@ -1465,6 +1197,283 @@
         "1572169887": {
             "ticker.conduit.com": "INACTIVE",
             "tmgr.ccmbg.com": "INACTIVE"
+        },
+        "1572169994": {
+            "toolbarwizard.vmn.net": "INACTIVE"
+        },
+        "1572170006": {
+            "track.clickbooth.com": "INACTIVE",
+            "tracker.bannerflow.com": "INACTIVE"
+        },
+        "1572170012": {
+            "translation.conduit.com": "INACTIVE"
+        },
+        "1572170021": {
+            "trk.simply.net": "INACTIVE"
+        },
+        "1572170029": {
+            "tttbbbttt.zapto.org": "INACTIVE"
+        },
+        "1572170035": {
+            "ttt.fwq101.tk": "INACTIVE"
+        },
+        "1572170041": {
+            "tube8vidscjk.ddns.name": "INACTIVE"
+        },
+        "1572170047": {
+            "tube8vidscqs.ddns.name": "INACTIVE"
+        },
+        "1572170053": {
+            "tube8vidscut.ddns.name": "INACTIVE"
+        },
+        "1572170060": {
+            "tube8vidsdst.ddns.name": "INACTIVE"
+        },
+        "1572170066": {
+            "tube8vidsfgd.ddns.name": "INACTIVE"
+        },
+        "1572170072": {
+            "tube8vidshhr.ddns.name": "INACTIVE"
+        },
+        "1572170078": {
+            "tube8vidshkk.ddns.name": "INACTIVE"
+        },
+        "1572170084": {
+            "tube8vidsiet.ddns.name": "INACTIVE"
+        },
+        "1572170090": {
+            "tube8vidsiww.ddns.name": "INACTIVE"
+        },
+        "1572170096": {
+            "tube8vidsjan.ddns.name": "INACTIVE"
+        },
+        "1572170103": {
+            "tube8vidsjhn.ddns.name": "INACTIVE"
+        },
+        "1572170109": {
+            "tube8vidsjtq.ddns.name": "INACTIVE"
+        },
+        "1572170115": {
+            "tube8vidslqk.ddns.name": "INACTIVE"
+        },
+        "1572170121": {
+            "tube8vidslrz.ddns.name": "INACTIVE"
+        },
+        "1572170127": {
+            "tube8vidsnrt.ddns.name": "INACTIVE"
+        },
+        "1572170133": {
+            "tube8vidsnvd.ddns.name": "INACTIVE"
+        },
+        "1572170139": {
+            "tube8vidsolh.ddns.name": "INACTIVE"
+        },
+        "1572170145": {
+            "tube8vidspeq.ddns.name": "INACTIVE"
+        },
+        "1572170152": {
+            "tube8vidsqof.ddns.name": "INACTIVE"
+        },
+        "1572170158": {
+            "tube8vidsrhl.ddns.name": "INACTIVE"
+        },
+        "1572170164": {
+            "tube8vidssjw.ddns.name": "INACTIVE"
+        },
+        "1572170170": {
+            "tube8vidstyp.ddns.name": "INACTIVE"
+        },
+        "1572170176": {
+            "tube8vidsvcs.ddns.name": "INACTIVE"
+        },
+        "1572170182": {
+            "tube8vidsvmr.ddns.name": "INACTIVE"
+        },
+        "1572170189": {
+            "tube8vidsvrx.ddns.name": "INACTIVE"
+        },
+        "1572170195": {
+            "tube8vidswtb.ddns.name": "INACTIVE"
+        },
+        "1572170201": {
+            "tube8vidswys.ddns.name": "INACTIVE"
+        },
+        "1572170207": {
+            "tube8vidsxlo.ddns.name": "INACTIVE"
+        },
+        "1572170213": {
+            "tube8vidsxpg.ddns.name": "INACTIVE"
+        },
+        "1572170219": {
+            "tube8vidsxwu.ddns.name": "INACTIVE"
+        },
+        "1572170225": {
+            "tube8vidsyip.ddns.name": "INACTIVE"
+        },
+        "1572170231": {
+            "tube8vidszmi.ddns.name": "INACTIVE"
+        },
+        "1572170237": {
+            "tube8vidsznj.ddns.name": "INACTIVE"
+        },
+        "1572170244": {
+            "tube8vidsznx.ddns.name": "INACTIVE"
+        },
+        "1572170250": {
+            "tube8vidszyj.ddns.name": "INACTIVE"
+        },
+        "1572170252": {
+            "t.zeroredirect.com": "INACTIVE"
+        },
+        "1572170268": {
+            "update.privdog.com": "INACTIVE"
+        },
+        "1572170269": {
+            "upload.luckyorange.net": "INACTIVE"
+        },
+        "1572170270": {
+            "urchman11.zapto.org": "INACTIVE"
+        },
+        "1572170272": {
+            "vf7.soundsecureredir.com": "INACTIVE"
+        },
+        "1572170289": {
+            "vyrus.redirectme.net": "INACTIVE"
+        },
+        "1572170300": {
+            "weatherbugbrowserbar.mywebsearch.com": "INACTIVE"
+        },
+        "1572170302": {
+            "webstats.thesoul-publishing.com": "INACTIVE"
+        },
+        "1572170322": {
+            "ww1.tongji123.com": "INACTIVE"
+        },
+        "1572170328": {
+            "ww2.tongji123.com": "INACTIVE"
+        },
+        "1572170335": {
+            "ww3.tongji123.com": "INACTIVE"
+        },
+        "1572170341": {
+            "ww4.tongji123.com": "INACTIVE"
+        },
+        "1572170350": {
+            "www.11zz.com": "INACTIVE"
+        },
+        "1572170356": {
+            "www180.myway.com": "INACTIVE"
+        },
+        "1572170358": {
+            "www.2607.cn": "INACTIVE"
+        },
+        "1572170362": {
+            "www.adgtracker.com": "INACTIVE"
+        },
+        "1572170369": {
+            "www.ad-souk.com": "INACTIVE"
+        },
+        "1572170378": {
+            "www.advancedsoftwaresupport.com": "INACTIVE"
+        },
+        "1572170384": {
+            "www.aeronautica.gob.pa": "INACTIVE"
+        },
+        "1572170387": {
+            "www.alaksaair.com": "INACTIVE",
+            "www.alaskaaair.com": "INACTIVE"
+        },
+        "1572170395": {
+            "www.amazing-offers.co.il": "INACTIVE"
+        },
+        "1572170405": {
+            "www.anmira.info": "INACTIVE"
+        },
+        "1572170417": {
+            "www.av-clean.com": "INACTIVE"
+        },
+        "1572170419": {
+            "www.ayehcleaners.com": "INACTIVE"
+        },
+        "1572170420": {
+            "www.balook.com": "INACTIVE",
+            "www.bannanarepublic.com": "INACTIVE"
+        },
+        "1572170430": {
+            "www.beyondwhois.com": "INACTIVE"
+        },
+        "1572170445": {
+            "www.blogrankers.com": "INACTIVE"
+        },
+        "1572170446": {
+            "www.bluemountain2.com": "INACTIVE"
+        },
+        "1572170455": {
+            "www.butterfly-media.co.uk": "INACTIVE"
+        },
+        "1572170472": {
+            "www.cabeles.com": "INACTIVE"
+        },
+        "1572170480": {
+            "www.calworthingtonford.com": "INACTIVE"
+        },
+        "1572170486": {
+            "www.candidography.com": "INACTIVE"
+        },
+        "1572170493": {
+            "www.ceskarepublika.net": "INACTIVE"
+        },
+        "1572170494": {
+            "www.cgi-view-item-co-uk.xf.cz": "INACTIVE"
+        },
+        "1572170495": {
+            "www.cheapstickets.com": "INACTIVE",
+            "www.cheaptickests.com": "INACTIVE"
+        },
+        "1572170496": {
+            "www.cheapticketes.com": "INACTIVE"
+        },
+        "1572170502": {
+            "www.cheapticketsinc.com": "INACTIVE",
+            "www.cheapticketts.com": "INACTIVE",
+            "www.cheapticktes.com": "INACTIVE"
+        },
+        "1572170507": {
+            "www.cleanproxy.com": "INACTIVE"
+        },
+        "1572170514": {
+            "www.cleansite.us": "INACTIVE"
+        },
+        "1572170520": {
+            "www.cleansofts.com": "INACTIVE"
+        },
+        "1572170534": {
+            "www.clickcash.com": "INACTIVE"
+        },
+        "1572170535": {
+            "www.clxcaf.com": "INACTIVE"
+        },
+        "1572170537": {
+            "www.collectiable.com": "INACTIVE"
+        },
+        "1572170544": {
+            "www.coolfreehost.com": "INACTIVE"
+        },
+        "1572170545": {
+            "www.customersupporthelp.com": "INACTIVE"
+        },
+        "1572170556": {
+            "www.desifever.com": "INACTIVE"
+        },
+        "1572170561": {
+            "www.digiaquascr.com": "INACTIVE"
+        },
+        "1572170569": {
+            "www.dipli.unipa.it": "INACTIVE"
+        },
+        "1572170584": {
+            "www.dodostats.com": "INACTIVE",
+            "www.dollarrentcar.com": "INACTIVE"
         }
     }
 }
