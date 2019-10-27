@@ -133,9 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572052286": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1572167864": {
             "0.r.msn.com": "INACTIVE"
         },
@@ -1471,6 +1468,9 @@
         },
         "1572171281": {
             "zsc.scmspain.com": "INACTIVE"
+        },
+        "1572171387": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
