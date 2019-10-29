@@ -1595,9 +1595,9 @@
         "state": "future"
     },
     "gameplaylabs.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
-        "state": "past"
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "gamepor.com": {
         "epoch": "1579737600",
