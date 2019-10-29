@@ -133,249 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572167864": {
-            "0.r.msn.com": "INACTIVE"
-        },
-        "1572167866": {
-            "11163221-517901.c.adprotect.net": "INACTIVE"
-        },
-        "1572167873": {
-            "11.lamarianella.info": "INACTIVE"
-        },
-        "1572167880": {
-            "1.hidemyass.com": "INACTIVE",
-            "2.hidemyass.com": "INACTIVE"
-        },
-        "1572167881": {
-            "32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com": "INACTIVE"
-        },
-        "1572167882": {
-            "3.hidemyass.com": "INACTIVE"
-        },
-        "1572167883": {
-            "4.androidislamic.com": "INACTIVE",
-            "4.collecorvino.org": "INACTIVE"
-        },
-        "1572167889": {
-            "4.dlevo.com": "INACTIVE",
-            "4.e-why.net": "INACTIVE",
-            "4.hidemyass.com": "INACTIVE"
-        },
-        "1572167891": {
-            "5.estasiatica.com": "INACTIVE",
-            "5.eventiduepuntozero.com": "INACTIVE",
-            "5.hidemyass.com": "INACTIVE"
-        },
-        "1572167892": {
-            "6.hidemyass.com": "INACTIVE",
-            "6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com": "INACTIVE"
-        },
-        "1572167893": {
-            "6.mamaswishes.com": "INACTIVE",
-            "7.hidemyass.com": "INACTIVE"
-        },
-        "1572167898": {
-            "ad3.hornymatches.com": "INACTIVE"
-        },
-        "1572167913": {
-            "ads2.vortexmediagroup.com": "INACTIVE"
-        },
-        "1572167915": {
-            "ads.clicksor.cn": "INACTIVE",
-            "adserve.cpmba.se": "INACTIVE"
-        },
-        "1572167916": {
-            "ad.slutload.com": "INACTIVE"
-        },
-        "1572167918": {
-            "ads.lzjl.com": "INACTIVE"
-        },
-        "1572167930": {
-            "adsrv.iol.co.za": "INACTIVE"
-        },
-        "1572167931": {
-            "ads.wikipartes.com": "INACTIVE"
-        },
-        "1572167937": {
-            "ads.ztod.com": "INACTIVE"
-        },
-        "1572167946": {
-            "adweb1.hornymatches.com": "INACTIVE"
-        },
-        "1572167960": {
-            "aff.naughtyconnect.com": "INACTIVE",
-            "aff.tagcdn.com": "INACTIVE"
-        },
-        "1572167961": {
-            "aitligold.tripod.com": "INACTIVE"
-        },
-        "1572167977": {
-            "amazing-offers.co.il": "INACTIVE"
-        },
-        "1572167985": {
-            "anelkathe.tripod.com": "INACTIVE"
-        },
-        "1572167996": {
-            "anzanish.tripod.com": "INACTIVE"
-        },
-        "1572168002": {
-            "api.conduit.com": "INACTIVE"
-        },
-        "1572168008": {
-            "applets.sulekha.com": "INACTIVE"
-        },
-        "1572168015": {
-            "apps.clickcash.com": "INACTIVE"
-        },
-        "1572168025": {
-            "asu.msmu.ru": "INACTIVE"
-        },
-        "1572168036": {
-            "ayada.zapto.org": "INACTIVE"
-        },
-        "1572168037": {
-            "a.zeroredirect1.com": "INACTIVE",
-            "a.zeroredirect2.com": "INACTIVE"
-        },
-        "1572168038": {
-            "a.zeroredirect.com": "INACTIVE"
-        },
-        "1572168044": {
-            "babos.scrapping.cc": "INACTIVE"
-        },
-        "1572168052": {
-            "banner.ambercoastcasino.com": "INACTIVE"
-        },
-        "1572168061": {
-            "banners.sublimedirectory.com": "INACTIVE"
-        },
-        "1572168067": {
-            "banners.thirdmovies.com": "INACTIVE"
-        },
-        "1572168074": {
-            "banners.truecash.com": "INACTIVE"
-        },
-        "1572168080": {
-            "banners.ztod.com": "INACTIVE"
-        },
-        "1572168087": {
-            "banner.tonygpoker.com": "INACTIVE"
-        },
-        "1572168095": {
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "bbnaut.ibillboard.com": "INACTIVE"
-        },
-        "1572168105": {
-            "beldiplomcom.75.com1.ru": "INACTIVE"
-        },
-        "1572168120": {
-            "b.nevadaprivateoffice.com": "INACTIVE"
-        },
-        "1572168136": {
-            "briebailey.tripod.com": "INACTIVE"
-        },
-        "1572168142": {
-            "br.naked.com": "INACTIVE"
-        },
-        "1572168145": {
-            "b.zeroredirect1.com": "INACTIVE",
-            "b.zeroredirect2.com": "INACTIVE"
-        },
-        "1572168147": {
-            "b.zeroredirect.com": "INACTIVE"
-        },
-        "1572168153": {
-            "c4.mysearch.com": "INACTIVE"
-        },
-        "1572168173": {
-            "cdn.advancedmactools.com": "INACTIVE"
-        },
-        "1572168179": {
-            "cdn.ndparking.com": "INACTIVE"
-        },
-        "1572168180": {
-            "cdn.opensubcontent.com": "INACTIVE"
-        },
-        "1572168183": {
-            "cgi-view-item-co-uk.xf.cz": "INACTIVE"
-        },
-        "1572168190": {
-            "chat.effectivebrand.com": "INACTIVE"
-        },
-        "1572168236": {
-            "cleansite.us": "INACTIVE"
-        },
-        "1572168262": {
-            "clickcash.webpower.com": "INACTIVE"
-        },
-        "1572168278": {
-            "cm.myway.com": "INACTIVE"
-        },
-        "1572168284": {
-            "cm.need2find.com": "INACTIVE"
-        },
-        "1572168288": {
-            "collect-us-east-1.tealiumiq.com": "INACTIVE",
-            "collector-pxel3l4xih.perimeterx.net": "INACTIVE",
-            "collector.leaddyno.com": "INACTIVE"
-        },
-        "1572168289": {
-            "compactiongames.gameaholic.com": "INACTIVE"
-        },
-        "1572168305": {
-            "counter.top.dating.lt": "INACTIVE"
-        },
-        "1572168326": {
-            "creative.nscash.com": "INACTIVE",
-            "cs.luckyorange.net": "INACTIVE"
-        },
-        "1572168334": {
-            "cuoujvfi.angelcities.com": "INACTIVE"
-        },
-        "1572168344": {
-            "c.zeroredirect1.com": "INACTIVE",
-            "c.zeroredirect2.com": "INACTIVE"
-        },
-        "1572168345": {
-            "c.zeroredirect.com": "INACTIVE"
-        },
-        "1572168367": {
-            "directhackerz.tk": "INACTIVE"
-        },
-        "1572168376": {
-            "dlldlldll.sytes.net": "INACTIVE",
-            "dmp.gravity4.com": "INACTIVE"
-        },
-        "1572168377": {
-            "doda.redirectme.net": "INACTIVE"
-        },
-        "1572168396": {
-            "download.56.com": "INACTIVE"
-        },
-        "1572168404": {
-            "download.grandcloud.cn": "INACTIVE"
-        },
-        "1572168405": {
-            "downloads.pcsecurityshield.com": "INACTIVE"
-        },
-        "1572168413": {
-            "dqxaszsk.angelcities.com": "INACTIVE"
-        },
-        "1572168428": {
-            "d.tds.adlabs.ru": "INACTIVE"
-        },
-        "1572168437": {
-            "d.zeroredirect2.com": "INACTIVE"
-        },
-        "1572168438": {
-            "d.zeroredirect.com": "INACTIVE"
-        },
-        "1572168447": {
-            "ecos.e-mailcom.co.uk": "INACTIVE"
-        },
-        "1572168454": {
-            "edits.mywebsearch.com": "INACTIVE"
-        },
         "1572168572": {
             "email.exacttarget.com": "INACTIVE"
         },
@@ -1471,6 +1228,254 @@
         },
         "1572171387": {
             "z.zeroredirect.com": "INACTIVE"
+        },
+        "1572340724": {
+            "0.r.msn.com": "INACTIVE"
+        },
+        "1572340726": {
+            "11163221-517901.c.adprotect.net": "INACTIVE"
+        },
+        "1572340733": {
+            "11.lamarianella.info": "INACTIVE"
+        },
+        "1572340740": {
+            "1.hidemyass.com": "INACTIVE",
+            "2.hidemyass.com": "INACTIVE"
+        },
+        "1572340741": {
+            "32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com": "INACTIVE"
+        },
+        "1572340742": {
+            "3.hidemyass.com": "INACTIVE"
+        },
+        "1572340743": {
+            "4.androidislamic.com": "INACTIVE",
+            "4.collecorvino.org": "INACTIVE"
+        },
+        "1572340749": {
+            "4.dlevo.com": "INACTIVE",
+            "4.e-why.net": "INACTIVE"
+        },
+        "1572340750": {
+            "4.hidemyass.com": "INACTIVE"
+        },
+        "1572340752": {
+            "5.estasiatica.com": "INACTIVE"
+        },
+        "1572340753": {
+            "5.eventiduepuntozero.com": "INACTIVE",
+            "5.hidemyass.com": "INACTIVE",
+            "6.hidemyass.com": "INACTIVE",
+            "6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com": "INACTIVE"
+        },
+        "1572340754": {
+            "6.mamaswishes.com": "INACTIVE",
+            "7.hidemyass.com": "INACTIVE"
+        },
+        "1572340760": {
+            "ad3.hornymatches.com": "INACTIVE"
+        },
+        "1572340772": {
+            "ads2.vortexmediagroup.com": "INACTIVE"
+        },
+        "1572340773": {
+            "ads.clicksor.cn": "INACTIVE",
+            "adserve.cpmba.se": "INACTIVE"
+        },
+        "1572340774": {
+            "ad.slutload.com": "INACTIVE"
+        },
+        "1572340777": {
+            "ads.lzjl.com": "INACTIVE"
+        },
+        "1572340789": {
+            "adsrv.iol.co.za": "INACTIVE"
+        },
+        "1572340790": {
+            "ads.wikipartes.com": "INACTIVE"
+        },
+        "1572340796": {
+            "ads.ztod.com": "INACTIVE"
+        },
+        "1572340805": {
+            "adweb1.hornymatches.com": "INACTIVE"
+        },
+        "1572340820": {
+            "aff.naughtyconnect.com": "INACTIVE"
+        },
+        "1572340821": {
+            "aff.tagcdn.com": "INACTIVE"
+        },
+        "1572340822": {
+            "aitligold.tripod.com": "INACTIVE"
+        },
+        "1572340837": {
+            "amazing-offers.co.il": "INACTIVE"
+        },
+        "1572340847": {
+            "anelkathe.tripod.com": "INACTIVE"
+        },
+        "1572340861": {
+            "anzanish.tripod.com": "INACTIVE"
+        },
+        "1572340867": {
+            "api.conduit.com": "INACTIVE"
+        },
+        "1572340874": {
+            "applets.sulekha.com": "INACTIVE"
+        },
+        "1572340882": {
+            "apps.clickcash.com": "INACTIVE"
+        },
+        "1572340895": {
+            "asu.msmu.ru": "INACTIVE"
+        },
+        "1572340907": {
+            "av0713.tk": "INACTIVE"
+        },
+        "1572340910": {
+            "a.zeroredirect1.com": "INACTIVE",
+            "a.zeroredirect2.com": "INACTIVE",
+            "ayada.zapto.org": "INACTIVE"
+        },
+        "1572340912": {
+            "a.zeroredirect.com": "INACTIVE"
+        },
+        "1572340918": {
+            "babos.scrapping.cc": "INACTIVE"
+        },
+        "1572340926": {
+            "banner.ambercoastcasino.com": "INACTIVE"
+        },
+        "1572340938": {
+            "banners.sublimedirectory.com": "INACTIVE"
+        },
+        "1572340944": {
+            "banners.thirdmovies.com": "INACTIVE"
+        },
+        "1572340950": {
+            "banners.truecash.com": "INACTIVE"
+        },
+        "1572340957": {
+            "banners.ztod.com": "INACTIVE"
+        },
+        "1572340964": {
+            "banner.tonygpoker.com": "INACTIVE"
+        },
+        "1572340972": {
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "bbnaut.ibillboard.com": "INACTIVE"
+        },
+        "1572340981": {
+            "beldiplomcom.75.com1.ru": "INACTIVE"
+        },
+        "1572340997": {
+            "b.nevadaprivateoffice.com": "INACTIVE"
+        },
+        "1572341012": {
+            "briebailey.tripod.com": "INACTIVE"
+        },
+        "1572341018": {
+            "br.naked.com": "INACTIVE"
+        },
+        "1572341020": {
+            "b.zeroredirect1.com": "INACTIVE"
+        },
+        "1572341021": {
+            "b.zeroredirect2.com": "INACTIVE"
+        },
+        "1572341023": {
+            "b.zeroredirect.com": "INACTIVE"
+        },
+        "1572341029": {
+            "c4.mysearch.com": "INACTIVE"
+        },
+        "1572341051": {
+            "cdn.advancedmactools.com": "INACTIVE"
+        },
+        "1572341057": {
+            "cdn.ndparking.com": "INACTIVE"
+        },
+        "1572341060": {
+            "cgi-view-item-co-uk.xf.cz": "INACTIVE"
+        },
+        "1572341067": {
+            "chat.effectivebrand.com": "INACTIVE"
+        },
+        "1572341113": {
+            "cleansite.us": "INACTIVE"
+        },
+        "1572341140": {
+            "clickcash.webpower.com": "INACTIVE"
+        },
+        "1572341152": {
+            "cm.myway.com": "INACTIVE"
+        },
+        "1572341159": {
+            "cm.need2find.com": "INACTIVE"
+        },
+        "1572341164": {
+            "collector.leaddyno.com": "INACTIVE"
+        },
+        "1572341165": {
+            "collect-us-east-1.tealiumiq.com": "INACTIVE",
+            "collector-pxel3l4xih.perimeterx.net": "INACTIVE"
+        },
+        "1572341167": {
+            "compactiongames.gameaholic.com": "INACTIVE"
+        },
+        "1572341182": {
+            "counter.top.dating.lt": "INACTIVE"
+        },
+        "1572341200": {
+            "creative.nscash.com": "INACTIVE"
+        },
+        "1572341201": {
+            "cs.luckyorange.net": "INACTIVE"
+        },
+        "1572341212": {
+            "c.zeroredirect1.com": "INACTIVE"
+        },
+        "1572341213": {
+            "c.zeroredirect2.com": "INACTIVE"
+        },
+        "1572341215": {
+            "c.zeroredirect.com": "INACTIVE"
+        },
+        "1572341222": {
+            "d1.kuai8.com": "INACTIVE"
+        },
+        "1572341243": {
+            "dlldlldll.sytes.net": "INACTIVE",
+            "dmp.gravity4.com": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE"
+        },
+        "1572341267": {
+            "download.56.com": "INACTIVE"
+        },
+        "1572341276": {
+            "download.grandcloud.cn": "INACTIVE"
+        },
+        "1572341278": {
+            "downloads.pcsecurityshield.com": "INACTIVE"
+        },
+        "1572341286": {
+            "dqxaszsk.angelcities.com": "INACTIVE"
+        },
+        "1572341294": {
+            "d.tds.adlabs.ru": "INACTIVE"
+        },
+        "1572341304": {
+            "d.zeroredirect2.com": "INACTIVE"
+        },
+        "1572341305": {
+            "d.zeroredirect.com": "INACTIVE"
+        },
+        "1572341315": {
+            "ecos.e-mailcom.co.uk": "INACTIVE"
+        },
+        "1572341321": {
+            "edits.mywebsearch.com": "INACTIVE"
         }
     }
 }
