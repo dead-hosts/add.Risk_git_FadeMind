@@ -133,236 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572169115": {
-            "ns3.ishosting.net": "INACTIVE"
-        },
-        "1572169116": {
-            "n.zeroredirect.com": "INACTIVE"
-        },
-        "1572169147": {
-            "oovqsvi.angelcities.com": "INACTIVE"
-        },
-        "1572169150": {
-            "orango.redirectme.net": "INACTIVE"
-        },
-        "1572169158": {
-            "o.zeroredirect.com": "INACTIVE"
-        },
-        "1572169164": {
-            "p3nlhclust404.shr.prod.phx3.secureserver.net": "INACTIVE"
-        },
-        "1572169166": {
-            "p.ato.mx": "INACTIVE"
-        },
-        "1572169291": {
-            "pfcuay.o-f.com": "INACTIVE"
-        },
-        "1572169294": {
-            "pixel.adsniper.ru": "INACTIVE"
-        },
-        "1572169303": {
-            "player.movenetworks.com": "INACTIVE"
-        },
-        "1572169311": {
-            "play.videosongplayer.com": "INACTIVE"
-        },
-        "1572169346": {
-            "promo.clickcash.com": "INACTIVE"
-        },
-        "1572169353": {
-            "promos.naked.com": "INACTIVE"
-        },
-        "1572169354": {
-            "promotools.islive.nl": "INACTIVE"
-        },
-        "1572169363": {
-            "p.zeroredirect.com": "INACTIVE"
-        },
-        "1572169371": {
-            "q.zeroredirect.com": "INACTIVE",
-            "qzip.cjb.net": "INACTIVE"
-        },
-        "1572169376": {
-            "rahulthehacker.tk": "INACTIVE"
-        },
-        "1572169383": {
-            "rat-on-subway.mhwang.com": "INACTIVE"
-        },
-        "1572169389": {
-            "redirectlnk.redirectme.net": "INACTIVE"
-        },
-        "1572169418": {
-            "reviews.domainplayersclub.com": "INACTIVE"
-        },
-        "1572169429": {
-            "rsc.scmspain.com": "INACTIVE"
-        },
-        "1572169435": {
-            "s.arclk.net": "INACTIVE"
-        },
-        "1572169442": {
-            "schoorsteen.geenstijl.nl": "INACTIVE"
-        },
-        "1572169443": {
-            "scripts.host.bannerflow.com": "INACTIVE"
-        },
-        "1572169449": {
-            "search.brainfox.com": "INACTIVE"
-        },
-        "1572169479": {
-            "ships.zapto.org": "INACTIVE"
-        },
-        "1572169500": {
-            "site.falconbucks.com": "INACTIVE",
-            "siteanalytics.compete.com": "INACTIVE"
-        },
-        "1572169510": {
-            "slimxxxtubealn.ddns.name": "INACTIVE"
-        },
-        "1572169516": {
-            "slimxxxtubeanr.ddns.name": "INACTIVE"
-        },
-        "1572169522": {
-            "slimxxxtubeaxy.ddns.name": "INACTIVE"
-        },
-        "1572169528": {
-            "slimxxxtubeayv.ddns.name": "INACTIVE"
-        },
-        "1572169534": {
-            "slimxxxtubebgp.ddns.name": "INACTIVE"
-        },
-        "1572169540": {
-            "slimxxxtubebnd.ddns.name": "INACTIVE",
-            "slimxxxtubecgl.ddns.name": "INACTIVE"
-        },
-        "1572169547": {
-            "slimxxxtubecty.ddns.name": "INACTIVE"
-        },
-        "1572169553": {
-            "slimxxxtubeczp.ddns.name": "INACTIVE"
-        },
-        "1572169559": {
-            "slimxxxtubedjm.ddns.name": "INACTIVE"
-        },
-        "1572169565": {
-            "slimxxxtubedlb.ddns.name": "INACTIVE"
-        },
-        "1572169571": {
-            "slimxxxtubeejs.ddns.name": "INACTIVE"
-        },
-        "1572169577": {
-            "slimxxxtubefdr.ddns.name": "INACTIVE"
-        },
-        "1572169583": {
-            "slimxxxtubefel.ddns.name": "INACTIVE"
-        },
-        "1572169589": {
-            "slimxxxtubefzc.ddns.name": "INACTIVE"
-        },
-        "1572169596": {
-            "slimxxxtubehan.ddns.name": "INACTIVE"
-        },
-        "1572169602": {
-            "slimxxxtubeidv.ddns.name": "INACTIVE"
-        },
-        "1572169608": {
-            "slimxxxtubejlp.ddns.name": "INACTIVE"
-        },
-        "1572169611": {
-            "slimxxxtubejpe.ddns.name": "INACTIVE"
-        },
-        "1572169617": {
-            "slimxxxtubejvh.ddns.name": "INACTIVE"
-        },
-        "1572169623": {
-            "slimxxxtubejyk.ddns.name": "INACTIVE"
-        },
-        "1572169630": {
-            "slimxxxtubekad.ddns.name": "INACTIVE"
-        },
-        "1572169636": {
-            "slimxxxtubekgj.ddns.name": "INACTIVE",
-            "slimxxxtubekgv.ddns.name": "INACTIVE"
-        },
-        "1572169642": {
-            "slimxxxtubekpn.ddns.name": "INACTIVE"
-        },
-        "1572169648": {
-            "slimxxxtubekrn.ddns.name": "INACTIVE"
-        },
-        "1572169654": {
-            "slimxxxtubelap.ddns.name": "INACTIVE"
-        },
-        "1572169660": {
-            "slimxxxtubelat.ddns.name": "INACTIVE"
-        },
-        "1572169667": {
-            "slimxxxtubelfr.ddns.name": "INACTIVE"
-        },
-        "1572169673": {
-            "slimxxxtubelzv.ddns.name": "INACTIVE"
-        },
-        "1572169679": {
-            "slimxxxtubeneg.ddns.name": "INACTIVE"
-        },
-        "1572169685": {
-            "slimxxxtubeneu.ddns.name": "INACTIVE"
-        },
-        "1572169691": {
-            "slimxxxtubenqp.ddns.name": "INACTIVE"
-        },
-        "1572169697": {
-            "slimxxxtubeopy.ddns.name": "INACTIVE"
-        },
-        "1572169703": {
-            "slimxxxtubeoxo.ddns.name": "INACTIVE"
-        },
-        "1572169709": {
-            "slimxxxtubeoxy.ddns.name": "INACTIVE"
-        },
-        "1572169716": {
-            "slimxxxtubeqfo.ddns.name": "INACTIVE"
-        },
-        "1572169722": {
-            "slimxxxtubeqsh.ddns.name": "INACTIVE"
-        },
-        "1572169728": {
-            "slimxxxtuberau.ddns.name": "INACTIVE"
-        },
-        "1572169734": {
-            "slimxxxtuberea.ddns.name": "INACTIVE"
-        },
-        "1572169740": {
-            "slimxxxtuberjj.ddns.name": "INACTIVE"
-        },
-        "1572169746": {
-            "slimxxxtubesrw.ddns.name": "INACTIVE",
-            "slimxxxtubesun.ddns.name": "INACTIVE"
-        },
-        "1572169753": {
-            "slimxxxtubetmf.ddns.name": "INACTIVE"
-        },
-        "1572169759": {
-            "slimxxxtubetns.ddns.name": "INACTIVE"
-        },
-        "1572169762": {
-            "slimxxxtubeujh.ddns.name": "INACTIVE"
-        },
-        "1572169768": {
-            "slimxxxtubevdn.ddns.name": "INACTIVE"
-        },
-        "1572169774": {
-            "slimxxxtubevjk.ddns.name": "INACTIVE"
-        },
-        "1572169780": {
-            "slimxxxtubewfl.ddns.name": "INACTIVE"
-        },
-        "1572169786": {
-            "slimxxxtubewiq.ddns.name": "INACTIVE"
-        },
-        "1572169793": {
-            "slimxxxtubewis.ddns.name": "INACTIVE"
-        },
         "1572169799": {
             "slimxxxtubexei.ddns.name": "INACTIVE",
             "slimxxxtubexvq.ddns.name": "INACTIVE"
@@ -1482,6 +1252,242 @@
         },
         "1572342034": {
             "ns2.vicp.net": "INACTIVE"
+        },
+        "1572342145": {
+            "ns3.ishosting.net": "INACTIVE"
+        },
+        "1572342148": {
+            "n.zeroredirect.com": "INACTIVE"
+        },
+        "1572342175": {
+            "orango.redirectme.net": "INACTIVE"
+        },
+        "1572342184": {
+            "o.zeroredirect.com": "INACTIVE"
+        },
+        "1572342191": {
+            "p3nlhclust404.shr.prod.phx3.secureserver.net": "INACTIVE"
+        },
+        "1572342192": {
+            "p.ato.mx": "INACTIVE"
+        },
+        "1572342210": {
+            "pfcuay.o-f.com": "INACTIVE"
+        },
+        "1572342219": {
+            "pissingteengirlsfreemovies.blogbugs.org": "INACTIVE"
+        },
+        "1572342220": {
+            "pixel.adsniper.ru": "INACTIVE"
+        },
+        "1572342229": {
+            "player.movenetworks.com": "INACTIVE"
+        },
+        "1572342237": {
+            "play.videosongplayer.com": "INACTIVE"
+        },
+        "1572342251": {
+            "private-id.tk": "INACTIVE"
+        },
+        "1572342269": {
+            "promo.clickcash.com": "INACTIVE"
+        },
+        "1572342276": {
+            "promos.naked.com": "INACTIVE"
+        },
+        "1572342277": {
+            "promotools.islive.nl": "INACTIVE"
+        },
+        "1572342287": {
+            "p.zeroredirect.com": "INACTIVE"
+        },
+        "1572342297": {
+            "q.zeroredirect.com": "INACTIVE",
+            "qzip.cjb.net": "INACTIVE"
+        },
+        "1572342306": {
+            "rahulthehacker.tk": "INACTIVE"
+        },
+        "1572342313": {
+            "rat-on-subway.mhwang.com": "INACTIVE"
+        },
+        "1572342320": {
+            "redirectlnk.redirectme.net": "INACTIVE"
+        },
+        "1572342351": {
+            "reviews.domainplayersclub.com": "INACTIVE"
+        },
+        "1572342364": {
+            "rsc.scmspain.com": "INACTIVE"
+        },
+        "1572342380": {
+            "s.arclk.net": "INACTIVE"
+        },
+        "1572342387": {
+            "schoorsteen.geenstijl.nl": "INACTIVE",
+            "scripts.host.bannerflow.com": "INACTIVE"
+        },
+        "1572342395": {
+            "search.brainfox.com": "INACTIVE"
+        },
+        "1572342429": {
+            "ships.zapto.org": "INACTIVE"
+        },
+        "1572342450": {
+            "sinkhole-00.shadowserver.org": "INACTIVE"
+        },
+        "1572342451": {
+            "site.falconbucks.com": "INACTIVE",
+            "siteanalytics.compete.com": "INACTIVE"
+        },
+        "1572342461": {
+            "slimxxxtubealn.ddns.name": "INACTIVE"
+        },
+        "1572342467": {
+            "slimxxxtubeanr.ddns.name": "INACTIVE"
+        },
+        "1572342473": {
+            "slimxxxtubeaxy.ddns.name": "INACTIVE"
+        },
+        "1572342479": {
+            "slimxxxtubeayv.ddns.name": "INACTIVE"
+        },
+        "1572342485": {
+            "slimxxxtubebgp.ddns.name": "INACTIVE"
+        },
+        "1572342492": {
+            "slimxxxtubebnd.ddns.name": "INACTIVE"
+        },
+        "1572342498": {
+            "slimxxxtubecgl.ddns.name": "INACTIVE"
+        },
+        "1572342504": {
+            "slimxxxtubecty.ddns.name": "INACTIVE"
+        },
+        "1572342510": {
+            "slimxxxtubeczp.ddns.name": "INACTIVE"
+        },
+        "1572342516": {
+            "slimxxxtubedjm.ddns.name": "INACTIVE"
+        },
+        "1572342522": {
+            "slimxxxtubedlb.ddns.name": "INACTIVE"
+        },
+        "1572342528": {
+            "slimxxxtubeejs.ddns.name": "INACTIVE"
+        },
+        "1572342535": {
+            "slimxxxtubefdr.ddns.name": "INACTIVE"
+        },
+        "1572342541": {
+            "slimxxxtubefel.ddns.name": "INACTIVE"
+        },
+        "1572342547": {
+            "slimxxxtubefzc.ddns.name": "INACTIVE"
+        },
+        "1572342553": {
+            "slimxxxtubehan.ddns.name": "INACTIVE"
+        },
+        "1572342559": {
+            "slimxxxtubeidv.ddns.name": "INACTIVE"
+        },
+        "1572342565": {
+            "slimxxxtubejlp.ddns.name": "INACTIVE"
+        },
+        "1572342571": {
+            "slimxxxtubejpe.ddns.name": "INACTIVE"
+        },
+        "1572342578": {
+            "slimxxxtubejvh.ddns.name": "INACTIVE"
+        },
+        "1572342579": {
+            "slimxxxtubejyk.ddns.name": "INACTIVE"
+        },
+        "1572342585": {
+            "slimxxxtubekad.ddns.name": "INACTIVE"
+        },
+        "1572342591": {
+            "slimxxxtubekgj.ddns.name": "INACTIVE"
+        },
+        "1572342597": {
+            "slimxxxtubekgv.ddns.name": "INACTIVE"
+        },
+        "1572342603": {
+            "slimxxxtubekpn.ddns.name": "INACTIVE"
+        },
+        "1572342605": {
+            "slimxxxtubekrn.ddns.name": "INACTIVE"
+        },
+        "1572342611": {
+            "slimxxxtubelap.ddns.name": "INACTIVE"
+        },
+        "1572342617": {
+            "slimxxxtubelat.ddns.name": "INACTIVE"
+        },
+        "1572342623": {
+            "slimxxxtubelfr.ddns.name": "INACTIVE"
+        },
+        "1572342629": {
+            "slimxxxtubelzv.ddns.name": "INACTIVE"
+        },
+        "1572342635": {
+            "slimxxxtubeneg.ddns.name": "INACTIVE"
+        },
+        "1572342642": {
+            "slimxxxtubeneu.ddns.name": "INACTIVE"
+        },
+        "1572342648": {
+            "slimxxxtubenqp.ddns.name": "INACTIVE"
+        },
+        "1572342654": {
+            "slimxxxtubeopy.ddns.name": "INACTIVE"
+        },
+        "1572342660": {
+            "slimxxxtubeoxo.ddns.name": "INACTIVE",
+            "slimxxxtubeoxy.ddns.name": "INACTIVE"
+        },
+        "1572342666": {
+            "slimxxxtubeqfo.ddns.name": "INACTIVE"
+        },
+        "1572342672": {
+            "slimxxxtubeqsh.ddns.name": "INACTIVE"
+        },
+        "1572342679": {
+            "slimxxxtuberau.ddns.name": "INACTIVE",
+            "slimxxxtuberea.ddns.name": "INACTIVE"
+        },
+        "1572342685": {
+            "slimxxxtuberjj.ddns.name": "INACTIVE"
+        },
+        "1572342691": {
+            "slimxxxtubesrw.ddns.name": "INACTIVE"
+        },
+        "1572342697": {
+            "slimxxxtubesun.ddns.name": "INACTIVE"
+        },
+        "1572342703": {
+            "slimxxxtubetmf.ddns.name": "INACTIVE"
+        },
+        "1572342709": {
+            "slimxxxtubetns.ddns.name": "INACTIVE"
+        },
+        "1572342716": {
+            "slimxxxtubeujh.ddns.name": "INACTIVE"
+        },
+        "1572342722": {
+            "slimxxxtubevdn.ddns.name": "INACTIVE"
+        },
+        "1572342728": {
+            "slimxxxtubevjk.ddns.name": "INACTIVE"
+        },
+        "1572342734": {
+            "slimxxxtubewfl.ddns.name": "INACTIVE"
+        },
+        "1572342740": {
+            "slimxxxtubewiq.ddns.name": "INACTIVE"
+        },
+        "1572342746": {
+            "slimxxxtubewis.ddns.name": "INACTIVE"
         }
     }
 }
