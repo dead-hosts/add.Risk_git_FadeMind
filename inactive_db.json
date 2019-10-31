@@ -133,128 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572435203": {
-            "www.tzw.com": "INACTIVE",
-            "www.unblocksit.es": "INACTIVE"
-        },
-        "1572435207": {
-            "www.updo.nl": "INACTIVE"
-        },
-        "1572435209": {
-            "www.vaultsappsbyte.com": "INACTIVE"
-        },
-        "1572435220": {
-            "www.vjsoft.net": "INACTIVE"
-        },
-        "1572435239": {
-            "www.wmmax.com": "INACTIVE"
-        },
-        "1572435245": {
-            "www.www4search.net": "INACTIVE"
-        },
-        "1572435246": {
-            "www.wwwalaskaair.com": "INACTIVE"
-        },
-        "1572435247": {
-            "www.wwwbackstreetboys.com": "INACTIVE",
-            "www.wwwbluelight.com": "INACTIVE"
-        },
-        "1572435543": {
-            "www.wwwcheaptickets.com": "INACTIVE"
-        },
-        "1572435544": {
-            "www.wwwdollar.com": "INACTIVE",
-            "www.wwwgameshark.com": "INACTIVE"
-        },
-        "1572435545": {
-            "www.wwwoldnavy.com": "INACTIVE"
-        },
-        "1572435551": {
-            "www.wwwuproar.com": "INACTIVE",
-            "www.wwwwal-mart.com": "INACTIVE"
-        },
-        "1572435552": {
-            "www.x-diesel.info": "INACTIVE",
-            "www.xchangetrak.com": "INACTIVE"
-        },
-        "1572435558": {
-            "www.xvika.net": "INACTIVE"
-        },
-        "1572435559": {
-            "www.xvika.org": "INACTIVE"
-        },
-        "1572435565": {
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
-        "1572435567": {
-            "www.zeroredirect2.com": "INACTIVE"
-        },
-        "1572435568": {
-            "www.zoogdisny.com": "INACTIVE"
-        },
-        "1572435572": {
-            "w.zeroredirect.com": "INACTIVE"
-        },
-        "1572435579": {
-            "x.bidswitch.net": "INACTIVE",
-            "xamateurpornlic.www1.biz": "INACTIVE"
-        },
-        "1572435588": {
-            "xpornstarsckc.ddns.name": "INACTIVE",
-            "xporontube.tripod.com": "INACTIVE"
-        },
-        "1572435591": {
-            "xxxxxxx.hopto.org": "INACTIVE"
-        },
-        "1572435594": {
-            "x.zeroredirect.com": "INACTIVE"
-        },
-        "1572435609": {
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1572435615": {
-            "ylgingq.angelcities.com": "INACTIVE"
-        },
-        "1572435636": {
-            "yvdeuwn.angelcities.com": "INACTIVE"
-        },
-        "1572435638": {
-            "y.zeroredirect.com": "INACTIVE"
-        },
-        "1572435639": {
-            "za.zeroredirect1.com": "INACTIVE",
-            "zb.zeroredirect1.com": "INACTIVE",
-            "zc.zeroredirect1.com": "INACTIVE",
-            "zd1.zeroredirect1.com": "INACTIVE"
-        },
-        "1572435640": {
-            "zd.zeroredirect1.com": "INACTIVE",
-            "zd.zeroredirect2.com": "INACTIVE",
-            "ze.zeroredirect1.com": "INACTIVE",
-            "ze1.zeroredirect1.com": "INACTIVE"
-        },
-        "1572435641": {
-            "ze.zeroredirect2.com": "INACTIVE",
-            "zf.zeroredirect1.com": "INACTIVE",
-            "zf1.zeroredirect11.com": "INACTIVE",
-            "zh1.zeroredirect11.com": "INACTIVE"
-        },
-        "1572435642": {
-            "zj.zeroredirect1.com": "INACTIVE",
-            "zj1.zeroredirect1.com": "INACTIVE",
-            "zk.zeroredirect1.com": "INACTIVE",
-            "zm1.zeroredirect5.com": "INACTIVE"
-        },
-        "1572435647": {
-            "zr1.zeroredirect11.com": "INACTIVE",
-            "zs1.zeroredirect1.com": "INACTIVE"
-        },
-        "1572435653": {
-            "zsc.scmspain.com": "INACTIVE"
-        },
-        "1572435654": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1572516873": {
             "0.r.msn.com": "INACTIVE"
         },
@@ -1469,6 +1347,135 @@
         },
         "1572531096": {
             "www.travlers.com": "INACTIVE"
+        },
+        "1572533043": {
+            "www.tzw.com": "INACTIVE"
+        },
+        "1572533044": {
+            "www.unblocksit.es": "INACTIVE"
+        },
+        "1572533046": {
+            "www.updo.nl": "INACTIVE"
+        },
+        "1572533049": {
+            "www.vaultsappsbyte.com": "INACTIVE"
+        },
+        "1572533062": {
+            "www.vjsoft.net": "INACTIVE"
+        },
+        "1572533081": {
+            "www.wmmax.com": "INACTIVE"
+        },
+        "1572533091": {
+            "www.www4search.net": "INACTIVE"
+        },
+        "1572533095": {
+            "www.wwwalaskaair.com": "INACTIVE"
+        },
+        "1572533096": {
+            "www.wwwbackstreetboys.com": "INACTIVE"
+        },
+        "1572533097": {
+            "www.wwwbluelight.com": "INACTIVE"
+        },
+        "1572533102": {
+            "www.wwwbluemountian.com": "INACTIVE"
+        },
+        "1572533108": {
+            "www.wwwcheaptickets.com": "INACTIVE"
+        },
+        "1572533109": {
+            "www.wwwdollar.com": "INACTIVE",
+            "www.wwwgameshark.com": "INACTIVE"
+        },
+        "1572533110": {
+            "www.wwwoldnavy.com": "INACTIVE"
+        },
+        "1572533122": {
+            "www.wwwservicemerchandise.com": "INACTIVE",
+            "www.wwwuproar.com": "INACTIVE"
+        },
+        "1572533123": {
+            "www.x-diesel.info": "INACTIVE",
+            "www.xchangetrak.com": "INACTIVE"
+        },
+        "1572533127": {
+            "www.xvika.net": "INACTIVE"
+        },
+        "1572533128": {
+            "www.xvika.org": "INACTIVE"
+        },
+        "1572533135": {
+            "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1572533137": {
+            "www.zeroredirect2.com": "INACTIVE"
+        },
+        "1572533139": {
+            "www.zoogdisny.com": "INACTIVE"
+        },
+        "1572533143": {
+            "w.zeroredirect.com": "INACTIVE"
+        },
+        "1572533150": {
+            "x.bidswitch.net": "INACTIVE",
+            "xamateurpornlic.www1.biz": "INACTIVE"
+        },
+        "1572533158": {
+            "xpornstarsckc.ddns.name": "INACTIVE",
+            "xporontube.tripod.com": "INACTIVE"
+        },
+        "1572533160": {
+            "xxxxxxx.hopto.org": "INACTIVE"
+        },
+        "1572533161": {
+            "x.zeroredirect.com": "INACTIVE"
+        },
+        "1572533166": {
+            "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1572533172": {
+            "ylgingq.angelcities.com": "INACTIVE"
+        },
+        "1572533194": {
+            "yvdeuwn.angelcities.com": "INACTIVE"
+        },
+        "1572533195": {
+            "y.zeroredirect.com": "INACTIVE"
+        },
+        "1572533197": {
+            "za.zeroredirect1.com": "INACTIVE",
+            "zb.zeroredirect1.com": "INACTIVE"
+        },
+        "1572533198": {
+            "zc.zeroredirect1.com": "INACTIVE",
+            "zd.zeroredirect1.com": "INACTIVE",
+            "zd.zeroredirect2.com": "INACTIVE",
+            "zd1.zeroredirect1.com": "INACTIVE"
+        },
+        "1572533199": {
+            "ze.zeroredirect1.com": "INACTIVE",
+            "ze.zeroredirect2.com": "INACTIVE",
+            "ze1.zeroredirect1.com": "INACTIVE"
+        },
+        "1572533200": {
+            "zf.zeroredirect1.com": "INACTIVE",
+            "zf1.zeroredirect11.com": "INACTIVE",
+            "zh1.zeroredirect11.com": "INACTIVE",
+            "zj.zeroredirect1.com": "INACTIVE",
+            "zj1.zeroredirect1.com": "INACTIVE",
+            "zk.zeroredirect1.com": "INACTIVE"
+        },
+        "1572533201": {
+            "zm1.zeroredirect5.com": "INACTIVE"
+        },
+        "1572533207": {
+            "zr1.zeroredirect11.com": "INACTIVE",
+            "zs1.zeroredirect1.com": "INACTIVE",
+            "zsc.scmspain.com": "INACTIVE"
+        },
+        "1572533208": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
