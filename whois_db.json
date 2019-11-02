@@ -2325,8 +2325,8 @@
         "state": "future"
     },
     "localh0st.info": {
-        "epoch": "1572652800",
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "lonelywifehookup.com": {
@@ -2495,9 +2495,9 @@
         "state": "future"
     },
     "meetyourmessenger.co.uk": {
-        "epoch": 1570147200,
-        "expiration_date": "04-oct-2019",
-        "state": "past"
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
     },
     "meiluziai.info": {
         "epoch": "1579996800",
@@ -2780,8 +2780,8 @@
         "state": "future"
     },
     "nsrecord.org": {
-        "epoch": "1572652800",
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "ntkrnlpa.info": {
