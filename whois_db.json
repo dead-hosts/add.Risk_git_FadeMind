@@ -3525,9 +3525,9 @@
         "state": "future"
     },
     "secure-processingcenter.com": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "securemypc.co.uk": {
         "epoch": "1610755200",
