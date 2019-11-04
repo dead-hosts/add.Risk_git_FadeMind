@@ -133,138 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572688347": {
-            "slimxxxtubewfl.ddns.name": "INACTIVE"
-        },
-        "1572688353": {
-            "slimxxxtubewiq.ddns.name": "INACTIVE"
-        },
-        "1572688359": {
-            "slimxxxtubewis.ddns.name": "INACTIVE"
-        },
-        "1572688365": {
-            "slimxxxtubexei.ddns.name": "INACTIVE"
-        },
-        "1572688371": {
-            "slimxxxtubexvq.ddns.name": "INACTIVE"
-        },
-        "1572688377": {
-            "slimxxxtubeyge.ddns.name": "INACTIVE"
-        },
-        "1572688384": {
-            "slimxxxtubeyhz.ddns.name": "INACTIVE"
-        },
-        "1572688394": {
-            "splitter.ndsplitter.com": "INACTIVE"
-        },
-        "1572688412": {
-            "static.ifa.slutloadlive.com": "INACTIVE"
-        },
-        "1572688421": {
-            "stignita.zapto.org": "INACTIVE"
-        },
-        "1572688428": {
-            "st.smartredirect.de": "INACTIVE"
-        },
-        "1572688521": {
-            "s.zeroredirect.com": "INACTIVE"
-        },
-        "1572688528": {
-            "tabex.sopharma.bg": "INACTIVE"
-        },
-        "1572688546": {
-            "thenewupdatee.redirectme.net": "INACTIVE"
-        },
-        "1572688560": {
-            "ticker.conduit.com": "INACTIVE"
-        },
-        "1572688561": {
-            "tmgr.ccmbg.com": "INACTIVE"
-        },
-        "1572688568": {
-            "toolbarwizard.vmn.net": "INACTIVE"
-        },
-        "1572688587": {
-            "track.clickbooth.com": "INACTIVE"
-        },
-        "1572688591": {
-            "translation.conduit.com": "INACTIVE"
-        },
-        "1572688601": {
-            "trk.simply.net": "INACTIVE"
-        },
-        "1572688608": {
-            "tttbbbttt.zapto.org": "INACTIVE"
-        },
-        "1572688613": {
-            "ttt.fwq101.tk": "INACTIVE"
-        },
-        "1572688619": {
-            "tube8vidscjk.ddns.name": "INACTIVE"
-        },
-        "1572688625": {
-            "tube8vidscqs.ddns.name": "INACTIVE"
-        },
-        "1572688631": {
-            "tube8vidscut.ddns.name": "INACTIVE"
-        },
-        "1572688637": {
-            "tube8vidsdst.ddns.name": "INACTIVE"
-        },
-        "1572688643": {
-            "tube8vidsfgd.ddns.name": "INACTIVE"
-        },
-        "1572688649": {
-            "tube8vidshhr.ddns.name": "INACTIVE"
-        },
-        "1572688656": {
-            "tube8vidshkk.ddns.name": "INACTIVE"
-        },
-        "1572688662": {
-            "tube8vidsiet.ddns.name": "INACTIVE"
-        },
-        "1572688668": {
-            "tube8vidsiww.ddns.name": "INACTIVE"
-        },
-        "1572688674": {
-            "tube8vidsjan.ddns.name": "INACTIVE"
-        },
-        "1572688680": {
-            "tube8vidsjhn.ddns.name": "INACTIVE"
-        },
-        "1572688686": {
-            "tube8vidsjtq.ddns.name": "INACTIVE"
-        },
-        "1572688692": {
-            "tube8vidslqk.ddns.name": "INACTIVE"
-        },
-        "1572688699": {
-            "tube8vidslrz.ddns.name": "INACTIVE"
-        },
-        "1572688705": {
-            "tube8vidsnrt.ddns.name": "INACTIVE"
-        },
-        "1572688711": {
-            "tube8vidsnvd.ddns.name": "INACTIVE"
-        },
-        "1572688717": {
-            "tube8vidsolh.ddns.name": "INACTIVE"
-        },
-        "1572688723": {
-            "tube8vidspeq.ddns.name": "INACTIVE"
-        },
-        "1572688729": {
-            "tube8vidsqof.ddns.name": "INACTIVE"
-        },
-        "1572688735": {
-            "tube8vidsrhl.ddns.name": "INACTIVE"
-        },
-        "1572688742": {
-            "tube8vidssjw.ddns.name": "INACTIVE"
-        },
-        "1572688748": {
-            "tube8vidstyp.ddns.name": "INACTIVE"
-        },
         "1572688754": {
             "tube8vidsvcs.ddns.name": "INACTIVE"
         },
@@ -1493,6 +1361,136 @@
         },
         "1572866121": {
             "fkooaee.angelcities.com": "INACTIVE"
+        },
+        "1572869333": {
+            "maryscott.angelcities.com": "INACTIVE"
+        },
+        "1572869443": {
+            "p3nlhclust404.shr.prod.phx3.secureserver.net": "INACTIVE"
+        },
+        "1572869634": {
+            "slimxxxtubewfl.ddns.name": "INACTIVE"
+        },
+        "1572869640": {
+            "slimxxxtubewiq.ddns.name": "INACTIVE"
+        },
+        "1572869646": {
+            "slimxxxtubewis.ddns.name": "INACTIVE"
+        },
+        "1572869652": {
+            "slimxxxtubexei.ddns.name": "INACTIVE"
+        },
+        "1572869658": {
+            "slimxxxtubexvq.ddns.name": "INACTIVE"
+        },
+        "1572869665": {
+            "slimxxxtubeyge.ddns.name": "INACTIVE",
+            "slimxxxtubeyhz.ddns.name": "INACTIVE"
+        },
+        "1572869671": {
+            "splitter.ndsplitter.com": "INACTIVE"
+        },
+        "1572869689": {
+            "static.ifa.slutloadlive.com": "INACTIVE"
+        },
+        "1572869697": {
+            "stignita.zapto.org": "INACTIVE"
+        },
+        "1572869703": {
+            "st.smartredirect.de": "INACTIVE"
+        },
+        "1572869707": {
+            "s.zeroredirect.com": "INACTIVE"
+        },
+        "1572869713": {
+            "tabex.sopharma.bg": "INACTIVE"
+        },
+        "1572869731": {
+            "thenewupdatee.redirectme.net": "INACTIVE"
+        },
+        "1572869743": {
+            "ticker.conduit.com": "INACTIVE",
+            "tmgr.ccmbg.com": "INACTIVE"
+        },
+        "1572869750": {
+            "toolbarwizard.vmn.net": "INACTIVE"
+        },
+        "1572869765": {
+            "track.clickbooth.com": "INACTIVE"
+        },
+        "1572869768": {
+            "translation.conduit.com": "INACTIVE"
+        },
+        "1572869777": {
+            "trk.simply.net": "INACTIVE"
+        },
+        "1572869785": {
+            "tttbbbttt.zapto.org": "INACTIVE"
+        },
+        "1572869795": {
+            "ttt.fwq101.tk": "INACTIVE"
+        },
+        "1572869801": {
+            "tube8vidscjk.ddns.name": "INACTIVE"
+        },
+        "1572869808": {
+            "tube8vidscqs.ddns.name": "INACTIVE",
+            "tube8vidscut.ddns.name": "INACTIVE"
+        },
+        "1572869814": {
+            "tube8vidsdst.ddns.name": "INACTIVE"
+        },
+        "1572869820": {
+            "tube8vidsfgd.ddns.name": "INACTIVE"
+        },
+        "1572869826": {
+            "tube8vidshhr.ddns.name": "INACTIVE"
+        },
+        "1572869832": {
+            "tube8vidshkk.ddns.name": "INACTIVE"
+        },
+        "1572869838": {
+            "tube8vidsiet.ddns.name": "INACTIVE"
+        },
+        "1572869845": {
+            "tube8vidsiww.ddns.name": "INACTIVE"
+        },
+        "1572869851": {
+            "tube8vidsjan.ddns.name": "INACTIVE"
+        },
+        "1572869857": {
+            "tube8vidsjhn.ddns.name": "INACTIVE"
+        },
+        "1572869863": {
+            "tube8vidsjtq.ddns.name": "INACTIVE"
+        },
+        "1572869869": {
+            "tube8vidslqk.ddns.name": "INACTIVE"
+        },
+        "1572869875": {
+            "tube8vidslrz.ddns.name": "INACTIVE"
+        },
+        "1572869877": {
+            "tube8vidsnrt.ddns.name": "INACTIVE"
+        },
+        "1572869883": {
+            "tube8vidsnvd.ddns.name": "INACTIVE"
+        },
+        "1572869889": {
+            "tube8vidsolh.ddns.name": "INACTIVE",
+            "tube8vidspeq.ddns.name": "INACTIVE"
+        },
+        "1572869895": {
+            "tube8vidsqof.ddns.name": "INACTIVE"
+        },
+        "1572869901": {
+            "tube8vidsrhl.ddns.name": "INACTIVE"
+        },
+        "1572869902": {
+            "tube8vidssjw.ddns.name": "INACTIVE"
+        },
+        "1572869908": {
+            "tube8vidstyp.ddns.name": "INACTIVE"
         }
     }
 }
