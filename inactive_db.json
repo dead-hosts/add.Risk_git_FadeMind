@@ -133,359 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1572873222": {
-            "www.effectivebrand.com": "INACTIVE"
-        },
-        "1572873223": {
-            "www.egoldenglove.com": "INACTIVE"
-        },
-        "1572873225": {
-            "www.elisaart.it": "INACTIVE"
-        },
-        "1572873233": {
-            "www.enoratraffic.com": "INACTIVE",
-            "www.epmads.com": "INACTIVE"
-        },
-        "1572873240": {
-            "www.fastnclick.com": "INACTIVE"
-        },
-        "1572873247": {
-            "www.favicon.com": "INACTIVE",
-            "www.federicksofhollywood.com": "INACTIVE"
-        },
-        "1572873256": {
-            "www.fiduciariobajio.com.mx": "INACTIVE"
-        },
-        "1572873264": {
-            "www.forex-instruments.info": "INACTIVE"
-        },
-        "1572873292": {
-            "www.fxstra.com": "INACTIVE"
-        },
-        "1572873299": {
-            "www.gaja79.com": "INACTIVE"
-        },
-        "1572873304": {
-            "www.gamesfly.com": "INACTIVE"
-        },
-        "1572873306": {
-            "www.gamesharck.com": "INACTIVE"
-        },
-        "1572873315": {
-            "www.gen2server.com": "INACTIVE"
-        },
-        "1572873324": {
-            "www.go777site.com": "INACTIVE",
-            "www.google-docs.org": "INACTIVE"
-        },
-        "1572873329": {
-            "www.gratisweb.com": "INACTIVE"
-        },
-        "1572873336": {
-            "www.gxplugin.com": "INACTIVE"
-        },
-        "1572873337": {
-            "www.heaptickets.com": "INACTIVE"
-        },
-        "1572873343": {
-            "www.helpmedownload.com": "INACTIVE",
-            "www.hgtzz.com": "INACTIVE"
-        },
-        "1572873347": {
-            "www.homedepoy.com": "INACTIVE",
-            "www.homrdepot.com": "INACTIVE"
-        },
-        "1572873356": {
-            "www.hot-bot.com": "INACTIVE"
-        },
-        "1572873363": {
-            "www.hustlercash.hit.bg": "INACTIVE"
-        },
-        "1572875584": {
-            "www.itunesdownloadstore.com": "INACTIVE"
-        },
-        "1572875586": {
-            "www.japanmadchen.com": "INACTIVE",
-            "www.jcwhiney.com": "INACTIVE"
-        },
-        "1572875587": {
-            "www.jcwhintey.com": "INACTIVE",
-            "www.jcwhitey.com": "INACTIVE"
-        },
-        "1572875597": {
-            "www.joincreditexpert.co.uk": "INACTIVE"
-        },
-        "1572875598": {
-            "www.jque.net": "INACTIVE"
-        },
-        "1572875605": {
-            "www.jsing.net": "INACTIVE"
-        },
-        "1572875614": {
-            "www.kazaa.com": "INACTIVE"
-        },
-        "1572875619": {
-            "www.komodia.com": "INACTIVE"
-        },
-        "1572875625": {
-            "www.lcbcad.co.uk": "INACTIVE"
-        },
-        "1572875626": {
-            "www.lefos.net": "INACTIVE"
-        },
-        "1572875657": {
-            "www.lycosgamesville.com": "INACTIVE"
-        },
-        "1572875660": {
-            "www.lzjl.com": "INACTIVE"
-        },
-        "1572875663": {
-            "www.maconbraves.com": "INACTIVE"
-        },
-        "1572875665": {
-            "www.malkm.com": "INACTIVE"
-        },
-        "1572875673": {
-            "www.maxregistrycleaner.net": "INACTIVE",
-            "www.maybankard.com.my": "INACTIVE"
-        },
-        "1572875677": {
-            "www.mycleanerpc.com": "INACTIVE"
-        },
-        "1572875689": {
-            "www.mytotalsearch.com": "INACTIVE"
-        },
-        "1572875695": {
-            "www.mywebsearch.com": "INACTIVE",
-            "www.naturesunshine.com": "INACTIVE"
-        },
-        "1572875707": {
-            "www.notrecommended.co.uk": "INACTIVE"
-        },
-        "1572875709": {
-            "www.ocpersian.com": "INACTIVE"
-        },
-        "1572875716": {
-            "www.ojolink.fr": "INACTIVE"
-        },
-        "1572875724": {
-            "www.payn.me": "INACTIVE"
-        },
-        "1572875726": {
-            "www.paypal-exchange.com": "INACTIVE"
-        },
-        "1572875728": {
-            "www.pc-detox.com": "INACTIVE"
-        },
-        "1572875729": {
-            "www.pcmightymax.net": "INACTIVE"
-        },
-        "1572875737": {
-            "www.plarium.com": "INACTIVE"
-        },
-        "1572875739": {
-            "www.playsataion.com": "INACTIVE"
-        },
-        "1572875745": {
-            "www.praceline.com": "INACTIVE"
-        },
-        "1572875748": {
-            "www.premiumpedia.com": "INACTIVE"
-        },
-        "1572875749": {
-            "www.priiceline.com": "INACTIVE"
-        },
-        "1572875755": {
-            "www.primosearch.com": "INACTIVE"
-        },
-        "1572875761": {
-            "www.privdog.com": "INACTIVE"
-        },
-        "1572875763": {
-            "www.prriceline.com": "INACTIVE"
-        },
-        "1572875767": {
-            "www.quickbitsdownloads.com": "INACTIVE"
-        },
-        "1572875773": {
-            "www.qzip.cjb.net": "INACTIVE"
-        },
-        "1572875776": {
-            "www.ranchapptag.com": "INACTIVE"
-        },
-        "1572875777": {
-            "www.ratemodels.net": "INACTIVE"
-        },
-        "1572875784": {
-            "www.redhotchilli.co.uk": "INACTIVE"
-        },
-        "1572875787": {
-            "www.registry-cleaner.net": "INACTIVE"
-        },
-        "1572875791": {
-            "www.registrycleanerpro.net": "INACTIVE"
-        },
-        "1572875806": {
-            "www.restore-pc.com": "INACTIVE"
-        },
-        "1572875819": {
-            "www.rokus-tgy.hu": "INACTIVE"
-        },
-        "1572875825": {
-            "www.scanspyware.net": "INACTIVE"
-        },
-        "1572875827": {
-            "www.searchdiscovered.com": "INACTIVE"
-        },
-        "1572875831": {
-            "www.searchremagnified.com": "INACTIVE"
-        },
-        "1572875841": {
-            "www.sevenstars7.com": "INACTIVE"
-        },
-        "1572875847": {
-            "www.shareaza.com": "INACTIVE"
-        },
-        "1572875861": {
-            "www.sompuserve.com": "INACTIVE"
-        },
-        "1572875862": {
-            "www.spotsniper.ru": "INACTIVE"
-        },
-        "1572875865": {
-            "www.stripteas.com": "INACTIVE"
-        },
-        "1572875881": {
-            "www.theads.me": "INACTIVE"
-        },
-        "1572875882": {
-            "www.thebighits.com": "INACTIVE"
-        },
-        "1572875889": {
-            "www.thebugs.ws": "INACTIVE"
-        },
-        "1572875896": {
-            "www.thesurfshield.com": "INACTIVE"
-        },
-        "1572875899": {
-            "www.tldtgs.com": "INACTIVE"
-        },
-        "1572875907": {
-            "www.travlers.com": "INACTIVE"
-        },
-        "1572875919": {
-            "www.tzw.com": "INACTIVE"
-        },
-        "1572875922": {
-            "www.unblocksit.es": "INACTIVE"
-        },
-        "1572875931": {
-            "www.vaultsappsbyte.com": "INACTIVE"
-        },
-        "1572875942": {
-            "www.vjsoft.net": "INACTIVE"
-        },
-        "1572875960": {
-            "www.winscholarship.com": "INACTIVE"
-        },
-        "1572875967": {
-            "www.wmmax.com": "INACTIVE"
-        },
-        "1572875972": {
-            "www.www4search.net": "INACTIVE"
-        },
-        "1572875979": {
-            "www.wwwalaskaair.com": "INACTIVE"
-        },
-        "1572875980": {
-            "www.wwwbackstreetboys.com": "INACTIVE"
-        },
-        "1572875981": {
-            "www.wwwbluelight.com": "INACTIVE"
-        },
-        "1572875986": {
-            "www.wwwcallwave.com": "INACTIVE"
-        },
-        "1572875995": {
-            "www.wwwcdnow.com": "INACTIVE"
-        },
-        "1572875996": {
-            "www.wwwcheaptickets.com": "INACTIVE",
-            "www.wwwdollar.com": "INACTIVE"
-        },
-        "1572875997": {
-            "www.wwwgameshark.com": "INACTIVE"
-        },
-        "1572876005": {
-            "www.wwwuproar.com": "INACTIVE",
-            "www.xchangetrak.com": "INACTIVE"
-        },
-        "1572876006": {
-            "www.x-diesel.info": "INACTIVE"
-        },
-        "1572876010": {
-            "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE"
-        },
-        "1572876017": {
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
-        "1572876019": {
-            "www.zeroredirect2.com": "INACTIVE"
-        },
-        "1572876024": {
-            "www.zoogdisny.com": "INACTIVE"
-        },
-        "1572876027": {
-            "w.zeroredirect.com": "INACTIVE"
-        },
-        "1572876034": {
-            "x.bidswitch.net": "INACTIVE",
-            "xamateurpornlic.www1.biz": "INACTIVE"
-        },
-        "1572876042": {
-            "xpornstarsckc.ddns.name": "INACTIVE",
-            "xporontube.tripod.com": "INACTIVE"
-        },
-        "1572876044": {
-            "xxxxxxx.hopto.org": "INACTIVE"
-        },
-        "1572876045": {
-            "x.zeroredirect.com": "INACTIVE"
-        },
-        "1572876052": {
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1572876072": {
-            "yvdeuwn.angelcities.com": "INACTIVE"
-        },
-        "1572876073": {
-            "y.zeroredirect.com": "INACTIVE"
-        },
-        "1572876075": {
-            "za.zeroredirect1.com": "INACTIVE",
-            "zb.zeroredirect1.com": "INACTIVE",
-            "zc.zeroredirect1.com": "INACTIVE",
-            "zd1.zeroredirect1.com": "INACTIVE"
-        },
-        "1572876076": {
-            "zd.zeroredirect1.com": "INACTIVE",
-            "zd.zeroredirect2.com": "INACTIVE",
-            "ze1.zeroredirect1.com": "INACTIVE"
-        },
-        "1572876077": {
-            "ze.zeroredirect1.com": "INACTIVE",
-            "ze.zeroredirect2.com": "INACTIVE",
-            "zf.zeroredirect1.com": "INACTIVE",
-            "zf1.zeroredirect11.com": "INACTIVE",
-            "zh1.zeroredirect11.com": "INACTIVE"
-        },
-        "1572876078": {
-            "zj.zeroredirect1.com": "INACTIVE",
-            "zj1.zeroredirect1.com": "INACTIVE",
-            "zk.zeroredirect1.com": "INACTIVE",
-            "zm1.zeroredirect5.com": "INACTIVE"
-        },
         "1572876085": {
             "zr1.zeroredirect11.com": "INACTIVE",
             "zs1.zeroredirect1.com": "INACTIVE",
@@ -1441,6 +1088,345 @@
         },
         "1573035413": {
             "www.duplicatefilecleaner.com": "INACTIVE"
+        },
+        "1573035536": {
+            "www.effectivebrand.com": "INACTIVE",
+            "www.egoldenglove.com": "INACTIVE"
+        },
+        "1573035539": {
+            "www.elisaart.it": "INACTIVE"
+        },
+        "1573035547": {
+            "www.enoratraffic.com": "INACTIVE",
+            "www.epmads.com": "INACTIVE"
+        },
+        "1573035553": {
+            "www.fastnclick.com": "INACTIVE"
+        },
+        "1573035559": {
+            "www.favicon.com": "INACTIVE",
+            "www.federicksofhollywood.com": "INACTIVE"
+        },
+        "1573035568": {
+            "www.fiduciariobajio.com.mx": "INACTIVE"
+        },
+        "1573035603": {
+            "www.fxstra.com": "INACTIVE"
+        },
+        "1573035610": {
+            "www.gaja79.com": "INACTIVE"
+        },
+        "1573035614": {
+            "www.gamesfly.com": "INACTIVE"
+        },
+        "1573035615": {
+            "www.gamesharck.com": "INACTIVE"
+        },
+        "1573035622": {
+            "www.gen2server.com": "INACTIVE"
+        },
+        "1573035632": {
+            "www.go777site.com": "INACTIVE",
+            "www.google-docs.org": "INACTIVE"
+        },
+        "1573035637": {
+            "www.gratisweb.com": "INACTIVE"
+        },
+        "1573035643": {
+            "www.gxplugin.com": "INACTIVE"
+        },
+        "1573035644": {
+            "www.heaptickets.com": "INACTIVE"
+        },
+        "1573035650": {
+            "www.helpmedownload.com": "INACTIVE"
+        },
+        "1573035651": {
+            "www.hgtzz.com": "INACTIVE"
+        },
+        "1573035654": {
+            "www.homedepoy.com": "INACTIVE",
+            "www.homrdepot.com": "INACTIVE"
+        },
+        "1573035661": {
+            "www.hot-bot.com": "INACTIVE"
+        },
+        "1573035668": {
+            "www.hustlercash.hit.bg": "INACTIVE"
+        },
+        "1573035680": {
+            "www.itunesdownloadstore.com": "INACTIVE"
+        },
+        "1573035681": {
+            "www.japanmadchen.com": "INACTIVE",
+            "www.jcwhiney.com": "INACTIVE",
+            "www.jcwhintey.com": "INACTIVE",
+            "www.jcwhitey.com": "INACTIVE"
+        },
+        "1573035690": {
+            "www.joincreditexpert.co.uk": "INACTIVE"
+        },
+        "1573035691": {
+            "www.jque.net": "INACTIVE"
+        },
+        "1573035698": {
+            "www.jsing.net": "INACTIVE"
+        },
+        "1573035707": {
+            "www.kazaa.com": "INACTIVE"
+        },
+        "1573035719": {
+            "www.lcbcad.co.uk": "INACTIVE"
+        },
+        "1573035720": {
+            "www.lefos.net": "INACTIVE"
+        },
+        "1573035750": {
+            "www.lycosgamesville.com": "INACTIVE"
+        },
+        "1573035753": {
+            "www.lzjl.com": "INACTIVE"
+        },
+        "1573035755": {
+            "www.maconbraves.com": "INACTIVE"
+        },
+        "1573035757": {
+            "www.malkm.com": "INACTIVE"
+        },
+        "1573035758": {
+            "www.mapquestt.com": "INACTIVE"
+        },
+        "1573035762": {
+            "www.maxregistrycleaner.net": "INACTIVE",
+            "www.maybankard.com.my": "INACTIVE"
+        },
+        "1573035764": {
+            "www.mycleanerpc.com": "INACTIVE"
+        },
+        "1573035769": {
+            "www.mycleanpc.tk": "INACTIVE"
+        },
+        "1573035784": {
+            "www.mytotalsearch.com": "INACTIVE"
+        },
+        "1573035790": {
+            "www.mywebsearch.com": "INACTIVE"
+        },
+        "1573035791": {
+            "www.naturesunshine.com": "INACTIVE"
+        },
+        "1573035803": {
+            "www.notrecommended.co.uk": "INACTIVE"
+        },
+        "1573035805": {
+            "www.ocpersian.com": "INACTIVE"
+        },
+        "1573035811": {
+            "www.ojolink.fr": "INACTIVE"
+        },
+        "1573035816": {
+            "www.payn.me": "INACTIVE"
+        },
+        "1573035817": {
+            "www.paypal-exchange.com": "INACTIVE"
+        },
+        "1573035819": {
+            "www.pc-detox.com": "INACTIVE",
+            "www.pcmightymax.net": "INACTIVE"
+        },
+        "1573035828": {
+            "www.plarium.com": "INACTIVE"
+        },
+        "1573035829": {
+            "www.playsataion.com": "INACTIVE"
+        },
+        "1573035837": {
+            "www.pokemonporno.com": "INACTIVE"
+        },
+        "1573035840": {
+            "www.praceline.com": "INACTIVE"
+        },
+        "1573035841": {
+            "www.premiumpedia.com": "INACTIVE",
+            "www.priiceline.com": "INACTIVE"
+        },
+        "1573035848": {
+            "www.primosearch.com": "INACTIVE"
+        },
+        "1573035854": {
+            "www.privdog.com": "INACTIVE"
+        },
+        "1573035855": {
+            "www.prriceline.com": "INACTIVE"
+        },
+        "1573035858": {
+            "www.quickbitsdownloads.com": "INACTIVE"
+        },
+        "1573035864": {
+            "www.qzip.cjb.net": "INACTIVE"
+        },
+        "1573035867": {
+            "www.ranchapptag.com": "INACTIVE",
+            "www.ratemodels.net": "INACTIVE"
+        },
+        "1573035874": {
+            "www.redhotchilli.co.uk": "INACTIVE"
+        },
+        "1573035875": {
+            "www.registry-cleaner.net": "INACTIVE"
+        },
+        "1573035879": {
+            "www.registrycleanerpro.net": "INACTIVE"
+        },
+        "1573035890": {
+            "www.restore-pc.com": "INACTIVE"
+        },
+        "1573035902": {
+            "www.rokus-tgy.hu": "INACTIVE"
+        },
+        "1573035909": {
+            "www.scanspyware.net": "INACTIVE"
+        },
+        "1573035911": {
+            "www.searchdiscovered.com": "INACTIVE"
+        },
+        "1573035915": {
+            "www.searchremagnified.com": "INACTIVE"
+        },
+        "1573035924": {
+            "www.sevenstars7.com": "INACTIVE"
+        },
+        "1573035930": {
+            "www.shareaza.com": "INACTIVE"
+        },
+        "1573035942": {
+            "www.sompuserve.com": "INACTIVE"
+        },
+        "1573035943": {
+            "www.spotsniper.ru": "INACTIVE"
+        },
+        "1573035945": {
+            "www.stripteas.com": "INACTIVE"
+        },
+        "1573035963": {
+            "www.theads.me": "INACTIVE",
+            "www.thebighits.com": "INACTIVE"
+        },
+        "1573035971": {
+            "www.thebugs.ws": "INACTIVE"
+        },
+        "1573035979": {
+            "www.thesurfshield.com": "INACTIVE"
+        },
+        "1573035982": {
+            "www.tldtgs.com": "INACTIVE"
+        },
+        "1573035987": {
+            "www.travlers.com": "INACTIVE"
+        },
+        "1573035996": {
+            "www.tzw.com": "INACTIVE",
+            "www.unblocksit.es": "INACTIVE"
+        },
+        "1573036002": {
+            "www.vaultsappsbyte.com": "INACTIVE"
+        },
+        "1573036015": {
+            "www.vjsoft.net": "INACTIVE"
+        },
+        "1573036033": {
+            "www.wmmax.com": "INACTIVE"
+        },
+        "1573036037": {
+            "www.www4search.net": "INACTIVE"
+        },
+        "1573036038": {
+            "www.wwwalaskaair.com": "INACTIVE"
+        },
+        "1573036040": {
+            "www.wwwbackstreetboys.com": "INACTIVE",
+            "www.wwwbluelight.com": "INACTIVE"
+        },
+        "1573036042": {
+            "www.wwwbluemountian.com": "INACTIVE"
+        },
+        "1573036051": {
+            "www.wwwcheaptickets.com": "INACTIVE",
+            "www.wwwdollar.com": "INACTIVE"
+        },
+        "1573036052": {
+            "www.wwwgameshark.com": "INACTIVE"
+        },
+        "1573036057": {
+            "www.wwwuproar.com": "INACTIVE",
+            "www.xchangetrak.com": "INACTIVE"
+        },
+        "1573036058": {
+            "www.x-diesel.info": "INACTIVE"
+        },
+        "1573036064": {
+            "www.xvika.net": "INACTIVE"
+        },
+        "1573036065": {
+            "www.xvika.org": "INACTIVE"
+        },
+        "1573036071": {
+            "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1573036074": {
+            "www.zeroredirect2.com": "INACTIVE"
+        },
+        "1573036075": {
+            "www.zoogdisny.com": "INACTIVE"
+        },
+        "1573036078": {
+            "w.zeroredirect.com": "INACTIVE"
+        },
+        "1573036085": {
+            "x.bidswitch.net": "INACTIVE",
+            "xamateurpornlic.www1.biz": "INACTIVE"
+        },
+        "1573036094": {
+            "xpornstarsckc.ddns.name": "INACTIVE",
+            "xporontube.tripod.com": "INACTIVE"
+        },
+        "1573036095": {
+            "xxxxxxx.hopto.org": "INACTIVE"
+        },
+        "1573036097": {
+            "x.zeroredirect.com": "INACTIVE"
+        },
+        "1573036105": {
+            "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1573036121": {
+            "y.zeroredirect.com": "INACTIVE"
+        },
+        "1573036122": {
+            "za.zeroredirect1.com": "INACTIVE"
+        },
+        "1573036123": {
+            "zb.zeroredirect1.com": "INACTIVE",
+            "zc.zeroredirect1.com": "INACTIVE",
+            "zd1.zeroredirect1.com": "INACTIVE"
+        },
+        "1573036124": {
+            "zd.zeroredirect1.com": "INACTIVE",
+            "zd.zeroredirect2.com": "INACTIVE",
+            "ze1.zeroredirect1.com": "INACTIVE"
+        },
+        "1573036125": {
+            "ze.zeroredirect1.com": "INACTIVE",
+            "ze.zeroredirect2.com": "INACTIVE",
+            "zf.zeroredirect1.com": "INACTIVE",
+            "zf1.zeroredirect11.com": "INACTIVE",
+            "zh1.zeroredirect11.com": "INACTIVE"
+        },
+        "1573036126": {
+            "zj.zeroredirect1.com": "INACTIVE",
+            "zj1.zeroredirect1.com": "INACTIVE",
+            "zk.zeroredirect1.com": "INACTIVE",
+            "zm1.zeroredirect5.com": "INACTIVE"
         }
     }
 }
