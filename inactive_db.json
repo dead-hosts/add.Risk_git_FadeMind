@@ -133,48 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1573036105": {
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1573036121": {
-            "y.zeroredirect.com": "INACTIVE"
-        },
-        "1573036122": {
-            "za.zeroredirect1.com": "INACTIVE"
-        },
-        "1573036123": {
-            "zb.zeroredirect1.com": "INACTIVE",
-            "zc.zeroredirect1.com": "INACTIVE",
-            "zd1.zeroredirect1.com": "INACTIVE"
-        },
-        "1573036124": {
-            "zd.zeroredirect1.com": "INACTIVE",
-            "zd.zeroredirect2.com": "INACTIVE",
-            "ze1.zeroredirect1.com": "INACTIVE"
-        },
-        "1573036125": {
-            "ze.zeroredirect1.com": "INACTIVE",
-            "ze.zeroredirect2.com": "INACTIVE",
-            "zf.zeroredirect1.com": "INACTIVE",
-            "zf1.zeroredirect11.com": "INACTIVE",
-            "zh1.zeroredirect11.com": "INACTIVE"
-        },
-        "1573036126": {
-            "zj.zeroredirect1.com": "INACTIVE",
-            "zj1.zeroredirect1.com": "INACTIVE",
-            "zk.zeroredirect1.com": "INACTIVE",
-            "zm1.zeroredirect5.com": "INACTIVE"
-        },
-        "1573036373": {
-            "zr1.zeroredirect11.com": "INACTIVE",
-            "zs1.zeroredirect1.com": "INACTIVE"
-        },
-        "1573036374": {
-            "zsc.scmspain.com": "INACTIVE"
-        },
-        "1573036375": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1573121659": {
             "0.r.msn.com": "INACTIVE"
         },
@@ -1447,6 +1405,53 @@
         },
         "1573136033": {
             "yitkomfj.angelcities.com": "INACTIVE"
+        },
+        "1573137967": {
+            "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1573137988": {
+            "yvdeuwn.angelcities.com": "INACTIVE"
+        },
+        "1573137989": {
+            "y.zeroredirect.com": "INACTIVE"
+        },
+        "1573137991": {
+            "za.zeroredirect1.com": "INACTIVE"
+        },
+        "1573137992": {
+            "zb.zeroredirect1.com": "INACTIVE",
+            "zc.zeroredirect1.com": "INACTIVE",
+            "zd1.zeroredirect1.com": "INACTIVE"
+        },
+        "1573137993": {
+            "zd.zeroredirect1.com": "INACTIVE",
+            "zd.zeroredirect2.com": "INACTIVE",
+            "ze1.zeroredirect1.com": "INACTIVE"
+        },
+        "1573137994": {
+            "ze.zeroredirect1.com": "INACTIVE",
+            "ze.zeroredirect2.com": "INACTIVE",
+            "zf1.zeroredirect11.com": "INACTIVE"
+        },
+        "1573137995": {
+            "zf.zeroredirect1.com": "INACTIVE",
+            "zh1.zeroredirect11.com": "INACTIVE",
+            "zj.zeroredirect1.com": "INACTIVE",
+            "zj1.zeroredirect1.com": "INACTIVE",
+            "zk.zeroredirect1.com": "INACTIVE"
+        },
+        "1573137996": {
+            "zm1.zeroredirect5.com": "INACTIVE"
+        },
+        "1573138008": {
+            "zr1.zeroredirect11.com": "INACTIVE",
+            "zs1.zeroredirect1.com": "INACTIVE"
+        },
+        "1573138009": {
+            "zsc.scmspain.com": "INACTIVE"
+        },
+        "1573138011": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
