@@ -4475,62 +4475,62 @@
         "state": "future"
     },
     "wwwcnnnews.com": {
-        "epoch": "1576022400",
+        "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
     "wwwdiynet.com": {
-        "epoch": 1601683200,
+        "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "wwwdollar.com": {
-        "epoch": 1603929600,
+        "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "wwwgamepro.com": {
-        "epoch": 1604620800,
+        "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "wwwgameshark.com": {
-        "epoch": "1586736000",
+        "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "wwwgmacmortgage.com": {
-        "epoch": 1602720000,
+        "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "wwwgoogles.com": {
-        "epoch": "1605312000",
+        "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "wwwmancow.com": {
-        "epoch": "1574899200",
+        "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
         "state": "future"
     },
     "wwwnwa.com": {
-        "epoch": 1597622400,
+        "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "wwwplaysite.com": {
-        "epoch": "1580774400",
+        "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "wwwrealator.com": {
-        "epoch": "1723334400",
+        "epoch": 1723334400.0,
         "expiration_date": "11-aug-2024",
         "state": "future"
     },
     "wwwservicemerchandise.com": {
-        "epoch": "1580774400",
+        "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
