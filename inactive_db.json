@@ -133,17 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575021466": {
-            "o.zeroredirect.com": "INACTIVE",
-            "orango.redirectme.net": "INACTIVE"
-        },
-        "1575021467": {
-            "p.zeroredirect.com": "INACTIVE",
-            "q.zeroredirect.com": "INACTIVE",
-            "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE",
-            "redirectlnk.redirectme.net": "INACTIVE"
-        },
         "1575021469": {
             "s.zeroredirect.com": "INACTIVE",
             "thenewupdatee.redirectme.net": "INACTIVE"
@@ -299,6 +288,21 @@
             "noredirecto.redirectme.net": "INACTIVE",
             "nourteenthp.angelcities.com": "INACTIVE",
             "ojtobu.angelcities.com": "INACTIVE"
+        },
+        "1575122034": {
+            "oovqsvi.angelcities.com": "INACTIVE"
+        },
+        "1575122035": {
+            "o.zeroredirect.com": "INACTIVE",
+            "orango.redirectme.net": "INACTIVE",
+            "owpuuzea.angelcities.com": "INACTIVE",
+            "p.zeroredirect.com": "INACTIVE",
+            "pfcuay.o-f.com": "INACTIVE",
+            "q.zeroredirect.com": "INACTIVE",
+            "qacupuzute.angelcities.com": "INACTIVE",
+            "qzip.cjb.net": "INACTIVE",
+            "rahulthehacker.tk": "INACTIVE",
+            "redirectlnk.redirectme.net": "INACTIVE"
         }
     }
 }
