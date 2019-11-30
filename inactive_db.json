@@ -133,47 +133,8 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575022172": {
-            "www.maybankard.com.my": "INACTIVE",
-            "www.mycleanerpc.com": "INACTIVE",
-            "www.mycleanpc.tk": "INACTIVE",
-            "www.notrecommended.co.uk": "INACTIVE",
-            "www.ocpersian.com": "INACTIVE",
-            "www.payn.me": "INACTIVE",
-            "www.paypal-exchange.com": "INACTIVE",
-            "www.pc-detox.com": "INACTIVE",
-            "www.premiumpedia.com": "INACTIVE",
-            "www.qzip.cjb.net": "INACTIVE",
-            "www.ranchapptag.com": "INACTIVE",
-            "www.ratemodels.net": "INACTIVE",
-            "www.registry-cleaner.net": "INACTIVE"
-        },
-        "1575022173": {
-            "w.zeroredirect.com": "INACTIVE",
-            "www.scanspyware.net": "INACTIVE",
-            "www.sevenstars7.com": "INACTIVE",
-            "www.theads.me": "INACTIVE",
-            "www.thebighits.com": "INACTIVE",
-            "www.themillionaireinpjs.net": "INACTIVE",
-            "www.travlers.com": "INACTIVE",
-            "www.tzw.com": "INACTIVE",
-            "www.unblocksit.es": "INACTIVE",
-            "www.vaultsappsbyte.com": "INACTIVE",
-            "www.wwfsable.com": "INACTIVE",
-            "www.wwwbackstreetboys.com": "INACTIVE",
-            "www.wwwbluelight.com": "INACTIVE",
-            "www.wwwgameshark.com": "INACTIVE",
-            "www.wwwuproar.com": "INACTIVE",
-            "www.xchangetrak.com": "INACTIVE",
-            "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
         "1575022174": {
-            "x.zeroredirect.com": "INACTIVE",
-            "xxxxxxx.hopto.org": "INACTIVE",
-            "y.zeroredirect.com": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE"
+            "y.zeroredirect.com": "INACTIVE"
         },
         "1575022301": {
             "z.zeroredirect.com": "INACTIVE"
@@ -307,6 +268,48 @@
             "www.mapqueat.com": "INACTIVE",
             "www.mapquestt.com": "INACTIVE",
             "www.maxregistrycleaner.net": "INACTIVE"
+        },
+        "1575131127": {
+            "www.maybankard.com.my": "INACTIVE",
+            "www.mycleanerpc.com": "INACTIVE"
+        },
+        "1575131128": {
+            "www.notrecommended.co.uk": "INACTIVE",
+            "www.ocpersian.com": "INACTIVE",
+            "www.payn.me": "INACTIVE",
+            "www.paypal-exchange.com": "INACTIVE",
+            "www.pc-detox.com": "INACTIVE",
+            "www.premiumpedia.com": "INACTIVE",
+            "www.qzip.cjb.net": "INACTIVE",
+            "www.ranchapptag.com": "INACTIVE",
+            "www.ratemodels.net": "INACTIVE",
+            "www.registry-cleaner.net": "INACTIVE",
+            "www.scanspyware.net": "INACTIVE",
+            "www.sevenstars7.com": "INACTIVE",
+            "www.theads.me": "INACTIVE",
+            "www.thebighits.com": "INACTIVE",
+            "www.themillionaireinpjs.net": "INACTIVE",
+            "www.travlers.com": "INACTIVE",
+            "www.tzw.com": "INACTIVE",
+            "www.unblocksit.es": "INACTIVE",
+            "www.vaultsappsbyte.com": "INACTIVE",
+            "www.wwfsable.com": "INACTIVE"
+        },
+        "1575131129": {
+            "w.zeroredirect.com": "INACTIVE",
+            "www.wwwbackstreetboys.com": "INACTIVE",
+            "www.wwwbluelight.com": "INACTIVE",
+            "www.wwwgameshark.com": "INACTIVE",
+            "www.wwwuproar.com": "INACTIVE",
+            "www.xchangetrak.com": "INACTIVE",
+            "www.xvika.net": "INACTIVE",
+            "www.xvika.org": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE",
+            "x.zeroredirect.com": "INACTIVE",
+            "xxxxxxx.hopto.org": "INACTIVE",
+            "xyxudubax.angelcities.com": "INACTIVE",
+            "yitkomfj.angelcities.com": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE"
         }
     }
 }
