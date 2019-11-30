@@ -133,12 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575022174": {
-            "y.zeroredirect.com": "INACTIVE"
-        },
-        "1575022301": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1575114785": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -310,6 +304,12 @@
             "xyxudubax.angelcities.com": "INACTIVE",
             "yitkomfj.angelcities.com": "INACTIVE",
             "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1575133284": {
+            "y.zeroredirect.com": "INACTIVE",
+            "ylgingq.angelcities.com": "INACTIVE",
+            "yvdeuwn.angelcities.com": "INACTIVE",
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
