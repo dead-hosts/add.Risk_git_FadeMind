@@ -133,24 +133,7 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575020633": {
-            "j.theadsnet.com": "INACTIVE",
-            "j.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "k.zeroredirect.com": "INACTIVE",
-            "lcbcad.co.uk": "INACTIVE",
-            "lilian.redirectme.net": "INACTIVE"
-        },
-        "1575021465": {
-            "l.zeroredirect.com": "INACTIVE",
-            "mobile.bitterstrawberry.org": "INACTIVE"
-        },
         "1575021466": {
-            "m.zeroredirect.com": "INACTIVE",
-            "mrace.hopto.org": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
-            "n.zeroredirect.com": "INACTIVE",
-            "noredirecto.redirectme.net": "INACTIVE",
             "o.zeroredirect.com": "INACTIVE",
             "orango.redirectme.net": "INACTIVE"
         },
@@ -289,6 +272,33 @@
             "hitwastedgarden.com": "INACTIVE",
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
+        },
+        "1575118184": {
+            "jque.net": "INACTIVE"
+        },
+        "1575118185": {
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE",
+            "jzrvquay.angelcities.com": "INACTIVE",
+            "k.zeroredirect.com": "INACTIVE",
+            "kosdyvore.angelcities.com": "INACTIVE",
+            "kvvijrmu.angelcities.com": "INACTIVE",
+            "l.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE",
+            "lilian.redirectme.net": "INACTIVE",
+            "llaredlrgn.angelcities.com": "INACTIVE",
+            "luesojz.angelcities.com": "INACTIVE",
+            "maryscott.angelcities.com": "INACTIVE"
+        },
+        "1575118186": {
+            "m.zeroredirect.com": "INACTIVE",
+            "mobile.bitterstrawberry.org": "INACTIVE",
+            "mrace.hopto.org": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "n.zeroredirect.com": "INACTIVE",
+            "noredirecto.redirectme.net": "INACTIVE",
+            "nourteenthp.angelcities.com": "INACTIVE",
+            "ojtobu.angelcities.com": "INACTIVE"
         }
     }
 }
