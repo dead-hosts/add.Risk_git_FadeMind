@@ -133,53 +133,7 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575020628": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ad3.hornymatches.com": "INACTIVE",
-            "ads.wikipartes.com": "INACTIVE",
-            "adserve.cpmba.se": "INACTIVE",
-            "adserver.online-tech.com": "INACTIVE",
-            "adweb1.hornymatches.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE"
-        },
-        "1575020629": {
-            "a.zeroredirect.com": "INACTIVE",
-            "ayada.zapto.org": "INACTIVE",
-            "ayehcleaners.com": "INACTIVE",
-            "b.zeroredirect.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1575020630": {
-            "c.zeroredirect.com": "INACTIVE",
-            "collectiable.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
-        },
-        "1575020631": {
-            "d.zeroredirect.com": "INACTIVE",
-            "dlldlldll.sytes.net": "INACTIVE",
-            "doda.redirectme.net": "INACTIVE",
-            "e.zeroredirect.com": "INACTIVE",
-            "fecabook.redirectme.net": "INACTIVE",
-            "finders.hopto.org": "INACTIVE"
-        },
-        "1575020632": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE",
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE",
-            "hackairtel.tk": "INACTIVE",
-            "handlerhackz.tk": "INACTIVE",
-            "havijrat.zapto.org": "INACTIVE",
-            "hira.hopto.org": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE"
-        },
         "1575020633": {
-            "h.zeroredirect.com": "INACTIVE",
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
             "jque.net": "INACTIVE",
@@ -290,6 +244,51 @@
         },
         "1575022301": {
             "z.zeroredirect.com": "INACTIVE"
+        },
+        "1575114785": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE",
+            "a.zeroredirect.com": "INACTIVE",
+            "ad.slutload.com": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "ads.wikipartes.com": "INACTIVE",
+            "adserve.cpmba.se": "INACTIVE",
+            "adserver.online-tech.com": "INACTIVE",
+            "adweb1.hornymatches.com": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "ayada.zapto.org": "INACTIVE",
+            "ayehcleaners.com": "INACTIVE",
+            "b.zeroredirect.com": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "c.zeroredirect.com": "INACTIVE",
+            "collectiable.com": "INACTIVE",
+            "compactiongames.gameaholic.com": "INACTIVE",
+            "d.zeroredirect.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE",
+            "dqxaszsk.angelcities.com": "INACTIVE"
+        },
+        "1575114786": {
+            "e.zeroredirect.com": "INACTIVE",
+            "f.zeroredirect.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE",
+            "ficcionaliza.angelcities.com": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "fkooaee.angelcities.com": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1575114787": {
+            "g.zeroredirect.com": "INACTIVE",
+            "h.zeroredirect.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE",
+            "hackairtel.tk": "INACTIVE",
+            "handlerhackz.tk": "INACTIVE",
+            "havijrat.zapto.org": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
