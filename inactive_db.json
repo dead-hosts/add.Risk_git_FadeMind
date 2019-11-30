@@ -133,15 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575021469": {
-            "s.zeroredirect.com": "INACTIVE",
-            "thenewupdatee.redirectme.net": "INACTIVE"
-        },
-        "1575021470": {
-            "t.zeroredirect.com": "INACTIVE",
-            "urchman11.zapto.org": "INACTIVE",
-            "vf7.soundsecureredir.com": "INACTIVE"
-        },
         "1575021471": {
             "www.advancedsoftwaresupport.com": "INACTIVE",
             "www.amazing-offers.co.il": "INACTIVE",
@@ -303,6 +294,20 @@
             "qzip.cjb.net": "INACTIVE",
             "rahulthehacker.tk": "INACTIVE",
             "redirectlnk.redirectme.net": "INACTIVE"
+        },
+        "1575125091": {
+            "s.zeroredirect.com": "INACTIVE",
+            "thenewupdatee.redirectme.net": "INACTIVE"
+        },
+        "1575125092": {
+            "t.zeroredirect.com": "INACTIVE",
+            "ualumphuoldi.angelcities.com": "INACTIVE",
+            "uoaofgqu.angelcities.com": "INACTIVE",
+            "uojamcse.angelcities.com": "INACTIVE",
+            "urchman11.zapto.org": "INACTIVE"
+        },
+        "1575125093": {
+            "vf7.soundsecureredir.com": "INACTIVE"
         }
     }
 }
