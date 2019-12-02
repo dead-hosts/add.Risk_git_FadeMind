@@ -133,10 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575125091": {
-            "s.zeroredirect.com": "INACTIVE",
-            "thenewupdatee.redirectme.net": "INACTIVE"
-        },
         "1575125092": {
             "t.zeroredirect.com": "INACTIVE",
             "ualumphuoldi.angelcities.com": "INACTIVE",
@@ -224,9 +220,6 @@
             "yvdeuwn.angelcities.com": "INACTIVE",
             "z.zeroredirect.com": "INACTIVE"
         },
-        "1575163898": {
-            "ttt.fwq101.tk": "INACTIVE"
-        },
         "1575163899": {
             "www.cabeles.com": "INACTIVE"
         },
@@ -311,6 +304,13 @@
             "qzip.cjb.net": "INACTIVE",
             "rahulthehacker.tk": "INACTIVE",
             "redirectlnk.redirectme.net": "INACTIVE"
+        },
+        "1575283867": {
+            "s.zeroredirect.com": "INACTIVE",
+            "thenewupdatee.redirectme.net": "INACTIVE"
+        },
+        "1575283868": {
+            "ttt.fwq101.tk": "INACTIVE"
         }
     }
 }
