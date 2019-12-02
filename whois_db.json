@@ -4555,8 +4555,8 @@
         "state": "future"
     },
     "x-diesel.biz": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "x-diesel.com": {
@@ -4712,7 +4712,7 @@
     "zoophil.com": {
         "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "zoosexart.com": {
         "epoch": 1578268800.0,

@@ -133,31 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575131128": {
-            "www.wwfsable.com": "INACTIVE"
-        },
-        "1575131129": {
-            "w.zeroredirect.com": "INACTIVE",
-            "www.wwwbackstreetboys.com": "INACTIVE",
-            "www.wwwbluelight.com": "INACTIVE",
-            "www.wwwgameshark.com": "INACTIVE",
-            "www.wwwuproar.com": "INACTIVE",
-            "www.xchangetrak.com": "INACTIVE",
-            "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE",
-            "x.zeroredirect.com": "INACTIVE",
-            "xxxxxxx.hopto.org": "INACTIVE",
-            "xyxudubax.angelcities.com": "INACTIVE",
-            "yitkomfj.angelcities.com": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1575133284": {
-            "y.zeroredirect.com": "INACTIVE",
-            "ylgingq.angelcities.com": "INACTIVE",
-            "yvdeuwn.angelcities.com": "INACTIVE",
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1575279936": {
             "11163221-517901.c.adprotect.net": "INACTIVE"
         },
@@ -303,6 +278,25 @@
             "www.tzw.com": "INACTIVE",
             "www.unblocksit.es": "INACTIVE",
             "www.vaultsappsbyte.com": "INACTIVE"
+        },
+        "1575288608": {
+            "w.zeroredirect.com": "INACTIVE",
+            "www.wwfsable.com": "INACTIVE",
+            "www.wwwbackstreetboys.com": "INACTIVE",
+            "www.wwwbluelight.com": "INACTIVE",
+            "www.wwwgameshark.com": "INACTIVE",
+            "www.wwwuproar.com": "INACTIVE",
+            "www.xchangetrak.com": "INACTIVE",
+            "www.xvika.net": "INACTIVE",
+            "www.xvika.org": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE",
+            "x.zeroredirect.com": "INACTIVE",
+            "xxxxxxx.hopto.org": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1575288609": {
+            "y.zeroredirect.com": "INACTIVE",
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
