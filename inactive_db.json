@@ -133,44 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575118185": {
-            "j.zeroredirect.com": "INACTIVE",
-            "jzrvquay.angelcities.com": "INACTIVE",
-            "k.zeroredirect.com": "INACTIVE",
-            "kosdyvore.angelcities.com": "INACTIVE",
-            "kvvijrmu.angelcities.com": "INACTIVE",
-            "l.zeroredirect.com": "INACTIVE",
-            "lcbcad.co.uk": "INACTIVE",
-            "lilian.redirectme.net": "INACTIVE",
-            "llaredlrgn.angelcities.com": "INACTIVE",
-            "luesojz.angelcities.com": "INACTIVE",
-            "maryscott.angelcities.com": "INACTIVE"
-        },
-        "1575118186": {
-            "m.zeroredirect.com": "INACTIVE",
-            "mobile.bitterstrawberry.org": "INACTIVE",
-            "mrace.hopto.org": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
-            "n.zeroredirect.com": "INACTIVE",
-            "noredirecto.redirectme.net": "INACTIVE",
-            "nourteenthp.angelcities.com": "INACTIVE",
-            "ojtobu.angelcities.com": "INACTIVE"
-        },
-        "1575122034": {
-            "oovqsvi.angelcities.com": "INACTIVE"
-        },
-        "1575122035": {
-            "o.zeroredirect.com": "INACTIVE",
-            "orango.redirectme.net": "INACTIVE",
-            "owpuuzea.angelcities.com": "INACTIVE",
-            "p.zeroredirect.com": "INACTIVE",
-            "pfcuay.o-f.com": "INACTIVE",
-            "q.zeroredirect.com": "INACTIVE",
-            "qacupuzute.angelcities.com": "INACTIVE",
-            "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE",
-            "redirectlnk.redirectme.net": "INACTIVE"
-        },
         "1575125091": {
             "s.zeroredirect.com": "INACTIVE",
             "thenewupdatee.redirectme.net": "INACTIVE"
@@ -325,6 +287,30 @@
         "1575280628": {
             "j.theadsnet.com": "INACTIVE",
             "jque.net": "INACTIVE"
+        },
+        "1575281316": {
+            "j.zeroredirect.com": "INACTIVE",
+            "k.zeroredirect.com": "INACTIVE",
+            "l.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE",
+            "lilian.redirectme.net": "INACTIVE"
+        },
+        "1575281317": {
+            "m.zeroredirect.com": "INACTIVE",
+            "mobile.bitterstrawberry.org": "INACTIVE",
+            "mrace.hopto.org": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "n.zeroredirect.com": "INACTIVE",
+            "noredirecto.redirectme.net": "INACTIVE",
+            "orango.redirectme.net": "INACTIVE"
+        },
+        "1575281318": {
+            "o.zeroredirect.com": "INACTIVE",
+            "p.zeroredirect.com": "INACTIVE",
+            "q.zeroredirect.com": "INACTIVE",
+            "qzip.cjb.net": "INACTIVE",
+            "rahulthehacker.tk": "INACTIVE",
+            "redirectlnk.redirectme.net": "INACTIVE"
         }
     }
 }
