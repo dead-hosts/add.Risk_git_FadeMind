@@ -133,30 +133,7 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575285965": {
-            "www.advancedsoftwaresupport.com": "INACTIVE",
-            "www.amazing-offers.co.il": "INACTIVE",
-            "www.ayehcleaners.com": "INACTIVE",
-            "www.balook.com": "INACTIVE",
-            "www.beyondwhois.com": "INACTIVE",
-            "www.bluemountain2.com": "INACTIVE",
-            "www.butterfly-media.co.uk": "INACTIVE",
-            "www.ceskarepublika.net": "INACTIVE"
-        },
-        "1575285966": {
-            "www.cleanproxy.com": "INACTIVE",
-            "www.collectiable.com": "INACTIVE",
-            "www.egoldenglove.com": "INACTIVE",
-            "www.elisaart.it": "INACTIVE",
-            "www.formessengers.com": "INACTIVE"
-        },
         "1575287390": {
-            "www.get-avast.com": "INACTIVE",
-            "www.gratisweb.com": "INACTIVE",
-            "www.gxplugin.com": "INACTIVE",
-            "www.itunesdownloadstore.com": "INACTIVE",
-            "www.japanmadchen.com": "INACTIVE",
-            "www.jque.net": "INACTIVE",
             "www.lcbcad.co.uk": "INACTIVE",
             "www.lefos.net": "INACTIVE",
             "www.lycosgamesville.com": "INACTIVE",
@@ -293,6 +270,29 @@
         "1575374619": {
             "t.zeroredirect.com": "INACTIVE",
             "urchman11.zapto.org": "INACTIVE"
+        },
+        "1575375990": {
+            "www.advancedsoftwaresupport.com": "INACTIVE",
+            "www.amazing-offers.co.il": "INACTIVE",
+            "www.ayehcleaners.com": "INACTIVE",
+            "www.balook.com": "INACTIVE",
+            "www.beyondwhois.com": "INACTIVE",
+            "www.bluemountain2.com": "INACTIVE"
+        },
+        "1575375991": {
+            "www.butterfly-media.co.uk": "INACTIVE",
+            "www.ceskarepublika.net": "INACTIVE",
+            "www.cleanproxy.com": "INACTIVE",
+            "www.collectiable.com": "INACTIVE",
+            "www.egoldenglove.com": "INACTIVE",
+            "www.elisaart.it": "INACTIVE",
+            "www.formessengers.com": "INACTIVE",
+            "www.get-avast.com": "INACTIVE",
+            "www.gratisweb.com": "INACTIVE",
+            "www.gxplugin.com": "INACTIVE",
+            "www.itunesdownloadstore.com": "INACTIVE",
+            "www.japanmadchen.com": "INACTIVE",
+            "www.jque.net": "INACTIVE"
         }
     }
 }
