@@ -133,29 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575281316": {
-            "k.zeroredirect.com": "INACTIVE",
-            "l.zeroredirect.com": "INACTIVE",
-            "lcbcad.co.uk": "INACTIVE",
-            "lilian.redirectme.net": "INACTIVE"
-        },
-        "1575281317": {
-            "m.zeroredirect.com": "INACTIVE",
-            "mobile.bitterstrawberry.org": "INACTIVE",
-            "mrace.hopto.org": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
-            "n.zeroredirect.com": "INACTIVE",
-            "noredirecto.redirectme.net": "INACTIVE",
-            "orango.redirectme.net": "INACTIVE"
-        },
-        "1575281318": {
-            "o.zeroredirect.com": "INACTIVE",
-            "p.zeroredirect.com": "INACTIVE",
-            "q.zeroredirect.com": "INACTIVE",
-            "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE",
-            "redirectlnk.redirectme.net": "INACTIVE"
-        },
         "1575283867": {
             "s.zeroredirect.com": "INACTIVE",
             "thenewupdatee.redirectme.net": "INACTIVE"
@@ -296,6 +273,29 @@
             "j.zeroredirect.com": "INACTIVE",
             "jque.net": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1575373114": {
+            "k.zeroredirect.com": "INACTIVE",
+            "l.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE",
+            "lilian.redirectme.net": "INACTIVE"
+        },
+        "1575373115": {
+            "m.zeroredirect.com": "INACTIVE",
+            "mobile.bitterstrawberry.org": "INACTIVE",
+            "mrace.hopto.org": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "n.zeroredirect.com": "INACTIVE",
+            "noredirecto.redirectme.net": "INACTIVE"
+        },
+        "1575373116": {
+            "o.zeroredirect.com": "INACTIVE",
+            "orango.redirectme.net": "INACTIVE",
+            "p.zeroredirect.com": "INACTIVE",
+            "q.zeroredirect.com": "INACTIVE",
+            "qzip.cjb.net": "INACTIVE",
+            "rahulthehacker.tk": "INACTIVE",
+            "redirectlnk.redirectme.net": "INACTIVE"
         }
     }
 }
