@@ -133,9 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575378074": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1575539381": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -296,6 +293,9 @@
             "xxxxxxx.hopto.org": "INACTIVE",
             "y.zeroredirect.com": "INACTIVE",
             "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1575562713": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
