@@ -133,20 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575555261": {
-            "s.zeroredirect.com": "INACTIVE",
-            "thenewupdatee.redirectme.net": "INACTIVE"
-        },
-        "1575555262": {
-            "t.zeroredirect.com": "INACTIVE",
-            "urchman11.zapto.org": "INACTIVE"
-        },
-        "1575555263": {
-            "www.advancedsoftwaresupport.com": "INACTIVE",
-            "www.amazing-offers.co.il": "INACTIVE",
-            "www.ayehcleaners.com": "INACTIVE",
-            "www.balook.com": "INACTIVE"
-        },
         "1575558078": {
             "www.beyondwhois.com": "INACTIVE",
             "www.bluemountain2.com": "INACTIVE",
@@ -291,6 +277,21 @@
         },
         "1575639594": {
             "ttt.fwq101.tk": "INACTIVE"
+        },
+        "1575642718": {
+            "s.zeroredirect.com": "INACTIVE",
+            "t.zeroredirect.com": "INACTIVE",
+            "thenewupdatee.redirectme.net": "INACTIVE",
+            "urchman11.zapto.org": "INACTIVE",
+            "www.advancedsoftwaresupport.com": "INACTIVE"
+        },
+        "1575642719": {
+            "www.amazing-offers.co.il": "INACTIVE",
+            "www.ayehcleaners.com": "INACTIVE",
+            "www.balook.com": "INACTIVE"
+        },
+        "1575642720": {
+            "www.mycleanpc.tk": "INACTIVE"
         }
     }
 }
