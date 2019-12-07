@@ -133,29 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575628138": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ad3.hornymatches.com": "INACTIVE",
-            "ads.wikipartes.com": "INACTIVE",
-            "adserve.cpmba.se": "INACTIVE",
-            "adserver.online-tech.com": "INACTIVE",
-            "adweb1.hornymatches.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE"
-        },
-        "1575628139": {
-            "a.zeroredirect.com": "INACTIVE",
-            "ayada.zapto.org": "INACTIVE",
-            "ayehcleaners.com": "INACTIVE",
-            "b.zeroredirect.com": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1575628140": {
-            "collectiable.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
-        },
         "1575632481": {
             "c.zeroredirect.com": "INACTIVE"
         },
@@ -289,6 +266,25 @@
             "y.zeroredirect.com": "INACTIVE",
             "yk.handlerhackz.tk": "INACTIVE",
             "z.zeroredirect.com": "INACTIVE"
+        },
+        "1575716490": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE",
+            "a.zeroredirect.com": "INACTIVE",
+            "ad.slutload.com": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "ads.wikipartes.com": "INACTIVE",
+            "adserve.cpmba.se": "INACTIVE",
+            "adserver.online-tech.com": "INACTIVE",
+            "adweb1.hornymatches.com": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "ayada.zapto.org": "INACTIVE",
+            "ayehcleaners.com": "INACTIVE",
+            "b.zeroredirect.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "collectiable.com": "INACTIVE",
+            "compactiongames.gameaholic.com": "INACTIVE"
         }
     }
 }
