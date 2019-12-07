@@ -133,27 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575560809": {
-            "www.notrecommended.co.uk": "INACTIVE",
-            "www.ocpersian.com": "INACTIVE",
-            "www.payn.me": "INACTIVE",
-            "www.paypal-exchange.com": "INACTIVE",
-            "www.pc-detox.com": "INACTIVE",
-            "www.premiumpedia.com": "INACTIVE",
-            "www.qzip.cjb.net": "INACTIVE",
-            "www.ranchapptag.com": "INACTIVE",
-            "www.ratemodels.net": "INACTIVE",
-            "www.registry-cleaner.net": "INACTIVE",
-            "www.scanspyware.net": "INACTIVE",
-            "www.sevenstars7.com": "INACTIVE",
-            "www.theads.me": "INACTIVE",
-            "www.thebighits.com": "INACTIVE",
-            "www.themillionaireinpjs.net": "INACTIVE",
-            "www.travlers.com": "INACTIVE",
-            "www.tzw.com": "INACTIVE",
-            "www.unblocksit.es": "INACTIVE",
-            "www.vaultsappsbyte.com": "INACTIVE"
-        },
         "1575560810": {
             "w.zeroredirect.com": "INACTIVE",
             "www.wwfsable.com": "INACTIVE",
@@ -287,6 +266,29 @@
             "www.maxregistrycleaner.net": "INACTIVE",
             "www.maybankard.com.my": "INACTIVE",
             "www.mycleanerpc.com": "INACTIVE"
+        },
+        "1575683215": {
+            "www.notrecommended.co.uk": "INACTIVE",
+            "www.ocpersian.com": "INACTIVE",
+            "www.payn.me": "INACTIVE",
+            "www.paypal-exchange.com": "INACTIVE",
+            "www.pc-detox.com": "INACTIVE",
+            "www.premiumpedia.com": "INACTIVE",
+            "www.qzip.cjb.net": "INACTIVE",
+            "www.ranchapptag.com": "INACTIVE",
+            "www.ratemodels.net": "INACTIVE",
+            "www.registry-cleaner.net": "INACTIVE",
+            "www.scanspyware.net": "INACTIVE",
+            "www.sevenstars7.com": "INACTIVE"
+        },
+        "1575683216": {
+            "www.theads.me": "INACTIVE",
+            "www.thebighits.com": "INACTIVE",
+            "www.themillionaireinpjs.net": "INACTIVE",
+            "www.travlers.com": "INACTIVE",
+            "www.tzw.com": "INACTIVE",
+            "www.unblocksit.es": "INACTIVE",
+            "www.vaultsappsbyte.com": "INACTIVE"
         }
     }
 }
