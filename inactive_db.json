@@ -133,13 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575632481": {
-            "c.zeroredirect.com": "INACTIVE"
-        },
-        "1575632482": {
-            "dlldlldll.sytes.net": "INACTIVE",
-            "doda.redirectme.net": "INACTIVE"
-        },
         "1575636261": {
             "d.zeroredirect.com": "INACTIVE",
             "e.zeroredirect.com": "INACTIVE",
@@ -285,6 +278,11 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "collectiable.com": "INACTIVE",
             "compactiongames.gameaholic.com": "INACTIVE"
+        },
+        "1575720740": {
+            "c.zeroredirect.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE"
         }
     }
 }
