@@ -133,29 +133,10 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575639594": {
-            "ttt.fwq101.tk": "INACTIVE"
-        },
-        "1575642718": {
-            "s.zeroredirect.com": "INACTIVE",
-            "t.zeroredirect.com": "INACTIVE",
-            "thenewupdatee.redirectme.net": "INACTIVE",
-            "urchman11.zapto.org": "INACTIVE",
-            "www.advancedsoftwaresupport.com": "INACTIVE"
-        },
-        "1575642719": {
-            "www.amazing-offers.co.il": "INACTIVE",
-            "www.ayehcleaners.com": "INACTIVE",
-            "www.balook.com": "INACTIVE"
-        },
         "1575642720": {
             "www.mycleanpc.tk": "INACTIVE"
         },
         "1575645579": {
-            "www.beyondwhois.com": "INACTIVE",
-            "www.bluemountain2.com": "INACTIVE",
-            "www.butterfly-media.co.uk": "INACTIVE",
-            "www.cleanproxy.com": "INACTIVE",
             "www.collectiable.com": "INACTIVE",
             "www.egoldenglove.com": "INACTIVE",
             "www.elisaart.it": "INACTIVE",
@@ -291,6 +272,25 @@
             "qzip.cjb.net": "INACTIVE",
             "rahulthehacker.tk": "INACTIVE",
             "redirectlnk.redirectme.net": "INACTIVE"
+        },
+        "1575737283": {
+            "s.zeroredirect.com": "INACTIVE"
+        },
+        "1575737284": {
+            "t.zeroredirect.com": "INACTIVE",
+            "thenewupdatee.redirectme.net": "INACTIVE",
+            "urchman11.zapto.org": "INACTIVE"
+        },
+        "1575737285": {
+            "www.advancedsoftwaresupport.com": "INACTIVE",
+            "www.amazing-offers.co.il": "INACTIVE",
+            "www.ayehcleaners.com": "INACTIVE",
+            "www.balook.com": "INACTIVE",
+            "www.beyondwhois.com": "INACTIVE",
+            "www.bluemountain2.com": "INACTIVE",
+            "www.butterfly-media.co.uk": "INACTIVE",
+            "www.cabeles.com": "INACTIVE",
+            "www.cleanproxy.com": "INACTIVE"
         }
     }
 }
