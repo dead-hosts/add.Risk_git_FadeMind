@@ -134,12 +134,7 @@
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
         "1575639593": {
-            "m.zeroredirect.com": "INACTIVE",
-            "mobile.bitterstrawberry.org": "INACTIVE",
-            "mrace.hopto.org": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
             "n.zeroredirect.com": "INACTIVE",
-            "noredirecto.redirectme.net": "INACTIVE",
             "o.zeroredirect.com": "INACTIVE",
             "orango.redirectme.net": "INACTIVE",
             "p.zeroredirect.com": "INACTIVE",
@@ -283,6 +278,15 @@
             "l.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1575731222": {
+            "mobile.bitterstrawberry.org": "INACTIVE"
+        },
+        "1575731223": {
+            "m.zeroredirect.com": "INACTIVE",
+            "mrace.hopto.org": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "noredirecto.redirectme.net": "INACTIVE"
         }
     }
 }
