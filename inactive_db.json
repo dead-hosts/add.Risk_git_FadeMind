@@ -133,23 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1575886341": {
-            "m.zeroredirect.com": "INACTIVE",
-            "mobile.bitterstrawberry.org": "INACTIVE",
-            "mrace.hopto.org": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
-            "n.zeroredirect.com": "INACTIVE",
-            "noredirecto.redirectme.net": "INACTIVE"
-        },
-        "1575886342": {
-            "o.zeroredirect.com": "INACTIVE",
-            "orango.redirectme.net": "INACTIVE",
-            "p.zeroredirect.com": "INACTIVE",
-            "q.zeroredirect.com": "INACTIVE",
-            "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE",
-            "redirectlnk.redirectme.net": "INACTIVE"
-        },
         "1575887051": {
             "s.zeroredirect.com": "INACTIVE",
             "t.zeroredirect.com": "INACTIVE",
@@ -289,6 +272,23 @@
             "l.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1576020523": {
+            "m.zeroredirect.com": "INACTIVE",
+            "mobile.bitterstrawberry.org": "INACTIVE",
+            "mrace.hopto.org": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "n.zeroredirect.com": "INACTIVE",
+            "noredirecto.redirectme.net": "INACTIVE",
+            "o.zeroredirect.com": "INACTIVE",
+            "orango.redirectme.net": "INACTIVE"
+        },
+        "1576020524": {
+            "p.zeroredirect.com": "INACTIVE",
+            "q.zeroredirect.com": "INACTIVE",
+            "qzip.cjb.net": "INACTIVE",
+            "rahulthehacker.tk": "INACTIVE",
+            "redirectlnk.redirectme.net": "INACTIVE"
         }
     }
 }

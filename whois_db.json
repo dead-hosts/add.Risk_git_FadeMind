@@ -2695,8 +2695,8 @@
         "state": "future"
     },
     "mywebsearch.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "state": "future"
     },
     "n149adserv.com": {
@@ -2720,8 +2720,8 @@
         "state": "future"
     },
     "netcscape.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "state": "future"
     },
     "netmag.co.uk": {
@@ -3407,7 +3407,7 @@
     "safepccleaner.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "samaclub.com": {
         "epoch": 1666656000.0,
