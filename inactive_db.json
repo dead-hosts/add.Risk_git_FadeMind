@@ -133,18 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1576024762": {
-            "w.zeroredirect.com": "INACTIVE",
-            "x.zeroredirect.com": "INACTIVE",
-            "xvika.net": "INACTIVE",
-            "xvika.org": "INACTIVE",
-            "xxxxxxx.hopto.org": "INACTIVE",
-            "y.zeroredirect.com": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1576024763": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1576144228": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE"
@@ -295,6 +283,18 @@
             "www.xvika.net": "INACTIVE",
             "www.xvika.org": "INACTIVE",
             "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1576161962": {
+            "w.zeroredirect.com": "INACTIVE",
+            "x.zeroredirect.com": "INACTIVE",
+            "xvika.net": "INACTIVE",
+            "xvika.org": "INACTIVE",
+            "xxxxxxx.hopto.org": "INACTIVE",
+            "y.zeroredirect.com": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE"
+        },
+        "1576161963": {
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
