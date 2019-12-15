@@ -133,21 +133,7 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1576156006": {
-            "www.beyondwhois.com": "INACTIVE",
-            "www.bluemountain2.com": "INACTIVE",
-            "www.butterfly-media.co.uk": "INACTIVE",
-            "www.cabeles.com": "INACTIVE",
-            "www.cleanproxy.com": "INACTIVE",
-            "www.collectiable.com": "INACTIVE",
-            "www.egoldenglove.com": "INACTIVE",
-            "www.elisaart.it": "INACTIVE",
-            "www.formessengers.com": "INACTIVE"
-        },
         "1576156007": {
-            "www.get-avast.com": "INACTIVE",
-            "www.gratisweb.com": "INACTIVE",
-            "www.gxplugin.com": "INACTIVE",
             "www.itunesdownloadstore.com": "INACTIVE",
             "www.japanmadchen.com": "INACTIVE",
             "www.joincreditexpert.co.uk": "INACTIVE",
@@ -297,6 +283,29 @@
             "www.amazing-offers.co.il": "INACTIVE",
             "www.ayehcleaners.com": "INACTIVE",
             "www.balook.com": "INACTIVE"
+        },
+        "1576406271": {
+            "www.beyondwhois.com": "INACTIVE",
+            "www.bluemountain2.com": "INACTIVE",
+            "www.butterfly-media.co.uk": "INACTIVE",
+            "www.cabeles.com": "INACTIVE",
+            "www.cheapstickets.com": "INACTIVE",
+            "www.cheaptickests.com": "INACTIVE",
+            "www.cheapticketes.com": "INACTIVE",
+            "www.cheapticketsinc.com": "INACTIVE",
+            "www.cheapticketts.com": "INACTIVE",
+            "www.cheapticktes.com": "INACTIVE",
+            "www.cleanproxy.com": "INACTIVE",
+            "www.collectiable.com": "INACTIVE",
+            "www.egoldenglove.com": "INACTIVE",
+            "www.elisaart.it": "INACTIVE",
+            "www.formessengers.com": "INACTIVE",
+            "www.get-avast.com": "INACTIVE",
+            "www.gratisweb.com": "INACTIVE",
+            "www.gxplugin.com": "INACTIVE"
+        },
+        "1576406272": {
+            "www.heaptickets.com": "INACTIVE"
         }
     }
 }
