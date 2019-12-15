@@ -133,26 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1576159291": {
-            "www.wwwgameshark.com": "INACTIVE",
-            "www.wwwuproar.com": "INACTIVE",
-            "www.xchangetrak.com": "INACTIVE",
-            "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
-        "1576161962": {
-            "w.zeroredirect.com": "INACTIVE",
-            "x.zeroredirect.com": "INACTIVE",
-            "xvika.net": "INACTIVE",
-            "xvika.org": "INACTIVE",
-            "xxxxxxx.hopto.org": "INACTIVE",
-            "y.zeroredirect.com": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1576161963": {
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1576403485": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -307,6 +287,22 @@
             "www.wwwbackstreetboys.com": "INACTIVE",
             "www.wwwbluelight.com": "INACTIVE",
             "www.wwwcheaptickets.com": "INACTIVE"
+        },
+        "1576407221": {
+            "w.zeroredirect.com": "INACTIVE",
+            "www.wwwgameshark.com": "INACTIVE",
+            "www.wwwuproar.com": "INACTIVE",
+            "www.xchangetrak.com": "INACTIVE",
+            "www.xvika.net": "INACTIVE",
+            "www.xvika.org": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE",
+            "x.zeroredirect.com": "INACTIVE",
+            "xvika.net": "INACTIVE",
+            "xvika.org": "INACTIVE",
+            "xxxxxxx.hopto.org": "INACTIVE",
+            "y.zeroredirect.com": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE",
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
