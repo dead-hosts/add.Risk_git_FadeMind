@@ -505,8 +505,8 @@
         "state": "future"
     },
     "bestsearch.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "bestserials.com": {
@@ -865,7 +865,7 @@
         "state": "future"
     },
     "cleansite.us": {
-        "epoch": "1591401600",
+        "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
