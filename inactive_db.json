@@ -133,36 +133,7 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1576840528": {
-            "www.cheapstickets.com": "INACTIVE",
-            "www.cheaptickests.com": "INACTIVE",
-            "www.cheapticketes.com": "INACTIVE",
-            "www.cheapticketsinc.com": "INACTIVE",
-            "www.cheapticketts.com": "INACTIVE",
-            "www.cheapticktes.com": "INACTIVE",
-            "www.cleanproxy.com": "INACTIVE",
-            "www.collectiable.com": "INACTIVE",
-            "www.egoldenglove.com": "INACTIVE",
-            "www.elisaart.it": "INACTIVE",
-            "www.formessengers.com": "INACTIVE",
-            "www.get-avast.com": "INACTIVE",
-            "www.gratisweb.com": "INACTIVE",
-            "www.gxplugin.com": "INACTIVE",
-            "www.heaptickets.com": "INACTIVE"
-        },
-        "1576840529": {
-            "www.itunesdownloadstore.com": "INACTIVE",
-            "www.japanmadchen.com": "INACTIVE",
-            "www.joincreditexpert.co.uk": "INACTIVE",
-            "www.jque.net": "INACTIVE"
-        },
         "1576841614": {
-            "www.lcbcad.co.uk": "INACTIVE",
-            "www.lefos.net": "INACTIVE",
-            "www.lycosgamesville.com": "INACTIVE",
-            "www.maconbraves.com": "INACTIVE",
-            "www.mapqueat.com": "INACTIVE",
-            "www.mapquestt.com": "INACTIVE",
             "www.maxregistrycleaner.net": "INACTIVE",
             "www.maybankard.com.my": "INACTIVE",
             "www.mycleanerpc.com": "INACTIVE",
@@ -308,6 +279,36 @@
             "www.bluemountain2.com": "INACTIVE",
             "www.butterfly-media.co.uk": "INACTIVE",
             "www.cabeles.com": "INACTIVE"
+        },
+        "1577015195": {
+            "www.cheapstickets.com": "INACTIVE",
+            "www.cheaptickests.com": "INACTIVE",
+            "www.cheapticketes.com": "INACTIVE",
+            "www.cheapticketsinc.com": "INACTIVE",
+            "www.cheapticketts.com": "INACTIVE",
+            "www.cheapticktes.com": "INACTIVE",
+            "www.cleanproxy.com": "INACTIVE",
+            "www.collectiable.com": "INACTIVE",
+            "www.digiaquascr.com": "INACTIVE",
+            "www.egoldenglove.com": "INACTIVE",
+            "www.elisaart.it": "INACTIVE"
+        },
+        "1577015196": {
+            "www.formessengers.com": "INACTIVE",
+            "www.get-avast.com": "INACTIVE",
+            "www.gratisweb.com": "INACTIVE",
+            "www.gxplugin.com": "INACTIVE",
+            "www.heaptickets.com": "INACTIVE",
+            "www.itunesdownloadstore.com": "INACTIVE",
+            "www.japanmadchen.com": "INACTIVE",
+            "www.joincreditexpert.co.uk": "INACTIVE",
+            "www.jque.net": "INACTIVE",
+            "www.lcbcad.co.uk": "INACTIVE",
+            "www.lefos.net": "INACTIVE",
+            "www.lycosgamesville.com": "INACTIVE",
+            "www.maconbraves.com": "INACTIVE",
+            "www.mapqueat.com": "INACTIVE",
+            "www.mapquestt.com": "INACTIVE"
         }
     }
 }
