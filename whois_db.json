@@ -667,7 +667,7 @@
     "bypasser.net": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cabeles.com": {
         "epoch": 1593216000.0,
@@ -860,8 +860,8 @@
         "state": "future"
     },
     "cleansearch.net": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "cleansite.us": {
