@@ -133,21 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1577011769": {
-            "t.zeroredirect.com": "INACTIVE",
-            "ttt.fwq101.tk": "INACTIVE",
-            "urchman11.zapto.org": "INACTIVE"
-        },
-        "1577011770": {
-            "www.advancedsoftwaresupport.com": "INACTIVE",
-            "www.amazing-offers.co.il": "INACTIVE",
-            "www.ayehcleaners.com": "INACTIVE",
-            "www.balook.com": "INACTIVE",
-            "www.beyondwhois.com": "INACTIVE",
-            "www.bluemountain2.com": "INACTIVE",
-            "www.butterfly-media.co.uk": "INACTIVE",
-            "www.cabeles.com": "INACTIVE"
-        },
         "1577015195": {
             "www.cheapstickets.com": "INACTIVE",
             "www.cheaptickests.com": "INACTIVE",
@@ -308,6 +293,20 @@
         "1577099961": {
             "s.zeroredirect.com": "INACTIVE",
             "thenewupdatee.redirectme.net": "INACTIVE"
+        },
+        "1577101513": {
+            "t.zeroredirect.com": "INACTIVE",
+            "urchman11.zapto.org": "INACTIVE",
+            "www.advancedsoftwaresupport.com": "INACTIVE",
+            "www.amazing-offers.co.il": "INACTIVE"
+        },
+        "1577101514": {
+            "www.ayehcleaners.com": "INACTIVE",
+            "www.balook.com": "INACTIVE",
+            "www.beyondwhois.com": "INACTIVE",
+            "www.bluemountain2.com": "INACTIVE",
+            "www.butterfly-media.co.uk": "INACTIVE",
+            "www.cabeles.com": "INACTIVE"
         }
     }
 }
