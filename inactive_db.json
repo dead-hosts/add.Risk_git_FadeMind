@@ -133,38 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1577015878": {
-            "w.zeroredirect.com": "INACTIVE",
-            "www.scanspyware.net": "INACTIVE",
-            "www.secure-processingcenter.com": "INACTIVE",
-            "www.sentrol.cl": "INACTIVE",
-            "www.sevenstars7.com": "INACTIVE",
-            "www.theads.me": "INACTIVE",
-            "www.thebighits.com": "INACTIVE",
-            "www.themillionaireinpjs.net": "INACTIVE",
-            "www.travlers.com": "INACTIVE",
-            "www.tzw.com": "INACTIVE",
-            "www.unblocksit.es": "INACTIVE",
-            "www.wwfsable.com": "INACTIVE",
-            "www.wwwbackstreetboys.com": "INACTIVE",
-            "www.wwwbluelight.com": "INACTIVE",
-            "www.wwwcheaptickets.com": "INACTIVE",
-            "www.wwwgameshark.com": "INACTIVE",
-            "www.wwwuproar.com": "INACTIVE",
-            "www.xchangetrak.com": "INACTIVE",
-            "www.xvika.net": "INACTIVE",
-            "www.xvika.org": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE",
-            "x.zeroredirect.com": "INACTIVE",
-            "xvika.net": "INACTIVE",
-            "xvika.org": "INACTIVE",
-            "xxxxxxx.hopto.org": "INACTIVE",
-            "yk.handlerhackz.tk": "INACTIVE"
-        },
-        "1577016006": {
-            "y.zeroredirect.com": "INACTIVE",
-            "z.zeroredirect.com": "INACTIVE"
-        },
         "1577096391": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -303,6 +271,38 @@
             "www.qzip.cjb.net": "INACTIVE",
             "www.ratemodels.net": "INACTIVE",
             "www.registry-cleaner.net": "INACTIVE"
+        },
+        "1577104347": {
+            "www.scanspyware.net": "INACTIVE",
+            "www.secure-processingcenter.com": "INACTIVE",
+            "www.sentrol.cl": "INACTIVE",
+            "www.sevenstars7.com": "INACTIVE"
+        },
+        "1577104348": {
+            "w.zeroredirect.com": "INACTIVE",
+            "www.theads.me": "INACTIVE",
+            "www.thebighits.com": "INACTIVE",
+            "www.themillionaireinpjs.net": "INACTIVE",
+            "www.travlers.com": "INACTIVE",
+            "www.tzw.com": "INACTIVE",
+            "www.unblocksit.es": "INACTIVE",
+            "www.wwfsable.com": "INACTIVE",
+            "www.wwwbackstreetboys.com": "INACTIVE",
+            "www.wwwbluelight.com": "INACTIVE",
+            "www.wwwcheaptickets.com": "INACTIVE",
+            "www.wwwgameshark.com": "INACTIVE",
+            "www.wwwuproar.com": "INACTIVE",
+            "www.xchangetrak.com": "INACTIVE",
+            "www.xvika.net": "INACTIVE",
+            "www.xvika.org": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE",
+            "x.zeroredirect.com": "INACTIVE",
+            "xvika.net": "INACTIVE",
+            "xvika.org": "INACTIVE",
+            "xxxxxxx.hopto.org": "INACTIVE",
+            "y.zeroredirect.com": "INACTIVE",
+            "yk.handlerhackz.tk": "INACTIVE",
+            "z.zeroredirect.com": "INACTIVE"
         }
     }
 }
