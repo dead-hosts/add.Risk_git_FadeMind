@@ -133,33 +133,8 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1577267815": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE",
-            "a.zeroredirect.com": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ad3.hornymatches.com": "INACTIVE",
-            "ads.wikipartes.com": "INACTIVE",
-            "adserve.cpmba.se": "INACTIVE",
-            "adweb1.hornymatches.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "arecio.work": "INACTIVE",
-            "ayada.zapto.org": "INACTIVE",
-            "ayehcleaners.com": "INACTIVE"
-        },
-        "1577267816": {
-            "b.zeroredirect.com": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1577267817": {
-            "c.zeroredirect.com": "INACTIVE",
-            "collectiable.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
-        },
         "1577268500": {
             "d.zeroredirect.com": "INACTIVE",
-            "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE",
             "e.zeroredirect.com": "INACTIVE",
             "fecabook.redirectme.net": "INACTIVE",
@@ -303,6 +278,31 @@
         "1577278495": {
             "y.zeroredirect.com": "INACTIVE",
             "z.zeroredirect.com": "INACTIVE"
+        },
+        "1577440686": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE",
+            "a.zeroredirect.com": "INACTIVE",
+            "ad.slutload.com": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "ads.wikipartes.com": "INACTIVE",
+            "adserve.cpmba.se": "INACTIVE",
+            "adweb1.hornymatches.com": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "arecio.work": "INACTIVE",
+            "ayada.zapto.org": "INACTIVE",
+            "ayehcleaners.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1577440687": {
+            "b.zeroredirect.com": "INACTIVE",
+            "collectiable.com": "INACTIVE",
+            "compactiongames.gameaholic.com": "INACTIVE"
+        },
+        "1577440688": {
+            "c.zeroredirect.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE"
         }
     }
 }
