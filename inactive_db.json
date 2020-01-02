@@ -133,28 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1577790233": {
-            "s.zeroredirect.com": "INACTIVE"
-        },
-        "1577790234": {
-            "t.zeroredirect.com": "INACTIVE",
-            "thenewupdatee.redirectme.net": "INACTIVE",
-            "ttt.fwq101.tk": "INACTIVE",
-            "urchman11.zapto.org": "INACTIVE"
-        },
-        "1577790235": {
-            "www.advancedsoftwaresupport.com": "INACTIVE",
-            "www.amazing-offers.co.il": "INACTIVE",
-            "www.ayehcleaners.com": "INACTIVE",
-            "www.balook.com": "INACTIVE",
-            "www.beyondwhois.com": "INACTIVE",
-            "www.bluemountain2.com": "INACTIVE",
-            "www.butterfly-media.co.uk": "INACTIVE",
-            "www.cabeles.com": "INACTIVE",
-            "www.cheapstickets.com": "INACTIVE",
-            "www.cheaptickests.com": "INACTIVE",
-            "www.cheapticketes.com": "INACTIVE"
-        },
         "1577791423": {
             "www.cheapticketsinc.com": "INACTIVE",
             "www.cheapticketts.com": "INACTIVE",
@@ -304,6 +282,25 @@
             "qzip.cjb.net": "INACTIVE",
             "rahulthehacker.tk": "INACTIVE",
             "redirectlnk.redirectme.net": "INACTIVE"
+        },
+        "1577967284": {
+            "s.zeroredirect.com": "INACTIVE",
+            "t.zeroredirect.com": "INACTIVE",
+            "thenewupdatee.redirectme.net": "INACTIVE",
+            "urchman11.zapto.org": "INACTIVE"
+        },
+        "1577967285": {
+            "www.advancedsoftwaresupport.com": "INACTIVE",
+            "www.amazing-offers.co.il": "INACTIVE",
+            "www.ayehcleaners.com": "INACTIVE",
+            "www.balook.com": "INACTIVE",
+            "www.beyondwhois.com": "INACTIVE",
+            "www.bluemountain2.com": "INACTIVE",
+            "www.butterfly-media.co.uk": "INACTIVE",
+            "www.cabeles.com": "INACTIVE",
+            "www.cheapstickets.com": "INACTIVE",
+            "www.cheaptickests.com": "INACTIVE",
+            "www.cheapticketes.com": "INACTIVE"
         }
     }
 }
