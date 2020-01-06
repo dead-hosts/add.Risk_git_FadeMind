@@ -133,38 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1578133962": {
-            "d.zeroredirect.com": "INACTIVE",
-            "e.zeroredirect.com": "INACTIVE",
-            "egoldenglove.com": "INACTIVE"
-        },
-        "1578133963": {
-            "f.zeroredirect.com": "INACTIVE",
-            "fecabook.redirectme.net": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE",
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "h.zeroredirect.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE",
-            "hackairtel.tk": "INACTIVE",
-            "handlerhackz.tk": "INACTIVE",
-            "havijrat.zapto.org": "INACTIVE",
-            "hira.hopto.org": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE"
-        },
-        "1578133964": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "j.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "k.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE",
-            "l.zeroredirect.com": "INACTIVE",
-            "lcbcad.co.uk": "INACTIVE",
-            "lilian.redirectme.net": "INACTIVE"
-        },
         "1578135374": {
             "m.zeroredirect.com": "INACTIVE",
             "mobile.bitterstrawberry.org": "INACTIVE",
@@ -304,6 +272,38 @@
             "c.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE"
+        },
+        "1578308335": {
+            "d.zeroredirect.com": "INACTIVE",
+            "e.zeroredirect.com": "INACTIVE",
+            "egoldenglove.com": "INACTIVE",
+            "f.zeroredirect.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1578308336": {
+            "g.zeroredirect.com": "INACTIVE",
+            "h.zeroredirect.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE",
+            "hackairtel.tk": "INACTIVE",
+            "handlerhackz.tk": "INACTIVE",
+            "havijrat.zapto.org": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "k.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE"
+        },
+        "1578308337": {
+            "l.zeroredirect.com": "INACTIVE",
+            "lilian.redirectme.net": "INACTIVE"
         }
     }
 }
