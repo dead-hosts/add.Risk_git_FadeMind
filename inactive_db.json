@@ -133,43 +133,8 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1578314409": {
-            "www.cleanproxy.com": "INACTIVE",
-            "www.collectiable.com": "INACTIVE",
-            "www.dimarsbg.com": "INACTIVE"
-        },
-        "1578314410": {
-            "www.egoldenglove.com": "INACTIVE",
-            "www.elisaart.it": "INACTIVE",
-            "www.formessengers.com": "INACTIVE",
-            "www.get-avast.com": "INACTIVE",
-            "www.gratisweb.com": "INACTIVE",
-            "www.gxplugin.com": "INACTIVE",
-            "www.heaptickets.com": "INACTIVE",
-            "www.itunesdownloadstore.com": "INACTIVE",
-            "www.japanmadchen.com": "INACTIVE",
-            "www.joincreditexpert.co.uk": "INACTIVE"
-        },
-        "1578315879": {
-            "www.jque.net": "INACTIVE",
-            "www.lcbcad.co.uk": "INACTIVE",
-            "www.lefos.net": "INACTIVE",
-            "www.lycosgamesville.com": "INACTIVE",
-            "www.maconbraves.com": "INACTIVE",
-            "www.mapqueat.com": "INACTIVE",
-            "www.mapquestt.com": "INACTIVE",
-            "www.maxregistrycleaner.net": "INACTIVE",
-            "www.maybankard.com.my": "INACTIVE",
-            "www.mycleanerpc.com": "INACTIVE",
-            "www.notrecommended.co.uk": "INACTIVE",
-            "www.ntkrnlpa.info": "INACTIVE",
-            "www.ocpersian.com": "INACTIVE",
-            "www.payn.me": "INACTIVE"
-        },
         "1578315880": {
             "w.zeroredirect.com": "INACTIVE",
-            "www.paypal-exchange.com": "INACTIVE",
-            "www.pc-detox.com": "INACTIVE",
             "www.premiumpedia.com": "INACTIVE",
             "www.qzip.cjb.net": "INACTIVE",
             "www.ranchapptag.com": "INACTIVE",
@@ -315,6 +280,38 @@
             "www.cheapticketsinc.com": "INACTIVE",
             "www.cheapticketts.com": "INACTIVE",
             "www.cheapticktes.com": "INACTIVE"
+        },
+        "1578438603": {
+            "www.cleanproxy.com": "INACTIVE",
+            "www.collectiable.com": "INACTIVE",
+            "www.egoldenglove.com": "INACTIVE",
+            "www.elisaart.it": "INACTIVE",
+            "www.formessengers.com": "INACTIVE",
+            "www.get-avast.com": "INACTIVE",
+            "www.gratisweb.com": "INACTIVE",
+            "www.gxplugin.com": "INACTIVE",
+            "www.heaptickets.com": "INACTIVE",
+            "www.itunesdownloadstore.com": "INACTIVE",
+            "www.japanmadchen.com": "INACTIVE",
+            "www.joincreditexpert.co.uk": "INACTIVE",
+            "www.jque.net": "INACTIVE",
+            "www.katia-paliotti.com": "INACTIVE",
+            "www.lcbcad.co.uk": "INACTIVE",
+            "www.lefos.net": "INACTIVE",
+            "www.lycosgamesville.com": "INACTIVE",
+            "www.maconbraves.com": "INACTIVE",
+            "www.mapqueat.com": "INACTIVE",
+            "www.mapquestt.com": "INACTIVE",
+            "www.maxregistrycleaner.net": "INACTIVE",
+            "www.maybankard.com.my": "INACTIVE",
+            "www.mycleanerpc.com": "INACTIVE",
+            "www.notrecommended.co.uk": "INACTIVE",
+            "www.ntkrnlpa.info": "INACTIVE",
+            "www.ocpersian.com": "INACTIVE"
+        },
+        "1578438604": {
+            "www.paypal-exchange.com": "INACTIVE",
+            "www.pc-detox.com": "INACTIVE"
         }
     }
 }
