@@ -133,27 +133,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1579007221": {
-            "m.zeroredirect.com": "INACTIVE",
-            "mobile.bitterstrawberry.org": "INACTIVE",
-            "mrace.hopto.org": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE"
-        },
-        "1579007222": {
-            "n.zeroredirect.com": "INACTIVE",
-            "noredirecto.redirectme.net": "INACTIVE",
-            "ns1.ntkrnlpa.info": "INACTIVE",
-            "ns2.ntkrnlpa.info": "INACTIVE",
-            "o.zeroredirect.com": "INACTIVE",
-            "orango.redirectme.net": "INACTIVE",
-            "p.zeroredirect.com": "INACTIVE",
-            "q.zeroredirect.com": "INACTIVE",
-            "qzip.cjb.net": "INACTIVE",
-            "rahulthehacker.tk": "INACTIVE"
-        },
-        "1579007223": {
-            "redirectlnk.redirectme.net": "INACTIVE"
-        },
         "1579009037": {
             "s.zeroredirect.com": "INACTIVE",
             "thenewupdatee.redirectme.net": "INACTIVE"
@@ -320,6 +299,25 @@
         "1579170021": {
             "l.zeroredirect.com": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1579170711": {
+            "m.zeroredirect.com": "INACTIVE",
+            "mobile.bitterstrawberry.org": "INACTIVE",
+            "mrace.hopto.org": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE",
+            "n.zeroredirect.com": "INACTIVE",
+            "noredirecto.redirectme.net": "INACTIVE",
+            "ns1.ntkrnlpa.info": "INACTIVE",
+            "ns2.ntkrnlpa.info": "INACTIVE",
+            "orango.redirectme.net": "INACTIVE"
+        },
+        "1579170712": {
+            "o.zeroredirect.com": "INACTIVE",
+            "p.zeroredirect.com": "INACTIVE",
+            "q.zeroredirect.com": "INACTIVE",
+            "qzip.cjb.net": "INACTIVE",
+            "rahulthehacker.tk": "INACTIVE",
+            "redirectlnk.redirectme.net": "INACTIVE"
         }
     }
 }
