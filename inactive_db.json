@@ -153,11 +153,8 @@
         },
         "1579299773": {
             "b.zeroredirect.com": "INACTIVE",
-            "c.zeroredirect.com": "INACTIVE",
             "collectiable.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE",
-            "dlldlldll.sytes.net": "INACTIVE",
-            "doda.redirectme.net": "INACTIVE"
+            "compactiongames.gameaholic.com": "INACTIVE"
         },
         "1579303566": {
             "d.zeroredirect.com": "INACTIVE",
@@ -315,6 +312,11 @@
         },
         "1579317399": {
             "z.zeroredirect.com": "INACTIVE"
+        },
+        "1579386338": {
+            "c.zeroredirect.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE"
         }
     }
 }
