@@ -2267,7 +2267,7 @@
     "libecki.net": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "liders.biz": {
         "epoch": 1576627200.0,
@@ -2705,8 +2705,8 @@
         "state": "future"
     },
     "nbrtrack.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "neki.org": {
