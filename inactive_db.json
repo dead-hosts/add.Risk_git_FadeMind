@@ -134,7 +134,6 @@
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
         "1579393326": {
-            "f.zeroredirect.com": "INACTIVE",
             "g.zeroredirect.com": "INACTIVE",
             "gbanners.hornymatches.com": "INACTIVE",
             "h.zeroredirect.com": "INACTIVE",
@@ -313,6 +312,9 @@
         },
         "1579604418": {
             "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1579606741": {
+            "f.zeroredirect.com": "INACTIVE"
         }
     }
 }
