@@ -276,14 +276,6 @@
         "1579438225": {
             "z.zeroredirect.com": "INACTIVE"
         },
-        "1579601638": {
-            "egoldenglove.com": "INACTIVE"
-        },
-        "1579604417": {
-            "e.zeroredirect.com": "INACTIVE",
-            "fecabook.redirectme.net": "INACTIVE",
-            "finders.hopto.org": "INACTIVE"
-        },
         "1579604418": {
             "ftp.flyfishusa.com": "INACTIVE"
         },
@@ -319,6 +311,14 @@
             "d.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE"
+        },
+        "1579695677": {
+            "egoldenglove.com": "INACTIVE"
+        },
+        "1579695678": {
+            "e.zeroredirect.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE",
+            "finders.hopto.org": "INACTIVE"
         }
     }
 }
