@@ -283,9 +283,6 @@
             "f.zeroredirect.com": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
         },
-        "1579738401": {
-            "bluemountain2.com": "INACTIVE"
-        },
         "1579778828": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -321,6 +318,12 @@
         },
         "1579807571": {
             "affiliate.trk4.com": "INACTIVE"
+        },
+        "1579861523": {
+            "alibabaslots.com": "INACTIVE"
+        },
+        "1579861524": {
+            "bluemountain2.com": "INACTIVE"
         }
     }
 }
