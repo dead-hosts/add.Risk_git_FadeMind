@@ -282,12 +282,6 @@
         "1579729501": {
             "f.zeroredirect.com": "INACTIVE"
         },
-        "1579782981": {
-            "e.zeroredirect.com": "INACTIVE",
-            "egoldenglove.com": "INACTIVE",
-            "fecabook.redirectme.net": "INACTIVE",
-            "finders.hopto.org": "INACTIVE"
-        },
         "1579807571": {
             "affiliate.trk4.com": "INACTIVE"
         },
@@ -326,6 +320,12 @@
             "d.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE"
+        },
+        "1579871427": {
+            "e.zeroredirect.com": "INACTIVE",
+            "egoldenglove.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE",
+            "finders.hopto.org": "INACTIVE"
         }
     }
 }
