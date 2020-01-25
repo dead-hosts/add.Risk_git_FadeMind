@@ -282,9 +282,6 @@
         "1579864954": {
             "ftp.flyfishusa.com": "INACTIVE"
         },
-        "1579871427": {
-            "finders.hopto.org": "INACTIVE"
-        },
         "1579893232": {
             "f.zeroredirect.com": "INACTIVE"
         },
@@ -326,6 +323,9 @@
             "e.zeroredirect.com": "INACTIVE",
             "egoldenglove.com": "INACTIVE",
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1579967797": {
+            "finders.hopto.org": "INACTIVE"
         }
     }
 }
