@@ -279,9 +279,6 @@
         "1579653991": {
             "gbanners.hornymatches.com": "INACTIVE"
         },
-        "1579967797": {
-            "finders.hopto.org": "INACTIVE"
-        },
         "1579979737": {
             "f.zeroredirect.com": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
@@ -326,6 +323,9 @@
             "e.zeroredirect.com": "INACTIVE",
             "egoldenglove.com": "INACTIVE",
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1580054307": {
+            "finders.hopto.org": "INACTIVE"
         }
     }
 }
