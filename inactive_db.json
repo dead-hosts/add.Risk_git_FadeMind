@@ -277,8 +277,6 @@
             "z.zeroredirect.com": "INACTIVE"
         },
         "1580046678": {
-            "e.zeroredirect.com": "INACTIVE",
-            "egoldenglove.com": "INACTIVE",
             "fecabook.redirectme.net": "INACTIVE"
         },
         "1580054307": {
@@ -326,6 +324,10 @@
         },
         "1580131199": {
             "d.zeroredirect.com": "INACTIVE"
+        },
+        "1580135073": {
+            "e.zeroredirect.com": "INACTIVE",
+            "egoldenglove.com": "INACTIVE"
         }
     }
 }
