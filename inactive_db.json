@@ -252,9 +252,6 @@
         "1579438225": {
             "z.zeroredirect.com": "INACTIVE"
         },
-        "1580150329": {
-            "finders.hopto.org": "INACTIVE"
-        },
         "1580154410": {
             "f.zeroredirect.com": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
@@ -336,6 +333,9 @@
         },
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
+        },
+        "1580238362": {
+            "finders.hopto.org": "INACTIVE"
         }
     }
 }
