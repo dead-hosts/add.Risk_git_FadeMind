@@ -133,13 +133,8 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
-        "1579393326": {
-            "l.zeroredirect.com": "INACTIVE"
-        },
         "1579396164": {
             "m.zeroredirect.com": "INACTIVE",
-            "mobile.bitterstrawberry.org": "INACTIVE",
-            "mrace.hopto.org": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE",
             "n.zeroredirect.com": "INACTIVE",
             "noredirecto.redirectme.net": "INACTIVE",
@@ -259,10 +254,6 @@
         "1579438225": {
             "z.zeroredirect.com": "INACTIVE"
         },
-        "1580127498": {
-            "alibabaslots.com": "INACTIVE",
-            "bluemountain2.com": "INACTIVE"
-        },
         "1580131196": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -333,6 +324,15 @@
             "ka.bar.need2find.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1580216128": {
+            "alibabaslots.com": "INACTIVE",
+            "bluemountain2.com": "INACTIVE"
+        },
+        "1580216132": {
+            "l.zeroredirect.com": "INACTIVE",
+            "mobile.bitterstrawberry.org": "INACTIVE",
+            "mrace.hopto.org": "INACTIVE"
         }
     }
 }
