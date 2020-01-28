@@ -470,9 +470,9 @@
         "state": "future"
     },
     "bdsmcompany.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
-        "state": "past"
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
     },
     "bdsmtours.com": {
         "epoch": 1605052800.0,
