@@ -134,8 +134,6 @@
     },
     "/home/travis/build/dead-hosts/add.Risk_git_FadeMind/domains.list": {
         "1579396164": {
-            "m.zeroredirect.com": "INACTIVE",
-            "my-pc-cleaner.org": "INACTIVE",
             "n.zeroredirect.com": "INACTIVE",
             "noredirecto.redirectme.net": "INACTIVE",
             "ns1.ntkrnlpa.info": "INACTIVE",
@@ -254,9 +252,6 @@
         "1579438225": {
             "z.zeroredirect.com": "INACTIVE"
         },
-        "1580138853": {
-            "fecabook.redirectme.net": "INACTIVE"
-        },
         "1580150329": {
             "finders.hopto.org": "INACTIVE"
         },
@@ -331,6 +326,13 @@
         "1580223306": {
             "e.zeroredirect.com": "INACTIVE",
             "egoldenglove.com": "INACTIVE"
+        },
+        "1580226991": {
+            "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1580226993": {
+            "m.zeroredirect.com": "INACTIVE",
+            "my-pc-cleaner.org": "INACTIVE"
         }
     }
 }
