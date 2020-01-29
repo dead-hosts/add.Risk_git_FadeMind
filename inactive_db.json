@@ -253,7 +253,6 @@
             "z.zeroredirect.com": "INACTIVE"
         },
         "1580212073": {
-            "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
@@ -268,10 +267,6 @@
         },
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
-        },
-        "1580242215": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
         },
         "1580257311": {
             "affiliate.trk4.com": "INACTIVE"
@@ -341,6 +336,13 @@
         },
         "1580325726": {
             "finders.hopto.org": "INACTIVE"
+        },
+        "1580329489": {
+            "f.zeroredirect.com": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1580329490": {
+            "k.zeroredirect.com": "INACTIVE"
         }
     }
 }
