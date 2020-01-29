@@ -253,18 +253,9 @@
             "z.zeroredirect.com": "INACTIVE"
         },
         "1580212073": {
-            "i.zeroredirect.com": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "j.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE",
             "k.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
-        },
-        "1580216128": {
-            "alibabaslots.com": "INACTIVE",
-            "bluemountain2.com": "INACTIVE"
         },
         "1580216132": {
             "l.zeroredirect.com": "INACTIVE",
@@ -335,6 +326,19 @@
         },
         "1580300350": {
             "i.trkjmp.com": "INACTIVE"
+        },
+        "1580303310": {
+            "alibabaslots.com": "INACTIVE"
+        },
+        "1580303311": {
+            "bluemountain2.com": "INACTIVE"
+        },
+        "1580303314": {
+            "i.zeroredirect.com": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
