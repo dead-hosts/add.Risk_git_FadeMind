@@ -252,19 +252,7 @@
         "1579438225": {
             "z.zeroredirect.com": "INACTIVE"
         },
-        "1580212072": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE",
-            "hackairtel.tk": "INACTIVE",
-            "handlerhackz.tk": "INACTIVE",
-            "havijrat.zapto.org": "INACTIVE",
-            "hira.hopto.org": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE"
-        },
         "1580212073": {
-            "h.zeroredirect.com": "INACTIVE",
-            "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
@@ -333,6 +321,20 @@
         },
         "1580257311": {
             "affiliate.trk4.com": "INACTIVE"
+        },
+        "1580300349": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "h.zeroredirect.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE",
+            "hackairtel.tk": "INACTIVE",
+            "handlerhackz.tk": "INACTIVE",
+            "havijrat.zapto.org": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE"
+        },
+        "1580300350": {
+            "i.trkjmp.com": "INACTIVE"
         }
     }
 }
