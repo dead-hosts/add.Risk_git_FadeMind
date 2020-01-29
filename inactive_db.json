@@ -269,9 +269,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1580238362": {
-            "finders.hopto.org": "INACTIVE"
-        },
         "1580242215": {
             "f.zeroredirect.com": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
@@ -341,6 +338,9 @@
         },
         "1580316206": {
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1580325726": {
+            "finders.hopto.org": "INACTIVE"
         }
     }
 }
