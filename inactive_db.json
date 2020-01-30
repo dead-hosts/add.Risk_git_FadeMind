@@ -274,10 +274,6 @@
             "jque.net": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580329489": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
         "1580329490": {
             "k.zeroredirect.com": "INACTIVE"
         },
@@ -352,6 +348,12 @@
             "i.zeroredirect.com": "INACTIVE",
             "image.cecash.com": "INACTIVE",
             "image1.cecash.com": "INACTIVE"
+        },
+        "1580418619": {
+            "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1580418620": {
+            "f.zeroredirect.com": "INACTIVE"
         }
     }
 }
