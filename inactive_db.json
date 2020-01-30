@@ -275,14 +275,6 @@
             "jque.net": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580309560": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE"
-        },
-        "1580313061": {
-            "e.zeroredirect.com": "INACTIVE",
-            "egoldenglove.com": "INACTIVE"
-        },
         "1580316206": {
             "fecabook.redirectme.net": "INACTIVE"
         },
@@ -346,6 +338,16 @@
             "d.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE",
             "doda.redirectme.net": "INACTIVE"
+        },
+        "1580399874": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE"
+        },
+        "1580399876": {
+            "egoldenglove.com": "INACTIVE"
+        },
+        "1580399877": {
+            "e.zeroredirect.com": "INACTIVE"
         }
     }
 }
