@@ -271,7 +271,6 @@
         "1580303314": {
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
         },
         "1580329490": {
@@ -354,6 +353,9 @@
         },
         "1580418620": {
             "f.zeroredirect.com": "INACTIVE"
+        },
+        "1580422215": {
+            "jque.net": "INACTIVE"
         }
     }
 }
