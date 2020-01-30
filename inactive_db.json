@@ -268,12 +268,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1580303310": {
-            "alibabaslots.com": "INACTIVE"
-        },
-        "1580303311": {
-            "bluemountain2.com": "INACTIVE"
-        },
         "1580303314": {
             "i.zeroredirect.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
@@ -346,6 +340,12 @@
         },
         "1580387796": {
             "i.trkjmp.com": "INACTIVE"
+        },
+        "1580391920": {
+            "alibabaslots.com": "INACTIVE"
+        },
+        "1580391921": {
+            "bluemountain2.com": "INACTIVE"
         }
     }
 }
