@@ -271,31 +271,6 @@
         "1580329490": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1580396112": {
-            "a.zeroredirect.com": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ad3.hornymatches.com": "INACTIVE",
-            "ads.wikipartes.com": "INACTIVE",
-            "adserve.cpmba.se": "INACTIVE",
-            "adweb1.hornymatches.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "arecio.work": "INACTIVE",
-            "ayada.zapto.org": "INACTIVE",
-            "ayehcleaners.com": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1580396113": {
-            "b.zeroredirect.com": "INACTIVE",
-            "collectiable.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
-        },
-        "1580396114": {
-            "c.zeroredirect.com": "INACTIVE",
-            "d.zeroredirect.com": "INACTIVE",
-            "dlldlldll.sytes.net": "INACTIVE",
-            "doda.redirectme.net": "INACTIVE"
-        },
         "1580399874": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE"
@@ -355,6 +330,33 @@
         },
         "1580479672": {
             "i.trkjmp.com": "INACTIVE"
+        },
+        "1580483562": {
+            "ad.slutload.com": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "ads.wikipartes.com": "INACTIVE",
+            "adserve.cpmba.se": "INACTIVE",
+            "adweb1.hornymatches.com": "INACTIVE"
+        },
+        "1580483563": {
+            "a.zeroredirect.com": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "arecio.work": "INACTIVE",
+            "ayada.zapto.org": "INACTIVE",
+            "ayehcleaners.com": "INACTIVE",
+            "b.zeroredirect.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1580483564": {
+            "c.zeroredirect.com": "INACTIVE",
+            "collectiable.com": "INACTIVE",
+            "compactiongames.gameaholic.com": "INACTIVE",
+            "dlldlldll.sytes.net": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE"
+        },
+        "1580483565": {
+            "d.zeroredirect.com": "INACTIVE"
         }
     }
 }
