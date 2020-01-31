@@ -268,14 +268,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1580414591": {
-            "finders.hopto.org": "INACTIVE"
-        },
-        "1580414592": {
-            "i.zeroredirect.com": "INACTIVE",
-            "image.cecash.com": "INACTIVE",
-            "image1.cecash.com": "INACTIVE"
-        },
         "1580418619": {
             "ftp.flyfishusa.com": "INACTIVE"
         },
@@ -358,6 +350,12 @@
         },
         "1580495155": {
             "k.zeroredirect.com": "INACTIVE"
+        },
+        "1580502998": {
+            "finders.hopto.org": "INACTIVE"
+        },
+        "1580502999": {
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
