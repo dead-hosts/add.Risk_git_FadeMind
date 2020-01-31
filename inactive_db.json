@@ -268,12 +268,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1580418619": {
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
-        "1580418620": {
-            "f.zeroredirect.com": "INACTIVE"
-        },
         "1580422215": {
             "jque.net": "INACTIVE"
         },
@@ -356,6 +350,11 @@
         },
         "1580502999": {
             "i.zeroredirect.com": "INACTIVE"
+        },
+        "1580507187": {
+            "f.zeroredirect.com": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE",
+            "gvc.vn": "INACTIVE"
         }
     }
 }
