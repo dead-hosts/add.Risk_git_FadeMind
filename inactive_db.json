@@ -271,16 +271,6 @@
         "1580329490": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1580399874": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE"
-        },
-        "1580399876": {
-            "egoldenglove.com": "INACTIVE"
-        },
-        "1580399877": {
-            "e.zeroredirect.com": "INACTIVE"
-        },
         "1580403919": {
             "fecabook.redirectme.net": "INACTIVE"
         },
@@ -357,6 +347,17 @@
         },
         "1580483565": {
             "d.zeroredirect.com": "INACTIVE"
+        },
+        "1580487361": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE"
+        },
+        "1580487363": {
+            "e.zeroredirect.com": "INACTIVE",
+            "egoldenglove.com": "INACTIVE"
+        },
+        "1580487364": {
+            "infospace.tk": "INACTIVE"
         }
     }
 }
