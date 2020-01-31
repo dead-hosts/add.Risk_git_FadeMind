@@ -268,9 +268,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1580329490": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
         "1580414591": {
             "finders.hopto.org": "INACTIVE"
         },
@@ -358,6 +355,9 @@
         },
         "1580491453": {
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1580495155": {
+            "k.zeroredirect.com": "INACTIVE"
         }
     }
 }
