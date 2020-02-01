@@ -271,12 +271,6 @@
         "1580468214": {
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580487364": {
-            "infospace.tk": "INACTIVE"
-        },
-        "1580491453": {
-            "fecabook.redirectme.net": "INACTIVE"
-        },
         "1580495155": {
             "k.zeroredirect.com": "INACTIVE"
         },
@@ -361,6 +355,12 @@
         "1580576909": {
             "e.zeroredirect.com": "INACTIVE",
             "egoldenglove.com": "INACTIVE"
+        },
+        "1580580976": {
+            "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1580580977": {
+            "infospace.tk": "INACTIVE"
         }
     }
 }
