@@ -271,11 +271,6 @@
         "1580495155": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1580507187": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE",
-            "gvc.vn": "INACTIVE"
-        },
         "1580519301": {
             "jque.net": "INACTIVE"
         },
@@ -359,6 +354,10 @@
         "1580592621": {
             "i.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1580596467": {
+            "f.zeroredirect.com": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
