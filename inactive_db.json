@@ -278,16 +278,9 @@
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE"
         },
-        "1580592619": {
-            "finders.hopto.org": "INACTIVE"
-        },
         "1580592621": {
             "i.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
-        },
-        "1580596467": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
         },
         "1580641118": {
             "affiliate.trk4.com": "INACTIVE"
@@ -354,6 +347,11 @@
         "1580672169": {
             "i.trkjmp.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1580683262": {
+            "f.zeroredirect.com": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
