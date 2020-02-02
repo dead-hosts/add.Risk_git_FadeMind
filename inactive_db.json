@@ -277,13 +277,6 @@
         "1580561477": {
             "ivitrine.buscape.com": "INACTIVE"
         },
-        "1580565564": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
-        "1580569130": {
-            "alibabaslots.com": "INACTIVE",
-            "bluemountain2.com": "INACTIVE"
-        },
         "1580569133": {
             "i.trkjmp.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
@@ -355,6 +348,15 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1580656743": {
+            "alibabaslots.com": "INACTIVE"
+        },
+        "1580656744": {
+            "bluemountain2.com": "INACTIVE"
+        },
+        "1580656746": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
