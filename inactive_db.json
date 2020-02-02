@@ -278,11 +278,7 @@
             "ivitrine.buscape.com": "INACTIVE"
         },
         "1580565564": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
             "h.zeroredirect.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE",
-            "hackairtel.tk": "INACTIVE",
             "handlerhackz.tk": "INACTIVE",
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
@@ -349,6 +345,14 @@
         },
         "1580641118": {
             "affiliate.trk4.com": "INACTIVE"
+        },
+        "1580652922": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1580652923": {
+            "g.zeroredirect.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE",
+            "hackairtel.tk": "INACTIVE"
         }
     }
 }
