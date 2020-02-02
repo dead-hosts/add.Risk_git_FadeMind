@@ -274,18 +274,6 @@
         "1580519301": {
             "jque.net": "INACTIVE"
         },
-        "1580523122": {
-            "affiliate.trk4.com": "INACTIVE"
-        },
-        "1580546118": {
-            "bbs.bjchun.com": "INACTIVE"
-        },
-        "1580549966": {
-            "brans.pl": "INACTIVE"
-        },
-        "1580549967": {
-            "download.grandcloud.cn": "INACTIVE"
-        },
         "1580561477": {
             "ivitrine.buscape.com": "INACTIVE"
         },
@@ -358,6 +346,9 @@
         "1580596467": {
             "f.zeroredirect.com": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1580641118": {
+            "affiliate.trk4.com": "INACTIVE"
         }
     }
 }
