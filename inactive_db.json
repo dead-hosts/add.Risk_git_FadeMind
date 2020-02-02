@@ -274,16 +274,9 @@
         "1580519301": {
             "jque.net": "INACTIVE"
         },
-        "1580561477": {
-            "ivitrine.buscape.com": "INACTIVE"
-        },
         "1580569133": {
-            "i.trkjmp.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE"
-        },
-        "1580580977": {
-            "infospace.tk": "INACTIVE"
         },
         "1580592619": {
             "finders.hopto.org": "INACTIVE"
@@ -357,6 +350,10 @@
         },
         "1580669372": {
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1580672169": {
+            "i.trkjmp.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
