@@ -286,11 +286,6 @@
             "i.trkjmp.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
         },
-        "1580683262": {
-            "f.zeroredirect.com": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
         "1580687605": {
             "brans.pl": "INACTIVE"
         },
@@ -365,6 +360,11 @@
         "1580763507": {
             "free.content.streamray.com": "INACTIVE",
             "geobanner.getiton.com": "INACTIVE"
+        },
+        "1580772118": {
+            "f.zeroredirect.com": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
