@@ -282,9 +282,6 @@
             "i.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580669372": {
-            "fecabook.redirectme.net": "INACTIVE"
-        },
         "1580672169": {
             "i.trkjmp.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
@@ -351,6 +348,15 @@
         "1580755354": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE"
+        },
+        "1580759640": {
+            "api.conduit.com": "INACTIVE"
+        },
+        "1580759641": {
+            "chat.effectivebrand.com": "INACTIVE"
+        },
+        "1580759643": {
+            "fecabook.redirectme.net": "INACTIVE"
         }
     }
 }
