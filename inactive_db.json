@@ -285,13 +285,6 @@
         "1580672169": {
             "i.trkjmp.com": "INACTIVE"
         },
-        "1580747322": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
-        "1580755354": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE"
-        },
         "1580759640": {
             "api.conduit.com": "INACTIVE"
         },
@@ -375,6 +368,13 @@
             "d.zeroredirect.com": "INACTIVE",
             "e.zeroredirect.com": "INACTIVE",
             "egoldenglove.com": "INACTIVE"
+        },
+        "1580844224": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE"
+        },
+        "1580844228": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
