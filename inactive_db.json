@@ -283,8 +283,7 @@
             "ka.bar.need2find.com": "INACTIVE"
         },
         "1580672169": {
-            "i.trkjmp.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
+            "i.trkjmp.com": "INACTIVE"
         },
         "1580731412": {
             "affiliate.trk4.com": "INACTIVE"
@@ -362,6 +361,9 @@
             "f.zeroredirect.com": "INACTIVE",
             "finders.hopto.org": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1580788371": {
+            "infospace.tk": "INACTIVE"
         }
     }
 }
