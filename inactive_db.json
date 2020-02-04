@@ -286,9 +286,6 @@
             "i.trkjmp.com": "INACTIVE"
         },
         "1580739555": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE",
             "hackairtel.tk": "INACTIVE"
         },
         "1580743719": {
@@ -367,6 +364,14 @@
         },
         "1580820169": {
             "affiliate.trk4.com": "INACTIVE"
+        },
+        "1580828034": {
+            "bbs.bjchun.com": "INACTIVE"
+        },
+        "1580828036": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
