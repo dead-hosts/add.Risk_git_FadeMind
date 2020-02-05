@@ -281,14 +281,6 @@
         "1580592621": {
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580828034": {
-            "bbs.bjchun.com": "INACTIVE"
-        },
-        "1580828036": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
         "1580832144": {
             "alibabaslots.com": "INACTIVE"
         },
@@ -375,6 +367,11 @@
         },
         "1580913404": {
             "chat.effectivebrand.com": "INACTIVE"
+        },
+        "1580917052": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
