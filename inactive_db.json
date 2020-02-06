@@ -281,13 +281,6 @@
         "1580592621": {
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580905863": {
-            "fotologaso.miss-web.es": "INACTIVE"
-        },
-        "1580905864": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1580909565": {
             "affiliate.trk4.com": "INACTIVE"
         },
@@ -366,6 +359,10 @@
         },
         "1580977908": {
             "infospace.tk": "INACTIVE"
+        },
+        "1580994182": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
