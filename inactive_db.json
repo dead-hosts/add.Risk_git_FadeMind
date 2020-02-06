@@ -281,9 +281,6 @@
         "1580592621": {
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580932960": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1580940643": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -358,6 +355,9 @@
         },
         "1581023196": {
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1581027342": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
