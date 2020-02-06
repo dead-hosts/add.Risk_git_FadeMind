@@ -281,13 +281,6 @@
         "1580592621": {
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580860369": {
-            "finders.hopto.org": "INACTIVE"
-        },
-        "1580860370": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
         "1580878941": {
             "download.cdn.sharelive.net": "INACTIVE"
         },
@@ -371,6 +364,14 @@
         },
         "1580940643": {
             "apps.clickcash.com": "INACTIVE"
+        },
+        "1580948445": {
+            "finders.hopto.org": "INACTIVE"
+        },
+        "1580948446": {
+            "f.zeroredirect.com": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE",
+            "ivitrine.buscape.com": "INACTIVE"
         }
     }
 }
