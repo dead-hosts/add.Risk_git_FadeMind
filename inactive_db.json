@@ -271,11 +271,6 @@
         "1580495155": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1581006510": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
         "1581010772": {
             "alibabaslots.com": "INACTIVE",
             "bluemountain2.com": "INACTIVE"
@@ -367,6 +362,11 @@
         },
         "1581092402": {
             "ivitrine.buscape.com": "INACTIVE"
+        },
+        "1581095442": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
