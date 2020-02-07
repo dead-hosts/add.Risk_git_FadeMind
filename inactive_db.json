@@ -271,10 +271,6 @@
         "1580495155": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1580994182": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1580997846": {
             "affiliate.trk4.com": "INACTIVE"
         },
@@ -364,6 +360,10 @@
         },
         "1581079497": {
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1581082976": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
