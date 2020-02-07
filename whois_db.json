@@ -1652,7 +1652,7 @@
     "get-avast.com": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "get-quadcleaner.com": {
         "epoch": 1597276800.0,

@@ -281,12 +281,7 @@
         "1580592621": {
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1580948445": {
-            "finders.hopto.org": "INACTIVE"
-        },
         "1580948446": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE",
             "ivitrine.buscape.com": "INACTIVE"
         },
         "1580977908": {
@@ -359,6 +354,13 @@
         "1581035061": {
             "11164531-19021001.c2.adprotect.net": "INACTIVE",
             "applets.sulekha.com": "INACTIVE"
+        },
+        "1581038383": {
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1581038384": {
+            "f.zeroredirect.com": "INACTIVE"
         }
     }
 }
