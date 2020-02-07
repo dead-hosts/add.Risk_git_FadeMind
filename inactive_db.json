@@ -271,11 +271,6 @@
         "1580495155": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1581014669": {
-            "havijrat.zapto.org": "INACTIVE",
-            "hira.hopto.org": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE"
-        },
         "1581018862": {
             "a.zeroredirect.com": "INACTIVE",
             "ad.slutload.com": "INACTIVE",
@@ -369,6 +364,11 @@
         "1581098688": {
             "hackairtel.tk": "INACTIVE",
             "handlerhackz.tk": "INACTIVE"
+        },
+        "1581101621": {
+            "havijrat.zapto.org": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE"
         }
     }
 }
