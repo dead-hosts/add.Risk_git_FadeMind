@@ -271,10 +271,6 @@
         "1580495155": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1580569133": {
-            "j.theadsnet.com": "INACTIVE",
-            "j.zeroredirect.com": "INACTIVE"
-        },
         "1580592621": {
             "ka.bar.need2find.com": "INACTIVE"
         },
@@ -364,6 +360,10 @@
         },
         "1581065865": {
             "infospace.tk": "INACTIVE"
+        },
+        "1581075994": {
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE"
         }
     }
 }
