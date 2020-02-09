@@ -264,11 +264,7 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581202768": {
-            "11163221-517901.c.adprotect.net": "INACTIVE"
-        },
         "1581202772": {
-            "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
         "1581206496": {
@@ -358,6 +354,12 @@
         },
         "1581288332": {
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1581292133": {
+            "11163221-517901.c.adprotect.net": "INACTIVE"
+        },
+        "1581292137": {
+            "lcbcad.co.uk": "INACTIVE"
         }
     }
 }
