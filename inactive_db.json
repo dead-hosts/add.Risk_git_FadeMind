@@ -264,9 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581121419": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
         "1581172381": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
@@ -356,6 +353,9 @@
         "1581253137": {
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE"
+        },
+        "1581256910": {
+            "k.zeroredirect.com": "INACTIVE"
         }
     }
 }
