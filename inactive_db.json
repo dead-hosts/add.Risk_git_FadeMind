@@ -264,11 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581183523": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
         "1581187144": {
             "alibabaslots.com": "INACTIVE",
             "bluemountain2.com": "INACTIVE"
@@ -356,6 +351,11 @@
         "1581264399": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
+        },
+        "1581272507": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
