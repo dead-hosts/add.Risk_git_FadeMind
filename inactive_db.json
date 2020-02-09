@@ -267,11 +267,6 @@
         "1581121419": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1581124959": {
-            "f.zeroredirect.com": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
         "1581139300": {
             "jque.net": "INACTIVE"
         },
@@ -353,6 +348,11 @@
         },
         "1581206499": {
             "h.zeroredirect.com": "INACTIVE"
+        },
+        "1581214719": {
+            "f.zeroredirect.com": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
