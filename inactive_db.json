@@ -264,13 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581172381": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
-        "1581175898": {
-            "affiliate.trk4.com": "INACTIVE"
-        },
         "1581183523": {
             "g.zeroredirect.com": "INACTIVE",
             "gbanners.hornymatches.com": "INACTIVE",
@@ -356,6 +349,13 @@
         },
         "1581256910": {
             "k.zeroredirect.com": "INACTIVE"
+        },
+        "1581264396": {
+            "affiliate.trk4.com": "INACTIVE"
+        },
+        "1581264399": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
