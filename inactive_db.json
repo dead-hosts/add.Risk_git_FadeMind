@@ -353,6 +353,9 @@
             "f.zeroredirect.com": "INACTIVE",
             "finders.hopto.org": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1581222220": {
+            "apps.clickcash.com": "INACTIVE"
         }
     }
 }
