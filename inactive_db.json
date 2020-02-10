@@ -274,11 +274,7 @@
         "1581256910": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1581264396": {
-            "affiliate.trk4.com": "INACTIVE"
-        },
         "1581264399": {
-            "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
         },
         "1581272507": {
@@ -354,6 +350,12 @@
         },
         "1581329826": {
             "infospace.tk": "INACTIVE"
+        },
+        "1581352903": {
+            "affiliate.trk4.com": "INACTIVE"
+        },
+        "1581352906": {
+            "i.trkjmp.com": "INACTIVE"
         }
     }
 }
