@@ -267,11 +267,6 @@
         "1581202772": {
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1581214719": {
-            "f.zeroredirect.com": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
         "1581222220": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -357,6 +352,11 @@
         },
         "1581296126": {
             "h.zeroredirect.com": "INACTIVE"
+        },
+        "1581303249": {
+            "f.zeroredirect.com": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
