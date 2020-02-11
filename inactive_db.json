@@ -264,12 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581352903": {
-            "affiliate.trk4.com": "INACTIVE"
-        },
-        "1581352906": {
-            "i.trkjmp.com": "INACTIVE"
-        },
         "1581357024": {
             "cmicapui.ce.gov.br": "INACTIVE"
         },
@@ -365,6 +359,12 @@
         },
         "1581420032": {
             "infospace.tk": "INACTIVE"
+        },
+        "1581443236": {
+            "affiliate.trk4.com": "INACTIVE"
+        },
+        "1581443240": {
+            "i.trkjmp.com": "INACTIVE"
         }
     }
 }
