@@ -542,7 +542,7 @@
     "binadroid.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bizneed.com": {
         "epoch": 1640476800.0,
@@ -795,8 +795,8 @@
         "state": "future"
     },
     "chuckfaganco.com": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "claitors.com": {
@@ -1897,7 +1897,7 @@
     "hornytraffic.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "host-it.co.uk": {
         "epoch": 1745020800.0,
@@ -2255,9 +2255,9 @@
         "state": "future"
     },
     "letssearch.com": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
-        "state": "past"
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
     },
     "letzonke.com": {
         "epoch": 1597536000.0,
