@@ -264,14 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581360855": {
-            "apps.clickcash.com": "INACTIVE"
-        },
-        "1581360857": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
         "1581360858": {
             "i.zeroredirect.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE"
@@ -362,6 +354,13 @@
         },
         "1581443240": {
             "i.trkjmp.com": "INACTIVE"
+        },
+        "1581451148": {
+            "gbanners.hornymatches.com": "INACTIVE"
+        },
+        "1581451149": {
+            "g.zeroredirect.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
