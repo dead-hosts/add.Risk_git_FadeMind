@@ -264,24 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581360858": {
-            "j.theadsnet.com": "INACTIVE"
-        },
-        "1581364988": {
-            "j.zeroredirect.com": "INACTIVE"
-        },
-        "1581377006": {
-            "6.mamaswishes.com": "INACTIVE"
-        },
-        "1581377008": {
-            "fecabook.redirectme.net": "INACTIVE"
-        },
-        "1581377009": {
-            "image.cecash.com": "INACTIVE"
-        },
-        "1581377010": {
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1581381056": {
             "11163221-517901.c.adprotect.net": "INACTIVE"
         },
@@ -366,6 +348,17 @@
         },
         "1581462654": {
             "e.zeroredirect.com": "INACTIVE"
+        },
+        "1581466618": {
+            "6.mamaswishes.com": "INACTIVE"
+        },
+        "1581466621": {
+            "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1581466622": {
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
