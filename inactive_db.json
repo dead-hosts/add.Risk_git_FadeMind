@@ -267,13 +267,6 @@
         "1581497276": {
             "lcbcad.co.uk": "INACTIVE"
         },
-        "1581538596": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1581538597": {
-            "g.zeroredirect.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
         "1581542660": {
             "alibabaslots.com": "INACTIVE"
         },
@@ -358,6 +351,11 @@
         },
         "1581618985": {
             "i.trkjmp.com": "INACTIVE"
+        },
+        "1581626622": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
