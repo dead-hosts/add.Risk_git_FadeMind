@@ -267,12 +267,6 @@
         "1581381060": {
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1581466618": {
-            "6.mamaswishes.com": "INACTIVE"
-        },
-        "1581470485": {
-            "11163221-517901.c.adprotect.net": "INACTIVE"
-        },
         "1581474090": {
             "h.zeroredirect.com": "INACTIVE"
         },
@@ -361,6 +355,10 @@
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1581557571": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE"
         }
     }
 }
