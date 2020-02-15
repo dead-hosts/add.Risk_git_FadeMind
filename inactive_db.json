@@ -264,10 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581677224": {
-            "jque.net": "INACTIVE",
-            "lilian.redirectme.net": "INACTIVE"
-        },
         "1581681474": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -369,6 +365,12 @@
             "f.zeroredirect.com": "INACTIVE",
             "finders.hopto.org": "INACTIVE",
             "ftp.flyfishusa.com": "INACTIVE"
+        },
+        "1581763718": {
+            "jque.net": "INACTIVE"
+        },
+        "1581763719": {
+            "lilian.redirectme.net": "INACTIVE"
         }
     }
 }
