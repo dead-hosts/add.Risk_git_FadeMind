@@ -632,7 +632,7 @@
     "browseraccelerator.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "buffalogoesout.com": {
         "epoch": 1601424000.0,
@@ -1257,7 +1257,7 @@
     "duplicatefilecleaner.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dzxcq.com": {
         "epoch": 1604534400.0,
