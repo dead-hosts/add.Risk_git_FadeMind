@@ -264,13 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581658039": {
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
-        "1581658040": {
-            "f.zeroredirect.com": "INACTIVE"
-        },
         "1581677224": {
             "jque.net": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
@@ -367,6 +360,15 @@
         },
         "1581740737": {
             "lcbcad.co.uk": "INACTIVE"
+        },
+        "1581744571": {
+            "4.collecorvino.org": "INACTIVE",
+            "4.whereinlazio.com": "INACTIVE"
+        },
+        "1581744574": {
+            "f.zeroredirect.com": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
