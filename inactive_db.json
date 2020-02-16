@@ -267,15 +267,6 @@
         "1581740737": {
             "lcbcad.co.uk": "INACTIVE"
         },
-        "1581744571": {
-            "4.collecorvino.org": "INACTIVE",
-            "4.whereinlazio.com": "INACTIVE"
-        },
-        "1581744574": {
-            "f.zeroredirect.com": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
         "1581763718": {
             "jque.net": "INACTIVE"
         },
@@ -356,6 +347,13 @@
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1581834329": {
+            "finders.hopto.org": "INACTIVE"
+        },
+        "1581834330": {
+            "f.zeroredirect.com": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
