@@ -273,11 +273,6 @@
         "1581799478": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1581807457": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
         "1581811389": {
             "alibabaslots.com": "INACTIVE"
         },
@@ -357,6 +352,11 @@
         },
         "1581888624": {
             "affiliate.trk4.com": "INACTIVE"
+        },
+        "1581896204": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
