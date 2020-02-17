@@ -273,10 +273,6 @@
         "1581799478": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1581830767": {
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1581853929": {
             "goldbye.vicp.net": "INACTIVE"
         },
@@ -358,6 +354,10 @@
         },
         "1581931033": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1581934747": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
