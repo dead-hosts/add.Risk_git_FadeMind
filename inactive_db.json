@@ -278,13 +278,6 @@
             "j.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1581834329": {
-            "finders.hopto.org": "INACTIVE"
-        },
-        "1581834330": {
-            "f.zeroredirect.com": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
         "1581853929": {
             "goldbye.vicp.net": "INACTIVE"
         },
@@ -358,6 +351,11 @@
         },
         "1581919256": {
             "brans.pl": "INACTIVE"
+        },
+        "1581927036": {
+            "f.zeroredirect.com": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE"
         }
     }
 }
