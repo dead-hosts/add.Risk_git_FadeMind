@@ -273,13 +273,6 @@
         "1581799478": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1581827106": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE"
-        },
-        "1581827109": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1581830767": {
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
@@ -355,6 +348,13 @@
         "1581907606": {
             "e.zeroredirect.com": "INACTIVE",
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1581915389": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE"
+        },
+        "1581915392": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
