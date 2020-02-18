@@ -264,13 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581915389": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE"
-        },
-        "1581915392": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1581919256": {
             "brans.pl": "INACTIVE"
         },
@@ -359,6 +352,13 @@
             "e.zeroredirect.com": "INACTIVE",
             "egoldenglove.com": "INACTIVE",
             "fecabook.redirectme.net": "INACTIVE"
+        },
+        "1582005848": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE"
+        },
+        "1582005852": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
