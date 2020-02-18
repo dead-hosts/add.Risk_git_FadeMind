@@ -264,18 +264,7 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1581977872": {
-            "affiliate.trk4.com": "INACTIVE",
-            "bbs.bjchun.com": "INACTIVE"
-        },
-        "1581977875": {
-            "i.trkjmp.com": "INACTIVE"
-        },
-        "1581977876": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
         "1581981940": {
-            "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
         "1581986124": {
@@ -359,6 +348,14 @@
         },
         "1582040975": {
             "infospace.tk": "INACTIVE"
+        },
+        "1582068505": {
+            "affiliate.trk4.com": "INACTIVE"
+        },
+        "1582068509": {
+            "i.trkjmp.com": "INACTIVE",
+            "k.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE"
         }
     }
 }
