@@ -267,13 +267,6 @@
         "1581981940": {
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1581986124": {
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1581986125": {
-            "g.zeroredirect.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE"
-        },
         "1581990238": {
             "alibabaslots.com": "INACTIVE",
             "bluemountain2.com": "INACTIVE"
@@ -356,6 +349,11 @@
             "i.trkjmp.com": "INACTIVE",
             "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE"
+        },
+        "1582076245": {
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE"
         }
     }
 }
