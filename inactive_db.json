@@ -264,11 +264,7 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1582068505": {
-            "affiliate.trk4.com": "INACTIVE"
-        },
         "1582068509": {
-            "i.trkjmp.com": "INACTIVE",
             "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE"
         },
@@ -355,6 +351,12 @@
         },
         "1582149192": {
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1582156267": {
+            "affiliate.trk4.com": "INACTIVE"
+        },
+        "1582156271": {
+            "i.trkjmp.com": "INACTIVE"
         }
     }
 }
