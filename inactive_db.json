@@ -264,13 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1582095103": {
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "6.mamaswishes.com": "INACTIVE"
-        },
-        "1582095106": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1582099249": {
             "c.pioneeringad.com": "INACTIVE"
         },
@@ -360,6 +353,13 @@
         },
         "1582181092": {
             "lcbcad.co.uk": "INACTIVE"
+        },
+        "1582184525": {
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "6.mamaswishes.com": "INACTIVE"
+        },
+        "1582184529": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
