@@ -267,24 +267,11 @@
         "1582149192": {
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1582156271": {
-            "i.trkjmp.com": "INACTIVE"
-        },
         "1582166984": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1582170540": {
-            "hira.hopto.org": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE"
-        },
-        "1582170541": {
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1582181092": {
             "lcbcad.co.uk": "INACTIVE"
-        },
-        "1582184529": {
-            "h.zeroredirect.com": "INACTIVE"
         },
         "1582198094": {
             "j.theadsnet.com": "INACTIVE"
@@ -295,9 +282,6 @@
         },
         "1582211719": {
             "ka.bar.need2find.com": "INACTIVE"
-        },
-        "1582218760": {
-            "infospace.tk": "INACTIVE"
         },
         "1582369861": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
@@ -344,6 +328,16 @@
             "hackairtel.tk": "INACTIVE",
             "handlerhackz.tk": "INACTIVE",
             "havijrat.zapto.org": "INACTIVE"
+        },
+        "1582373806": {
+            "h.zeroredirect.com": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "i.trkjmp.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
+        },
+        "1582373807": {
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
