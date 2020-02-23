@@ -269,8 +269,7 @@
         },
         "1582377915": {
             "j.theadsnet.com": "INACTIVE",
-            "j.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE"
+            "j.zeroredirect.com": "INACTIVE"
         },
         "1582393880": {
             "ka.bar.need2find.com": "INACTIVE"
@@ -341,6 +340,9 @@
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1582464855": {
+            "jque.net": "INACTIVE"
         }
     }
 }
