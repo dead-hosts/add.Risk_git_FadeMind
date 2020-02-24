@@ -272,8 +272,7 @@
         },
         "1582460974": {
             "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
+            "i.zeroredirect.com": "INACTIVE"
         },
         "1582464855": {
             "jque.net": "INACTIVE"
@@ -340,6 +339,9 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1582554116": {
+            "infospace.tk": "INACTIVE"
         }
     }
 }
