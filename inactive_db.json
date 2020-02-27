@@ -264,12 +264,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1582149192": {
-            "lilian.redirectme.net": "INACTIVE"
-        },
-        "1582401912": {
-            "lcbcad.co.uk": "INACTIVE"
-        },
         "1582802366": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -338,6 +332,10 @@
             "j.zeroredirect.com": "INACTIVE",
             "k.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1582822363": {
+            "lcbcad.co.uk": "INACTIVE",
+            "lilian.redirectme.net": "INACTIVE"
         }
     }
 }
