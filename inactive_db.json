@@ -273,17 +273,9 @@
         "1582509030": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1582574277": {
-            "j.theadsnet.com": "INACTIVE",
-            "jque.net": "INACTIVE"
-        },
         "1582582583": {
             "j.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
-        },
-        "1582650292": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
         },
         "1582802366": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
@@ -339,6 +331,12 @@
             "h.zeroredirect.com": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1582809479": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
