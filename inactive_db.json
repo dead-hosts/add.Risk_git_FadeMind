@@ -253,7 +253,6 @@
             "z.zeroredirect.com": "INACTIVE"
         },
         "1580216132": {
-            "l.zeroredirect.com": "INACTIVE",
             "mobile.bitterstrawberry.org": "INACTIVE",
             "mrace.hopto.org": "INACTIVE"
         },
@@ -336,6 +335,9 @@
         "1582822363": {
             "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1582824936": {
+            "l.zeroredirect.com": "INACTIVE"
         }
     }
 }
