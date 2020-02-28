@@ -263,11 +263,6 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1582805981": {
-            "h.zeroredirect.com": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
-        },
         "1582809479": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE",
@@ -340,6 +335,11 @@
         },
         "1582892103": {
             "hira.hopto.org": "INACTIVE"
+        },
+        "1582895236": {
+            "h.zeroredirect.com": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
