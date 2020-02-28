@@ -264,9 +264,7 @@
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
         "1582819607": {
-            "j.zeroredirect.com": "INACTIVE",
-            "k.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
+            "k.zeroredirect.com": "INACTIVE"
         },
         "1582822363": {
             "lcbcad.co.uk": "INACTIVE",
@@ -337,6 +335,10 @@
             "i.zeroredirect.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
             "jque.net": "INACTIVE"
+        },
+        "1582907052": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
