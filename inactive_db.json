@@ -263,11 +263,7 @@
         "1580230666": {
             "mal-ware-domain-list-2.tinker.pureleads.sendori.com": "INACTIVE"
         },
-        "1582819607": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
         "1582822363": {
-            "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
         "1582824936": {
@@ -345,6 +341,10 @@
         },
         "1582919758": {
             "coding.1100011.ir": "INACTIVE"
+        },
+        "1582923091": {
+            "k.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE"
         }
     }
 }
