@@ -267,11 +267,7 @@
             "l.zeroredirect.com": "INACTIVE"
         },
         "1582923091": {
-            "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE"
-        },
-        "1582926613": {
-            "brans.pl": "INACTIVE"
         },
         "1582940566": {
             "antispyware.onlinedownloads.org": "INACTIVE"
@@ -348,6 +344,9 @@
         },
         "1583009926": {
             "coding.1100011.ir": "INACTIVE"
+        },
+        "1583014256": {
+            "k.zeroredirect.com": "INACTIVE"
         }
     }
 }
