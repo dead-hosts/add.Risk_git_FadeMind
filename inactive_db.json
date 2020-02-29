@@ -267,8 +267,6 @@
             "l.zeroredirect.com": "INACTIVE"
         },
         "1582898105": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
             "jque.net": "INACTIVE"
         },
@@ -349,6 +347,10 @@
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1582985680": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
