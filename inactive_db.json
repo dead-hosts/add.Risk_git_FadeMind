@@ -266,10 +266,6 @@
         "1582824936": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1582907052": {
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1582913368": {
             "in.riskymail4free.com": "INACTIVE"
         },
@@ -351,6 +347,10 @@
         "1582989682": {
             "j.theadsnet.com": "INACTIVE",
             "jque.net": "INACTIVE"
+        },
+        "1582997480": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
