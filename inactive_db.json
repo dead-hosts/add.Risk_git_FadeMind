@@ -272,10 +272,6 @@
         "1582966335": {
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1582985680": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1582989682": {
             "j.theadsnet.com": "INACTIVE",
             "jque.net": "INACTIVE"
@@ -352,6 +348,13 @@
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1583078923": {
+            "apps.clickcash.com": "INACTIVE"
+        },
+        "1583078926": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
