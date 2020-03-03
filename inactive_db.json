@@ -264,10 +264,6 @@
             "l.zeroredirect.com": "INACTIVE",
             "mail.poker.cm": "INACTIVE"
         },
-        "1583179568": {
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1583183947": {
             "lcbcad.co.uk": "INACTIVE"
         },
@@ -349,6 +345,10 @@
         },
         "1583264602": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1583268966": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
