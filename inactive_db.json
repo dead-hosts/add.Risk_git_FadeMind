@@ -265,8 +265,7 @@
             "mail.poker.cm": "INACTIVE"
         },
         "1583171130": {
-            "j.theadsnet.com": "INACTIVE",
-            "jque.net": "INACTIVE"
+            "j.theadsnet.com": "INACTIVE"
         },
         "1583179568": {
             "j.zeroredirect.com": "INACTIVE",
@@ -347,6 +346,9 @@
         "1583256086": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
+        },
+        "1583260345": {
+            "jque.net": "INACTIVE"
         }
     }
 }
