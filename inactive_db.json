@@ -264,9 +264,6 @@
             "l.zeroredirect.com": "INACTIVE",
             "mail.poker.cm": "INACTIVE"
         },
-        "1583200687": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
         "1583204650": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -347,6 +344,9 @@
         "1583277794": {
             "lcbcad.co.uk": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1583290291": {
+            "k.zeroredirect.com": "INACTIVE"
         }
     }
 }
