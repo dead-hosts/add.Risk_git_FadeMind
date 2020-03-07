@@ -167,7 +167,7 @@
     "adprotect.net": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtegrity.com": {
         "epoch": 1632441600.0,
@@ -300,8 +300,8 @@
         "state": "future"
     },
     "animal36.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "animalrank.com": {
@@ -1537,7 +1537,7 @@
     "freeserials.ws": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "freewebtown.com": {
         "epoch": 1583452800.0,
@@ -1947,7 +1947,7 @@
     "icracks.net": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ieginc.com": {
         "epoch": 1587600000.0,
