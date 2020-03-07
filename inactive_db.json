@@ -271,7 +271,6 @@
         },
         "1583512928": {
             "d.zeroredirect.com": "INACTIVE",
-            "doda.redirectme.net": "INACTIVE",
             "egoldenglove.com": "INACTIVE"
         },
         "1583512929": {
@@ -357,6 +356,9 @@
         },
         "1583617493": {
             "antispyware.onlinedownloads.org": "INACTIVE"
+        },
+        "1583620851": {
+            "doda.redirectme.net": "INACTIVE"
         }
     }
 }
