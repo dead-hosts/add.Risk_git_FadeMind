@@ -269,51 +269,12 @@
         "1583504890": {
             "lcbcad.co.uk": "INACTIVE"
         },
-        "1583512928": {
-            "d.zeroredirect.com": "INACTIVE",
-            "egoldenglove.com": "INACTIVE"
-        },
-        "1583512929": {
-            "e.zeroredirect.com": "INACTIVE",
-            "f.zeroredirect.com": "INACTIVE",
-            "fecabook.redirectme.net": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE"
-        },
-        "1583517000": {
-            "g.zeroredirect.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE",
-            "hackairtel.tk": "INACTIVE",
-            "handlerhackz.tk": "INACTIVE",
-            "hapjes-maken.eu": "INACTIVE",
-            "havijrat.zapto.org": "INACTIVE"
-        },
-        "1583521466": {
-            "h.zeroredirect.com": "INACTIVE",
-            "hira.hopto.org": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE",
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
-        },
         "1583526091": {
-            "jque.net": "INACTIVE",
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1583536620": {
-            "j.theadsnet.com": "INACTIVE"
-        },
-        "1583545305": {
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1583553927": {
             "l.zeroredirect.com": "INACTIVE"
-        },
-        "1583579885": {
-            "hackkitarena.tk": "INACTIVE"
         },
         "1583600913": {
             "alibabaslots.com": "INACTIVE",
@@ -362,6 +323,36 @@
         },
         "1583656134": {
             "app.pho8.com": "INACTIVE"
+        },
+        "1583667750": {
+            "d.zeroredirect.com": "INACTIVE",
+            "e.zeroredirect.com": "INACTIVE",
+            "egoldenglove.com": "INACTIVE"
+        },
+        "1583667751": {
+            "f.zeroredirect.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE",
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "h.zeroredirect.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE",
+            "hackairtel.tk": "INACTIVE",
+            "handlerhackz.tk": "INACTIVE",
+            "hapjes-maken.eu": "INACTIVE",
+            "havijrat.zapto.org": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE"
+        },
+        "1583667752": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "infospace.tk": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }

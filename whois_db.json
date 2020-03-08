@@ -1935,8 +1935,8 @@
         "state": "future"
     },
     "icityfind.com": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "icoocash.com": {
@@ -1945,9 +1945,9 @@
         "state": "future"
     },
     "icracks.net": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
-        "state": "past"
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
     },
     "ieginc.com": {
         "epoch": 1587600000.0,
