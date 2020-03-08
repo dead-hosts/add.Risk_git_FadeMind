@@ -165,9 +165,9 @@
         "state": "future"
     },
     "adprotect.net": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
-        "state": "past"
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
     },
     "adtegrity.com": {
         "epoch": 1632441600.0,
