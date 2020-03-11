@@ -260,12 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1583702825": {
-            "l.zeroredirect.com": "INACTIVE"
-        },
-        "1583722220": {
-            "mail.poker.cm": "INACTIVE"
-        },
         "1583845867": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -349,6 +343,10 @@
         },
         "1583897715": {
             "coding.1100011.ir": "INACTIVE"
+        },
+        "1583921078": {
+            "l.zeroredirect.com": "INACTIVE",
+            "mail.poker.cm": "INACTIVE"
         }
     }
 }
