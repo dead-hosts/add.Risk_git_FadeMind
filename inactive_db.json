@@ -261,10 +261,6 @@
             "my-pc-cleaner.org": "INACTIVE"
         },
         "1583850088": {
-            "h.zeroredirect.com": "INACTIVE",
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE",
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
             "jque.net": "INACTIVE",
@@ -344,6 +340,12 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1583937600": {
+            "h.zeroredirect.com": "INACTIVE",
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
