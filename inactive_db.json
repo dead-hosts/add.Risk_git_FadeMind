@@ -260,10 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1583850088": {
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1583861991": {
             "k.zeroredirect.com": "INACTIVE"
         },
@@ -350,6 +346,10 @@
         },
         "1583945419": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1583949241": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
