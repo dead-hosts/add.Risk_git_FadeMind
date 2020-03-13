@@ -264,13 +264,6 @@
             "l.zeroredirect.com": "INACTIVE",
             "mail.poker.cm": "INACTIVE"
         },
-        "1584027917": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
-        "1584027918": {
-            "jque.net": "INACTIVE"
-        },
         "1584036333": {
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
@@ -347,6 +340,11 @@
         "1584116599": {
             "h.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1584120827": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
