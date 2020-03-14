@@ -264,10 +264,6 @@
             "l.zeroredirect.com": "INACTIVE",
             "mail.poker.cm": "INACTIVE"
         },
-        "1584116599": {
-            "h.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
-        },
         "1584120827": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE",
@@ -356,6 +352,11 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1584205766": {
+            "goldbye.vicp.net": "INACTIVE",
+            "h.zeroredirect.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
