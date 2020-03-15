@@ -265,11 +265,6 @@
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1584205766": {
-            "goldbye.vicp.net": "INACTIVE",
-            "h.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
-        },
         "1584209641": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -362,6 +357,10 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1584295753": {
+            "h.zeroredirect.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
