@@ -17,7 +17,7 @@
     "105vibe.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "11hour.com": {
         "epoch": 1607299200.0,
@@ -1360,8 +1360,8 @@
         "state": "future"
     },
     "ertya.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "etahub.com": {
