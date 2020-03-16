@@ -273,9 +273,6 @@
             "k.zeroredirect.com": "INACTIVE"
         },
         "1584299891": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "liders.biz": "INACTIVE"
         },
@@ -353,6 +350,11 @@
         "1584383608": {
             "h.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1584387288": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
