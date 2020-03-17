@@ -266,11 +266,6 @@
         "1584241439": {
             "mail.poker.cm": "INACTIVE"
         },
-        "1584387288": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE"
-        },
         "1584391415": {
             "j.theadsnet.com": "INACTIVE"
         },
@@ -363,6 +358,13 @@
             "infospace.tk": "INACTIVE",
             "kamasutra.popunder.ru": "INACTIVE",
             "kinofree.popunder.ru": "INACTIVE"
+        },
+        "1584476691": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
+        },
+        "1584476692": {
+            "jque.net": "INACTIVE"
         }
     }
 }
