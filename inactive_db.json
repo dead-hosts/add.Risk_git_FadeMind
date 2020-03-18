@@ -260,13 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1584476691": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
-        "1584476692": {
-            "jque.net": "INACTIVE"
-        },
         "1584480474": {
             "j.theadsnet.com": "INACTIVE"
         },
@@ -360,6 +353,11 @@
         "1584562199": {
             "h.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1584566445": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
