@@ -260,11 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1584484227": {
-            "j.zeroredirect.com": "INACTIVE",
-            "k.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1584491392": {
             "a.zeroredirect.com": "INACTIVE",
             "alibabaslots.com": "INACTIVE",
@@ -358,6 +353,11 @@
         },
         "1584570137": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1584574326": {
+            "j.zeroredirect.com": "INACTIVE",
+            "k.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
