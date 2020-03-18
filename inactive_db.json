@@ -260,12 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1584472924": {
-            "h.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE",
-            "kamasutra.popunder.ru": "INACTIVE",
-            "kinofree.popunder.ru": "INACTIVE"
-        },
         "1584476691": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
@@ -362,6 +356,10 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1584562199": {
+            "h.zeroredirect.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
