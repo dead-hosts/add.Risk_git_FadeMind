@@ -260,9 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1584494927": {
-            "l.zeroredirect.com": "INACTIVE"
-        },
         "1584501905": {
             "antispyware.onlinedownloads.org": "INACTIVE"
         },
@@ -358,6 +355,9 @@
         "1584582173": {
             "c.zeroredirect.com": "INACTIVE",
             "dlldlldll.sytes.net": "INACTIVE"
+        },
+        "1584586244": {
+            "l.zeroredirect.com": "INACTIVE"
         }
     }
 }
