@@ -263,11 +263,6 @@
         "1584523085": {
             "mail.poker.cm": "INACTIVE"
         },
-        "1584574326": {
-            "j.zeroredirect.com": "INACTIVE",
-            "k.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1584578448": {
             "a.zeroredirect.com": "INACTIVE",
             "alibabaslots.com": "INACTIVE",
@@ -361,6 +356,11 @@
         },
         "1584660391": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1584664483": {
+            "j.zeroredirect.com": "INACTIVE",
+            "k.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
