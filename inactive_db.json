@@ -267,9 +267,7 @@
             "l.zeroredirect.com": "INACTIVE"
         },
         "1584664483": {
-            "j.zeroredirect.com": "INACTIVE",
-            "k.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
+            "k.zeroredirect.com": "INACTIVE"
         },
         "1584668203": {
             "a.zeroredirect.com": "INACTIVE",
@@ -366,6 +364,10 @@
         },
         "1584750089": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1584754026": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
