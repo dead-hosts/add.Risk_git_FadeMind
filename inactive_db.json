@@ -266,13 +266,6 @@
         "1584586244": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1584738625": {
-            "brans.pl": "INACTIVE"
-        },
-        "1584738628": {
-            "h.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
-        },
         "1584742524": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE",
@@ -364,6 +357,10 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1584826170": {
+            "h.zeroredirect.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
