@@ -267,9 +267,6 @@
             "l.zeroredirect.com": "INACTIVE"
         },
         "1584830449": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "jque.net": "INACTIVE",
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
@@ -352,6 +349,11 @@
         "1584916376": {
             "h.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1584920523": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
