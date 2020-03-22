@@ -266,12 +266,6 @@
         "1584586244": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1584797894": {
-            "coding.1100011.ir": "INACTIVE"
-        },
-        "1584797895": {
-            "doda.redirectme.net": "INACTIVE"
-        },
         "1584817906": {
             "lcbcad.co.uk": "INACTIVE"
         },
@@ -356,6 +350,10 @@
         },
         "1584850823": {
             "k.zeroredirect.com": "INACTIVE"
+        },
+        "1584886979": {
+            "coding.1100011.ir": "INACTIVE",
+            "doda.redirectme.net": "INACTIVE"
         }
     }
 }
