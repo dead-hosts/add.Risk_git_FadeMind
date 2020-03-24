@@ -1145,9 +1145,9 @@
         "state": "future"
     },
     "disable-uac.com": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
-        "state": "past"
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
     },
     "distribuidoraderetentores.com.br": {
         "epoch": 1598572800.0,
@@ -1575,9 +1575,9 @@
         "state": "future"
     },
     "fyxm.net": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
-        "state": "past"
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
     },
     "gaja79.com": {
         "epoch": 1604534400.0,
