@@ -267,8 +267,6 @@
             "l.zeroredirect.com": "INACTIVE"
         },
         "1585009968": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
             "jque.net": "INACTIVE"
         },
         "1585018173": {
@@ -355,6 +353,16 @@
         "1585094798": {
             "h.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1585098741": {
+            "apps.clickcash.com": "INACTIVE"
+        },
+        "1585098742": {
+            "clickcash.webpower.com": "INACTIVE"
+        },
+        "1585098744": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
