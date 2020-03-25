@@ -266,10 +266,6 @@
         "1584586244": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1585021954": {
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1585025985": {
             "a.zeroredirect.com": "INACTIVE",
             "alibabaslots.com": "INACTIVE",
@@ -363,6 +359,10 @@
         },
         "1585106552": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1585110371": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
