@@ -276,10 +276,6 @@
         "1585083934": {
             "lcbcad.co.uk": "INACTIVE"
         },
-        "1585098744": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1585102598": {
             "jque.net": "INACTIVE"
         },
@@ -360,6 +356,10 @@
         },
         "1585192065": {
             "apps.clickcash.com": "INACTIVE"
+        },
+        "1585196136": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
