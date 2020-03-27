@@ -266,10 +266,6 @@
         "1584586244": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1585196136": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1585204254": {
             "a.zeroredirect.com": "INACTIVE",
             "alibabaslots.com": "INACTIVE",
@@ -353,6 +349,10 @@
         },
         "1585273466": {
             "infospace.tk": "INACTIVE"
+        },
+        "1585285406": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
