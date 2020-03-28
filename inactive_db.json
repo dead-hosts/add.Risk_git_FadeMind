@@ -274,10 +274,6 @@
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
         },
-        "1585285406": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1585293285": {
             "alibabaslots.com": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
@@ -356,6 +352,10 @@
         "1585360765": {
             "h.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1585372236": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
