@@ -264,7 +264,6 @@
             "mail.poker.cm": "INACTIVE"
         },
         "1585428113": {
-            "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
@@ -358,6 +357,9 @@
         "1585507140": {
             "coding.1100011.ir": "INACTIVE",
             "doda.redirectme.net": "INACTIVE"
+        },
+        "1585515103": {
+            "k.zeroredirect.com": "INACTIVE"
         }
     }
 }
