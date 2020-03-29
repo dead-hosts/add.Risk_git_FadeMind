@@ -263,10 +263,6 @@
         "1584523085": {
             "mail.poker.cm": "INACTIVE"
         },
-        "1585372236": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1585383442": {
             "a.zeroredirect.com": "INACTIVE",
             "alibabaslots.com": "INACTIVE",
@@ -359,6 +355,10 @@
         },
         "1585451950": {
             "apps.clickcash.com": "INACTIVE"
+        },
+        "1585459634": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
