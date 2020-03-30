@@ -1175,8 +1175,8 @@
         "state": "future"
     },
     "dodostats.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "dogpial.com": {
@@ -1282,7 +1282,7 @@
     "ebocornac.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ecdtrk.com": {
         "epoch": 1594512000.0,
