@@ -266,12 +266,6 @@
         "1585440243": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1585503021": {
-            "ka.bar.need2find.com": "INACTIVE"
-        },
-        "1585515103": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
         "1585519506": {
             "antispyware.onlinedownloads.org": "INACTIVE"
         },
@@ -370,6 +364,10 @@
         },
         "1585594987": {
             "j.zeroredirect.com": "INACTIVE"
+        },
+        "1585602468": {
+            "k.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
