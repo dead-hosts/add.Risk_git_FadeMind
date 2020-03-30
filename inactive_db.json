@@ -266,26 +266,6 @@
         "1585440243": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1585471222": {
-            "a.zeroredirect.com": "INACTIVE",
-            "alibabaslots.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "anonymousproxy.tk": "INACTIVE",
-            "arecio.work": "INACTIVE",
-            "ayada.zapto.org": "INACTIVE",
-            "ayehcleaners.com": "INACTIVE"
-        },
-        "1585471223": {
-            "b.zeroredirect.com": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "bluemountain2.com": "INACTIVE",
-            "click.dealshark.com": "INACTIVE"
-        },
-        "1585471224": {
-            "collectiable.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
-        },
         "1585475250": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -363,6 +343,26 @@
         "1585547913": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
+        },
+        "1585559341": {
+            "alibabaslots.com": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "anonymousproxy.tk": "INACTIVE",
+            "arecio.work": "INACTIVE"
+        },
+        "1585559342": {
+            "a.zeroredirect.com": "INACTIVE",
+            "ayada.zapto.org": "INACTIVE",
+            "ayehcleaners.com": "INACTIVE",
+            "b.zeroredirect.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "bluemountain2.com": "INACTIVE",
+            "click.dealshark.com": "INACTIVE"
+        },
+        "1585559343": {
+            "collectiable.com": "INACTIVE",
+            "compactiongames.gameaholic.com": "INACTIVE"
         }
     }
 }
