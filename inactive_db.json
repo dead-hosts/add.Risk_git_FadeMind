@@ -274,9 +274,6 @@
         "1585523683": {
             "links.onlinedownloads.org": "INACTIVE"
         },
-        "1585594987": {
-            "j.zeroredirect.com": "INACTIVE"
-        },
         "1585602468": {
             "k.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
@@ -367,6 +364,9 @@
         },
         "1585684272": {
             "doda.redirectme.net": "INACTIVE"
+        },
+        "1585688122": {
+            "j.zeroredirect.com": "INACTIVE"
         }
     }
 }
