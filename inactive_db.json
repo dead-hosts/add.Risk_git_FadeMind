@@ -274,9 +274,6 @@
         "1585523683": {
             "links.onlinedownloads.org": "INACTIVE"
         },
-        "1585527506": {
-            "banners.leadingedgecash.com": "INACTIVE"
-        },
         "1585531719": {
             "banners.thirdmovies.com": "INACTIVE"
         },
@@ -365,6 +362,9 @@
         "1585602468": {
             "k.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1585618080": {
+            "banners.leadingedgecash.com": "INACTIVE"
         }
     }
 }
