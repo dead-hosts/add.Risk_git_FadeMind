@@ -274,10 +274,6 @@
         "1585523683": {
             "links.onlinedownloads.org": "INACTIVE"
         },
-        "1585547913": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1585559341": {
             "alibabaslots.com": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
@@ -367,6 +363,10 @@
         },
         "1585626283": {
             "infospace.tk": "INACTIVE"
+        },
+        "1585637983": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
