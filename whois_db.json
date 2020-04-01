@@ -627,7 +627,7 @@
     "bride1.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "browseraccelerator.com": {
         "epoch": 1613347200.0,
@@ -1055,13 +1055,13 @@
         "state": "future"
     },
     "cracksplanet.com": {
-        "epoch": 1585699200.0,
-        "expiration_date": "01-apr-2020",
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "crackzplanet.com": {
-        "epoch": 1585699200.0,
-        "expiration_date": "01-apr-2020",
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "crazyprotocol.com": {
