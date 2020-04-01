@@ -273,10 +273,6 @@
         "1585523683": {
             "links.onlinedownloads.org": "INACTIVE"
         },
-        "1585668603": {
-            "j.theadsnet.com": "INACTIVE",
-            "jque.net": "INACTIVE"
-        },
         "1585684270": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -365,6 +361,10 @@
         "1585746591": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "affiliate.gwmtracker.com": "INACTIVE"
+        },
+        "1585762279": {
+            "j.theadsnet.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
