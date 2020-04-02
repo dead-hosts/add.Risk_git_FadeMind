@@ -279,10 +279,6 @@
         "1585708386": {
             "lcbcad.co.uk": "INACTIVE"
         },
-        "1585726957": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1585737539": {
             "alibabaslots.com": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
@@ -365,6 +361,10 @@
         "1585804609": {
             "h.zeroredirect.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1585819661": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
