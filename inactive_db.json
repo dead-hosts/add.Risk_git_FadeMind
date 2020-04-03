@@ -266,9 +266,6 @@
         "1585440243": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1585797118": {
-            "banners.leadingedgecash.com": "INACTIVE"
-        },
         "1585801026": {
             "d.zeroredirect.com": "INACTIVE",
             "e.zeroredirect.com": "INACTIVE",
@@ -359,6 +356,9 @@
         },
         "1585875230": {
             "clickcash.webpower.com": "INACTIVE"
+        },
+        "1585885066": {
+            "banners.leadingedgecash.com": "INACTIVE"
         }
     }
 }
