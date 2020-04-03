@@ -267,7 +267,6 @@
             "k.zeroredirect.com": "INACTIVE"
         },
         "1585865103": {
-            "j.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
@@ -358,6 +357,9 @@
         "1585949260": {
             "coding.1100011.ir": "INACTIVE",
             "doda.redirectme.net": "INACTIVE"
+        },
+        "1585952671": {
+            "j.zeroredirect.com": "INACTIVE"
         }
     }
 }
