@@ -837,7 +837,7 @@
     "cleanallvirus.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cleanersoft.com": {
         "epoch": 1596844800.0,
