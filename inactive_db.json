@@ -263,9 +263,6 @@
         "1584523085": {
             "mail.poker.cm": "INACTIVE"
         },
-        "1585979483": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1585986455": {
             "brans.pl": "INACTIVE"
         },
@@ -360,6 +357,9 @@
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1586070063": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
