@@ -263,12 +263,6 @@
         "1584523085": {
             "mail.poker.cm": "INACTIVE"
         },
-        "1585901536": {
-            "l.zeroredirect.com": "INACTIVE"
-        },
-        "1585972916": {
-            "banners.leadingedgecash.com": "INACTIVE"
-        },
         "1585976463": {
             "d.zeroredirect.com": "INACTIVE",
             "e.zeroredirect.com": "INACTIVE",
@@ -362,6 +356,12 @@
             "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE",
             "liders.biz": "INACTIVE"
+        },
+        "1586061833": {
+            "banners.leadingedgecash.com": "INACTIVE"
+        },
+        "1586061837": {
+            "l.zeroredirect.com": "INACTIVE"
         }
     }
 }
