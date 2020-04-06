@@ -269,9 +269,6 @@
         "1586061837": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1586070063": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1586077955": {
             "lilian.redirectme.net": "INACTIVE"
         },
@@ -360,6 +357,12 @@
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1586159403": {
+            "brans.pl": "INACTIVE"
+        },
+        "1586159405": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
