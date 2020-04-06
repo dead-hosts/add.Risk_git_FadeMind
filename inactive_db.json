@@ -266,10 +266,6 @@
         "1586061837": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1586113063": {
-            "j.theadsnet.com": "INACTIVE",
-            "jque.net": "INACTIVE"
-        },
         "1586125250": {
             "coding.1100011.ir": "INACTIVE"
         },
@@ -370,6 +366,13 @@
         },
         "1586195628": {
             "11163221-517901.c.adprotect.net": "INACTIVE"
+        },
+        "1586199620": {
+            "apps.clickcash.com": "INACTIVE"
+        },
+        "1586199624": {
+            "j.theadsnet.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
