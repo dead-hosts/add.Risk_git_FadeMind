@@ -266,10 +266,6 @@
         "1586061837": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1586085008": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
-        },
         "1586097318": {
             "alibabaslots.com": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE"
@@ -361,6 +357,13 @@
         "1586166842": {
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1586175605": {
+            "antispyware.onlinedownloads.org": "INACTIVE"
+        },
+        "1586175608": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE"
         }
     }
 }
