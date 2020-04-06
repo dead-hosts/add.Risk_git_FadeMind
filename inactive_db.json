@@ -276,15 +276,8 @@
             "arecio.work": "INACTIVE",
             "ayada.zapto.org": "INACTIVE",
             "ayehcleaners.com": "INACTIVE",
-            "b.zeroredirect.com": "INACTIVE",
             "banner.tonygpoker.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "bluemountain2.com": "INACTIVE"
-        },
-        "1586097320": {
-            "click.dealshark.com": "INACTIVE",
-            "collectiable.com": "INACTIVE",
-            "compactiongames.gameaholic.com": "INACTIVE"
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         },
         "1586101349": {
             "6.mamaswishes.com": "INACTIVE",
@@ -364,6 +357,15 @@
         "1586175608": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE"
+        },
+        "1586184130": {
+            "b.zeroredirect.com": "INACTIVE",
+            "bluemountain2.com": "INACTIVE"
+        },
+        "1586184131": {
+            "click.dealshark.com": "INACTIVE",
+            "collectiable.com": "INACTIVE",
+            "compactiongames.gameaholic.com": "INACTIVE"
         }
     }
 }
