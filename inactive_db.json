@@ -272,12 +272,6 @@
         "1586151771": {
             "lcbcad.co.uk": "INACTIVE"
         },
-        "1586159403": {
-            "brans.pl": "INACTIVE"
-        },
-        "1586159405": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1586166842": {
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
@@ -371,6 +365,9 @@
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1586248492": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
