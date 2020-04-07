@@ -269,32 +269,8 @@
         "1586144028": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1586151768": {
-            "banners.leadingedgecash.com": "INACTIVE"
-        },
         "1586151771": {
             "lcbcad.co.uk": "INACTIVE"
-        },
-        "1586155508": {
-            "d.zeroredirect.com": "INACTIVE",
-            "e.zeroredirect.com": "INACTIVE",
-            "egoldenglove.com": "INACTIVE",
-            "f.zeroredirect.com": "INACTIVE",
-            "fecabook.redirectme.net": "INACTIVE",
-            "finders.hopto.org": "INACTIVE",
-            "ftp.flyfishusa.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1586155509": {
-            "g.zeroredirect.com": "INACTIVE",
-            "haartezenglish.redirectme.net": "INACTIVE",
-            "hackairtel.tk": "INACTIVE",
-            "handlerhackz.tk": "INACTIVE",
-            "hapjes-maken.eu": "INACTIVE",
-            "havijrat.zapto.org": "INACTIVE",
-            "hira.hopto.org": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE",
-            "infospace.tk": "INACTIVE"
         },
         "1586159403": {
             "brans.pl": "INACTIVE"
@@ -371,6 +347,30 @@
         },
         "1586222931": {
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1586245584": {
+            "banners.leadingedgecash.com": "INACTIVE"
+        },
+        "1586245586": {
+            "d.zeroredirect.com": "INACTIVE",
+            "e.zeroredirect.com": "INACTIVE",
+            "egoldenglove.com": "INACTIVE",
+            "f.zeroredirect.com": "INACTIVE",
+            "fecabook.redirectme.net": "INACTIVE",
+            "finders.hopto.org": "INACTIVE",
+            "ftp.flyfishusa.com": "INACTIVE",
+            "g.zeroredirect.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "haartezenglish.redirectme.net": "INACTIVE",
+            "hackairtel.tk": "INACTIVE"
+        },
+        "1586245587": {
+            "handlerhackz.tk": "INACTIVE",
+            "hapjes-maken.eu": "INACTIVE",
+            "havijrat.zapto.org": "INACTIVE",
+            "hira.hopto.org": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "infospace.tk": "INACTIVE"
         }
     }
 }
