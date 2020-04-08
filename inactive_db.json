@@ -267,8 +267,7 @@
             "l.zeroredirect.com": "INACTIVE"
         },
         "1586199624": {
-            "j.theadsnet.com": "INACTIVE",
-            "jque.net": "INACTIVE"
+            "j.theadsnet.com": "INACTIVE"
         },
         "1586219368": {
             "j.zeroredirect.com": "INACTIVE"
@@ -279,10 +278,6 @@
         "1586251392": {
             "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE"
-        },
-        "1586264833": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE"
         },
         "1586268109": {
             "liders.biz": "INACTIVE",
@@ -340,6 +335,11 @@
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "infospace.tk": "INACTIVE"
+        },
+        "1586388895": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     }
 }
