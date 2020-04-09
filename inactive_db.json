@@ -266,10 +266,6 @@
         "1586061837": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1586251392": {
-            "k.zeroredirect.com": "INACTIVE",
-            "lcbcad.co.uk": "INACTIVE"
-        },
         "1586268109": {
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
@@ -341,6 +337,10 @@
         },
         "1586402039": {
             "apps.clickcash.com": "INACTIVE"
+        },
+        "1586405513": {
+            "k.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE"
         }
     }
 }
