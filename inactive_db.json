@@ -260,12 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1584523085": {
-            "mail.poker.cm": "INACTIVE"
-        },
-        "1586061837": {
-            "l.zeroredirect.com": "INACTIVE"
-        },
         "1586385651": {
             "11163221-517901.c.adprotect.net": "INACTIVE",
             "6.mamaswishes.com": "INACTIVE",
@@ -341,6 +335,10 @@
         "1586422175": {
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
+        },
+        "1586425365": {
+            "l.zeroredirect.com": "INACTIVE",
+            "mail.poker.cm": "INACTIVE"
         }
     }
 }
