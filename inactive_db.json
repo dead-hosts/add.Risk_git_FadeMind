@@ -266,12 +266,6 @@
         "1586061837": {
             "l.zeroredirect.com": "INACTIVE"
         },
-        "1586219368": {
-            "j.zeroredirect.com": "INACTIVE"
-        },
-        "1586222931": {
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1586251392": {
             "k.zeroredirect.com": "INACTIVE",
             "lcbcad.co.uk": "INACTIVE"
@@ -340,6 +334,10 @@
         },
         "1586392086": {
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1586395326": {
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
