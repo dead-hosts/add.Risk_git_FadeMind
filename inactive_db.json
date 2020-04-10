@@ -260,10 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1586405513": {
-            "k.zeroredirect.com": "INACTIVE",
-            "lcbcad.co.uk": "INACTIVE"
-        },
         "1586422175": {
             "liders.biz": "INACTIVE",
             "lilian.redirectme.net": "INACTIVE"
@@ -346,6 +342,10 @@
         },
         "1586486407": {
             "brans.pl": "INACTIVE"
+        },
+        "1586494135": {
+            "k.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE"
         }
     }
 }
