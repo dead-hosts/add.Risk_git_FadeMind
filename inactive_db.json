@@ -260,13 +260,6 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1586392086": {
-            "j.theadsnet.com": "INACTIVE"
-        },
-        "1586395326": {
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1586402039": {
             "apps.clickcash.com": "INACTIVE"
         },
@@ -348,6 +341,11 @@
             "infospace.tk": "INACTIVE",
             "jque.net": "INACTIVE",
             "lefos.net": "INACTIVE"
+        },
+        "1586482408": {
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
