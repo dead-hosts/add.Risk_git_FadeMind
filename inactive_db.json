@@ -271,11 +271,6 @@
         "1586478160": {
             "lefos.net": "INACTIVE"
         },
-        "1586482408": {
-            "j.theadsnet.com": "INACTIVE",
-            "j.zeroredirect.com": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE"
-        },
         "1586486407": {
             "brans.pl": "INACTIVE"
         },
@@ -358,6 +353,11 @@
         },
         "1586566051": {
             "jque.net": "INACTIVE"
+        },
+        "1586570233": {
+            "j.theadsnet.com": "INACTIVE",
+            "j.zeroredirect.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE"
         }
     }
 }
