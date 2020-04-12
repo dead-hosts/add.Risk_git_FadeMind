@@ -80,8 +80,8 @@
         "state": "future"
     },
     "accidentadvicehelpline.co.uk": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1649721600.0,
+        "expiration_date": "12-apr-2022",
         "state": "future"
     },
     "acezsoftware.com": {
@@ -600,8 +600,8 @@
         "state": "future"
     },
     "boostsoftware.com": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "bormis.com": {
@@ -1602,7 +1602,7 @@
     "gamepor.com": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamerevoluton.com": {
         "epoch": "1536710400",
