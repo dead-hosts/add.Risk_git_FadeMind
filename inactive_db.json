@@ -281,9 +281,6 @@
             "j.zeroredirect.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE"
         },
-        "1586747958": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1586770359": {
             "infospace.tk": "INACTIVE"
         },
@@ -355,6 +352,9 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1586841206": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
