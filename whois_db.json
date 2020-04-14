@@ -1342,7 +1342,7 @@
     "enoratraffic.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "epmads.com": {
         "epoch": 1602547200.0,
