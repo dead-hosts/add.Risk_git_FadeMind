@@ -277,11 +277,6 @@
         "1586589405": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1586858821": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "ivitrine.buscape.com": "INACTIVE"
-        },
         "1586858822": {
             "j.theadsnet.com": "INACTIVE",
             "j.zeroredirect.com": "INACTIVE",
@@ -363,6 +358,11 @@
         },
         "1586953232": {
             "infospace.tk": "INACTIVE"
+        },
+        "1586961997": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "ivitrine.buscape.com": "INACTIVE"
         }
     }
 }
