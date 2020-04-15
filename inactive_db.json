@@ -280,7 +280,6 @@
         "1586858821": {
             "i.trkjmp.com": "INACTIVE",
             "i.zeroredirect.com": "INACTIVE",
-            "infospace.tk": "INACTIVE",
             "ivitrine.buscape.com": "INACTIVE"
         },
         "1586858822": {
@@ -361,6 +360,9 @@
         },
         "1586944467": {
             "ka.bar.need2find.com": "INACTIVE"
+        },
+        "1586953232": {
+            "infospace.tk": "INACTIVE"
         }
     }
 }
