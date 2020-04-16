@@ -1220,8 +1220,8 @@
         "state": "future"
     },
     "down1oads.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "downloads-whatsapp.com": {
@@ -1550,13 +1550,13 @@
         "state": "future"
     },
     "frtya.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "frtyb.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "full-edition.info": {
@@ -1622,7 +1622,7 @@
     "gamesharck.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "garudaairlines.com": {
         "epoch": 1698710400.0,
