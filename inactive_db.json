@@ -260,30 +260,9 @@
             "m.zeroredirect.com": "INACTIVE",
             "my-pc-cleaner.org": "INACTIVE"
         },
-        "1586422175": {
-            "liders.biz": "INACTIVE",
-            "lilian.redirectme.net": "INACTIVE"
-        },
         "1586425365": {
             "l.zeroredirect.com": "INACTIVE",
             "mail.poker.cm": "INACTIVE"
-        },
-        "1586478160": {
-            "lefos.net": "INACTIVE"
-        },
-        "1586494135": {
-            "lcbcad.co.uk": "INACTIVE"
-        },
-        "1586589405": {
-            "k.zeroredirect.com": "INACTIVE"
-        },
-        "1587066437": {
-            "999ways.blogspot.co.uk": "INACTIVE"
-        },
-        "1587066441": {
-            "i.trkjmp.com": "INACTIVE",
-            "i.zeroredirect.com": "INACTIVE",
-            "ivitrine.buscape.com": "INACTIVE"
         },
         "1587075952": {
             "fotologaso.miss-web.es": "INACTIVE"
@@ -364,6 +343,15 @@
         },
         "1587129666": {
             "infospace.tk": "INACTIVE"
+        },
+        "1587156668": {
+            "i.trkjmp.com": "INACTIVE",
+            "i.zeroredirect.com": "INACTIVE",
+            "k.zeroredirect.com": "INACTIVE",
+            "lcbcad.co.uk": "INACTIVE",
+            "lefos.net": "INACTIVE",
+            "liders.biz": "INACTIVE",
+            "lilian.redirectme.net": "INACTIVE"
         }
     }
 }
