@@ -277,9 +277,6 @@
         "1586589405": {
             "k.zeroredirect.com": "INACTIVE"
         },
-        "1587026634": {
-            "h.zeroredirect.com": "INACTIVE"
-        },
         "1587039646": {
             "infospace.tk": "INACTIVE"
         },
@@ -364,6 +361,9 @@
             "havijrat.zapto.org": "INACTIVE",
             "hira.hopto.org": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1587120462": {
+            "h.zeroredirect.com": "INACTIVE"
         }
     }
 }
