@@ -1094,6 +1094,13 @@
             "last_retested_at_iso": "2020-04-26T17:10:41.019769",
             "status": "INACTIVE"
         },
+        "m.zeroredirect.com": {
+            "included_at_epoch": 1587927315.69596,
+            "included_at_iso": "2020-04-26T18:55:15.695960",
+            "last_retested_at_epoch": 1587927315.69596,
+            "last_retested_at_iso": "2020-04-26T18:55:15.695960",
+            "status": "INACTIVE"
+        },
         "mail.poker.cm": {
             "included_at_epoch": 1586425365.0,
             "included_at_iso": "2020-04-09T09:42:45",
@@ -1120,6 +1127,13 @@
             "included_at_iso": "2020-04-26T18:12:38.057786",
             "last_retested_at_epoch": 1587924758.057786,
             "last_retested_at_iso": "2020-04-26T18:12:38.057786",
+            "status": "INACTIVE"
+        },
+        "my-pc-cleaner.org": {
+            "included_at_epoch": 1587927315.637976,
+            "included_at_iso": "2020-04-26T18:55:15.637976",
+            "last_retested_at_epoch": 1587927315.637976,
+            "last_retested_at_iso": "2020-04-26T18:55:15.637976",
             "status": "INACTIVE"
         }
     }
