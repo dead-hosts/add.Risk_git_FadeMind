@@ -1027,36 +1027,36 @@
         "j.theadsnet.com": {
             "included_at_epoch": 1587175090.0,
             "included_at_iso": "2020-04-18T01:58:10",
-            "last_retested_at_epoch": 1587175090.0,
-            "last_retested_at_iso": "2020-04-18T01:58:10",
+            "last_retested_at_epoch": 1587919106.930152,
+            "last_retested_at_iso": "2020-04-26T16:38:26.930152",
             "status": "INACTIVE"
         },
         "j.zeroredirect.com": {
             "included_at_epoch": 1587179448.0,
             "included_at_iso": "2020-04-18T03:10:48",
-            "last_retested_at_epoch": 1587179448.0,
-            "last_retested_at_iso": "2020-04-18T03:10:48",
+            "last_retested_at_epoch": 1587919106.944787,
+            "last_retested_at_iso": "2020-04-26T16:38:26.944787",
             "status": "INACTIVE"
         },
         "jque.net": {
             "included_at_epoch": 1587175090.0,
             "included_at_iso": "2020-04-18T01:58:10",
-            "last_retested_at_epoch": 1587175090.0,
-            "last_retested_at_iso": "2020-04-18T01:58:10",
+            "last_retested_at_epoch": 1587919106.899367,
+            "last_retested_at_iso": "2020-04-26T16:38:26.899367",
             "status": "INACTIVE"
         },
         "k.zeroredirect.com": {
             "included_at_epoch": 1587156668.0,
             "included_at_iso": "2020-04-17T20:51:08",
-            "last_retested_at_epoch": 1587156668.0,
-            "last_retested_at_iso": "2020-04-17T20:51:08",
+            "last_retested_at_epoch": 1587919107.054047,
+            "last_retested_at_iso": "2020-04-26T16:38:27.054047",
             "status": "INACTIVE"
         },
         "ka.bar.need2find.com": {
             "included_at_epoch": 1587179448.0,
             "included_at_iso": "2020-04-18T03:10:48",
-            "last_retested_at_epoch": 1587179448.0,
-            "last_retested_at_iso": "2020-04-18T03:10:48",
+            "last_retested_at_epoch": 1587919106.969566,
+            "last_retested_at_iso": "2020-04-26T16:38:26.969566",
             "status": "INACTIVE"
         },
         "l.zeroredirect.com": {
