@@ -1062,43 +1062,43 @@
         "l.zeroredirect.com": {
             "included_at_epoch": 1586425365.0,
             "included_at_iso": "2020-04-09T09:42:45",
-            "last_retested_at_epoch": 1586425365.0,
-            "last_retested_at_iso": "2020-04-09T09:42:45",
+            "last_retested_at_epoch": 1587921041.212649,
+            "last_retested_at_iso": "2020-04-26T17:10:41.212649",
             "status": "INACTIVE"
         },
         "lcbcad.co.uk": {
             "included_at_epoch": 1587156668.0,
             "included_at_iso": "2020-04-17T20:51:08",
-            "last_retested_at_epoch": 1587156668.0,
-            "last_retested_at_iso": "2020-04-17T20:51:08",
+            "last_retested_at_epoch": 1587921040.945206,
+            "last_retested_at_iso": "2020-04-26T17:10:40.945206",
             "status": "INACTIVE"
         },
         "lefos.net": {
             "included_at_epoch": 1587156668.0,
             "included_at_iso": "2020-04-17T20:51:08",
-            "last_retested_at_epoch": 1587156668.0,
-            "last_retested_at_iso": "2020-04-17T20:51:08",
+            "last_retested_at_epoch": 1587921040.968647,
+            "last_retested_at_iso": "2020-04-26T17:10:40.968647",
             "status": "INACTIVE"
         },
         "liders.biz": {
             "included_at_epoch": 1587156668.0,
             "included_at_iso": "2020-04-17T20:51:08",
-            "last_retested_at_epoch": 1587156668.0,
-            "last_retested_at_iso": "2020-04-17T20:51:08",
+            "last_retested_at_epoch": 1587921041.016348,
+            "last_retested_at_iso": "2020-04-26T17:10:41.016348",
             "status": "INACTIVE"
         },
         "lilian.redirectme.net": {
             "included_at_epoch": 1587156668.0,
             "included_at_iso": "2020-04-17T20:51:08",
-            "last_retested_at_epoch": 1587156668.0,
-            "last_retested_at_iso": "2020-04-17T20:51:08",
+            "last_retested_at_epoch": 1587921041.019769,
+            "last_retested_at_iso": "2020-04-26T17:10:41.019769",
             "status": "INACTIVE"
         },
         "mail.poker.cm": {
             "included_at_epoch": 1586425365.0,
             "included_at_iso": "2020-04-09T09:42:45",
-            "last_retested_at_epoch": 1586425365.0,
-            "last_retested_at_iso": "2020-04-09T09:42:45",
+            "last_retested_at_epoch": 1587921041.287266,
+            "last_retested_at_iso": "2020-04-26T17:10:41.287266",
             "status": "INACTIVE"
         }
     }
