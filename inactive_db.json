@@ -1100,6 +1100,27 @@
             "last_retested_at_epoch": 1587921041.287266,
             "last_retested_at_iso": "2020-04-26T17:10:41.287266",
             "status": "INACTIVE"
+        },
+        "mlpoint.pt": {
+            "included_at_epoch": 1587924757.900974,
+            "included_at_iso": "2020-04-26T18:12:37.900974",
+            "last_retested_at_epoch": 1587924757.900974,
+            "last_retested_at_iso": "2020-04-26T18:12:37.900974",
+            "status": "INACTIVE"
+        },
+        "mobile.bitterstrawberry.org": {
+            "included_at_epoch": 1587924757.940541,
+            "included_at_iso": "2020-04-26T18:12:37.940541",
+            "last_retested_at_epoch": 1587924757.940541,
+            "last_retested_at_iso": "2020-04-26T18:12:37.940541",
+            "status": "INACTIVE"
+        },
+        "mrace.hopto.org": {
+            "included_at_epoch": 1587924758.057786,
+            "included_at_iso": "2020-04-26T18:12:38.057786",
+            "last_retested_at_epoch": 1587924758.057786,
+            "last_retested_at_iso": "2020-04-26T18:12:38.057786",
+            "status": "INACTIVE"
         }
     }
 }
