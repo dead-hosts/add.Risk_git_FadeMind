@@ -1153,15 +1153,15 @@
         "mail.poker.cm": {
             "included_at_epoch": 1586425365.0,
             "included_at_iso": "2020-04-09T09:42:45",
-            "last_retested_at_epoch": 1587921041.287266,
-            "last_retested_at_iso": "2020-04-26T17:10:41.287266",
+            "last_retested_at_epoch": 1588020194.891099,
+            "last_retested_at_iso": "2020-04-27T20:43:14.891099",
             "status": "INACTIVE"
         },
         "mlpoint.pt": {
             "included_at_epoch": 1587924757.900974,
             "included_at_iso": "2020-04-26T18:12:37.900974",
-            "last_retested_at_epoch": 1587924757.900974,
-            "last_retested_at_iso": "2020-04-26T18:12:37.900974",
+            "last_retested_at_epoch": 1588020195.140839,
+            "last_retested_at_iso": "2020-04-27T20:43:15.140839",
             "status": "INACTIVE"
         },
         "mobile.bitterstrawberry.org": {
