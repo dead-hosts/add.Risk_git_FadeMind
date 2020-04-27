@@ -1167,15 +1167,22 @@
         "mobile.bitterstrawberry.org": {
             "included_at_epoch": 1587924757.940541,
             "included_at_iso": "2020-04-26T18:12:37.940541",
-            "last_retested_at_epoch": 1587924757.940541,
-            "last_retested_at_iso": "2020-04-26T18:12:37.940541",
+            "last_retested_at_epoch": 1588024653.344392,
+            "last_retested_at_iso": "2020-04-27T21:57:33.344392",
+            "status": "INACTIVE"
+        },
+        "monofeel.com": {
+            "included_at_epoch": 1588024653.417813,
+            "included_at_iso": "2020-04-27T21:57:33.417813",
+            "last_retested_at_epoch": 1588024653.417813,
+            "last_retested_at_iso": "2020-04-27T21:57:33.417813",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
             "included_at_epoch": 1587924758.057786,
             "included_at_iso": "2020-04-26T18:12:38.057786",
-            "last_retested_at_epoch": 1587924758.057786,
-            "last_retested_at_iso": "2020-04-26T18:12:38.057786",
+            "last_retested_at_epoch": 1588024653.459403,
+            "last_retested_at_iso": "2020-04-27T21:57:33.459403",
             "status": "INACTIVE"
         },
         "my-pc-cleaner.org": {
