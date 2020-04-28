@@ -737,6 +737,13 @@
             "last_retested_at_iso": "2020-04-27T16:05:17.836701",
             "status": "INACTIVE"
         },
+        "apps.clickcash.com": {
+            "included_at_epoch": 1588040926.973172,
+            "included_at_iso": "2020-04-28T02:28:46.973172",
+            "last_retested_at_epoch": 1588040926.973172,
+            "last_retested_at_iso": "2020-04-28T02:28:46.973172",
+            "status": "INACTIVE"
+        },
         "arecio.work": {
             "included_at_epoch": 1587192609.0,
             "included_at_iso": "2020-04-18T06:50:09",
@@ -826,13 +833,6 @@
             "included_at_iso": "2020-04-27T16:05:18.527525",
             "last_retested_at_epoch": 1588003518.527525,
             "last_retested_at_iso": "2020-04-27T16:05:18.527525",
-            "status": "INACTIVE"
-        },
-        "cdn.opensubcontent.com": {
-            "included_at_epoch": 1587952167.213544,
-            "included_at_iso": "2020-04-27T01:49:27.213544",
-            "last_retested_at_epoch": 1587952167.213544,
-            "last_retested_at_iso": "2020-04-27T01:49:27.213544",
             "status": "INACTIVE"
         },
         "click.dealshark.com": {
