@@ -926,6 +926,13 @@
             "last_retested_at_iso": "2020-04-27T16:05:19.615692",
             "status": "INACTIVE"
         },
+        "download.grandcloud.cn": {
+            "included_at_epoch": 1588064746.466645,
+            "included_at_iso": "2020-04-28T09:05:46.466645",
+            "last_retested_at_epoch": 1588064746.466645,
+            "last_retested_at_iso": "2020-04-28T09:05:46.466645",
+            "status": "INACTIVE"
+        },
         "e.zeroredirect.com": {
             "included_at_epoch": 1587192611.0,
             "included_at_iso": "2020-04-18T06:50:11",
