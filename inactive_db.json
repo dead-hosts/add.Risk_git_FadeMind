@@ -856,13 +856,6 @@
             "last_retested_at_iso": "2020-04-28T16:16:13.644545",
             "status": "INACTIVE"
         },
-        "demo.vertexinfo.in": {
-            "included_at_epoch": 1588011821.562381,
-            "included_at_iso": "2020-04-27T18:23:41.562381",
-            "last_retested_at_epoch": 1588011821.562381,
-            "last_retested_at_iso": "2020-04-27T18:23:41.562381",
-            "status": "INACTIVE"
-        },
         "dl.heima8.com": {
             "included_at_epoch": 1588090573.407289,
             "included_at_iso": "2020-04-28T16:16:13.407289",
@@ -1027,43 +1020,43 @@
         "i.trkjmp.com": {
             "included_at_epoch": 1587156668.0,
             "included_at_iso": "2020-04-17T20:51:08",
-            "last_retested_at_epoch": 1588011823.371656,
-            "last_retested_at_iso": "2020-04-27T18:23:43.371656",
+            "last_retested_at_epoch": 1588099011.498241,
+            "last_retested_at_iso": "2020-04-28T18:36:51.498241",
             "status": "INACTIVE"
         },
         "i.zeroredirect.com": {
             "included_at_epoch": 1587156668.0,
             "included_at_iso": "2020-04-17T20:51:08",
-            "last_retested_at_epoch": 1588011823.416913,
-            "last_retested_at_iso": "2020-04-27T18:23:43.416913",
+            "last_retested_at_epoch": 1588099011.532161,
+            "last_retested_at_iso": "2020-04-28T18:36:51.532161",
             "status": "INACTIVE"
         },
         "infospace.tk": {
             "included_at_epoch": 1587129666.0,
             "included_at_iso": "2020-04-17T13:21:06",
-            "last_retested_at_epoch": 1588011823.266887,
-            "last_retested_at_iso": "2020-04-27T18:23:43.266887",
+            "last_retested_at_epoch": 1588099011.393479,
+            "last_retested_at_iso": "2020-04-28T18:36:51.393479",
             "status": "INACTIVE"
         },
         "j.theadsnet.com": {
             "included_at_epoch": 1587175090.0,
             "included_at_iso": "2020-04-18T01:58:10",
-            "last_retested_at_epoch": 1588011823.582395,
-            "last_retested_at_iso": "2020-04-27T18:23:43.582395",
+            "last_retested_at_epoch": 1588099011.689645,
+            "last_retested_at_iso": "2020-04-28T18:36:51.689645",
             "status": "INACTIVE"
         },
         "j.zeroredirect.com": {
             "included_at_epoch": 1587179448.0,
             "included_at_iso": "2020-04-18T03:10:48",
-            "last_retested_at_epoch": 1588011823.598839,
-            "last_retested_at_iso": "2020-04-27T18:23:43.598839",
+            "last_retested_at_epoch": 1588099011.704103,
+            "last_retested_at_iso": "2020-04-28T18:36:51.704103",
             "status": "INACTIVE"
         },
         "jque.net": {
             "included_at_epoch": 1587175090.0,
             "included_at_iso": "2020-04-18T01:58:10",
-            "last_retested_at_epoch": 1588011823.544579,
-            "last_retested_at_iso": "2020-04-27T18:23:43.544579",
+            "last_retested_at_epoch": 1588099011.65646,
+            "last_retested_at_iso": "2020-04-28T18:36:51.656460",
             "status": "INACTIVE"
         },
         "k.zeroredirect.com": {
@@ -1076,8 +1069,8 @@
         "ka.bar.need2find.com": {
             "included_at_epoch": 1587179448.0,
             "included_at_iso": "2020-04-18T03:10:48",
-            "last_retested_at_epoch": 1588011823.612205,
-            "last_retested_at_iso": "2020-04-27T18:23:43.612205",
+            "last_retested_at_epoch": 1588099011.716054,
+            "last_retested_at_iso": "2020-04-28T18:36:51.716054",
             "status": "INACTIVE"
         },
         "l.zeroredirect.com": {
