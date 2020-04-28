@@ -961,13 +961,6 @@
             "last_retested_at_iso": "2020-04-27T17:14:25.967787",
             "status": "INACTIVE"
         },
-        "freevideo.biz.nf": {
-            "included_at_epoch": 1587967398.47618,
-            "included_at_iso": "2020-04-27T06:03:18.476180",
-            "last_retested_at_epoch": 1587967398.47618,
-            "last_retested_at_iso": "2020-04-27T06:03:18.476180",
-            "status": "INACTIVE"
-        },
         "ftp.flyfishusa.com": {
             "included_at_epoch": 1587196953.0,
             "included_at_iso": "2020-04-18T08:02:33",
