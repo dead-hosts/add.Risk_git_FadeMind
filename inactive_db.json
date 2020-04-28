@@ -877,13 +877,6 @@
             "last_retested_at_iso": "2020-04-27T16:05:19.148507",
             "status": "INACTIVE"
         },
-        "crackguru.tk": {
-            "included_at_epoch": 1587963356.021919,
-            "included_at_iso": "2020-04-27T04:55:56.021919",
-            "last_retested_at_epoch": 1587963356.021919,
-            "last_retested_at_iso": "2020-04-27T04:55:56.021919",
-            "status": "INACTIVE"
-        },
         "d.zeroredirect.com": {
             "included_at_epoch": 1587192610.0,
             "included_at_iso": "2020-04-18T06:50:10",
