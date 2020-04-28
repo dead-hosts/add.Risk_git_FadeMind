@@ -1132,8 +1132,8 @@
         "mobile.bitterstrawberry.org": {
             "included_at_epoch": 1587924757.940541,
             "included_at_iso": "2020-04-26T18:12:37.940541",
-            "last_retested_at_epoch": 1588024653.344392,
-            "last_retested_at_iso": "2020-04-27T21:57:33.344392",
+            "last_retested_at_epoch": 1588115854.140568,
+            "last_retested_at_iso": "2020-04-28T23:17:34.140568",
             "status": "INACTIVE"
         },
         "monofeel.com": {
