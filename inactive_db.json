@@ -1139,22 +1139,22 @@
         "monofeel.com": {
             "included_at_epoch": 1588024653.417813,
             "included_at_iso": "2020-04-27T21:57:33.417813",
-            "last_retested_at_epoch": 1588024653.417813,
-            "last_retested_at_iso": "2020-04-27T21:57:33.417813",
+            "last_retested_at_epoch": 1588119791.849858,
+            "last_retested_at_iso": "2020-04-29T00:23:11.849858",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
             "included_at_epoch": 1587924758.057786,
             "included_at_iso": "2020-04-26T18:12:38.057786",
-            "last_retested_at_epoch": 1588024653.459403,
-            "last_retested_at_iso": "2020-04-27T21:57:33.459403",
+            "last_retested_at_epoch": 1588119791.89013,
+            "last_retested_at_iso": "2020-04-29T00:23:11.890130",
             "status": "INACTIVE"
         },
         "my-pc-cleaner.org": {
             "included_at_epoch": 1587927315.637976,
             "included_at_iso": "2020-04-26T18:55:15.637976",
-            "last_retested_at_epoch": 1587927315.637976,
-            "last_retested_at_iso": "2020-04-26T18:55:15.637976",
+            "last_retested_at_epoch": 1588119791.964095,
+            "last_retested_at_iso": "2020-04-29T00:23:11.964095",
             "status": "INACTIVE"
         },
         "noredirecto.redirectme.net": {
