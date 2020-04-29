@@ -653,6 +653,13 @@
             "last_retested_at_iso": "2020-04-28T16:16:11.081858",
             "status": "INACTIVE"
         },
+        "4.collecorvino.org": {
+            "included_at_epoch": 1588139631.015585,
+            "included_at_iso": "2020-04-29T05:53:51.015585",
+            "last_retested_at_epoch": 1588139631.015585,
+            "last_retested_at_iso": "2020-04-29T05:53:51.015585",
+            "status": "INACTIVE"
+        },
         "6.mamaswishes.com": {
             "included_at_epoch": 1587192608.0,
             "included_at_iso": "2020-04-18T06:50:08",
@@ -1111,8 +1118,8 @@
         "m.zeroredirect.com": {
             "included_at_epoch": 1587927315.69596,
             "included_at_iso": "2020-04-26T18:55:15.695960",
-            "last_retested_at_epoch": 1587927315.69596,
-            "last_retested_at_iso": "2020-04-26T18:55:15.695960",
+            "last_retested_at_epoch": 1588139635.879586,
+            "last_retested_at_iso": "2020-04-29T05:53:55.879586",
             "status": "INACTIVE"
         },
         "mail.poker.cm": {
