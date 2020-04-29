@@ -1129,6 +1129,13 @@
             "last_retested_at_iso": "2020-04-28T21:07:14.437972",
             "status": "INACTIVE"
         },
+        "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
+            "included_at_epoch": 1588147321.440106,
+            "included_at_iso": "2020-04-29T08:02:01.440106",
+            "last_retested_at_epoch": 1588147321.440106,
+            "last_retested_at_iso": "2020-04-29T08:02:01.440106",
+            "status": "INACTIVE"
+        },
         "marketing-internet-solution.naix.pureleads.sendori.com": {
             "included_at_epoch": 1588143528.293431,
             "included_at_iso": "2020-04-29T06:58:48.293431",
