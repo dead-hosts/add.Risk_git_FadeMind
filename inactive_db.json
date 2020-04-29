@@ -954,6 +954,13 @@
             "last_retested_at_iso": "2020-04-28T17:26:59.110425",
             "status": "INACTIVE"
         },
+        "goldbye.vicp.net": {
+            "included_at_epoch": 1588172667.51317,
+            "included_at_iso": "2020-04-29T15:04:27.513170",
+            "last_retested_at_epoch": 1588172667.51317,
+            "last_retested_at_iso": "2020-04-29T15:04:27.513170",
+            "status": "INACTIVE"
+        },
         "h.zeroredirect.com": {
             "included_at_epoch": 1587210635.0,
             "included_at_iso": "2020-04-18T11:50:35",
