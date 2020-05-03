@@ -45,8 +45,8 @@
         "state": "future"
     },
     "39dvd-999.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "77search.com": {
@@ -325,8 +325,8 @@
         "state": "future"
     },
     "antalya.ru": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "anticlown.com": {
@@ -1380,8 +1380,8 @@
         "state": "future"
     },
     "exactadvertising.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "exacttarget.com": {
@@ -1502,7 +1502,7 @@
     "forex-instruments.info": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "formessengers.com": {
         "epoch": 1588550400.0,
