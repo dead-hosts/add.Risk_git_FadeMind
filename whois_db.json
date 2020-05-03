@@ -3200,9 +3200,9 @@
         "state": "future"
     },
     "ratemodels.net": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "rd-direct.com": {
         "epoch": 1604966400.0,
@@ -3285,8 +3285,8 @@
         "state": "future"
     },
     "registryfix.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "registrysweeper.com": {
@@ -3805,9 +3805,9 @@
         "state": "future"
     },
     "swingingcommunity.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "sylicomservicios.com": {
         "epoch": 1614556800.0,
