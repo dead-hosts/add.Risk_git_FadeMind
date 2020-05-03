@@ -730,6 +730,13 @@
             "last_retested_at_iso": "2020-05-03T13:51:57.894926",
             "status": "INACTIVE"
         },
+        "apps.clickcash.com": {
+            "included_at_epoch": 1588544868.784237,
+            "included_at_iso": "2020-05-03T22:27:48.784237",
+            "last_retested_at_epoch": 1588544868.784237,
+            "last_retested_at_iso": "2020-05-03T22:27:48.784237",
+            "status": "INACTIVE"
+        },
         "arecio.work": {
             "included_at_epoch": 1587192609.0,
             "included_at_iso": "2020-04-18T06:50:09",
