@@ -1444,6 +1444,13 @@
             "last_retested_at_iso": "2020-05-03T14:52:02.288529",
             "status": "INACTIVE"
         },
+        "www.clickcash.com": {
+            "included_at_epoch": 1588549012.159859,
+            "included_at_iso": "2020-05-03T23:36:52.159859",
+            "last_retested_at_epoch": 1588549012.159859,
+            "last_retested_at_iso": "2020-05-03T23:36:52.159859",
+            "status": "INACTIVE"
+        },
         "www.collectiable.com": {
             "included_at_epoch": 1588355554.115984,
             "included_at_iso": "2020-05-01T17:52:34.115984",
@@ -1652,6 +1659,13 @@
             "included_at_iso": "2020-05-01T18:42:55.394722",
             "last_retested_at_epoch": 1588517523.130954,
             "last_retested_at_iso": "2020-05-03T14:52:03.130954",
+            "status": "INACTIVE"
+        },
+        "www.onlinedownloads.org": {
+            "included_at_epoch": 1588549012.825847,
+            "included_at_iso": "2020-05-03T23:36:52.825847",
+            "last_retested_at_epoch": 1588549012.825847,
+            "last_retested_at_iso": "2020-05-03T23:36:52.825847",
             "status": "INACTIVE"
         },
         "www.paypal-exchange.com": {
