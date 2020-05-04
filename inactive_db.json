@@ -2018,6 +2018,13 @@
             "last_retested_at_iso": "2020-05-03T15:10:54.739363",
             "status": "INACTIVE"
         },
+        "ycv.clearshieldredirect.com": {
+            "included_at_epoch": 1588551103.529551,
+            "included_at_iso": "2020-05-04T00:11:43.529551",
+            "last_retested_at_epoch": 1588551103.529551,
+            "last_retested_at_iso": "2020-05-04T00:11:43.529551",
+            "status": "INACTIVE"
+        },
         "yk.handlerhackz.tk": {
             "included_at_epoch": 1588358576.645073,
             "included_at_iso": "2020-05-01T18:42:56.645073",
