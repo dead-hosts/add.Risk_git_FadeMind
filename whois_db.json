@@ -1500,13 +1500,13 @@
         "state": "future"
     },
     "forex-instruments.info": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "formessengers.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "fpcclicks.com": {
@@ -2347,7 +2347,7 @@
     "lottoga.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lufhansa.com": {
         "epoch": 1607558400.0,
