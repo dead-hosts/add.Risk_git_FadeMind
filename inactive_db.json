@@ -1892,11 +1892,25 @@
             "last_retested_at_iso": "2020-05-12T14:43:51.783978",
             "status": "INACTIVE"
         },
+        "www.wmserver.net": {
+            "included_at_epoch": 1589375539.206804,
+            "included_at_iso": "2020-05-13T13:12:19.206804",
+            "last_retested_at_epoch": 1589375539.206804,
+            "last_retested_at_iso": "2020-05-13T13:12:19.206804",
+            "status": "INACTIVE"
+        },
         "www.wwfsable.com": {
             "included_at_epoch": 1588358576.219084,
             "included_at_iso": "2020-05-01T18:42:56.219084",
             "last_retested_at_epoch": 1589294631.864291,
             "last_retested_at_iso": "2020-05-12T14:43:51.864291",
+            "status": "INACTIVE"
+        },
+        "www.wwwadultcheck.com": {
+            "included_at_epoch": 1589375539.221035,
+            "included_at_iso": "2020-05-13T13:12:19.221035",
+            "last_retested_at_epoch": 1589375539.221035,
+            "last_retested_at_iso": "2020-05-13T13:12:19.221035",
             "status": "INACTIVE"
         },
         "www.wwwbackstreetboys.com": {
@@ -1911,6 +1925,13 @@
             "included_at_iso": "2020-05-01T18:42:56.246256",
             "last_retested_at_epoch": 1589294631.886134,
             "last_retested_at_iso": "2020-05-12T14:43:51.886134",
+            "status": "INACTIVE"
+        },
+        "www.wwwcallwave.com": {
+            "included_at_epoch": 1589375539.240278,
+            "included_at_iso": "2020-05-13T13:12:19.240278",
+            "last_retested_at_epoch": 1589375539.240278,
+            "last_retested_at_iso": "2020-05-13T13:12:19.240278",
             "status": "INACTIVE"
         },
         "www.wwwcheaptickets.com": {
