@@ -1766,6 +1766,13 @@
             "last_retested_at_iso": "2020-05-16T14:49:07.239577",
             "status": "INACTIVE"
         },
+        "www.pillsmoney.com": {
+            "included_at_epoch": 1589715113.799897,
+            "included_at_iso": "2020-05-17T11:31:53.799897",
+            "last_retested_at_epoch": 1589715113.799897,
+            "last_retested_at_iso": "2020-05-17T11:31:53.799897",
+            "status": "INACTIVE"
+        },
         "www.playsataion.com": {
             "included_at_epoch": 1588358575.461512,
             "included_at_iso": "2020-05-01T18:42:55.461512",
