@@ -1269,6 +1269,13 @@
             "last_retested_at_iso": "2020-05-16T14:14:10.594702",
             "status": "INACTIVE"
         },
+        "promo.clickcash.com": {
+            "included_at_epoch": 1589712877.210903,
+            "included_at_iso": "2020-05-17T10:54:37.210903",
+            "last_retested_at_epoch": 1589712877.210903,
+            "last_retested_at_iso": "2020-05-17T10:54:37.210903",
+            "status": "INACTIVE"
+        },
         "q.zeroredirect.com": {
             "included_at_epoch": 1588352003.36943,
             "included_at_iso": "2020-05-01T16:53:23.369430",
