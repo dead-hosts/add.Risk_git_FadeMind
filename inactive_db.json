@@ -1941,6 +1941,13 @@
             "last_retested_at_iso": "2020-05-16T14:49:08.106271",
             "status": "INACTIVE"
         },
+        "www.wwwservicemerchandise.com": {
+            "included_at_epoch": 1589716040.38615,
+            "included_at_iso": "2020-05-17T11:47:20.386150",
+            "last_retested_at_epoch": 1589716040.38615,
+            "last_retested_at_iso": "2020-05-17T11:47:20.386150",
+            "status": "INACTIVE"
+        },
         "www.wwwuproar.com": {
             "included_at_epoch": 1588358576.310944,
             "included_at_iso": "2020-05-01T18:42:56.310944",
