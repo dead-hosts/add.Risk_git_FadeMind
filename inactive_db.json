@@ -828,6 +828,13 @@
             "last_retested_at_iso": "2020-05-22T10:36:12.063227",
             "status": "INACTIVE"
         },
+        "clickcash.webpower.com": {
+            "included_at_epoch": 1590229054.623511,
+            "included_at_iso": "2020-05-23T10:17:34.623511",
+            "last_retested_at_epoch": 1590229054.623511,
+            "last_retested_at_iso": "2020-05-23T10:17:34.623511",
+            "status": "INACTIVE"
+        },
         "coding.1100011.ir": {
             "included_at_epoch": 1589637737.031082,
             "included_at_iso": "2020-05-16T14:02:17.031082",
@@ -847,6 +854,13 @@
             "included_at_iso": "2020-05-16T14:02:17.095293",
             "last_retested_at_epoch": 1590143772.237879,
             "last_retested_at_iso": "2020-05-22T10:36:12.237879",
+            "status": "INACTIVE"
+        },
+        "d.tds.adlabs.ru": {
+            "included_at_epoch": 1590229055.369069,
+            "included_at_iso": "2020-05-23T10:17:35.369069",
+            "last_retested_at_epoch": 1590229055.369069,
+            "last_retested_at_iso": "2020-05-23T10:17:35.369069",
             "status": "INACTIVE"
         },
         "d.zeroredirect.com": {
