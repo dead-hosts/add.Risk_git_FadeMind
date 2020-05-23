@@ -712,8 +712,8 @@
         "alibabaslots.com": {
             "included_at_epoch": 1589637735.670897,
             "included_at_iso": "2020-05-16T14:02:15.670897",
-            "last_retested_at_epoch": 1590143770.833422,
-            "last_retested_at_iso": "2020-05-22T10:36:10.833422",
+            "last_retested_at_epoch": 1590230490.795284,
+            "last_retested_at_iso": "2020-05-23T10:41:30.795284",
             "status": "INACTIVE"
         },
         "amazing-offers.co.il": {
@@ -824,8 +824,8 @@
         "click.dealshark.com": {
             "included_at_epoch": 1589637736.906119,
             "included_at_iso": "2020-05-16T14:02:16.906119",
-            "last_retested_at_epoch": 1590143772.063227,
-            "last_retested_at_iso": "2020-05-22T10:36:12.063227",
+            "last_retested_at_epoch": 1590230490.802367,
+            "last_retested_at_iso": "2020-05-23T10:41:30.802367",
             "status": "INACTIVE"
         },
         "clickcash.webpower.com": {
@@ -1752,6 +1752,13 @@
             "last_retested_at_iso": "2020-05-22T12:37:19.634661",
             "status": "INACTIVE"
         },
+        "www.qzip.cjb.net": {
+            "included_at_epoch": 1590230471.629927,
+            "included_at_iso": "2020-05-23T10:41:11.629927",
+            "last_retested_at_epoch": 1590230471.629927,
+            "last_retested_at_iso": "2020-05-23T10:41:11.629927",
+            "status": "INACTIVE"
+        },
         "www.registry-cleaner.net": {
             "included_at_epoch": 1588358575.589967,
             "included_at_iso": "2020-05-01T18:42:55.589967",
@@ -1848,6 +1855,13 @@
             "included_at_iso": "2020-05-01T18:42:56.071044",
             "last_retested_at_epoch": 1590152504.466061,
             "last_retested_at_iso": "2020-05-22T13:01:44.466061",
+            "status": "INACTIVE"
+        },
+        "www.uprour.com": {
+            "included_at_epoch": 1590230472.061571,
+            "included_at_iso": "2020-05-23T10:41:12.061571",
+            "last_retested_at_epoch": 1590230472.061571,
+            "last_retested_at_iso": "2020-05-23T10:41:12.061571",
             "status": "INACTIVE"
         },
         "www.wmserver.net": {
