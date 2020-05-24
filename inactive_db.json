@@ -1755,8 +1755,8 @@
         "www.qzip.cjb.net": {
             "included_at_epoch": 1590230471.629927,
             "included_at_iso": "2020-05-23T10:41:11.629927",
-            "last_retested_at_epoch": 1590230471.629927,
-            "last_retested_at_iso": "2020-05-23T10:41:11.629927",
+            "last_retested_at_epoch": 1590363358.483428,
+            "last_retested_at_iso": "2020-05-24T23:35:58.483428",
             "status": "INACTIVE"
         },
         "www.registry-cleaner.net": {
@@ -1860,8 +1860,8 @@
         "www.uprour.com": {
             "included_at_epoch": 1590230472.061571,
             "included_at_iso": "2020-05-23T10:41:12.061571",
-            "last_retested_at_epoch": 1590230472.061571,
-            "last_retested_at_iso": "2020-05-23T10:41:12.061571",
+            "last_retested_at_epoch": 1590363358.954081,
+            "last_retested_at_iso": "2020-05-24T23:35:58.954081",
             "status": "INACTIVE"
         },
         "www.wmserver.net": {
