@@ -1556,6 +1556,13 @@
             "last_retested_at_iso": "2020-05-29T14:48:11.450425",
             "status": "INACTIVE"
         },
+        "www.dollarrentcar.com": {
+            "included_at_epoch": 1590838865.536832,
+            "included_at_iso": "2020-05-30T11:41:05.536832",
+            "last_retested_at_epoch": 1590838865.536832,
+            "last_retested_at_iso": "2020-05-30T11:41:05.536832",
+            "status": "INACTIVE"
+        },
         "www.egoldenglove.com": {
             "included_at_epoch": 1590796544.267167,
             "included_at_iso": "2020-05-29T23:55:44.267167",
@@ -1647,6 +1654,27 @@
             "last_retested_at_iso": "2020-05-29T23:55:44.636561",
             "status": "INACTIVE"
         },
+        "www.jcwhiney.com": {
+            "included_at_epoch": 1590838865.89428,
+            "included_at_iso": "2020-05-30T11:41:05.894280",
+            "last_retested_at_epoch": 1590838865.89428,
+            "last_retested_at_iso": "2020-05-30T11:41:05.894280",
+            "status": "INACTIVE"
+        },
+        "www.jcwhintey.com": {
+            "included_at_epoch": 1590838865.88813,
+            "included_at_iso": "2020-05-30T11:41:05.888130",
+            "last_retested_at_epoch": 1590838865.88813,
+            "last_retested_at_iso": "2020-05-30T11:41:05.888130",
+            "status": "INACTIVE"
+        },
+        "www.jcwhitey.com": {
+            "included_at_epoch": 1590838865.90284,
+            "included_at_iso": "2020-05-30T11:41:05.902840",
+            "last_retested_at_epoch": 1590838865.90284,
+            "last_retested_at_iso": "2020-05-30T11:41:05.902840",
+            "status": "INACTIVE"
+        },
         "www.jque.net": {
             "included_at_epoch": 1590796544.668516,
             "included_at_iso": "2020-05-29T23:55:44.668516",
@@ -1694,6 +1722,13 @@
             "included_at_iso": "2020-05-29T23:55:44.786058",
             "last_retested_at_epoch": 1590796544.786058,
             "last_retested_at_iso": "2020-05-29T23:55:44.786058",
+            "status": "INACTIVE"
+        },
+        "www.m1crosoft.com": {
+            "included_at_epoch": 1590838865.996487,
+            "included_at_iso": "2020-05-30T11:41:05.996487",
+            "last_retested_at_epoch": 1590838865.996487,
+            "last_retested_at_iso": "2020-05-30T11:41:05.996487",
             "status": "INACTIVE"
         },
         "www.maconbraves.com": {
@@ -1927,6 +1962,13 @@
             "last_retested_at_iso": "2020-05-30T00:38:33.063315",
             "status": "INACTIVE"
         },
+        "www.wwwadultcheck.com": {
+            "included_at_epoch": 1590838866.770688,
+            "included_at_iso": "2020-05-30T11:41:06.770688",
+            "last_retested_at_epoch": 1590838866.770688,
+            "last_retested_at_iso": "2020-05-30T11:41:06.770688",
+            "status": "INACTIVE"
+        },
         "www.wwwbackstreetboys.com": {
             "included_at_epoch": 1590799113.081261,
             "included_at_iso": "2020-05-30T00:38:33.081261",
@@ -1948,6 +1990,13 @@
             "last_retested_at_iso": "2020-05-30T00:38:33.106215",
             "status": "INACTIVE"
         },
+        "www.wwwdollar.com": {
+            "included_at_epoch": 1590838866.794311,
+            "included_at_iso": "2020-05-30T11:41:06.794311",
+            "last_retested_at_epoch": 1590838866.794311,
+            "last_retested_at_iso": "2020-05-30T11:41:06.794311",
+            "status": "INACTIVE"
+        },
         "www.wwwgameshark.com": {
             "included_at_epoch": 1590799113.117595,
             "included_at_iso": "2020-05-30T00:38:33.117595",
@@ -1960,6 +2009,13 @@
             "included_at_iso": "2020-05-29T15:05:49.938224",
             "last_retested_at_epoch": 1590764749.938224,
             "last_retested_at_iso": "2020-05-29T15:05:49.938224",
+            "status": "INACTIVE"
+        },
+        "www.wwwservicemerchandise.com": {
+            "included_at_epoch": 1590838866.813233,
+            "included_at_iso": "2020-05-30T11:41:06.813233",
+            "last_retested_at_epoch": 1590838866.813233,
+            "last_retested_at_iso": "2020-05-30T11:41:06.813233",
             "status": "INACTIVE"
         },
         "www.wwwuproar.com": {
