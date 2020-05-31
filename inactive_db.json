@@ -709,6 +709,13 @@
             "last_retested_at_iso": "2020-05-31T10:33:23.867548",
             "status": "INACTIVE"
         },
+        "aitsngnuu.angelcities.com": {
+            "included_at_epoch": 1590964571.224797,
+            "included_at_iso": "2020-05-31T22:36:11.224797",
+            "last_retested_at_epoch": 1590964571.224797,
+            "last_retested_at_iso": "2020-05-31T22:36:11.224797",
+            "status": "INACTIVE"
+        },
         "alibabaslots.com": {
             "included_at_epoch": 1589637735.670897,
             "included_at_iso": "2020-05-16T14:02:15.670897",
@@ -793,6 +800,13 @@
             "last_retested_at_iso": "2020-05-31T10:33:24.617137",
             "status": "INACTIVE"
         },
+        "bseaqmi.angelcities.com": {
+            "included_at_epoch": 1590964572.008757,
+            "included_at_iso": "2020-05-31T22:36:12.008757",
+            "last_retested_at_epoch": 1590964572.008757,
+            "last_retested_at_iso": "2020-05-31T22:36:12.008757",
+            "status": "INACTIVE"
+        },
         "c.zeroredirect.com": {
             "included_at_epoch": 1589637737.33586,
             "included_at_iso": "2020-05-16T14:02:17.335860",
@@ -814,6 +828,13 @@
             "last_retested_at_iso": "2020-05-31T10:33:25.228999",
             "status": "INACTIVE"
         },
+        "clickcash.webpower.com": {
+            "included_at_epoch": 1590964572.51273,
+            "included_at_iso": "2020-05-31T22:36:12.512730",
+            "last_retested_at_epoch": 1590964572.51273,
+            "last_retested_at_iso": "2020-05-31T22:36:12.512730",
+            "status": "INACTIVE"
+        },
         "coding.1100011.ir": {
             "included_at_epoch": 1589637737.031082,
             "included_at_iso": "2020-05-16T14:02:17.031082",
@@ -833,6 +854,13 @@
             "included_at_iso": "2020-05-16T14:02:17.095293",
             "last_retested_at_epoch": 1590921205.43115,
             "last_retested_at_iso": "2020-05-31T10:33:25.431150",
+            "status": "INACTIVE"
+        },
+        "cuoujvfi.angelcities.com": {
+            "included_at_epoch": 1590964572.892695,
+            "included_at_iso": "2020-05-31T22:36:12.892695",
+            "last_retested_at_epoch": 1590964572.892695,
+            "last_retested_at_iso": "2020-05-31T22:36:12.892695",
             "status": "INACTIVE"
         },
         "d.tds.adlabs.ru": {
@@ -870,6 +898,13 @@
             "last_retested_at_iso": "2020-05-31T10:33:25.814435",
             "status": "INACTIVE"
         },
+        "dqxaszsk.angelcities.com": {
+            "included_at_epoch": 1590964573.209303,
+            "included_at_iso": "2020-05-31T22:36:13.209303",
+            "last_retested_at_epoch": 1590964573.209303,
+            "last_retested_at_iso": "2020-05-31T22:36:13.209303",
+            "status": "INACTIVE"
+        },
         "e.zeroredirect.com": {
             "included_at_epoch": 1589638447.500984,
             "included_at_iso": "2020-05-16T14:14:07.500984",
@@ -898,11 +933,25 @@
             "last_retested_at_iso": "2020-05-31T10:33:26.377218",
             "status": "INACTIVE"
         },
+        "ficcionaliza.angelcities.com": {
+            "included_at_epoch": 1590964573.633325,
+            "included_at_iso": "2020-05-31T22:36:13.633325",
+            "last_retested_at_epoch": 1590964573.633325,
+            "last_retested_at_iso": "2020-05-31T22:36:13.633325",
+            "status": "INACTIVE"
+        },
         "finders.hopto.org": {
             "included_at_epoch": 1589638447.615498,
             "included_at_iso": "2020-05-16T14:14:07.615498",
             "last_retested_at_epoch": 1590921206.43087,
             "last_retested_at_iso": "2020-05-31T10:33:26.430870",
+            "status": "INACTIVE"
+        },
+        "fkooaee.angelcities.com": {
+            "included_at_epoch": 1590964573.682243,
+            "included_at_iso": "2020-05-31T22:36:13.682243",
+            "last_retested_at_epoch": 1590964573.682243,
+            "last_retested_at_iso": "2020-05-31T22:36:13.682243",
             "status": "INACTIVE"
         },
         "ftp.flyfishusa.com": {
@@ -1988,13 +2037,6 @@
             "included_at_iso": "2020-05-30T00:38:33.195377",
             "last_retested_at_epoch": 1590929443.35119,
             "last_retested_at_iso": "2020-05-31T12:50:43.351190",
-            "status": "INACTIVE"
-        },
-        "www.zoogdiseny.com": {
-            "included_at_epoch": 1588518654.46158,
-            "included_at_iso": "2020-05-03T15:10:54.461580",
-            "last_retested_at_epoch": 1590929443.383439,
-            "last_retested_at_iso": "2020-05-31T12:50:43.383439",
             "status": "INACTIVE"
         },
         "www.zoogdisny.com": {
