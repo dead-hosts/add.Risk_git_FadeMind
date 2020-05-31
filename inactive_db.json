@@ -1465,6 +1465,27 @@
             "last_retested_at_iso": "2020-05-31T11:44:13.539430",
             "status": "INACTIVE"
         },
+        "ualumphuoldi.angelcities.com": {
+            "included_at_epoch": 1590968319.046003,
+            "included_at_iso": "2020-05-31T23:38:39.046003",
+            "last_retested_at_epoch": 1590968319.046003,
+            "last_retested_at_iso": "2020-05-31T23:38:39.046003",
+            "status": "INACTIVE"
+        },
+        "uoaofgqu.angelcities.com": {
+            "included_at_epoch": 1590968319.101297,
+            "included_at_iso": "2020-05-31T23:38:39.101297",
+            "last_retested_at_epoch": 1590968319.101297,
+            "last_retested_at_iso": "2020-05-31T23:38:39.101297",
+            "status": "INACTIVE"
+        },
+        "uojamcse.angelcities.com": {
+            "included_at_epoch": 1590968319.107023,
+            "included_at_iso": "2020-05-31T23:38:39.107023",
+            "last_retested_at_epoch": 1590968319.107023,
+            "last_retested_at_iso": "2020-05-31T23:38:39.107023",
+            "status": "INACTIVE"
+        },
         "urchman11.zapto.org": {
             "included_at_epoch": 1590794454.88862,
             "included_at_iso": "2020-05-29T23:20:54.888620",
@@ -1547,6 +1568,13 @@
             "included_at_iso": "2020-05-29T23:55:43.909811",
             "last_retested_at_epoch": 1590927532.58886,
             "last_retested_at_iso": "2020-05-31T12:18:52.588860",
+            "status": "INACTIVE"
+        },
+        "www.cabeles.com": {
+            "included_at_epoch": 1590968319.840852,
+            "included_at_iso": "2020-05-31T23:38:39.840852",
+            "last_retested_at_epoch": 1590968319.840852,
+            "last_retested_at_iso": "2020-05-31T23:38:39.840852",
             "status": "INACTIVE"
         },
         "www.cecash.com": {
