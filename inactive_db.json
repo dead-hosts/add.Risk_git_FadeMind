@@ -1080,6 +1080,13 @@
             "last_retested_at_iso": "2020-05-31T11:09:03.387490",
             "status": "INACTIVE"
         },
+        "jzrvquay.angelcities.com": {
+            "included_at_epoch": 1590966442.115471,
+            "included_at_iso": "2020-05-31T23:07:22.115471",
+            "last_retested_at_epoch": 1590966442.115471,
+            "last_retested_at_iso": "2020-05-31T23:07:22.115471",
+            "status": "INACTIVE"
+        },
         "k.zeroredirect.com": {
             "included_at_epoch": 1589638449.046779,
             "included_at_iso": "2020-05-16T14:14:09.046779",
@@ -1092,6 +1099,20 @@
             "included_at_iso": "2020-05-16T14:14:08.949671",
             "last_retested_at_epoch": 1590923343.45965,
             "last_retested_at_iso": "2020-05-31T11:09:03.459650",
+            "status": "INACTIVE"
+        },
+        "kosdyvore.angelcities.com": {
+            "included_at_epoch": 1590966442.206198,
+            "included_at_iso": "2020-05-31T23:07:22.206198",
+            "last_retested_at_epoch": 1590966442.206198,
+            "last_retested_at_iso": "2020-05-31T23:07:22.206198",
+            "status": "INACTIVE"
+        },
+        "kvvijrmu.angelcities.com": {
+            "included_at_epoch": 1590966442.213844,
+            "included_at_iso": "2020-05-31T23:07:22.213844",
+            "last_retested_at_epoch": 1590966442.213844,
+            "last_retested_at_iso": "2020-05-31T23:07:22.213844",
             "status": "INACTIVE"
         },
         "l.zeroredirect.com": {
@@ -1136,6 +1157,20 @@
             "last_retested_at_iso": "2020-05-31T11:09:03.683262",
             "status": "INACTIVE"
         },
+        "llaredlrgn.angelcities.com": {
+            "included_at_epoch": 1590966442.414876,
+            "included_at_iso": "2020-05-31T23:07:22.414876",
+            "last_retested_at_epoch": 1590966442.414876,
+            "last_retested_at_iso": "2020-05-31T23:07:22.414876",
+            "status": "INACTIVE"
+        },
+        "luesojz.angelcities.com": {
+            "included_at_epoch": 1590966442.472337,
+            "included_at_iso": "2020-05-31T23:07:22.472337",
+            "last_retested_at_epoch": 1590966442.472337,
+            "last_retested_at_iso": "2020-05-31T23:07:22.472337",
+            "status": "INACTIVE"
+        },
         "m.zeroredirect.com": {
             "included_at_epoch": 1590361372.889751,
             "included_at_iso": "2020-05-24T23:02:52.889751",
@@ -1162,6 +1197,13 @@
             "included_at_iso": "2020-05-16T14:14:09.508628",
             "last_retested_at_epoch": 1590923344.058794,
             "last_retested_at_iso": "2020-05-31T11:09:04.058794",
+            "status": "INACTIVE"
+        },
+        "maryscott.angelcities.com": {
+            "included_at_epoch": 1590966442.704006,
+            "included_at_iso": "2020-05-31T23:07:22.704006",
+            "last_retested_at_epoch": 1590966442.704006,
+            "last_retested_at_iso": "2020-05-31T23:07:22.704006",
             "status": "INACTIVE"
         },
         "mlpoint.pt": {
@@ -1220,6 +1262,13 @@
             "last_retested_at_iso": "2020-05-31T11:09:04.693066",
             "status": "INACTIVE"
         },
+        "nourteenthp.angelcities.com": {
+            "included_at_epoch": 1590966443.287449,
+            "included_at_iso": "2020-05-31T23:07:23.287449",
+            "last_retested_at_epoch": 1590966443.287449,
+            "last_retested_at_iso": "2020-05-31T23:07:23.287449",
+            "status": "INACTIVE"
+        },
         "ns1.ntkrnlpa.info": {
             "included_at_epoch": 1590794451.765991,
             "included_at_iso": "2020-05-29T23:20:51.765991",
@@ -1234,11 +1283,25 @@
             "last_retested_at_iso": "2020-05-31T11:09:04.733337",
             "status": "INACTIVE"
         },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1590966443.317759,
+            "included_at_iso": "2020-05-31T23:07:23.317759",
+            "last_retested_at_epoch": 1590966443.317759,
+            "last_retested_at_iso": "2020-05-31T23:07:23.317759",
+            "status": "INACTIVE"
+        },
         "o.zeroredirect.com": {
             "included_at_epoch": 1590794452.023952,
             "included_at_iso": "2020-05-29T23:20:52.023952",
             "last_retested_at_epoch": 1590923344.983407,
             "last_retested_at_iso": "2020-05-31T11:09:04.983407",
+            "status": "INACTIVE"
+        },
+        "ojtobu.angelcities.com": {
+            "included_at_epoch": 1590966443.374257,
+            "included_at_iso": "2020-05-31T23:07:23.374257",
+            "last_retested_at_epoch": 1590966443.374257,
+            "last_retested_at_iso": "2020-05-31T23:07:23.374257",
             "status": "INACTIVE"
         },
         "oneund.ru": {
@@ -1248,11 +1311,25 @@
             "last_retested_at_iso": "2020-05-31T11:09:04.836997",
             "status": "INACTIVE"
         },
+        "oovqsvi.angelcities.com": {
+            "included_at_epoch": 1590966443.458622,
+            "included_at_iso": "2020-05-31T23:07:23.458622",
+            "last_retested_at_epoch": 1590966443.458622,
+            "last_retested_at_iso": "2020-05-31T23:07:23.458622",
+            "status": "INACTIVE"
+        },
         "orango.redirectme.net": {
             "included_at_epoch": 1590794451.977784,
             "included_at_iso": "2020-05-29T23:20:51.977784",
             "last_retested_at_epoch": 1590923344.930127,
             "last_retested_at_iso": "2020-05-31T11:09:04.930127",
+            "status": "INACTIVE"
+        },
+        "owpuuzea.angelcities.com": {
+            "included_at_epoch": 1590966443.549405,
+            "included_at_iso": "2020-05-31T23:07:23.549405",
+            "last_retested_at_epoch": 1590966443.549405,
+            "last_retested_at_iso": "2020-05-31T23:07:23.549405",
             "status": "INACTIVE"
         },
         "p.zeroredirect.com": {
@@ -1295,6 +1372,13 @@
             "included_at_iso": "2020-05-29T23:20:52.643626",
             "last_retested_at_epoch": 1590923345.630892,
             "last_retested_at_iso": "2020-05-31T11:09:05.630892",
+            "status": "INACTIVE"
+        },
+        "qacupuzute.angelcities.com": {
+            "included_at_epoch": 1590966444.101507,
+            "included_at_iso": "2020-05-31T23:07:24.101507",
+            "last_retested_at_epoch": 1590966444.101507,
+            "last_retested_at_iso": "2020-05-31T23:07:24.101507",
             "status": "INACTIVE"
         },
         "qzip.cjb.net": {
