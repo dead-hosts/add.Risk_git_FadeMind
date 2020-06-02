@@ -2300,9 +2300,9 @@
         "state": "future"
     },
     "litec-fr.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "littlesturgisrally.com": {
         "epoch": 1604361600.0,
@@ -2410,9 +2410,9 @@
         "state": "future"
     },
     "mainteck-fr.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "malest.com": {
         "epoch": 1596067200.0,
