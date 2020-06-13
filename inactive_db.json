@@ -709,6 +709,13 @@
             "last_retested_at_iso": "2020-06-12T10:38:25.047362",
             "status": "INACTIVE"
         },
+        "aff.naughtyconnect.com": {
+            "included_at_epoch": 1592044278.060643,
+            "included_at_iso": "2020-06-13T10:31:18.060643",
+            "last_retested_at_epoch": 1592044278.060643,
+            "last_retested_at_iso": "2020-06-13T10:31:18.060643",
+            "status": "INACTIVE"
+        },
         "affiliate.trk4.com": {
             "included_at_epoch": 1589637735.591135,
             "included_at_iso": "2020-05-16T14:02:15.591135",
@@ -1358,6 +1365,13 @@
             "included_at_iso": "2020-05-29T23:20:52.394350",
             "last_retested_at_epoch": 1591960583.908705,
             "last_retested_at_iso": "2020-06-12T11:16:23.908705",
+            "status": "INACTIVE"
+        },
+        "promo.clickcash.com": {
+            "included_at_epoch": 1592044283.409102,
+            "included_at_iso": "2020-06-13T10:31:23.409102",
+            "last_retested_at_epoch": 1592044283.409102,
+            "last_retested_at_iso": "2020-06-13T10:31:23.409102",
             "status": "INACTIVE"
         },
         "q.zeroredirect.com": {
