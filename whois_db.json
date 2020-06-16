@@ -1210,9 +1210,9 @@
         "state": "future"
     },
     "dougmlee.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "dowdenphotography.com": {
         "epoch": 1596499200.0,
@@ -1295,8 +1295,8 @@
         "state": "future"
     },
     "eclkspsa.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "ecpmrocks.com": {
