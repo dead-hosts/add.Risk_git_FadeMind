@@ -751,6 +751,13 @@
             "last_retested_at_iso": "2020-06-21T14:30:50.596710",
             "status": "INACTIVE"
         },
+        "apps.clickcash.com": {
+            "included_at_epoch": 1592778711.565166,
+            "included_at_iso": "2020-06-21T22:31:51.565166",
+            "last_retested_at_epoch": 1592778711.565166,
+            "last_retested_at_iso": "2020-06-21T22:31:51.565166",
+            "status": "INACTIVE"
+        },
         "arecio.work": {
             "included_at_epoch": 1592144728.506188,
             "included_at_iso": "2020-06-14T14:25:28.506188",
@@ -1325,11 +1332,25 @@
             "last_retested_at_iso": "2020-06-21T14:47:47.307528",
             "status": "INACTIVE"
         },
+        "ns1.the-sinner.net": {
+            "included_at_epoch": 1592778715.904167,
+            "included_at_iso": "2020-06-21T22:31:55.904167",
+            "last_retested_at_epoch": 1592778715.904167,
+            "last_retested_at_iso": "2020-06-21T22:31:55.904167",
+            "status": "INACTIVE"
+        },
         "ns2.ntkrnlpa.info": {
             "included_at_epoch": 1590794451.782989,
             "included_at_iso": "2020-05-29T23:20:51.782989",
             "last_retested_at_epoch": 1592750867.316931,
             "last_retested_at_iso": "2020-06-21T14:47:47.316931",
+            "status": "INACTIVE"
+        },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1592778715.911741,
+            "included_at_iso": "2020-06-21T22:31:55.911741",
+            "last_retested_at_epoch": 1592778715.911741,
+            "last_retested_at_iso": "2020-06-21T22:31:55.911741",
             "status": "INACTIVE"
         },
         "o.zeroredirect.com": {
@@ -1393,6 +1414,13 @@
             "included_at_iso": "2020-05-29T23:20:52.394350",
             "last_retested_at_epoch": 1592750867.946176,
             "last_retested_at_iso": "2020-06-21T14:47:47.946176",
+            "status": "INACTIVE"
+        },
+        "promo.clickcash.com": {
+            "included_at_epoch": 1592778716.588673,
+            "included_at_iso": "2020-06-21T22:31:56.588673",
+            "last_retested_at_epoch": 1592778716.588673,
+            "last_retested_at_iso": "2020-06-21T22:31:56.588673",
             "status": "INACTIVE"
         },
         "q.zeroredirect.com": {
