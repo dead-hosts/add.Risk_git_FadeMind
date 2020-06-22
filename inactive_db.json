@@ -1333,10 +1333,10 @@
             "status": "INACTIVE"
         },
         "noredirecto.redirectme.net": {
-            "included_at_epoch": 1590404415.391815,
-            "included_at_iso": "2020-05-25T11:00:15.391815",
-            "last_retested_at_epoch": 1592750867.267827,
-            "last_retested_at_iso": "2020-06-21T14:47:47.267827",
+            "included_at_epoch": 1592825450.240599,
+            "included_at_iso": "2020-06-22T11:30:50.240599",
+            "last_retested_at_epoch": 1592825450.240599,
+            "last_retested_at_iso": "2020-06-22T11:30:50.240599",
             "status": "INACTIVE"
         },
         "nourteenthp.angelcities.com": {
@@ -1521,6 +1521,13 @@
             "last_retested_at_iso": "2020-06-21T15:08:02.630357",
             "status": "INACTIVE"
         },
+        "tec.sarl.tk": {
+            "included_at_epoch": 1592825450.725936,
+            "included_at_iso": "2020-06-22T11:30:50.725936",
+            "last_retested_at_epoch": 1592825450.725936,
+            "last_retested_at_iso": "2020-06-22T11:30:50.725936",
+            "status": "INACTIVE"
+        },
         "theads.me": {
             "included_at_epoch": 1590794454.142896,
             "included_at_iso": "2020-05-29T23:20:54.142896",
@@ -1533,6 +1540,13 @@
             "included_at_iso": "2020-05-29T23:20:54.187075",
             "last_retested_at_epoch": 1592750869.725197,
             "last_retested_at_iso": "2020-06-21T14:47:49.725197",
+            "status": "INACTIVE"
+        },
+        "top.dating.lt": {
+            "included_at_epoch": 1592825450.894393,
+            "included_at_iso": "2020-06-22T11:30:50.894393",
+            "last_retested_at_epoch": 1592825450.894393,
+            "last_retested_at_iso": "2020-06-22T11:30:50.894393",
             "status": "INACTIVE"
         },
         "tttbbbttt.zapto.org": {
@@ -1757,6 +1771,13 @@
             "included_at_iso": "2020-05-30T11:41:05.536832",
             "last_retested_at_epoch": 1592752083.974844,
             "last_retested_at_iso": "2020-06-21T15:08:03.974844",
+            "status": "INACTIVE"
+        },
+        "www.domainfwding.com": {
+            "included_at_epoch": 1592825452.409708,
+            "included_at_iso": "2020-06-22T11:30:52.409708",
+            "last_retested_at_epoch": 1592825452.409708,
+            "last_retested_at_iso": "2020-06-22T11:30:52.409708",
             "status": "INACTIVE"
         },
         "www.egoldenglove.com": {
