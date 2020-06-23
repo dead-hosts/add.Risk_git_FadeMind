@@ -663,15 +663,8 @@
         "4.whereinitaly.com": {
             "included_at_epoch": 1592821438.60015,
             "included_at_iso": "2020-06-22T10:23:58.600150",
-            "last_retested_at_epoch": 1592821438.60015,
-            "last_retested_at_iso": "2020-06-22T10:23:58.600150",
-            "status": "INACTIVE"
-        },
-        "4.whereinlazio.com": {
-            "included_at_epoch": 1592821438.606278,
-            "included_at_iso": "2020-06-22T10:23:58.606278",
-            "last_retested_at_epoch": 1592821438.606278,
-            "last_retested_at_iso": "2020-06-22T10:23:58.606278",
+            "last_retested_at_epoch": 1592951093.638933,
+            "last_retested_at_iso": "2020-06-23T22:24:53.638933",
             "status": "INACTIVE"
         },
         "4.whereinsicily.com": {
@@ -1024,13 +1017,6 @@
             "last_retested_at_iso": "2020-06-22T22:23:09.048633",
             "status": "INACTIVE"
         },
-        "goldbye.vicp.net": {
-            "included_at_epoch": 1592821441.921244,
-            "included_at_iso": "2020-06-22T10:24:01.921244",
-            "last_retested_at_epoch": 1592821441.921244,
-            "last_retested_at_iso": "2020-06-22T10:24:01.921244",
-            "status": "INACTIVE"
-        },
         "h.zeroredirect.com": {
             "included_at_epoch": 1592144731.632704,
             "included_at_iso": "2020-06-14T14:25:31.632704",
@@ -1290,6 +1276,13 @@
             "last_retested_at_iso": "2020-06-22T23:39:24.241926",
             "status": "INACTIVE"
         },
+        "monofeel.com": {
+            "included_at_epoch": 1592951098.386289,
+            "included_at_iso": "2020-06-23T22:24:58.386289",
+            "last_retested_at_epoch": 1592951098.386289,
+            "last_retested_at_iso": "2020-06-23T22:24:58.386289",
+            "status": "INACTIVE"
+        },
         "mrace.hopto.org": {
             "included_at_epoch": 1592781351.218321,
             "included_at_iso": "2020-06-21T23:15:51.218321",
@@ -1321,8 +1314,8 @@
         "noredirecto.redirectme.net": {
             "included_at_epoch": 1592825450.240599,
             "included_at_iso": "2020-06-22T11:30:50.240599",
-            "last_retested_at_epoch": 1592825450.240599,
-            "last_retested_at_iso": "2020-06-22T11:30:50.240599",
+            "last_retested_at_epoch": 1592951098.685906,
+            "last_retested_at_iso": "2020-06-23T22:24:58.685906",
             "status": "INACTIVE"
         },
         "nourteenthp.angelcities.com": {
@@ -1344,6 +1337,13 @@
             "included_at_iso": "2020-05-29T23:20:51.782989",
             "last_retested_at_epoch": 1592865852.263549,
             "last_retested_at_iso": "2020-06-22T22:44:12.263549",
+            "status": "INACTIVE"
+        },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1592951098.71637,
+            "included_at_iso": "2020-06-23T22:24:58.716370",
+            "last_retested_at_epoch": 1592951098.71637,
+            "last_retested_at_iso": "2020-06-23T22:24:58.716370",
             "status": "INACTIVE"
         },
         "o.zeroredirect.com": {
@@ -1407,6 +1407,13 @@
             "included_at_iso": "2020-05-29T23:20:52.394350",
             "last_retested_at_epoch": 1592865852.973398,
             "last_retested_at_iso": "2020-06-22T22:44:12.973398",
+            "status": "INACTIVE"
+        },
+        "promo.clickcash.com": {
+            "included_at_epoch": 1592951099.427382,
+            "included_at_iso": "2020-06-23T22:24:59.427382",
+            "last_retested_at_epoch": 1592951099.427382,
+            "last_retested_at_iso": "2020-06-23T22:24:59.427382",
             "status": "INACTIVE"
         },
         "q.zeroredirect.com": {

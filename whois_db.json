@@ -1065,8 +1065,8 @@
         "state": "future"
     },
     "crazyprotocol.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "credibleartstherapies.org": {
@@ -1547,7 +1547,7 @@
     "friendlyduck.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "frtya.com": {
         "epoch": 1618531200.0,
@@ -2045,8 +2045,8 @@
         "state": "future"
     },
     "iybasketball.info": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "iyfnzgb.com": {
