@@ -667,6 +667,13 @@
             "last_retested_at_iso": "2020-06-23T22:24:53.638933",
             "status": "INACTIVE"
         },
+        "4.whereinlazio.com": {
+            "included_at_epoch": 1593038204.190219,
+            "included_at_iso": "2020-06-24T22:36:44.190219",
+            "last_retested_at_epoch": 1593038204.190219,
+            "last_retested_at_iso": "2020-06-24T22:36:44.190219",
+            "status": "INACTIVE"
+        },
         "6.mamaswishes.com": {
             "included_at_epoch": 1592144727.880592,
             "included_at_iso": "2020-06-14T14:25:27.880592",
@@ -868,6 +875,13 @@
             "included_at_iso": "2020-06-14T14:25:29.732194",
             "last_retested_at_epoch": 1592952761.508027,
             "last_retested_at_iso": "2020-06-23T22:52:41.508027",
+            "status": "INACTIVE"
+        },
+        "counter.top.dating.lt": {
+            "included_at_epoch": 1593038206.068699,
+            "included_at_iso": "2020-06-24T22:36:46.068699",
+            "last_retested_at_epoch": 1593038206.068699,
+            "last_retested_at_iso": "2020-06-24T22:36:46.068699",
             "status": "INACTIVE"
         },
         "cuoujvfi.angelcities.com": {
@@ -1258,8 +1272,8 @@
         "monofeel.com": {
             "included_at_epoch": 1592951098.386289,
             "included_at_iso": "2020-06-23T22:24:58.386289",
-            "last_retested_at_epoch": 1592951098.386289,
-            "last_retested_at_iso": "2020-06-23T22:24:58.386289",
+            "last_retested_at_epoch": 1593038209.173917,
+            "last_retested_at_iso": "2020-06-24T22:36:49.173917",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
@@ -1293,8 +1307,8 @@
         "noredirecto.redirectme.net": {
             "included_at_epoch": 1592825450.240599,
             "included_at_iso": "2020-06-22T11:30:50.240599",
-            "last_retested_at_epoch": 1592951098.685906,
-            "last_retested_at_iso": "2020-06-23T22:24:58.685906",
+            "last_retested_at_epoch": 1593038209.482677,
+            "last_retested_at_iso": "2020-06-24T22:36:49.482677",
             "status": "INACTIVE"
         },
         "nourteenthp.angelcities.com": {
@@ -1316,13 +1330,6 @@
             "included_at_iso": "2020-05-29T23:20:51.782989",
             "last_retested_at_epoch": 1592952761.867677,
             "last_retested_at_iso": "2020-06-23T22:52:41.867677",
-            "status": "INACTIVE"
-        },
-        "ns3.ishosting.net": {
-            "included_at_epoch": 1592951098.71637,
-            "included_at_iso": "2020-06-23T22:24:58.716370",
-            "last_retested_at_epoch": 1592951098.71637,
-            "last_retested_at_iso": "2020-06-23T22:24:58.716370",
             "status": "INACTIVE"
         },
         "o.zeroredirect.com": {
@@ -1386,13 +1393,6 @@
             "included_at_iso": "2020-05-29T23:20:52.394350",
             "last_retested_at_epoch": 1592952761.921564,
             "last_retested_at_iso": "2020-06-23T22:52:41.921564",
-            "status": "INACTIVE"
-        },
-        "promo.clickcash.com": {
-            "included_at_epoch": 1592951099.427382,
-            "included_at_iso": "2020-06-23T22:24:59.427382",
-            "last_retested_at_epoch": 1592951099.427382,
-            "last_retested_at_iso": "2020-06-23T22:24:59.427382",
             "status": "INACTIVE"
         },
         "q.zeroredirect.com": {
@@ -1736,13 +1736,6 @@
             "included_at_iso": "2020-05-29T23:55:44.279046",
             "last_retested_at_epoch": 1592954813.569124,
             "last_retested_at_iso": "2020-06-23T23:26:53.569124",
-            "status": "INACTIVE"
-        },
-        "www.enoratraffic.com": {
-            "included_at_epoch": 1590591343.472897,
-            "included_at_iso": "2020-05-27T14:55:43.472897",
-            "last_retested_at_epoch": 1592954813.583426,
-            "last_retested_at_iso": "2020-06-23T23:26:53.583426",
             "status": "INACTIVE"
         },
         "www.facebook.realtorarcf.com": {
