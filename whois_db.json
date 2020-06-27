@@ -3175,8 +3175,8 @@
         "state": "future"
     },
     "qikdownloads.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "quad-cleaner.com": {
@@ -3747,7 +3747,7 @@
     "srv2trking.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ss-01.com": {
         "epoch": 1612396800.0,
