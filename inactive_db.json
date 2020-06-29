@@ -1325,11 +1325,25 @@
             "last_retested_at_iso": "2020-06-29T14:51:50.748208",
             "status": "INACTIVE"
         },
+        "ns1.the-sinner.net": {
+            "included_at_epoch": 1593469142.568269,
+            "included_at_iso": "2020-06-29T22:19:02.568269",
+            "last_retested_at_epoch": 1593469142.568269,
+            "last_retested_at_iso": "2020-06-29T22:19:02.568269",
+            "status": "INACTIVE"
+        },
         "ns2.ntkrnlpa.info": {
             "included_at_epoch": 1593300241.840009,
             "included_at_iso": "2020-06-27T23:24:01.840009",
             "last_retested_at_epoch": 1593442310.768203,
             "last_retested_at_iso": "2020-06-29T14:51:50.768203",
+            "status": "INACTIVE"
+        },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1593469142.576093,
+            "included_at_iso": "2020-06-29T22:19:02.576093",
+            "last_retested_at_epoch": 1593469142.576093,
+            "last_retested_at_iso": "2020-06-29T22:19:02.576093",
             "status": "INACTIVE"
         },
         "o.zeroredirect.com": {
