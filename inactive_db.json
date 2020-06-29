@@ -1500,6 +1500,13 @@
             "last_retested_at_iso": "2020-06-29T14:51:53.389908",
             "status": "INACTIVE"
         },
+        "top.dating.lt": {
+            "included_at_epoch": 1593470163.243777,
+            "included_at_iso": "2020-06-29T22:36:03.243777",
+            "last_retested_at_epoch": 1593470163.243777,
+            "last_retested_at_iso": "2020-06-29T22:36:03.243777",
+            "status": "INACTIVE"
+        },
         "tttbbbttt.zapto.org": {
             "included_at_epoch": 1593300244.959239,
             "included_at_iso": "2020-06-27T23:24:04.959239",
@@ -2009,6 +2016,13 @@
             "included_at_iso": "2020-06-28T00:41:44.453020",
             "last_retested_at_epoch": 1593444334.493063,
             "last_retested_at_iso": "2020-06-29T15:25:34.493063",
+            "status": "INACTIVE"
+        },
+        "www.searchacross.com": {
+            "included_at_epoch": 1593470165.642376,
+            "included_at_iso": "2020-06-29T22:36:05.642376",
+            "last_retested_at_epoch": 1593470165.642376,
+            "last_retested_at_iso": "2020-06-29T22:36:05.642376",
             "status": "INACTIVE"
         },
         "www.searchtoexplore.com": {
