@@ -856,6 +856,13 @@
             "last_retested_at_iso": "2020-06-29T14:34:51.118964",
             "status": "INACTIVE"
         },
+        "clickcash.webpower.com": {
+            "included_at_epoch": 1593513753.11241,
+            "included_at_iso": "2020-06-30T10:42:33.112410",
+            "last_retested_at_epoch": 1593513753.11241,
+            "last_retested_at_iso": "2020-06-30T10:42:33.112410",
+            "status": "INACTIVE"
+        },
         "coding.1100011.ir": {
             "included_at_epoch": 1592144729.665807,
             "included_at_iso": "2020-06-14T14:25:29.665807",
@@ -1337,6 +1344,13 @@
             "included_at_iso": "2020-06-27T23:24:01.840009",
             "last_retested_at_epoch": 1593442310.768203,
             "last_retested_at_iso": "2020-06-29T14:51:50.768203",
+            "status": "INACTIVE"
+        },
+        "ns2.vicp.net": {
+            "included_at_epoch": 1593513756.783715,
+            "included_at_iso": "2020-06-30T10:42:36.783715",
+            "last_retested_at_epoch": 1593513756.783715,
+            "last_retested_at_iso": "2020-06-30T10:42:36.783715",
             "status": "INACTIVE"
         },
         "ns3.ishosting.net": {
