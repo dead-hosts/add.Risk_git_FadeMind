@@ -1745,6 +1745,13 @@
             "last_retested_at_iso": "2020-06-29T15:09:03.479699",
             "status": "INACTIVE"
         },
+        "www.dougmlee.com": {
+            "included_at_epoch": 1593516071.417874,
+            "included_at_iso": "2020-06-30T11:21:11.417874",
+            "last_retested_at_epoch": 1593516071.417874,
+            "last_retested_at_iso": "2020-06-30T11:21:11.417874",
+            "status": "INACTIVE"
+        },
         "www.egoldenglove.com": {
             "included_at_epoch": 1593303037.764886,
             "included_at_iso": "2020-06-28T00:10:37.764886",
@@ -1955,6 +1962,13 @@
             "last_retested_at_iso": "2020-06-29T15:25:34.141916",
             "status": "INACTIVE"
         },
+        "www.newclick.com": {
+            "included_at_epoch": 1593516071.932823,
+            "included_at_iso": "2020-06-30T11:21:11.932823",
+            "last_retested_at_epoch": 1593516071.932823,
+            "last_retested_at_iso": "2020-06-30T11:21:11.932823",
+            "status": "INACTIVE"
+        },
         "www.notrecommended.co.uk": {
             "included_at_epoch": 1593303038.418723,
             "included_at_iso": "2020-06-28T00:10:38.418723",
@@ -2065,6 +2079,13 @@
             "included_at_iso": "2020-06-28T00:41:44.566706",
             "last_retested_at_epoch": 1593444334.593745,
             "last_retested_at_iso": "2020-06-29T15:25:34.593745",
+            "status": "INACTIVE"
+        },
+        "www.smithwick.net": {
+            "included_at_epoch": 1593516072.285642,
+            "included_at_iso": "2020-06-30T11:21:12.285642",
+            "last_retested_at_epoch": 1593516072.285642,
+            "last_retested_at_iso": "2020-06-30T11:21:12.285642",
             "status": "INACTIVE"
         },
         "www.suscotrk.com": {
