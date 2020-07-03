@@ -877,6 +877,13 @@
             "last_retested_at_iso": "2020-07-02T22:23:38.643642",
             "status": "INACTIVE"
         },
+        "counter.top.dating.lt": {
+            "included_at_epoch": 1593772635.457434,
+            "included_at_iso": "2020-07-03T10:37:15.457434",
+            "last_retested_at_epoch": 1593772635.457434,
+            "last_retested_at_iso": "2020-07-03T10:37:15.457434",
+            "status": "INACTIVE"
+        },
         "cuoujvfi.angelcities.com": {
             "included_at_epoch": 1593441291.545694,
             "included_at_iso": "2020-06-29T14:34:51.545694",
@@ -1323,6 +1330,13 @@
             "included_at_iso": "2020-06-27T23:24:01.840009",
             "last_retested_at_epoch": 1593729635.599063,
             "last_retested_at_iso": "2020-07-02T22:40:35.599063",
+            "status": "INACTIVE"
+        },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1593772638.732451,
+            "included_at_iso": "2020-07-03T10:37:18.732451",
+            "last_retested_at_epoch": 1593772638.732451,
+            "last_retested_at_iso": "2020-07-03T10:37:18.732451",
             "status": "INACTIVE"
         },
         "o.zeroredirect.com": {
