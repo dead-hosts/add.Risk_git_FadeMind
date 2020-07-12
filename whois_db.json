@@ -770,8 +770,8 @@
         "state": "future"
     },
     "cheapticketts.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1657584000.0,
+        "expiration_date": "12-jul-2022",
         "state": "future"
     },
     "cheapticktes.com": {
@@ -1285,8 +1285,8 @@
         "state": "future"
     },
     "ecdtrk.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "eclean.or.kr": {
@@ -1700,8 +1700,8 @@
         "state": "future"
     },
     "google-docs.org": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "googlew.com": {
@@ -1785,8 +1785,8 @@
         "state": "future"
     },
     "hacking-facebook.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "haedong.es.kr": {
