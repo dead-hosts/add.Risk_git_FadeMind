@@ -1174,8 +1174,8 @@
         "liders.biz": {
             "included_at_epoch": 1594566578.521193,
             "included_at_iso": "2020-07-12T15:09:38.521193",
-            "last_retested_at_epoch": 1594566578.521193,
-            "last_retested_at_iso": "2020-07-12T15:09:38.521193",
+            "last_retested_at_epoch": 1594740093.603148,
+            "last_retested_at_iso": "2020-07-14T15:21:33.603148",
             "status": "INACTIVE"
         },
         "lifeeverest.com": {
@@ -1258,8 +1258,8 @@
         "mlpoint.pt": {
             "included_at_epoch": 1592781351.204432,
             "included_at_iso": "2020-06-21T23:15:51.204432",
-            "last_retested_at_epoch": 1594566579.116936,
-            "last_retested_at_iso": "2020-07-12T15:09:39.116936",
+            "last_retested_at_epoch": 1594740093.589557,
+            "last_retested_at_iso": "2020-07-14T15:21:33.589557",
             "status": "INACTIVE"
         },
         "mobile.bitterstrawberry.org": {
@@ -1615,8 +1615,8 @@
         "www.butterfly-media.co.uk": {
             "included_at_epoch": 1593303037.412906,
             "included_at_iso": "2020-06-28T00:10:37.412906",
-            "last_retested_at_epoch": 1594567599.139101,
-            "last_retested_at_iso": "2020-07-12T15:26:39.139101",
+            "last_retested_at_epoch": 1594740093.565754,
+            "last_retested_at_iso": "2020-07-14T15:21:33.565754",
             "status": "INACTIVE"
         },
         "www.cecash.com": {
@@ -1972,8 +1972,8 @@
         "www.pokemonporno.com": {
             "included_at_epoch": 1593303038.534105,
             "included_at_iso": "2020-06-28T00:10:38.534105",
-            "last_retested_at_epoch": 1594567600.372221,
-            "last_retested_at_iso": "2020-07-12T15:26:40.372221",
+            "last_retested_at_epoch": 1594740093.616524,
+            "last_retested_at_iso": "2020-07-14T15:21:33.616524",
             "status": "INACTIVE"
         },
         "www.premiumpedia.com": {
@@ -2070,8 +2070,8 @@
         "www.tuckows.com": {
             "included_at_epoch": 1593304904.812625,
             "included_at_iso": "2020-06-28T00:41:44.812625",
-            "last_retested_at_epoch": 1594568207.250718,
-            "last_retested_at_iso": "2020-07-12T15:36:47.250718",
+            "last_retested_at_epoch": 1594740093.609773,
+            "last_retested_at_iso": "2020-07-14T15:21:33.609773",
             "status": "INACTIVE"
         },
         "www.tzw.com": {
@@ -2105,8 +2105,8 @@
         "www.winaproduct.com": {
             "included_at_epoch": 1593617849.313536,
             "included_at_iso": "2020-07-01T15:37:29.313536",
-            "last_retested_at_epoch": 1594568207.423496,
-            "last_retested_at_iso": "2020-07-12T15:36:47.423496",
+            "last_retested_at_epoch": 1594740093.582692,
+            "last_retested_at_iso": "2020-07-14T15:21:33.582692",
             "status": "INACTIVE"
         },
         "www.wmserver.net": {
@@ -2224,8 +2224,8 @@
         "www.zoogdisny.com": {
             "included_at_epoch": 1594051469.261789,
             "included_at_iso": "2020-07-06T16:04:29.261789",
-            "last_retested_at_epoch": 1594568207.648678,
-            "last_retested_at_iso": "2020-07-12T15:36:47.648678",
+            "last_retested_at_epoch": 1594740093.481484,
+            "last_retested_at_iso": "2020-07-14T15:21:33.481484",
             "status": "INACTIVE"
         },
         "www2.leadingedgecash.com": {
@@ -2308,8 +2308,8 @@
         "xchangetrak.com": {
             "included_at_epoch": 1593304905.263701,
             "included_at_iso": "2020-06-28T00:41:45.263701",
-            "last_retested_at_epoch": 1594568207.728966,
-            "last_retested_at_iso": "2020-07-12T15:36:47.728966",
+            "last_retested_at_epoch": 1594740093.596302,
+            "last_retested_at_iso": "2020-07-14T15:21:33.596302",
             "status": "INACTIVE"
         },
         "xvika.net": {
