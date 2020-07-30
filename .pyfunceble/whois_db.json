@@ -350,8 +350,8 @@
         "state": "future"
     },
     "areasnap.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "arecio.work": {
@@ -2130,8 +2130,8 @@
         "state": "future"
     },
     "jsing.net": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "jsonip.com": {
@@ -2417,7 +2417,7 @@
     "malest.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "malkm.com": {
         "epoch": 1611878400.0,
