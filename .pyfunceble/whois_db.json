@@ -990,8 +990,8 @@
         "state": "future"
     },
     "comfz.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "conds.ru": {
@@ -2415,9 +2415,9 @@
         "state": "future"
     },
     "malest.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
-        "state": "past"
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
     },
     "malkm.com": {
         "epoch": 1611878400.0,
