@@ -744,6 +744,13 @@
             "last_retested_at_iso": "2020-08-04T15:09:50.651916",
             "status": "INACTIVE"
         },
+        "adwcleaner.telecharger.toggle.com": {
+            "included_at_epoch": 1596622911.926789,
+            "included_at_iso": "2020-08-05T10:21:51.926789",
+            "last_retested_at_epoch": 1596622911.926789,
+            "last_retested_at_iso": "2020-08-05T10:21:51.926789",
+            "status": "INACTIVE"
+        },
         "adweb1.hornymatches.com": {
             "included_at_epoch": 1594564846.103831,
             "included_at_iso": "2020-07-12T14:40:46.103831",
@@ -1386,6 +1393,13 @@
             "included_at_iso": "2020-07-26T15:11:52.315526",
             "last_retested_at_epoch": 1596556114.732509,
             "last_retested_at_iso": "2020-08-04T15:48:34.732509",
+            "status": "INACTIVE"
+        },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1596622916.8035,
+            "included_at_iso": "2020-08-05T10:21:56.803500",
+            "last_retested_at_epoch": 1596622916.8035,
+            "last_retested_at_iso": "2020-08-05T10:21:56.803500",
             "status": "INACTIVE"
         },
         "o.zeroredirect.com": {
