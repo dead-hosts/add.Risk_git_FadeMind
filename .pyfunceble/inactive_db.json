@@ -1388,6 +1388,13 @@
             "last_retested_at_iso": "2020-08-06T15:29:26.436214",
             "status": "INACTIVE"
         },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1596745165.824408,
+            "included_at_iso": "2020-08-06T20:19:25.824408",
+            "last_retested_at_epoch": 1596745165.824408,
+            "last_retested_at_iso": "2020-08-06T20:19:25.824408",
+            "status": "INACTIVE"
+        },
         "o.zeroredirect.com": {
             "included_at_epoch": 1595776312.612162,
             "included_at_iso": "2020-07-26T15:11:52.612162",
