@@ -3247,7 +3247,7 @@
     "registry-error-cleaner.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "registrycleaner-reviews.net": {
         "epoch": 1616716800.0,
@@ -4035,8 +4035,8 @@
         "state": "future"
     },
     "travelocityca.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1659830400.0,
+        "expiration_date": "07-aug-2022",
         "state": "future"
     },
     "travelocityt.com": {
@@ -4140,8 +4140,8 @@
         "state": "future"
     },
     "twskype.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "twttr.com": {
