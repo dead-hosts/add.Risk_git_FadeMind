@@ -3042,7 +3042,7 @@
     "php4you.biz": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pillsmoney.com": {
         "epoch": 1617580800.0,
@@ -3245,9 +3245,9 @@
         "state": "future"
     },
     "registry-error-cleaner.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "registrycleaner-reviews.net": {
         "epoch": 1616716800.0,
