@@ -1132,7 +1132,7 @@
     "digiaquascr.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dimarsbg.com": {
         "epoch": 1607817600.0,
@@ -1205,8 +1205,8 @@
         "state": "future"
     },
     "dotzup.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "dougmlee.com": {
