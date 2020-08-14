@@ -1085,8 +1085,8 @@
         "state": "future"
     },
     "ctrck.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "cudacorp.com": {
@@ -1120,8 +1120,8 @@
         "state": "future"
     },
     "dentairemalin.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "desifever.com": {
@@ -1130,9 +1130,9 @@
         "state": "future"
     },
     "digiaquascr.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
-        "state": "past"
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "state": "future"
     },
     "dimarsbg.com": {
         "epoch": 1607817600.0,
@@ -1530,8 +1530,8 @@
         "state": "future"
     },
     "freenew.net": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "freeserials.ws": {
@@ -1655,8 +1655,8 @@
         "state": "future"
     },
     "get-quadcleaner.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "getiton.com": {
