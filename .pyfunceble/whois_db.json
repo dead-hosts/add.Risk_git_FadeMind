@@ -255,9 +255,9 @@
         "state": "past"
     },
     "american-prize-center.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1660953600.0,
+        "expiration_date": "20-aug-2022",
+        "state": "future"
     },
     "analyticdns.org": {
         "epoch": 1770422400.0,
@@ -1815,8 +1815,8 @@
         "state": "future"
     },
     "hefigo.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "helpmedownload.com": {
@@ -2445,9 +2445,9 @@
         "state": "future"
     },
     "mapquuest.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "marketingenhanced.com": {
         "epoch": 1604016000.0,
