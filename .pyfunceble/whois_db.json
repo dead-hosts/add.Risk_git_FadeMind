@@ -2475,8 +2475,8 @@
         "state": "future"
     },
     "maxregistrycleaner.net": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "mcleanvahomes.com": {
@@ -3025,9 +3025,9 @@
         "state": "future"
     },
     "petsmovies.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
-        "state": "past"
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "state": "future"
     },
     "pfaltzgraf.com": {
         "epoch": 1622160000.0,
@@ -4210,9 +4210,9 @@
         "state": "future"
     },
     "vclicks.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
-        "state": "past"
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "state": "future"
     },
     "vdhu.com": {
         "epoch": 1611360000.0,
