@@ -1633,6 +1633,13 @@
             "last_retested_at_iso": "2020-08-28T16:11:08.212801",
             "status": "INACTIVE"
         },
+        "www.39dvd-999.com": {
+            "included_at_epoch": 1598801257.594258,
+            "included_at_iso": "2020-08-30T15:27:37.594258",
+            "last_retested_at_epoch": 1598801257.594258,
+            "last_retested_at_iso": "2020-08-30T15:27:37.594258",
+            "status": "INACTIVE"
+        },
         "www.adforati.com": {
             "included_at_epoch": 1597764846.746541,
             "included_at_iso": "2020-08-18T15:34:06.746541",
