@@ -1250,8 +1250,9 @@
         "state": "future"
     },
     "dualvaccine.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "duplicatefilecleaner.com": {
@@ -2355,8 +2356,9 @@
         "state": "future"
     },
     "lufthansaairlines.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lufthanza.com": {
@@ -2672,7 +2674,8 @@
     "mysearch-engine.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "mysearchweb.net": {
         "epoch": 1628640000.0,
@@ -3042,6 +3045,7 @@
     "php4you.biz": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
+        "server": "whois.nic.biz",
         "state": "past"
     },
     "pillsmoney.com": {
@@ -3160,8 +3164,9 @@
         "state": "future"
     },
     "pumpkin.co.uk": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "puroclean.com": {
@@ -3735,8 +3740,9 @@
         "state": "future"
     },
     "spywarenuker.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spywarespy.com": {

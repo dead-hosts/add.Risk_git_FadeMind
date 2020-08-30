@@ -941,10 +941,10 @@
             "status": "INACTIVE"
         },
         "directhackerz.tk": {
-            "included_at_epoch": 1596293648.092855,
-            "included_at_iso": "2020-08-01T14:54:08.092855",
-            "last_retested_at_epoch": 1598627494.81302,
-            "last_retested_at_iso": "2020-08-28T15:11:34.813020",
+            "included_at_epoch": 1598800375.946868,
+            "included_at_iso": "2020-08-30T15:12:55.946868",
+            "last_retested_at_epoch": 1598800375.946868,
+            "last_retested_at_iso": "2020-08-30T15:12:55.946868",
             "status": "INACTIVE"
         },
         "dlldlldll.sytes.net": {
@@ -1214,10 +1214,10 @@
             "status": "INACTIVE"
         },
         "l.zeroredirect.com": {
-            "included_at_epoch": 1596293650.572813,
-            "included_at_iso": "2020-08-01T14:54:10.572813",
-            "last_retested_at_epoch": 1598627497.398864,
-            "last_retested_at_iso": "2020-08-28T15:11:37.398864",
+            "included_at_epoch": 1598800376.526932,
+            "included_at_iso": "2020-08-30T15:12:56.526932",
+            "last_retested_at_epoch": 1598800376.526932,
+            "last_retested_at_iso": "2020-08-30T15:12:56.526932",
             "status": "INACTIVE"
         },
         "lcbcad.co.uk": {
@@ -1284,10 +1284,10 @@
             "status": "INACTIVE"
         },
         "mail.poker.cm": {
-            "included_at_epoch": 1596293650.656679,
-            "included_at_iso": "2020-08-01T14:54:10.656679",
-            "last_retested_at_epoch": 1598627497.485504,
-            "last_retested_at_iso": "2020-08-28T15:11:37.485504",
+            "included_at_epoch": 1598800376.550187,
+            "included_at_iso": "2020-08-30T15:12:56.550187",
+            "last_retested_at_epoch": 1598800376.550187,
+            "last_retested_at_iso": "2020-08-30T15:12:56.550187",
             "status": "INACTIVE"
         },
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
@@ -1393,6 +1393,13 @@
             "included_at_iso": "2020-08-24T15:43:48.911190",
             "last_retested_at_epoch": 1598629234.928089,
             "last_retested_at_iso": "2020-08-28T15:40:34.928089",
+            "status": "INACTIVE"
+        },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1598800376.723756,
+            "included_at_iso": "2020-08-30T15:12:56.723756",
+            "last_retested_at_epoch": 1598800376.723756,
+            "last_retested_at_iso": "2020-08-30T15:12:56.723756",
             "status": "INACTIVE"
         },
         "o.zeroredirect.com": {
