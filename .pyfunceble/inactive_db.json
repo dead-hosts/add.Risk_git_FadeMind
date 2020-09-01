@@ -653,13 +653,6 @@
             "last_retested_at_iso": "2020-08-28T15:11:32.452474",
             "status": "INACTIVE"
         },
-        "4.collecorvino.org": {
-            "included_at_epoch": 1596553790.387724,
-            "included_at_iso": "2020-08-04T15:09:50.387724",
-            "last_retested_at_epoch": 1598627492.520915,
-            "last_retested_at_iso": "2020-08-28T15:11:32.520915",
-            "status": "INACTIVE"
-        },
         "4.whereinitaly.com": {
             "included_at_epoch": 1597763088.084689,
             "included_at_iso": "2020-08-18T15:04:48.084689",
@@ -1241,13 +1234,6 @@
             "last_retested_at_iso": "2020-08-28T15:11:37.181712",
             "status": "INACTIVE"
         },
-        "lifeeverest.com": {
-            "included_at_epoch": 1596553795.108369,
-            "included_at_iso": "2020-08-04T15:09:55.108369",
-            "last_retested_at_epoch": 1598627497.194967,
-            "last_retested_at_iso": "2020-08-28T15:11:37.194967",
-            "status": "INACTIVE"
-        },
         "lilian.redirectme.net": {
             "included_at_epoch": 1597071594.622479,
             "included_at_iso": "2020-08-10T14:59:54.622479",
@@ -1794,6 +1780,13 @@
             "last_retested_at_iso": "2020-08-28T15:40:39.553657",
             "status": "INACTIVE"
         },
+        "www.dentairemalin.com": {
+            "included_at_epoch": 1598974252.998979,
+            "included_at_iso": "2020-09-01T15:30:52.998979",
+            "last_retested_at_epoch": 1598974252.998979,
+            "last_retested_at_iso": "2020-09-01T15:30:52.998979",
+            "status": "INACTIVE"
+        },
         "www.dollarrentcar.com": {
             "included_at_epoch": 1598284931.536131,
             "included_at_iso": "2020-08-24T16:02:11.536131",
@@ -2037,6 +2030,13 @@
             "included_at_iso": "2020-08-24T16:02:12.399660",
             "last_retested_at_epoch": 1598631067.088723,
             "last_retested_at_iso": "2020-08-28T16:11:07.088723",
+            "status": "INACTIVE"
+        },
+        "www.oneund.ru": {
+            "included_at_epoch": 1598974253.696983,
+            "included_at_iso": "2020-09-01T15:30:53.696983",
+            "last_retested_at_epoch": 1598974253.696983,
+            "last_retested_at_iso": "2020-09-01T15:30:53.696983",
             "status": "INACTIVE"
         },
         "www.onlineadmin.net": {

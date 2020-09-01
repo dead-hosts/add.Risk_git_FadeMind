@@ -3749,8 +3749,9 @@
         "state": "future"
     },
     "spywarespy.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "srv2trking.com": {
@@ -3989,8 +3990,9 @@
         "state": "future"
     },
     "tracki112.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tracklead.net": {
@@ -4259,8 +4261,9 @@
         "state": "future"
     },
     "vk2ca.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1661904000.0,
+        "expiration_date": "31-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vmay.com": {
