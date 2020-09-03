@@ -1276,13 +1276,6 @@
             "last_retested_at_iso": "2020-08-28T15:11:37.353968",
             "status": "INACTIVE"
         },
-        "lycosgamesville.com": {
-            "included_at_epoch": 1596726421.953573,
-            "included_at_iso": "2020-08-06T15:07:01.953573",
-            "last_retested_at_epoch": 1598627497.390967,
-            "last_retested_at_iso": "2020-08-28T15:11:37.390967",
-            "status": "INACTIVE"
-        },
         "m.zeroredirect.com": {
             "included_at_epoch": 1597764842.510645,
             "included_at_iso": "2020-08-18T15:34:02.510645",
@@ -1316,13 +1309,6 @@
             "included_at_iso": "2020-08-26T15:10:55.719222",
             "last_retested_at_epoch": 1598627497.617066,
             "last_retested_at_iso": "2020-08-28T15:11:37.617066",
-            "status": "INACTIVE"
-        },
-        "minigameplanet.com": {
-            "included_at_epoch": 1596726422.312602,
-            "included_at_iso": "2020-08-06T15:07:02.312602",
-            "last_retested_at_epoch": 1598627497.764582,
-            "last_retested_at_iso": "2020-08-28T15:11:37.764582",
             "status": "INACTIVE"
         },
         "mlpoint.pt": {
@@ -1591,6 +1577,13 @@
             "last_retested_at_iso": "2020-08-28T15:40:37.980241",
             "status": "INACTIVE"
         },
+        "trk.simply.net": {
+            "included_at_epoch": 1599147024.102549,
+            "included_at_iso": "2020-09-03T15:30:24.102549",
+            "last_retested_at_epoch": 1599147024.102549,
+            "last_retested_at_iso": "2020-09-03T15:30:24.102549",
+            "status": "INACTIVE"
+        },
         "tttbbbttt.zapto.org": {
             "included_at_epoch": 1598283831.997612,
             "included_at_iso": "2020-08-24T15:43:51.997612",
@@ -1850,6 +1843,13 @@
             "last_retested_at_iso": "2020-08-28T16:11:06.371215",
             "status": "INACTIVE"
         },
+        "www.foreclousure.com": {
+            "included_at_epoch": 1599147024.999471,
+            "included_at_iso": "2020-09-03T15:30:24.999471",
+            "last_retested_at_epoch": 1599147024.999471,
+            "last_retested_at_iso": "2020-09-03T15:30:24.999471",
+            "status": "INACTIVE"
+        },
         "www.forex-instruments.info": {
             "included_at_epoch": 1597420847.857835,
             "included_at_iso": "2020-08-14T16:00:47.857835",
@@ -2102,6 +2102,13 @@
             "last_retested_at_iso": "2020-08-28T16:11:07.314727",
             "status": "INACTIVE"
         },
+        "www.robtopol.in": {
+            "included_at_epoch": 1599147025.716415,
+            "included_at_iso": "2020-09-03T15:30:25.716415",
+            "last_retested_at_epoch": 1599147025.716415,
+            "last_retested_at_iso": "2020-09-03T15:30:25.716415",
+            "status": "INACTIVE"
+        },
         "www.scanspyware.net": {
             "included_at_epoch": 1598284932.744288,
             "included_at_iso": "2020-08-24T16:02:12.744288",
@@ -2310,6 +2317,13 @@
             "included_at_iso": "2020-08-06T15:44:49.234542",
             "last_retested_at_epoch": 1598631068.171944,
             "last_retested_at_iso": "2020-08-28T16:11:08.171944",
+            "status": "INACTIVE"
+        },
+        "www.zoogdisny.com": {
+            "included_at_epoch": 1599147026.285255,
+            "included_at_iso": "2020-09-03T15:30:26.285255",
+            "last_retested_at_epoch": 1599147026.285255,
+            "last_retested_at_iso": "2020-09-03T15:30:26.285255",
             "status": "INACTIVE"
         },
         "www2.leadingedgecash.com": {
