@@ -653,6 +653,13 @@
             "last_retested_at_iso": "2020-08-28T15:11:32.452474",
             "status": "INACTIVE"
         },
+        "4.collecorvino.org": {
+            "included_at_epoch": 1599146056.948844,
+            "included_at_iso": "2020-09-03T15:14:16.948844",
+            "last_retested_at_epoch": 1599146056.948844,
+            "last_retested_at_iso": "2020-09-03T15:14:16.948844",
+            "status": "INACTIVE"
+        },
         "4.whereinitaly.com": {
             "included_at_epoch": 1597763088.084689,
             "included_at_iso": "2020-08-18T15:04:48.084689",
@@ -784,6 +791,13 @@
             "included_at_iso": "2020-08-10T14:59:49.910198",
             "last_retested_at_epoch": 1598627493.15064,
             "last_retested_at_iso": "2020-08-28T15:11:33.150640",
+            "status": "INACTIVE"
+        },
+        "apps.clickcash.com": {
+            "included_at_epoch": 1599146057.084669,
+            "included_at_iso": "2020-09-03T15:14:17.084669",
+            "last_retested_at_epoch": 1599146057.084669,
+            "last_retested_at_iso": "2020-09-03T15:14:17.084669",
             "status": "INACTIVE"
         },
         "arecio.work": {
@@ -1234,6 +1248,13 @@
             "last_retested_at_iso": "2020-08-28T15:11:37.181712",
             "status": "INACTIVE"
         },
+        "lifeeverest.com": {
+            "included_at_epoch": 1599146057.976632,
+            "included_at_iso": "2020-09-03T15:14:17.976632",
+            "last_retested_at_epoch": 1599146057.976632,
+            "last_retested_at_iso": "2020-09-03T15:14:17.976632",
+            "status": "INACTIVE"
+        },
         "lilian.redirectme.net": {
             "included_at_epoch": 1597071594.622479,
             "included_at_iso": "2020-08-10T14:59:54.622479",
@@ -1568,13 +1589,6 @@
             "included_at_iso": "2020-08-06T15:29:29.395655",
             "last_retested_at_epoch": 1598629237.980241,
             "last_retested_at_iso": "2020-08-28T15:40:37.980241",
-            "status": "INACTIVE"
-        },
-        "trk.simply.net": {
-            "included_at_epoch": 1596556117.825601,
-            "included_at_iso": "2020-08-04T15:48:37.825601",
-            "last_retested_at_epoch": 1598629238.024577,
-            "last_retested_at_iso": "2020-08-28T15:40:38.024577",
             "status": "INACTIVE"
         },
         "tttbbbttt.zapto.org": {
@@ -2088,13 +2102,6 @@
             "last_retested_at_iso": "2020-08-28T16:11:07.314727",
             "status": "INACTIVE"
         },
-        "www.robtopol.in": {
-            "included_at_epoch": 1596557119.1806,
-            "included_at_iso": "2020-08-04T16:05:19.180600",
-            "last_retested_at_epoch": 1598631067.373574,
-            "last_retested_at_iso": "2020-08-28T16:11:07.373574",
-            "status": "INACTIVE"
-        },
         "www.scanspyware.net": {
             "included_at_epoch": 1598284932.744288,
             "included_at_iso": "2020-08-24T16:02:12.744288",
@@ -2303,13 +2310,6 @@
             "included_at_iso": "2020-08-06T15:44:49.234542",
             "last_retested_at_epoch": 1598631068.171944,
             "last_retested_at_iso": "2020-08-28T16:11:08.171944",
-            "status": "INACTIVE"
-        },
-        "www.zoogdisny.com": {
-            "included_at_epoch": 1596557119.984263,
-            "included_at_iso": "2020-08-04T16:05:19.984263",
-            "last_retested_at_epoch": 1598631068.179148,
-            "last_retested_at_iso": "2020-08-28T16:11:08.179148",
             "status": "INACTIVE"
         },
         "www2.leadingedgecash.com": {
