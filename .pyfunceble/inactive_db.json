@@ -667,34 +667,6 @@
             "last_retested_at_iso": "2020-08-28T15:11:32.528142",
             "status": "INACTIVE"
         },
-        "4.whereinlazio.com": {
-            "included_at_epoch": 1596899325.781737,
-            "included_at_iso": "2020-08-08T15:08:45.781737",
-            "last_retested_at_epoch": 1598627492.533728,
-            "last_retested_at_iso": "2020-08-28T15:11:32.533728",
-            "status": "INACTIVE"
-        },
-        "4.whereinmilan.com": {
-            "included_at_epoch": 1596899325.790503,
-            "included_at_iso": "2020-08-08T15:08:45.790503",
-            "last_retested_at_epoch": 1598627492.543443,
-            "last_retested_at_iso": "2020-08-28T15:11:32.543443",
-            "status": "INACTIVE"
-        },
-        "4.whereinpuglia.com": {
-            "included_at_epoch": 1596899325.79687,
-            "included_at_iso": "2020-08-08T15:08:45.796870",
-            "last_retested_at_epoch": 1598627492.55129,
-            "last_retested_at_iso": "2020-08-28T15:11:32.551290",
-            "status": "INACTIVE"
-        },
-        "4.whereinsicily.com": {
-            "included_at_epoch": 1596899325.804917,
-            "included_at_iso": "2020-08-08T15:08:45.804917",
-            "last_retested_at_epoch": 1598627492.561177,
-            "last_retested_at_iso": "2020-08-28T15:11:32.561177",
-            "status": "INACTIVE"
-        },
         "6.mamaswishes.com": {
             "included_at_epoch": 1597071589.279588,
             "included_at_iso": "2020-08-10T14:59:49.279588",
@@ -903,13 +875,6 @@
             "included_at_iso": "2020-08-10T14:59:51.269595",
             "last_retested_at_epoch": 1598627494.303763,
             "last_retested_at_iso": "2020-08-28T15:11:34.303763",
-            "status": "INACTIVE"
-        },
-        "click.zeroclickdirect.com": {
-            "included_at_epoch": 1596899327.673192,
-            "included_at_iso": "2020-08-08T15:08:47.673192",
-            "last_retested_at_epoch": 1598627494.334157,
-            "last_retested_at_iso": "2020-08-28T15:11:34.334157",
             "status": "INACTIVE"
         },
         "coding.1100011.ir": {
@@ -1591,6 +1556,20 @@
             "last_retested_at_iso": "2020-08-28T15:40:37.543136",
             "status": "INACTIVE"
         },
+        "top.dating.lt": {
+            "included_at_epoch": 1599319831.29117,
+            "included_at_iso": "2020-09-05T15:30:31.291170",
+            "last_retested_at_epoch": 1599319831.29117,
+            "last_retested_at_iso": "2020-09-05T15:30:31.291170",
+            "status": "INACTIVE"
+        },
+        "triggers1.wfxtriggers.com": {
+            "included_at_epoch": 1599319831.371402,
+            "included_at_iso": "2020-09-05T15:30:31.371402",
+            "last_retested_at_epoch": 1599319831.371402,
+            "last_retested_at_iso": "2020-09-05T15:30:31.371402",
+            "status": "INACTIVE"
+        },
         "trk.simply.net": {
             "included_at_epoch": 1599147024.102549,
             "included_at_iso": "2020-09-03T15:30:24.102549",
@@ -1687,6 +1666,13 @@
             "included_at_iso": "2020-08-24T15:43:52.968279",
             "last_retested_at_epoch": 1598629239.118575,
             "last_retested_at_iso": "2020-08-28T15:40:39.118575",
+            "status": "INACTIVE"
+        },
+        "www.av-clean.com": {
+            "included_at_epoch": 1599319831.823248,
+            "included_at_iso": "2020-09-05T15:30:31.823248",
+            "last_retested_at_epoch": 1599319831.823248,
+            "last_retested_at_iso": "2020-09-05T15:30:31.823248",
             "status": "INACTIVE"
         },
         "www.ayehcleaners.com": {
@@ -1876,6 +1862,13 @@
             "included_at_iso": "2020-08-24T16:02:11.727558",
             "last_retested_at_epoch": 1598631066.43068,
             "last_retested_at_iso": "2020-08-28T16:11:06.430680",
+            "status": "INACTIVE"
+        },
+        "www.full-edition.info": {
+            "included_at_epoch": 1599319832.255427,
+            "included_at_iso": "2020-09-05T15:30:32.255427",
+            "last_retested_at_epoch": 1599319832.255427,
+            "last_retested_at_iso": "2020-09-05T15:30:32.255427",
             "status": "INACTIVE"
         },
         "www.getsearchlist.com": {
@@ -2186,6 +2179,13 @@
             "last_retested_at_iso": "2020-08-28T16:11:07.760545",
             "status": "INACTIVE"
         },
+        "www.trk4.com": {
+            "included_at_epoch": 1599319833.126803,
+            "included_at_iso": "2020-09-05T15:30:33.126803",
+            "last_retested_at_epoch": 1599319833.126803,
+            "last_retested_at_iso": "2020-09-05T15:30:33.126803",
+            "status": "INACTIVE"
+        },
         "www.tuckows.com": {
             "included_at_epoch": 1598284933.156702,
             "included_at_iso": "2020-08-24T16:02:13.156702",
@@ -2219,6 +2219,20 @@
             "included_at_iso": "2020-08-28T16:11:07.946683",
             "last_retested_at_epoch": 1598631067.946683,
             "last_retested_at_iso": "2020-08-28T16:11:07.946683",
+            "status": "INACTIVE"
+        },
+        "www.wmserver.net": {
+            "included_at_epoch": 1599319833.256083,
+            "included_at_iso": "2020-09-05T15:30:33.256083",
+            "last_retested_at_epoch": 1599319833.256083,
+            "last_retested_at_iso": "2020-09-05T15:30:33.256083",
+            "status": "INACTIVE"
+        },
+        "www.writingassociates.com": {
+            "included_at_epoch": 1599319833.267785,
+            "included_at_iso": "2020-09-05T15:30:33.267785",
+            "last_retested_at_epoch": 1599319833.267785,
+            "last_retested_at_iso": "2020-09-05T15:30:33.267785",
             "status": "INACTIVE"
         },
         "www.wwwbackstreetboys.com": {
@@ -2310,6 +2324,13 @@
             "included_at_iso": "2020-08-24T16:02:13.568612",
             "last_retested_at_epoch": 1598631068.145169,
             "last_retested_at_iso": "2020-08-28T16:11:08.145169",
+            "status": "INACTIVE"
+        },
+        "www.zoogdiseny.com": {
+            "included_at_epoch": 1599319833.361544,
+            "included_at_iso": "2020-09-05T15:30:33.361544",
+            "last_retested_at_epoch": 1599319833.361544,
+            "last_retested_at_iso": "2020-09-05T15:30:33.361544",
             "status": "INACTIVE"
         },
         "www.zoogdisny.com": {
