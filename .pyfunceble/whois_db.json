@@ -2721,7 +2721,8 @@
     "neki.org": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.pir.org",
+        "state": "past"
     },
     "nestscape.com": {
         "epoch": 1636156800.0,
@@ -2769,8 +2770,9 @@
         "state": "future"
     },
     "nkgamers.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nmapquest.com": {
@@ -3049,10 +3051,10 @@
         "state": "future"
     },
     "php4you.biz": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "pillsmoney.com": {
         "epoch": 1617580800.0,
