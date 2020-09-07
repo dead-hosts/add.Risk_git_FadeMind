@@ -1724,6 +1724,13 @@
             "last_retested_at_iso": "2020-08-28T15:40:39.151277",
             "status": "INACTIVE"
         },
+        "www.bestwm.info": {
+            "included_at_epoch": 1599492776.705143,
+            "included_at_iso": "2020-09-07T15:32:56.705143",
+            "last_retested_at_epoch": 1599492776.705143,
+            "last_retested_at_iso": "2020-09-07T15:32:56.705143",
+            "status": "INACTIVE"
+        },
         "www.beyondwhois.com": {
             "included_at_epoch": 1598283833.042518,
             "included_at_iso": "2020-08-24T15:43:53.042518",
@@ -1850,6 +1857,13 @@
             "last_retested_at_iso": "2020-08-28T16:11:06.314982",
             "status": "INACTIVE"
         },
+        "www.emrlogistics.com": {
+            "included_at_epoch": 1599492777.014692,
+            "included_at_iso": "2020-09-07T15:32:57.014692",
+            "last_retested_at_epoch": 1599492777.014692,
+            "last_retested_at_iso": "2020-09-07T15:32:57.014692",
+            "status": "INACTIVE"
+        },
         "www.enoratraffic.com": {
             "included_at_epoch": 1598112313.579181,
             "included_at_iso": "2020-08-22T16:05:13.579181",
@@ -1967,6 +1981,13 @@
             "included_at_iso": "2020-08-24T16:02:12.069838",
             "last_retested_at_epoch": 1598631066.753967,
             "last_retested_at_iso": "2020-08-28T16:11:06.753967",
+            "status": "INACTIVE"
+        },
+        "www.jmp2click.com": {
+            "included_at_epoch": 1599492777.299636,
+            "included_at_iso": "2020-09-07T15:32:57.299636",
+            "last_retested_at_epoch": 1599492777.299636,
+            "last_retested_at_iso": "2020-09-07T15:32:57.299636",
             "status": "INACTIVE"
         },
         "www.jque.net": {
