@@ -2051,8 +2051,9 @@
         "state": "future"
     },
     "iybasketball.info": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "iyfnzgb.com": {
@@ -2719,10 +2720,10 @@
         "state": "future"
     },
     "neki.org": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.pir.org",
-        "state": "past"
+        "state": "future"
     },
     "nestscape.com": {
         "epoch": 1636156800.0,

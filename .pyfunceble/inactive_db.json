@@ -751,6 +751,13 @@
             "last_retested_at_iso": "2020-08-28T15:11:32.854565",
             "status": "INACTIVE"
         },
+        "adwcleaner.telecharger.toggle.com": {
+            "included_at_epoch": 1599664650.178627,
+            "included_at_iso": "2020-09-09T15:17:30.178627",
+            "last_retested_at_epoch": 1599664650.178627,
+            "last_retested_at_iso": "2020-09-09T15:17:30.178627",
+            "status": "INACTIVE"
+        },
         "adweb1.hornymatches.com": {
             "included_at_epoch": 1599491786.215021,
             "included_at_iso": "2020-09-07T15:16:26.215021",
@@ -910,6 +917,13 @@
             "included_at_iso": "2020-09-07T15:16:26.595812",
             "last_retested_at_epoch": 1599491786.595812,
             "last_retested_at_iso": "2020-09-07T15:16:26.595812",
+            "status": "INACTIVE"
+        },
+        "clickcash.webpower.com": {
+            "included_at_epoch": 1599664650.488602,
+            "included_at_iso": "2020-09-09T15:17:30.488602",
+            "last_retested_at_epoch": 1599664650.488602,
+            "last_retested_at_iso": "2020-09-09T15:17:30.488602",
             "status": "INACTIVE"
         },
         "coding.1100011.ir": {
@@ -1155,6 +1169,13 @@
             "included_at_iso": "2020-09-07T15:16:27.239216",
             "last_retested_at_epoch": 1599491787.239216,
             "last_retested_at_iso": "2020-09-07T15:16:27.239216",
+            "status": "INACTIVE"
+        },
+        "itunesdownloadstore.com": {
+            "included_at_epoch": 1599664651.06561,
+            "included_at_iso": "2020-09-09T15:17:31.065610",
+            "last_retested_at_epoch": 1599664651.06561,
+            "last_retested_at_iso": "2020-09-09T15:17:31.065610",
             "status": "INACTIVE"
         },
         "j.pioneeringad.com": {
@@ -2156,13 +2177,6 @@
             "included_at_iso": "2020-08-24T16:02:12.744288",
             "last_retested_at_epoch": 1598631067.407829,
             "last_retested_at_iso": "2020-08-28T16:11:07.407829",
-            "status": "INACTIVE"
-        },
-        "www.sendori.com": {
-            "included_at_epoch": 1597074335.985843,
-            "included_at_iso": "2020-08-10T15:45:35.985843",
-            "last_retested_at_epoch": 1598631067.469489,
-            "last_retested_at_iso": "2020-08-28T16:11:07.469489",
             "status": "INACTIVE"
         },
         "www.sevenstars7.com": {
