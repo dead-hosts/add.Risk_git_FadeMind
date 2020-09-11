@@ -723,8 +723,9 @@
         "state": "future"
     },
     "cecash.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "centerfind.com": {
@@ -833,8 +834,9 @@
         "state": "future"
     },
     "cleanallspyware.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cleanallvirus.com": {
@@ -1933,7 +1935,8 @@
     "i-games.biz": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "ibmvideo.com": {
         "epoch": 1599955200.0,
