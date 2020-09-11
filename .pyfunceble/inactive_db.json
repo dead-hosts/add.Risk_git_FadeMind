@@ -1738,6 +1738,13 @@
             "last_retested_at_iso": "2020-08-28T15:40:39.118575",
             "status": "INACTIVE"
         },
+        "www.automoneygenerator.com": {
+            "included_at_epoch": 1599838536.045877,
+            "included_at_iso": "2020-09-11T15:35:36.045877",
+            "last_retested_at_epoch": 1599838536.045877,
+            "last_retested_at_iso": "2020-09-11T15:35:36.045877",
+            "status": "INACTIVE"
+        },
         "www.av-clean.com": {
             "included_at_epoch": 1599319831.823248,
             "included_at_iso": "2020-09-05T15:30:31.823248",
@@ -1778,6 +1785,13 @@
             "included_at_iso": "2020-08-24T15:43:53.087035",
             "last_retested_at_epoch": 1598629239.23876,
             "last_retested_at_iso": "2020-08-28T15:40:39.238760",
+            "status": "INACTIVE"
+        },
+        "www.boattraider.com": {
+            "included_at_epoch": 1599838536.111294,
+            "included_at_iso": "2020-09-11T15:35:36.111294",
+            "last_retested_at_epoch": 1599838536.111294,
+            "last_retested_at_iso": "2020-09-11T15:35:36.111294",
             "status": "INACTIVE"
         },
         "www.butterfly-media.co.uk": {
@@ -1841,6 +1855,13 @@
             "included_at_iso": "2020-08-24T16:02:11.337478",
             "last_retested_at_epoch": 1598629239.44796,
             "last_retested_at_iso": "2020-08-28T15:40:39.447960",
+            "status": "INACTIVE"
+        },
+        "www.clickcash.com": {
+            "included_at_epoch": 1599838536.236261,
+            "included_at_iso": "2020-09-11T15:35:36.236261",
+            "last_retested_at_epoch": 1599838536.236261,
+            "last_retested_at_iso": "2020-09-11T15:35:36.236261",
             "status": "INACTIVE"
         },
         "www.collectiable.com": {
