@@ -784,8 +784,9 @@
         "state": "future"
     },
     "chilyregistrycleaner.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "chlcotrk.com": {
@@ -1939,8 +1940,9 @@
         "state": "past"
     },
     "ibmvideo.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "icityfind.com": {
@@ -2065,8 +2067,9 @@
         "state": "future"
     },
     "japanesevehicles.us": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "japanmadchen.com": {

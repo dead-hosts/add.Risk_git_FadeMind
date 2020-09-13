@@ -1011,10 +1011,10 @@
             "status": "INACTIVE"
         },
         "eclean.or.kr": {
-            "included_at_epoch": 1597590239.017813,
-            "included_at_iso": "2020-08-16T15:03:59.017813",
-            "last_retested_at_epoch": 1598627495.164217,
-            "last_retested_at_iso": "2020-08-28T15:11:35.164217",
+            "included_at_epoch": 1600010363.846067,
+            "included_at_iso": "2020-09-13T15:19:23.846067",
+            "last_retested_at_epoch": 1600010363.846067,
+            "last_retested_at_iso": "2020-09-13T15:19:23.846067",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -1403,10 +1403,10 @@
             "status": "INACTIVE"
         },
         "naijahacklord.tk": {
-            "included_at_epoch": 1597419679.189163,
-            "included_at_iso": "2020-08-14T15:41:19.189163",
-            "last_retested_at_epoch": 1598627498.1176,
-            "last_retested_at_iso": "2020-08-28T15:11:38.117600",
+            "included_at_epoch": 1600010364.517785,
+            "included_at_iso": "2020-09-13T15:19:24.517785",
+            "last_retested_at_epoch": 1600010364.517785,
+            "last_retested_at_iso": "2020-09-13T15:19:24.517785",
             "status": "INACTIVE"
         },
         "noredirecto.redirectme.net": {
@@ -1939,13 +1939,6 @@
             "included_at_iso": "2020-09-03T15:30:24.999471",
             "last_retested_at_epoch": 1599147024.999471,
             "last_retested_at_iso": "2020-09-03T15:30:24.999471",
-            "status": "INACTIVE"
-        },
-        "www.forex-instruments.info": {
-            "included_at_epoch": 1597420847.857835,
-            "included_at_iso": "2020-08-14T16:00:47.857835",
-            "last_retested_at_epoch": 1598631066.405835,
-            "last_retested_at_iso": "2020-08-28T16:11:06.405835",
             "status": "INACTIVE"
         },
         "www.free-choices.com": {
