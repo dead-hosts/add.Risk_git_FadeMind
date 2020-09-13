@@ -1941,6 +1941,13 @@
             "last_retested_at_iso": "2020-09-03T15:30:24.999471",
             "status": "INACTIVE"
         },
+        "www.forex-instruments.info": {
+            "included_at_epoch": 1600011209.018052,
+            "included_at_iso": "2020-09-13T15:33:29.018052",
+            "last_retested_at_epoch": 1600011209.018052,
+            "last_retested_at_iso": "2020-09-13T15:33:29.018052",
+            "status": "INACTIVE"
+        },
         "www.free-choices.com": {
             "included_at_epoch": 1598284931.727558,
             "included_at_iso": "2020-08-24T16:02:11.727558",
@@ -1967,6 +1974,13 @@
             "included_at_iso": "2020-08-24T16:02:11.918134",
             "last_retested_at_epoch": 1598631066.597102,
             "last_retested_at_iso": "2020-08-28T16:11:06.597102",
+            "status": "INACTIVE"
+        },
+        "www.guaranty.com.cn": {
+            "included_at_epoch": 1600011209.150175,
+            "included_at_iso": "2020-09-13T15:33:29.150175",
+            "last_retested_at_epoch": 1600011209.150175,
+            "last_retested_at_iso": "2020-09-13T15:33:29.150175",
             "status": "INACTIVE"
         },
         "www.gxplugin.com": {
