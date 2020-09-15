@@ -126,8 +126,9 @@
         "state": "future"
     },
     "adclickservice.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adclickthru.net": {
@@ -1198,8 +1199,9 @@
         "state": "future"
     },
     "dollarrentcar.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "domainfwd.com": {
@@ -1474,8 +1476,9 @@
         "state": "future"
     },
     "firstconsumers.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fixcleaner.com": {
@@ -2440,8 +2443,9 @@
         "state": "future"
     },
     "mamamidia.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mansmith.net": {
@@ -2485,8 +2489,9 @@
         "state": "future"
     },
     "maxregistrycleaner.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "maxregistrycleaner.net": {

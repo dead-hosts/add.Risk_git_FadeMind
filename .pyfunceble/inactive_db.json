@@ -661,10 +661,10 @@
             "status": "INACTIVE"
         },
         "4.whereinitaly.com": {
-            "included_at_epoch": 1597763088.084689,
-            "included_at_iso": "2020-08-18T15:04:48.084689",
-            "last_retested_at_epoch": 1598627492.528142,
-            "last_retested_at_iso": "2020-08-28T15:11:32.528142",
+            "included_at_epoch": 1600183249.138902,
+            "included_at_iso": "2020-09-15T15:20:49.138902",
+            "last_retested_at_epoch": 1600183249.138902,
+            "last_retested_at_iso": "2020-09-15T15:20:49.138902",
             "status": "INACTIVE"
         },
         "4.whereinlazio.com": {
@@ -947,6 +947,13 @@
             "last_retested_at_iso": "2020-09-07T15:16:26.644387",
             "status": "INACTIVE"
         },
+        "continentialairline.com": {
+            "included_at_epoch": 1600183249.555288,
+            "included_at_iso": "2020-09-15T15:20:49.555288",
+            "last_retested_at_epoch": 1600183249.555288,
+            "last_retested_at_iso": "2020-09-15T15:20:49.555288",
+            "status": "INACTIVE"
+        },
         "counter.top.dating.lt": {
             "included_at_epoch": 1599837521.316134,
             "included_at_iso": "2020-09-11T15:18:41.316134",
@@ -962,10 +969,10 @@
             "status": "INACTIVE"
         },
         "d.tds.adlabs.ru": {
-            "included_at_epoch": 1597763090.568788,
-            "included_at_iso": "2020-08-18T15:04:50.568788",
-            "last_retested_at_epoch": 1598627495.074716,
-            "last_retested_at_iso": "2020-08-28T15:11:35.074716",
+            "included_at_epoch": 1600183249.698834,
+            "included_at_iso": "2020-09-15T15:20:49.698834",
+            "last_retested_at_epoch": 1600183249.698834,
+            "last_retested_at_iso": "2020-09-15T15:20:49.698834",
             "status": "INACTIVE"
         },
         "d.zeroredirect.com": {
@@ -1325,6 +1332,13 @@
             "last_retested_at_iso": "2020-08-28T15:11:38.090762",
             "status": "INACTIVE"
         },
+        "maconbraves.com": {
+            "included_at_epoch": 1600183250.259561,
+            "included_at_iso": "2020-09-15T15:20:50.259561",
+            "last_retested_at_epoch": 1600183250.259561,
+            "last_retested_at_iso": "2020-09-15T15:20:50.259561",
+            "status": "INACTIVE"
+        },
         "mail.poker.cm": {
             "included_at_epoch": 1598800376.550187,
             "included_at_iso": "2020-08-30T15:12:56.550187",
@@ -1585,10 +1599,10 @@
             "status": "INACTIVE"
         },
         "site.falconbucks.com": {
-            "included_at_epoch": 1597592730.731617,
-            "included_at_iso": "2020-08-16T15:45:30.731617",
-            "last_retested_at_epoch": 1598629236.842774,
-            "last_retested_at_iso": "2020-08-28T15:40:36.842774",
+            "included_at_epoch": 1600183250.918834,
+            "included_at_iso": "2020-09-15T15:20:50.918834",
+            "last_retested_at_epoch": 1600183250.918834,
+            "last_retested_at_iso": "2020-09-15T15:20:50.918834",
             "status": "INACTIVE"
         },
         "stignita.zapto.org": {
@@ -1624,6 +1638,13 @@
             "included_at_iso": "2020-08-24T15:43:51.475893",
             "last_retested_at_epoch": 1598629237.543136,
             "last_retested_at_iso": "2020-08-28T15:40:37.543136",
+            "status": "INACTIVE"
+        },
+        "toolbar.wips.com": {
+            "included_at_epoch": 1600183251.225666,
+            "included_at_iso": "2020-09-15T15:20:51.225666",
+            "last_retested_at_epoch": 1600183251.225666,
+            "last_retested_at_iso": "2020-09-15T15:20:51.225666",
             "status": "INACTIVE"
         },
         "top.dating.lt": {
@@ -1883,13 +1904,6 @@
             "included_at_iso": "2020-08-24T16:02:11.536131",
             "last_retested_at_epoch": 1598631066.245096,
             "last_retested_at_iso": "2020-08-28T16:11:06.245096",
-            "status": "INACTIVE"
-        },
-        "www.eclean.or.kr": {
-            "included_at_epoch": 1597593760.635769,
-            "included_at_iso": "2020-08-16T16:02:40.635769",
-            "last_retested_at_epoch": 1598631066.288095,
-            "last_retested_at_iso": "2020-08-28T16:11:06.288095",
             "status": "INACTIVE"
         },
         "www.egoldenglove.com": {
@@ -2590,27 +2604,6 @@
             "included_at_iso": "2020-08-24T16:02:14.268224",
             "last_retested_at_epoch": 1598631068.779234,
             "last_retested_at_iso": "2020-08-28T16:11:08.779234",
-            "status": "INACTIVE"
-        },
-        "zf1.zeroredirect11.com": {
-            "included_at_epoch": 1597593763.037408,
-            "included_at_iso": "2020-08-16T16:02:43.037408",
-            "last_retested_at_epoch": 1598631068.606012,
-            "last_retested_at_iso": "2020-08-28T16:11:08.606012",
-            "status": "INACTIVE"
-        },
-        "zh1.zeroredirect11.com": {
-            "included_at_epoch": 1597593763.047917,
-            "included_at_iso": "2020-08-16T16:02:43.047917",
-            "last_retested_at_epoch": 1598631068.615921,
-            "last_retested_at_iso": "2020-08-28T16:11:08.615921",
-            "status": "INACTIVE"
-        },
-        "zr1.zeroredirect11.com": {
-            "included_at_epoch": 1597593763.195643,
-            "included_at_iso": "2020-08-16T16:02:43.195643",
-            "last_retested_at_epoch": 1598631068.756512,
-            "last_retested_at_iso": "2020-08-28T16:11:08.756512",
             "status": "INACTIVE"
         }
     }
