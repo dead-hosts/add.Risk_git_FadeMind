@@ -1906,6 +1906,13 @@
             "last_retested_at_iso": "2020-08-28T16:11:06.245096",
             "status": "INACTIVE"
         },
+        "www.eclean.or.kr": {
+            "included_at_epoch": 1600184296.127866,
+            "included_at_iso": "2020-09-15T15:38:16.127866",
+            "last_retested_at_epoch": 1600184296.127866,
+            "last_retested_at_iso": "2020-09-15T15:38:16.127866",
+            "status": "INACTIVE"
+        },
         "www.egoldenglove.com": {
             "included_at_epoch": 1598284931.59514,
             "included_at_iso": "2020-08-24T16:02:11.595140",
@@ -2604,6 +2611,27 @@
             "included_at_iso": "2020-08-24T16:02:14.268224",
             "last_retested_at_epoch": 1598631068.779234,
             "last_retested_at_iso": "2020-08-28T16:11:08.779234",
+            "status": "INACTIVE"
+        },
+        "zf1.zeroredirect11.com": {
+            "included_at_epoch": 1600184297.47958,
+            "included_at_iso": "2020-09-15T15:38:17.479580",
+            "last_retested_at_epoch": 1600184297.47958,
+            "last_retested_at_iso": "2020-09-15T15:38:17.479580",
+            "status": "INACTIVE"
+        },
+        "zh1.zeroredirect11.com": {
+            "included_at_epoch": 1600184297.489916,
+            "included_at_iso": "2020-09-15T15:38:17.489916",
+            "last_retested_at_epoch": 1600184297.489916,
+            "last_retested_at_iso": "2020-09-15T15:38:17.489916",
+            "status": "INACTIVE"
+        },
+        "zr1.zeroredirect11.com": {
+            "included_at_epoch": 1600184297.537184,
+            "included_at_iso": "2020-09-15T15:38:17.537184",
+            "last_retested_at_epoch": 1600184297.537184,
+            "last_retested_at_iso": "2020-09-15T15:38:17.537184",
             "status": "INACTIVE"
         }
     }
