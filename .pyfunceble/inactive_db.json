@@ -1724,6 +1724,13 @@
             "last_retested_at_iso": "2020-08-30T15:27:37.594258",
             "status": "INACTIVE"
         },
+        "www.adforati.com": {
+            "included_at_epoch": 1600357048.569304,
+            "included_at_iso": "2020-09-17T15:37:28.569304",
+            "last_retested_at_epoch": 1600357048.569304,
+            "last_retested_at_iso": "2020-09-17T15:37:28.569304",
+            "status": "INACTIVE"
+        },
         "www.advancedsoftwaresupport.com": {
             "included_at_epoch": 1598283832.84103,
             "included_at_iso": "2020-08-24T15:43:52.841030",
@@ -1897,6 +1904,13 @@
             "included_at_iso": "2020-08-24T16:02:11.536131",
             "last_retested_at_epoch": 1598631066.245096,
             "last_retested_at_iso": "2020-08-28T16:11:06.245096",
+            "status": "INACTIVE"
+        },
+        "www.dowdenphotography.com": {
+            "included_at_epoch": 1600357048.942987,
+            "included_at_iso": "2020-09-17T15:37:28.942987",
+            "last_retested_at_epoch": 1600357048.942987,
+            "last_retested_at_iso": "2020-09-17T15:37:28.942987",
             "status": "INACTIVE"
         },
         "www.eclean.or.kr": {
@@ -2200,6 +2214,13 @@
             "last_retested_at_iso": "2020-08-28T16:11:07.224893",
             "status": "INACTIVE"
         },
+        "www.qzip.cjb.net": {
+            "included_at_epoch": 1600357049.570167,
+            "included_at_iso": "2020-09-17T15:37:29.570167",
+            "last_retested_at_epoch": 1600357049.570167,
+            "last_retested_at_iso": "2020-09-17T15:37:29.570167",
+            "status": "INACTIVE"
+        },
         "www.registry-cleaner.net": {
             "included_at_epoch": 1598284932.643216,
             "included_at_iso": "2020-08-24T16:02:12.643216",
@@ -2312,6 +2333,20 @@
             "last_retested_at_iso": "2020-08-28T16:11:07.820446",
             "status": "INACTIVE"
         },
+        "www.uprour.com": {
+            "included_at_epoch": 1600357049.96485,
+            "included_at_iso": "2020-09-17T15:37:29.964850",
+            "last_retested_at_epoch": 1600357049.96485,
+            "last_retested_at_iso": "2020-09-17T15:37:29.964850",
+            "status": "INACTIVE"
+        },
+        "www.webservis.gen.tr": {
+            "included_at_epoch": 1600357050.037127,
+            "included_at_iso": "2020-09-17T15:37:30.037127",
+            "last_retested_at_epoch": 1600357050.037127,
+            "last_retested_at_iso": "2020-09-17T15:37:30.037127",
+            "status": "INACTIVE"
+        },
         "www.winaproduct.com": {
             "included_at_epoch": 1598631067.946683,
             "included_at_iso": "2020-08-28T16:11:07.946683",
@@ -2380,6 +2415,13 @@
             "included_at_iso": "2020-08-24T16:02:13.494013",
             "last_retested_at_epoch": 1598631068.073121,
             "last_retested_at_iso": "2020-08-28T16:11:08.073121",
+            "status": "INACTIVE"
+        },
+        "www.x-diesel.info": {
+            "included_at_epoch": 1600357050.117231,
+            "included_at_iso": "2020-09-17T15:37:30.117231",
+            "last_retested_at_epoch": 1600357050.117231,
+            "last_retested_at_iso": "2020-09-17T15:37:30.117231",
             "status": "INACTIVE"
         },
         "www.xchangetrak.com": {

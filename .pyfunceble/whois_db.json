@@ -4001,8 +4001,9 @@
         "state": "future"
     },
     "towerecords.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trackertracker.com": {
