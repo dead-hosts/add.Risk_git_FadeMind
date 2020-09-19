@@ -1165,10 +1165,17 @@
             "status": "INACTIVE"
         },
         "ias.avidmedia.net": {
-            "included_at_epoch": 1598108883.250193,
-            "included_at_iso": "2020-08-22T15:08:03.250193",
-            "last_retested_at_epoch": 1598627496.459454,
-            "last_retested_at_iso": "2020-08-28T15:11:36.459454",
+            "included_at_epoch": 1600528985.557878,
+            "included_at_iso": "2020-09-19T15:23:05.557878",
+            "last_retested_at_epoch": 1600528985.557878,
+            "last_retested_at_iso": "2020-09-19T15:23:05.557878",
+            "status": "INACTIVE"
+        },
+        "id.get35.com": {
+            "included_at_epoch": 1600528985.574233,
+            "included_at_iso": "2020-09-19T15:23:05.574233",
+            "last_retested_at_epoch": 1600528985.574233,
+            "last_retested_at_iso": "2020-09-19T15:23:05.574233",
             "status": "INACTIVE"
         },
         "images.brainfox.com": {
@@ -1389,10 +1396,10 @@
             "status": "INACTIVE"
         },
         "monofeel.com": {
-            "included_at_epoch": 1597937922.850243,
-            "included_at_iso": "2020-08-20T15:38:42.850243",
-            "last_retested_at_epoch": 1598627497.911271,
-            "last_retested_at_iso": "2020-08-28T15:11:37.911271",
+            "included_at_epoch": 1600528985.936478,
+            "included_at_iso": "2020-09-19T15:23:05.936478",
+            "last_retested_at_epoch": 1600528985.936478,
+            "last_retested_at_iso": "2020-09-19T15:23:05.936478",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
@@ -1736,13 +1743,6 @@
             "included_at_iso": "2020-08-24T15:43:52.841030",
             "last_retested_at_epoch": 1598629238.973094,
             "last_retested_at_iso": "2020-08-28T15:40:38.973094",
-            "status": "INACTIVE"
-        },
-        "www.albiondrugs.com": {
-            "included_at_epoch": 1597937927.28974,
-            "included_at_iso": "2020-08-20T15:38:47.289740",
-            "last_retested_at_epoch": 1598629239.021081,
-            "last_retested_at_iso": "2020-08-28T15:40:39.021081",
             "status": "INACTIVE"
         },
         "www.amazing-offers.co.il": {

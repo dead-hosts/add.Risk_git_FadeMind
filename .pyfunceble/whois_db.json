@@ -247,8 +247,9 @@
         "state": "future"
     },
     "allfet.info": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "amazing-offers.co.il": {
@@ -699,8 +700,9 @@
         "state": "future"
     },
     "catz4.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "caue971.org": {
@@ -2542,8 +2544,9 @@
         "state": "future"
     },
     "mil-colores.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ming-dun.com.tw": {
