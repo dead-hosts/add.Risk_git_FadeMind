@@ -1948,13 +1948,6 @@
             "last_retested_at_iso": "2020-09-07T15:32:57.014692",
             "status": "INACTIVE"
         },
-        "www.enoratraffic.com": {
-            "included_at_epoch": 1598112313.579181,
-            "included_at_iso": "2020-08-22T16:05:13.579181",
-            "last_retested_at_epoch": 1598631066.329225,
-            "last_retested_at_iso": "2020-08-28T16:11:06.329225",
-            "status": "INACTIVE"
-        },
         "www.facebook.realtorarcf.com": {
             "included_at_epoch": 1598284931.663206,
             "included_at_iso": "2020-08-24T16:02:11.663206",
