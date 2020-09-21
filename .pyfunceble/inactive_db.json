@@ -1661,6 +1661,13 @@
             "last_retested_at_iso": "2020-09-05T15:30:31.291170",
             "status": "INACTIVE"
         },
+        "totszentmarton.hu": {
+            "included_at_epoch": 1600702835.123028,
+            "included_at_iso": "2020-09-21T15:40:35.123028",
+            "last_retested_at_epoch": 1600702835.123028,
+            "last_retested_at_iso": "2020-09-21T15:40:35.123028",
+            "status": "INACTIVE"
+        },
         "triggers1.wfxtriggers.com": {
             "included_at_epoch": 1599319831.371402,
             "included_at_iso": "2020-09-05T15:30:31.371402",
@@ -1906,6 +1913,13 @@
             "last_retested_at_iso": "2020-09-01T15:30:52.998979",
             "status": "INACTIVE"
         },
+        "www.digiaquascr.com": {
+            "included_at_epoch": 1600702835.927462,
+            "included_at_iso": "2020-09-21T15:40:35.927462",
+            "last_retested_at_epoch": 1600702835.927462,
+            "last_retested_at_iso": "2020-09-21T15:40:35.927462",
+            "status": "INACTIVE"
+        },
         "www.dollarrentcar.com": {
             "included_at_epoch": 1598284931.536131,
             "included_at_iso": "2020-08-24T16:02:11.536131",
@@ -1946,6 +1960,13 @@
             "included_at_iso": "2020-09-07T15:32:57.014692",
             "last_retested_at_epoch": 1599492777.014692,
             "last_retested_at_iso": "2020-09-07T15:32:57.014692",
+            "status": "INACTIVE"
+        },
+        "www.enoratraffic.com": {
+            "included_at_epoch": 1600702836.013303,
+            "included_at_iso": "2020-09-21T15:40:36.013303",
+            "last_retested_at_epoch": 1600702836.013303,
+            "last_retested_at_iso": "2020-09-21T15:40:36.013303",
             "status": "INACTIVE"
         },
         "www.facebook.realtorarcf.com": {

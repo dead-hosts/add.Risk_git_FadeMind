@@ -3857,8 +3857,9 @@
         "state": "future"
     },
     "ta.com.tw": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.twnic.net.tw",
         "state": "future"
     },
     "taffr.com": {
