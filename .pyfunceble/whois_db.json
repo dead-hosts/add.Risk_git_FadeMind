@@ -95,8 +95,9 @@
         "state": "past"
     },
     "actrck.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad-souk.com": {
@@ -566,8 +567,9 @@
         "state": "future"
     },
     "blogrankers.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bluemountain1.com": {
@@ -911,8 +913,9 @@
         "state": "future"
     },
     "clickcash.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicksagent.com": {
@@ -1989,8 +1992,9 @@
         "state": "future"
     },
     "imagesmovies.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "img001.com": {
@@ -2093,17 +2097,20 @@
     "jcwhiney.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "jcwhintey.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "jcwhitey.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "jdfabrication.com": {
         "epoch": 1668124800.0,
@@ -2490,8 +2497,9 @@
         "state": "future"
     },
     "maxbounty.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "maxregistrycleaner.com": {
