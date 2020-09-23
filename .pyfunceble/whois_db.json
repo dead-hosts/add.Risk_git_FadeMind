@@ -4728,8 +4728,9 @@
         "state": "past"
     },
     "zoogdisany.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zoogdiseny.com": {
