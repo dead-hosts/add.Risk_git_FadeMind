@@ -345,8 +345,9 @@
         "state": "future"
     },
     "aproxtrack2.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "arcadefree.com": {
@@ -588,8 +589,9 @@
         "state": "past"
     },
     "boattraider.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bonzbuddy.com": {
@@ -888,8 +890,9 @@
         "state": "future"
     },
     "cleanuninstall.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cleanup-your-computer.com": {
@@ -1055,8 +1058,9 @@
         "state": "future"
     },
     "cpatraffictracker.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crackfulldownload.com": {
@@ -2033,8 +2037,9 @@
         "state": "future"
     },
     "intera-x.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "interia-ek.ru": {
@@ -2090,27 +2095,28 @@
         "state": "future"
     },
     "javascriptobfuscator.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jcwhiney.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "jcwhintey.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "jcwhitey.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "jdfabrication.com": {
         "epoch": 1668124800.0,
@@ -3687,8 +3693,9 @@
         "state": "future"
     },
     "skyperec.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "slorent.com": {
