@@ -1501,11 +1501,11 @@
             "status": "ACTIVE"
         },
         "affiliate.trk4.com": {
-            "included_at_epoch": 1599318947.735114,
-            "included_at_iso": "2020-09-05T15:15:47.735114",
-            "last_retested_at_epoch": 1599318947.735114,
-            "last_retested_at_iso": "2020-09-05T15:15:47.735114",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601738286.140943,
+            "included_at_iso": "2020-10-03T15:18:06.140943",
+            "last_retested_at_epoch": 1601738286.140943,
+            "last_retested_at_iso": "2020-10-03T15:18:06.140943",
+            "status": "ACTIVE"
         },
         "affiliates.streamray.com": {
             "included_at_epoch": 1601047888.796775,
@@ -6716,10 +6716,10 @@
             "status": "ACTIVE"
         },
         "lycosgamesville.com": {
-            "included_at_epoch": 1599318948.788818,
-            "included_at_iso": "2020-09-05T15:15:48.788818",
-            "last_retested_at_epoch": 1599318948.788818,
-            "last_retested_at_iso": "2020-09-05T15:15:48.788818",
+            "included_at_epoch": 1601738286.178842,
+            "included_at_iso": "2020-10-03T15:18:06.178842",
+            "last_retested_at_epoch": 1601738286.178842,
+            "last_retested_at_iso": "2020-10-03T15:18:06.178842",
             "status": "INACTIVE"
         },
         "lzjl.com": {
@@ -7094,10 +7094,10 @@
             "status": "ACTIVE"
         },
         "minigameplanet.com": {
-            "included_at_epoch": 1599318948.870435,
-            "included_at_iso": "2020-09-05T15:15:48.870435",
-            "last_retested_at_epoch": 1599318948.870435,
-            "last_retested_at_iso": "2020-09-05T15:15:48.870435",
+            "included_at_epoch": 1601738286.217284,
+            "included_at_iso": "2020-10-03T15:18:06.217284",
+            "last_retested_at_epoch": 1601738286.217284,
+            "last_retested_at_iso": "2020-10-03T15:18:06.217284",
             "status": "INACTIVE"
         },
         "mirrors.site50.net": {
@@ -9537,10 +9537,10 @@
             "status": "ACTIVE"
         },
         "sevenstars7.com": {
-            "included_at_epoch": 1599318949.485531,
-            "included_at_iso": "2020-09-05T15:15:49.485531",
-            "last_retested_at_epoch": 1599318949.485531,
-            "last_retested_at_iso": "2020-09-05T15:15:49.485531",
+            "included_at_epoch": 1601738286.253983,
+            "included_at_iso": "2020-10-03T15:18:06.253983",
+            "last_retested_at_epoch": 1601738286.253983,
+            "last_retested_at_iso": "2020-10-03T15:18:06.253983",
             "status": "INACTIVE"
         },
         "shareaza.com": {
@@ -11070,10 +11070,10 @@
             "status": "ACTIVE"
         },
         "trk.simply.net": {
-            "included_at_epoch": 1599147024.102549,
-            "included_at_iso": "2020-09-03T15:30:24.102549",
-            "last_retested_at_epoch": 1599147024.102549,
-            "last_retested_at_iso": "2020-09-03T15:30:24.102549",
+            "included_at_epoch": 1601738286.290041,
+            "included_at_iso": "2020-10-03T15:18:06.290041",
+            "last_retested_at_epoch": 1601738286.290041,
+            "last_retested_at_iso": "2020-10-03T15:18:06.290041",
             "status": "INACTIVE"
         },
         "trk4.com": {
@@ -13926,11 +13926,11 @@
             "status": "ACTIVE"
         },
         "www.foreclousure.com": {
-            "included_at_epoch": 1599147024.999471,
-            "included_at_iso": "2020-09-03T15:30:24.999471",
-            "last_retested_at_epoch": 1599147024.999471,
-            "last_retested_at_iso": "2020-09-03T15:30:24.999471",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601738286.326766,
+            "included_at_iso": "2020-10-03T15:18:06.326766",
+            "last_retested_at_epoch": 1601738286.326766,
+            "last_retested_at_iso": "2020-10-03T15:18:06.326766",
+            "status": "ACTIVE"
         },
         "www.foreclousures.com": {
             "included_at_epoch": 1601049264.095419,
@@ -15998,10 +15998,10 @@
             "status": "ACTIVE"
         },
         "www.robtopol.in": {
-            "included_at_epoch": 1599147025.716415,
-            "included_at_iso": "2020-09-03T15:30:25.716415",
-            "last_retested_at_epoch": 1599147025.716415,
-            "last_retested_at_iso": "2020-09-03T15:30:25.716415",
+            "included_at_epoch": 1601738286.362866,
+            "included_at_iso": "2020-10-03T15:18:06.362866",
+            "last_retested_at_epoch": 1601738286.362866,
+            "last_retested_at_iso": "2020-10-03T15:18:06.362866",
             "status": "INACTIVE"
         },
         "www.rokus-tgy.hu": {
@@ -17671,10 +17671,10 @@
             "status": "INACTIVE"
         },
         "www.zoogdisny.com": {
-            "included_at_epoch": 1599147026.285255,
-            "included_at_iso": "2020-09-03T15:30:26.285255",
-            "last_retested_at_epoch": 1599147026.285255,
-            "last_retested_at_iso": "2020-09-03T15:30:26.285255",
+            "included_at_epoch": 1601738286.401808,
+            "included_at_iso": "2020-10-03T15:18:06.401808",
+            "last_retested_at_epoch": 1601738286.401808,
+            "last_retested_at_iso": "2020-10-03T15:18:06.401808",
             "status": "INACTIVE"
         },
         "www.zoomovies.org": {
