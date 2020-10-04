@@ -10748,11 +10748,11 @@
             "status": "ACTIVE"
         },
         "top.dating.lt": {
-            "included_at_epoch": 1599319831.29117,
-            "included_at_iso": "2020-09-05T15:30:31.291170",
-            "last_retested_at_epoch": 1599319831.29117,
-            "last_retested_at_iso": "2020-09-05T15:30:31.291170",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601824791.523461,
+            "included_at_iso": "2020-10-04T15:19:51.523461",
+            "last_retested_at_epoch": 1601824791.523461,
+            "last_retested_at_iso": "2020-10-04T15:19:51.523461",
+            "status": "ACTIVE"
         },
         "top50.co.uk": {
             "included_at_epoch": 1601049252.766959,
@@ -11049,10 +11049,10 @@
             "status": "ACTIVE"
         },
         "triggers1.wfxtriggers.com": {
-            "included_at_epoch": 1599319831.371402,
-            "included_at_iso": "2020-09-05T15:30:31.371402",
-            "last_retested_at_epoch": 1599319831.371402,
-            "last_retested_at_iso": "2020-09-05T15:30:31.371402",
+            "included_at_epoch": 1601824791.563347,
+            "included_at_iso": "2020-10-04T15:19:51.563347",
+            "last_retested_at_epoch": 1601824791.563347,
+            "last_retested_at_iso": "2020-10-04T15:19:51.563347",
             "status": "INACTIVE"
         },
         "triplequadturbo.com": {
@@ -12624,10 +12624,10 @@
             "status": "ACTIVE"
         },
         "www.av-clean.com": {
-            "included_at_epoch": 1599319831.823248,
-            "included_at_iso": "2020-09-05T15:30:31.823248",
-            "last_retested_at_epoch": 1599319831.823248,
-            "last_retested_at_iso": "2020-09-05T15:30:31.823248",
+            "included_at_epoch": 1601824791.603047,
+            "included_at_iso": "2020-10-04T15:19:51.603047",
+            "last_retested_at_epoch": 1601824791.603047,
+            "last_retested_at_iso": "2020-10-04T15:19:51.603047",
             "status": "INACTIVE"
         },
         "www.avis.cm": {
@@ -14080,10 +14080,10 @@
             "status": "ACTIVE"
         },
         "www.full-edition.info": {
-            "included_at_epoch": 1599319832.255427,
-            "included_at_iso": "2020-09-05T15:30:32.255427",
-            "last_retested_at_epoch": 1599319832.255427,
-            "last_retested_at_iso": "2020-09-05T15:30:32.255427",
+            "included_at_epoch": 1601824791.642967,
+            "included_at_iso": "2020-10-04T15:19:51.642967",
+            "last_retested_at_epoch": 1601824791.642967,
+            "last_retested_at_iso": "2020-10-04T15:19:51.642967",
             "status": "INACTIVE"
         },
         "www.funtopliste.de": {
@@ -16901,11 +16901,11 @@
             "status": "ACTIVE"
         },
         "www.trk4.com": {
-            "included_at_epoch": 1599319833.126803,
-            "included_at_iso": "2020-09-05T15:30:33.126803",
-            "last_retested_at_epoch": 1599319833.126803,
-            "last_retested_at_iso": "2020-09-05T15:30:33.126803",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601824791.682035,
+            "included_at_iso": "2020-10-04T15:19:51.682035",
+            "last_retested_at_epoch": 1601824791.682035,
+            "last_retested_at_iso": "2020-10-04T15:19:51.682035",
+            "status": "ACTIVE"
         },
         "www.trkingace.com": {
             "included_at_epoch": 1601049276.385694,
@@ -17300,10 +17300,10 @@
             "status": "ACTIVE"
         },
         "www.wmserver.net": {
-            "included_at_epoch": 1599319833.256083,
-            "included_at_iso": "2020-09-05T15:30:33.256083",
-            "last_retested_at_epoch": 1599319833.256083,
-            "last_retested_at_iso": "2020-09-05T15:30:33.256083",
+            "included_at_epoch": 1601824791.721859,
+            "included_at_iso": "2020-10-04T15:19:51.721859",
+            "last_retested_at_epoch": 1601824791.721859,
+            "last_retested_at_iso": "2020-10-04T15:19:51.721859",
             "status": "INACTIVE"
         },
         "www.wordseach.com": {
@@ -17314,11 +17314,11 @@
             "status": "ACTIVE"
         },
         "www.writingassociates.com": {
-            "included_at_epoch": 1599319833.267785,
-            "included_at_iso": "2020-09-05T15:30:33.267785",
-            "last_retested_at_epoch": 1599319833.267785,
-            "last_retested_at_iso": "2020-09-05T15:30:33.267785",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601824791.760571,
+            "included_at_iso": "2020-10-04T15:19:51.760571",
+            "last_retested_at_epoch": 1601824791.760571,
+            "last_retested_at_iso": "2020-10-04T15:19:51.760571",
+            "status": "ACTIVE"
         },
         "www.wwaol.com": {
             "included_at_epoch": 1601049278.296409,
@@ -17664,10 +17664,10 @@
             "status": "ACTIVE"
         },
         "www.zoogdiseny.com": {
-            "included_at_epoch": 1599319833.361544,
-            "included_at_iso": "2020-09-05T15:30:33.361544",
-            "last_retested_at_epoch": 1599319833.361544,
-            "last_retested_at_iso": "2020-09-05T15:30:33.361544",
+            "included_at_epoch": 1601824791.799334,
+            "included_at_iso": "2020-10-04T15:19:51.799334",
+            "last_retested_at_epoch": 1601824791.799334,
+            "last_retested_at_iso": "2020-10-04T15:19:51.799334",
             "status": "INACTIVE"
         },
         "www.zoogdisny.com": {
