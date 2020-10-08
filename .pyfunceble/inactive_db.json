@@ -1431,11 +1431,11 @@
             "status": "ACTIVE"
         },
         "adwcleaner.telecharger.toggle.com": {
-            "included_at_epoch": 1599664650.178627,
-            "included_at_iso": "2020-09-09T15:17:30.178627",
-            "last_retested_at_epoch": 1599664650.178627,
-            "last_retested_at_iso": "2020-09-09T15:17:30.178627",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602171065.465515,
+            "included_at_iso": "2020-10-08T15:31:05.465515",
+            "last_retested_at_epoch": 1602171065.465515,
+            "last_retested_at_iso": "2020-10-08T15:31:05.465515",
+            "status": "ACTIVE"
         },
         "adweb1.hornymatches.com": {
             "included_at_epoch": 1601998599.746251,
@@ -3258,11 +3258,11 @@
             "status": "ACTIVE"
         },
         "clickcash.webpower.com": {
-            "included_at_epoch": 1599664650.488602,
-            "included_at_iso": "2020-09-09T15:17:30.488602",
-            "last_retested_at_epoch": 1599664650.488602,
-            "last_retested_at_iso": "2020-09-09T15:17:30.488602",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602171065.503787,
+            "included_at_iso": "2020-10-08T15:31:05.503787",
+            "last_retested_at_epoch": 1602171065.503787,
+            "last_retested_at_iso": "2020-10-08T15:31:05.503787",
+            "status": "ACTIVE"
         },
         "clicks.totemcash.com": {
             "included_at_epoch": 1601047890.996659,
@@ -5974,10 +5974,10 @@
             "status": "ACTIVE"
         },
         "itunesdownloadstore.com": {
-            "included_at_epoch": 1599664651.06561,
-            "included_at_iso": "2020-09-09T15:17:31.065610",
-            "last_retested_at_epoch": 1599664651.06561,
-            "last_retested_at_iso": "2020-09-09T15:17:31.065610",
+            "included_at_epoch": 1602171065.542185,
+            "included_at_iso": "2020-10-08T15:31:05.542185",
+            "last_retested_at_epoch": 1602171065.542185,
+            "last_retested_at_iso": "2020-10-08T15:31:05.542185",
             "status": "INACTIVE"
         },
         "ivitrine.buscape.com": {
@@ -16257,10 +16257,10 @@
             "status": "ACTIVE"
         },
         "www.sendori.com": {
-            "included_at_epoch": 1599665569.865138,
-            "included_at_iso": "2020-09-09T15:32:49.865138",
-            "last_retested_at_epoch": 1599665569.865138,
-            "last_retested_at_iso": "2020-09-09T15:32:49.865138",
+            "included_at_epoch": 1602171065.582594,
+            "included_at_iso": "2020-10-08T15:31:05.582594",
+            "last_retested_at_epoch": 1602171065.582594,
+            "last_retested_at_iso": "2020-10-08T15:31:05.582594",
             "status": "INACTIVE"
         },
         "www.sentrol.cl": {
