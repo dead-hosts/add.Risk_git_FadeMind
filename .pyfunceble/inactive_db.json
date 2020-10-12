@@ -4322,10 +4322,10 @@
             "status": "ACTIVE"
         },
         "eclean.or.kr": {
-            "included_at_epoch": 1600010363.846067,
-            "included_at_iso": "2020-09-13T15:19:23.846067",
-            "last_retested_at_epoch": 1600010363.846067,
-            "last_retested_at_iso": "2020-09-13T15:19:23.846067",
+            "included_at_epoch": 1602516731.831364,
+            "included_at_iso": "2020-10-12T15:32:11.831364",
+            "last_retested_at_epoch": 1602516731.831364,
+            "last_retested_at_iso": "2020-10-12T15:32:11.831364",
             "status": "INACTIVE"
         },
         "eclkspsa.com": {
@@ -7416,10 +7416,10 @@
             "status": "ACTIVE"
         },
         "naijahacklord.tk": {
-            "included_at_epoch": 1600010364.517785,
-            "included_at_iso": "2020-09-13T15:19:24.517785",
-            "last_retested_at_epoch": 1600010364.517785,
-            "last_retested_at_iso": "2020-09-13T15:19:24.517785",
+            "included_at_epoch": 1602516731.877592,
+            "included_at_iso": "2020-10-12T15:32:11.877592",
+            "last_retested_at_epoch": 1602516731.877592,
+            "last_retested_at_iso": "2020-10-12T15:32:11.877592",
             "status": "INACTIVE"
         },
         "nbrtrack.com": {
@@ -13940,10 +13940,10 @@
             "status": "ACTIVE"
         },
         "www.forex-instruments.info": {
-            "included_at_epoch": 1600011209.018052,
-            "included_at_iso": "2020-09-13T15:33:29.018052",
-            "last_retested_at_epoch": 1600011209.018052,
-            "last_retested_at_iso": "2020-09-13T15:33:29.018052",
+            "included_at_epoch": 1602516731.917567,
+            "included_at_iso": "2020-10-12T15:32:11.917567",
+            "last_retested_at_epoch": 1602516731.917567,
+            "last_retested_at_iso": "2020-10-12T15:32:11.917567",
             "status": "INACTIVE"
         },
         "www.formacionprofesional.webuda.com": {
@@ -14339,11 +14339,11 @@
             "status": "INACTIVE"
         },
         "www.guaranty.com.cn": {
-            "included_at_epoch": 1600011209.150175,
-            "included_at_iso": "2020-09-13T15:33:29.150175",
-            "last_retested_at_epoch": 1600011209.150175,
-            "last_retested_at_iso": "2020-09-13T15:33:29.150175",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602516731.956917,
+            "included_at_iso": "2020-10-12T15:32:11.956917",
+            "last_retested_at_epoch": 1602516731.956917,
+            "last_retested_at_iso": "2020-10-12T15:32:11.956917",
+            "status": "ACTIVE"
         },
         "www.gvc.vn": {
             "included_at_epoch": 1601049265.819125,
