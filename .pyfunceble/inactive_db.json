@@ -10797,11 +10797,11 @@
             "status": "ACTIVE"
         },
         "totszentmarton.hu": {
-            "included_at_epoch": 1600702835.123028,
-            "included_at_iso": "2020-09-21T15:40:35.123028",
-            "last_retested_at_epoch": 1600702835.123028,
-            "last_retested_at_iso": "2020-09-21T15:40:35.123028",
-            "status": "INACTIVE"
+            "included_at_epoch": 1603208096.998547,
+            "included_at_iso": "2020-10-20T15:34:56.998547",
+            "last_retested_at_epoch": 1603208096.998547,
+            "last_retested_at_iso": "2020-10-20T15:34:56.998547",
+            "status": "ACTIVE"
         },
         "towerecords.com": {
             "included_at_epoch": 1601049252.933768,
@@ -13464,11 +13464,11 @@
             "status": "ACTIVE"
         },
         "www.digiaquascr.com": {
-            "included_at_epoch": 1600702835.927462,
-            "included_at_iso": "2020-09-21T15:40:35.927462",
-            "last_retested_at_epoch": 1600702835.927462,
-            "last_retested_at_iso": "2020-09-21T15:40:35.927462",
-            "status": "INACTIVE"
+            "included_at_epoch": 1603208097.046564,
+            "included_at_iso": "2020-10-20T15:34:57.046564",
+            "last_retested_at_epoch": 1603208097.046564,
+            "last_retested_at_iso": "2020-10-20T15:34:57.046564",
+            "status": "ACTIVE"
         },
         "www.dimarsbg.com": {
             "included_at_epoch": 1601049262.416943,
@@ -13737,10 +13737,10 @@
             "status": "ACTIVE"
         },
         "www.enoratraffic.com": {
-            "included_at_epoch": 1600702836.013303,
-            "included_at_iso": "2020-09-21T15:40:36.013303",
-            "last_retested_at_epoch": 1600702836.013303,
-            "last_retested_at_iso": "2020-09-21T15:40:36.013303",
+            "included_at_epoch": 1603208097.086811,
+            "included_at_iso": "2020-10-20T15:34:57.086811",
+            "last_retested_at_epoch": 1603208097.086811,
+            "last_retested_at_iso": "2020-10-20T15:34:57.086811",
             "status": "INACTIVE"
         },
         "www.epmads.com": {
