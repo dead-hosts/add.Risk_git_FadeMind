@@ -3804,13 +3804,15 @@
         "state": "future"
     },
     "speedcounts.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "speedrep.com": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spiderbait.com": {
@@ -4017,8 +4019,9 @@
         "state": "future"
     },
     "thoroclean.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tldtgs.com": {
@@ -4047,8 +4050,9 @@
         "state": "past"
     },
     "toonfamilies.net": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "top50.co.uk": {
@@ -4107,16 +4111,19 @@
     "traff1.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "travekocity.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "travelasity.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "travelcape.com": {
@@ -4215,8 +4222,9 @@
         "state": "future"
     },
     "trqvelocity.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trusearch.net": {
@@ -4372,8 +4380,9 @@
         "state": "future"
     },
     "vpnaffiliates.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1760140800.0,
+        "expiration_date": "11-oct-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vq918450.com": {
@@ -4402,8 +4411,9 @@
         "state": "future"
     },
     "warioland.com": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "watch24.com": {
@@ -4413,8 +4423,9 @@
         "state": "future"
     },
     "wdmwebs.us": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "weathet.com": {
@@ -4488,8 +4499,9 @@
         "state": "future"
     },
     "wpxn.com": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "writingassociates.com": {
@@ -4508,8 +4520,9 @@
         "state": "future"
     },
     "www4search.net": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wwwadultcheck.com": {
@@ -4614,8 +4627,9 @@
         "state": "future"
     },
     "wwwgmacmortgage.com": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wwwgoogles.com": {
