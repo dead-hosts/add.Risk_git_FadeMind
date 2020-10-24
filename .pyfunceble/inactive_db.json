@@ -18181,6 +18181,13 @@
             "last_retested_at_iso": "2020-10-22T16:28:30.384547",
             "status": "INACTIVE"
         },
+        "y.extreme-dm.com": {
+            "included_at_epoch": 1603557513.489107,
+            "included_at_iso": "2020-10-24T16:38:33.489107",
+            "last_retested_at_epoch": 1603557513.489107,
+            "last_retested_at_iso": "2020-10-24T16:38:33.489107",
+            "status": "ACTIVE"
+        },
         "y.zeroredirect.com": {
             "included_at_epoch": 1603384110.586124,
             "included_at_iso": "2020-10-22T16:28:30.586124",
@@ -18216,6 +18223,13 @@
             "last_retested_at_iso": "2020-10-24T16:29:20.743118",
             "status": "ACTIVE"
         },
+        "ycv.clearshieldredirect.com": {
+            "included_at_epoch": 1603557513.45111,
+            "included_at_iso": "2020-10-24T16:38:33.451110",
+            "last_retested_at_epoch": 1603557513.45111,
+            "last_retested_at_iso": "2020-10-24T16:38:33.451110",
+            "status": "INACTIVE"
+        },
         "yitkomfj.angelcities.com": {
             "included_at_epoch": 1603384110.503686,
             "included_at_iso": "2020-10-22T16:28:30.503686",
@@ -18237,6 +18251,41 @@
             "last_retested_at_iso": "2020-10-22T16:28:30.544065",
             "status": "INACTIVE"
         },
+        "ymxpb.com": {
+            "included_at_epoch": 1603557513.567015,
+            "included_at_iso": "2020-10-24T16:38:33.567015",
+            "last_retested_at_epoch": 1603557513.567015,
+            "last_retested_at_iso": "2020-10-24T16:38:33.567015",
+            "status": "ACTIVE"
+        },
+        "youtuhe.com": {
+            "included_at_epoch": 1603557513.52742,
+            "included_at_iso": "2020-10-24T16:38:33.527420",
+            "last_retested_at_epoch": 1603557513.52742,
+            "last_retested_at_iso": "2020-10-24T16:38:33.527420",
+            "status": "ACTIVE"
+        },
+        "ypu.edu.tw": {
+            "included_at_epoch": 1603557513.650244,
+            "included_at_iso": "2020-10-24T16:38:33.650244",
+            "last_retested_at_epoch": 1603557513.650244,
+            "last_retested_at_iso": "2020-10-24T16:38:33.650244",
+            "status": "ACTIVE"
+        },
+        "yrals.com": {
+            "included_at_epoch": 1603557513.614155,
+            "included_at_iso": "2020-10-24T16:38:33.614155",
+            "last_retested_at_epoch": 1603557513.614155,
+            "last_retested_at_iso": "2020-10-24T16:38:33.614155",
+            "status": "ACTIVE"
+        },
+        "ytdownloader.com": {
+            "included_at_epoch": 1603557513.69201,
+            "included_at_iso": "2020-10-24T16:38:33.692010",
+            "last_retested_at_epoch": 1603557513.69201,
+            "last_retested_at_iso": "2020-10-24T16:38:33.692010",
+            "status": "ACTIVE"
+        },
         "yvdeuwn.angelcities.com": {
             "included_at_epoch": 1603384110.626719,
             "included_at_iso": "2020-10-22T16:28:30.626719",
@@ -18244,12 +18293,159 @@
             "last_retested_at_iso": "2020-10-22T16:28:30.626719",
             "status": "INACTIVE"
         },
+        "z.extreme-dm.com": {
+            "included_at_epoch": 1603557514.389722,
+            "included_at_iso": "2020-10-24T16:38:34.389722",
+            "last_retested_at_epoch": 1603557514.389722,
+            "last_retested_at_iso": "2020-10-24T16:38:34.389722",
+            "status": "ACTIVE"
+        },
         "z.zeroredirect.com": {
             "included_at_epoch": 1603384110.66641,
             "included_at_iso": "2020-10-22T16:28:30.666410",
             "last_retested_at_epoch": 1603384110.66641,
             "last_retested_at_iso": "2020-10-22T16:28:30.666410",
             "status": "INACTIVE"
+        },
+        "z0.extreme-dm.com": {
+            "included_at_epoch": 1603557513.734341,
+            "included_at_iso": "2020-10-24T16:38:33.734341",
+            "last_retested_at_epoch": 1603557513.734341,
+            "last_retested_at_iso": "2020-10-24T16:38:33.734341",
+            "status": "ACTIVE"
+        },
+        "z1.extreme-dm.com": {
+            "included_at_epoch": 1603557513.772472,
+            "included_at_iso": "2020-10-24T16:38:33.772472",
+            "last_retested_at_epoch": 1603557513.772472,
+            "last_retested_at_iso": "2020-10-24T16:38:33.772472",
+            "status": "ACTIVE"
+        },
+        "za.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.00399,
+            "included_at_iso": "2020-10-24T16:38:34.003990",
+            "last_retested_at_epoch": 1603557514.00399,
+            "last_retested_at_iso": "2020-10-24T16:38:34.003990",
+            "status": "ACTIVE"
+        },
+        "za2.zeroredirect8.com": {
+            "included_at_epoch": 1603557513.81102,
+            "included_at_iso": "2020-10-24T16:38:33.811020",
+            "last_retested_at_epoch": 1603557513.81102,
+            "last_retested_at_iso": "2020-10-24T16:38:33.811020",
+            "status": "ACTIVE"
+        },
+        "zampolit1990.popunder.ru": {
+            "included_at_epoch": 1603557513.850417,
+            "included_at_iso": "2020-10-24T16:38:33.850417",
+            "last_retested_at_epoch": 1603557513.850417,
+            "last_retested_at_iso": "2020-10-24T16:38:33.850417",
+            "status": "ACTIVE"
+        },
+        "zapto.org": {
+            "included_at_epoch": 1603557513.889133,
+            "included_at_iso": "2020-10-24T16:38:33.889133",
+            "last_retested_at_epoch": 1603557513.889133,
+            "last_retested_at_iso": "2020-10-24T16:38:33.889133",
+            "status": "ACTIVE"
+        },
+        "zarrmarketing.co.uk": {
+            "included_at_epoch": 1603557513.927488,
+            "included_at_iso": "2020-10-24T16:38:33.927488",
+            "last_retested_at_epoch": 1603557513.927488,
+            "last_retested_at_iso": "2020-10-24T16:38:33.927488",
+            "status": "ACTIVE"
+        },
+        "zb.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.04293,
+            "included_at_iso": "2020-10-24T16:38:34.042930",
+            "last_retested_at_epoch": 1603557514.04293,
+            "last_retested_at_iso": "2020-10-24T16:38:34.042930",
+            "status": "ACTIVE"
+        },
+        "zbest.in": {
+            "included_at_epoch": 1603557513.965734,
+            "included_at_iso": "2020-10-24T16:38:33.965734",
+            "last_retested_at_epoch": 1603557513.965734,
+            "last_retested_at_iso": "2020-10-24T16:38:33.965734",
+            "status": "ACTIVE"
+        },
+        "zc.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.080674,
+            "included_at_iso": "2020-10-24T16:38:34.080674",
+            "last_retested_at_epoch": 1603557514.080674,
+            "last_retested_at_iso": "2020-10-24T16:38:34.080674",
+            "status": "ACTIVE"
+        },
+        "zd.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.196566,
+            "included_at_iso": "2020-10-24T16:38:34.196566",
+            "last_retested_at_epoch": 1603557514.196566,
+            "last_retested_at_iso": "2020-10-24T16:38:34.196566",
+            "status": "ACTIVE"
+        },
+        "zd.zeroredirect2.com": {
+            "included_at_epoch": 1603557514.234348,
+            "included_at_iso": "2020-10-24T16:38:34.234348",
+            "last_retested_at_epoch": 1603557514.234348,
+            "last_retested_at_iso": "2020-10-24T16:38:34.234348",
+            "status": "ACTIVE"
+        },
+        "zd1.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.118935,
+            "included_at_iso": "2020-10-24T16:38:34.118935",
+            "last_retested_at_epoch": 1603557514.118935,
+            "last_retested_at_iso": "2020-10-24T16:38:34.118935",
+            "status": "ACTIVE"
+        },
+        "zd1.zeroredirect6.com": {
+            "included_at_epoch": 1603557514.157455,
+            "included_at_iso": "2020-10-24T16:38:34.157455",
+            "last_retested_at_epoch": 1603557514.157455,
+            "last_retested_at_iso": "2020-10-24T16:38:34.157455",
+            "status": "ACTIVE"
+        },
+        "ze.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.351208,
+            "included_at_iso": "2020-10-24T16:38:34.351208",
+            "last_retested_at_epoch": 1603557514.351208,
+            "last_retested_at_iso": "2020-10-24T16:38:34.351208",
+            "status": "ACTIVE"
+        },
+        "ze.zeroredirect2.com": {
+            "included_at_epoch": 1603557514.427979,
+            "included_at_iso": "2020-10-24T16:38:34.427979",
+            "last_retested_at_epoch": 1603557514.427979,
+            "last_retested_at_iso": "2020-10-24T16:38:34.427979",
+            "status": "ACTIVE"
+        },
+        "ze1.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.312522,
+            "included_at_iso": "2020-10-24T16:38:34.312522",
+            "last_retested_at_epoch": 1603557514.312522,
+            "last_retested_at_iso": "2020-10-24T16:38:34.312522",
+            "status": "ACTIVE"
+        },
+        "zeroredirect2.com": {
+            "included_at_epoch": 1603557514.27414,
+            "included_at_iso": "2020-10-24T16:38:34.274140",
+            "last_retested_at_epoch": 1603557514.27414,
+            "last_retested_at_iso": "2020-10-24T16:38:34.274140",
+            "status": "ACTIVE"
+        },
+        "zf.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.504575,
+            "included_at_iso": "2020-10-24T16:38:34.504575",
+            "last_retested_at_epoch": 1603557514.504575,
+            "last_retested_at_iso": "2020-10-24T16:38:34.504575",
+            "status": "ACTIVE"
+        },
+        "zf1.quebec-bin.com": {
+            "included_at_epoch": 1603557514.465964,
+            "included_at_iso": "2020-10-24T16:38:34.465964",
+            "last_retested_at_epoch": 1603557514.465964,
+            "last_retested_at_iso": "2020-10-24T16:38:34.465964",
+            "status": "ACTIVE"
         },
         "zf1.zeroredirect11.com": {
             "included_at_epoch": 1602689767.240904,
@@ -18265,11 +18461,158 @@
             "last_retested_at_iso": "2020-10-14T15:36:07.279548",
             "status": "ACTIVE"
         },
+        "zipitfast.com": {
+            "included_at_epoch": 1603557514.582157,
+            "included_at_iso": "2020-10-24T16:38:34.582157",
+            "last_retested_at_epoch": 1603557514.582157,
+            "last_retested_at_iso": "2020-10-24T16:38:34.582157",
+            "status": "ACTIVE"
+        },
+        "zj.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.620394,
+            "included_at_iso": "2020-10-24T16:38:34.620394",
+            "last_retested_at_epoch": 1603557514.620394,
+            "last_retested_at_iso": "2020-10-24T16:38:34.620394",
+            "status": "ACTIVE"
+        },
+        "zj1.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.543296,
+            "included_at_iso": "2020-10-24T16:38:34.543296",
+            "last_retested_at_epoch": 1603557514.543296,
+            "last_retested_at_iso": "2020-10-24T16:38:34.543296",
+            "status": "ACTIVE"
+        },
+        "zk.zeroredirect1.com": {
+            "included_at_epoch": 1603557514.659345,
+            "included_at_iso": "2020-10-24T16:38:34.659345",
+            "last_retested_at_epoch": 1603557514.659345,
+            "last_retested_at_iso": "2020-10-24T16:38:34.659345",
+            "status": "ACTIVE"
+        },
+        "zm1.zeroredirect5.com": {
+            "included_at_epoch": 1603557514.697798,
+            "included_at_iso": "2020-10-24T16:38:34.697798",
+            "last_retested_at_epoch": 1603557514.697798,
+            "last_retested_at_iso": "2020-10-24T16:38:34.697798",
+            "status": "ACTIVE"
+        },
+        "zonawm.biz.popunder.ru": {
+            "included_at_epoch": 1603557514.737741,
+            "included_at_iso": "2020-10-24T16:38:34.737741",
+            "last_retested_at_epoch": 1603557514.737741,
+            "last_retested_at_iso": "2020-10-24T16:38:34.737741",
+            "status": "ACTIVE"
+        },
+        "zoodrawings.com": {
+            "included_at_epoch": 1603557514.776464,
+            "included_at_iso": "2020-10-24T16:38:34.776464",
+            "last_retested_at_epoch": 1603557514.776464,
+            "last_retested_at_iso": "2020-10-24T16:38:34.776464",
+            "status": "ACTIVE"
+        },
+        "zoogdisany.com": {
+            "included_at_epoch": 1603557514.814865,
+            "included_at_iso": "2020-10-24T16:38:34.814865",
+            "last_retested_at_epoch": 1603557514.814865,
+            "last_retested_at_iso": "2020-10-24T16:38:34.814865",
+            "status": "ACTIVE"
+        },
+        "zoogdiseny.com": {
+            "included_at_epoch": 1603557514.854145,
+            "included_at_iso": "2020-10-24T16:38:34.854145",
+            "last_retested_at_epoch": 1603557514.854145,
+            "last_retested_at_iso": "2020-10-24T16:38:34.854145",
+            "status": "ACTIVE"
+        },
+        "zoogdisny.com": {
+            "included_at_epoch": 1603557514.89302,
+            "included_at_iso": "2020-10-24T16:38:34.893020",
+            "last_retested_at_epoch": 1603557514.89302,
+            "last_retested_at_iso": "2020-10-24T16:38:34.893020",
+            "status": "ACTIVE"
+        },
+        "zooggames.com": {
+            "included_at_epoch": 1603557514.930678,
+            "included_at_iso": "2020-10-24T16:38:34.930678",
+            "last_retested_at_epoch": 1603557514.930678,
+            "last_retested_at_iso": "2020-10-24T16:38:34.930678",
+            "status": "ACTIVE"
+        },
+        "zoomovies.org": {
+            "included_at_epoch": 1603557514.969955,
+            "included_at_iso": "2020-10-24T16:38:34.969955",
+            "last_retested_at_epoch": 1603557514.969955,
+            "last_retested_at_iso": "2020-10-24T16:38:34.969955",
+            "status": "ACTIVE"
+        },
+        "zoompegs.com": {
+            "included_at_epoch": 1603557515.008856,
+            "included_at_iso": "2020-10-24T16:38:35.008856",
+            "last_retested_at_epoch": 1603557515.008856,
+            "last_retested_at_iso": "2020-10-24T16:38:35.008856",
+            "status": "ACTIVE"
+        },
+        "zoophil.com": {
+            "included_at_epoch": 1603557515.049325,
+            "included_at_iso": "2020-10-24T16:38:35.049325",
+            "last_retested_at_epoch": 1603557515.049325,
+            "last_retested_at_iso": "2020-10-24T16:38:35.049325",
+            "status": "ACTIVE"
+        },
+        "zoosexart.com": {
+            "included_at_epoch": 1603557515.088008,
+            "included_at_iso": "2020-10-24T16:38:35.088008",
+            "last_retested_at_epoch": 1603557515.088008,
+            "last_retested_at_iso": "2020-10-24T16:38:35.088008",
+            "status": "ACTIVE"
+        },
+        "zootoplist.com": {
+            "included_at_epoch": 1603557515.128351,
+            "included_at_iso": "2020-10-24T16:38:35.128351",
+            "last_retested_at_epoch": 1603557515.128351,
+            "last_retested_at_iso": "2020-10-24T16:38:35.128351",
+            "status": "ACTIVE"
+        },
+        "zootravel.com": {
+            "included_at_epoch": 1603557515.166817,
+            "included_at_iso": "2020-10-24T16:38:35.166817",
+            "last_retested_at_epoch": 1603557515.166817,
+            "last_retested_at_iso": "2020-10-24T16:38:35.166817",
+            "status": "ACTIVE"
+        },
         "zr1.zeroredirect11.com": {
             "included_at_epoch": 1602689767.320554,
             "included_at_iso": "2020-10-14T15:36:07.320554",
             "last_retested_at_epoch": 1602689767.320554,
             "last_retested_at_iso": "2020-10-14T15:36:07.320554",
+            "status": "ACTIVE"
+        },
+        "zs1.zeroredirect1.com": {
+            "included_at_epoch": 1603557515.245686,
+            "included_at_iso": "2020-10-24T16:38:35.245686",
+            "last_retested_at_epoch": 1603557515.245686,
+            "last_retested_at_iso": "2020-10-24T16:38:35.245686",
+            "status": "ACTIVE"
+        },
+        "zsc.scmspain.com": {
+            "included_at_epoch": 1603557515.206421,
+            "included_at_iso": "2020-10-24T16:38:35.206421",
+            "last_retested_at_epoch": 1603557515.206421,
+            "last_retested_at_iso": "2020-10-24T16:38:35.206421",
+            "status": "ACTIVE"
+        },
+        "zuverink.net": {
+            "included_at_epoch": 1603557515.285505,
+            "included_at_iso": "2020-10-24T16:38:35.285505",
+            "last_retested_at_epoch": 1603557515.285505,
+            "last_retested_at_iso": "2020-10-24T16:38:35.285505",
+            "status": "ACTIVE"
+        },
+        "zzz.clickbank.net": {
+            "included_at_epoch": 1603557515.32305,
+            "included_at_iso": "2020-10-24T16:38:35.323050",
+            "last_retested_at_epoch": 1603557515.32305,
+            "last_retested_at_iso": "2020-10-24T16:38:35.323050",
             "status": "ACTIVE"
         }
     }
