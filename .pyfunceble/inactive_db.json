@@ -822,10 +822,10 @@
             "status": "ACTIVE"
         },
         "4.collecorvino.org": {
-            "included_at_epoch": 1601565879.310077,
-            "included_at_iso": "2020-10-01T15:24:39.310077",
-            "last_retested_at_epoch": 1601565879.310077,
-            "last_retested_at_iso": "2020-10-01T15:24:39.310077",
+            "included_at_epoch": 1604080495.788205,
+            "included_at_iso": "2020-10-30T17:54:55.788205",
+            "last_retested_at_epoch": 1604080495.788205,
+            "last_retested_at_iso": "2020-10-30T17:54:55.788205",
             "status": "INACTIVE"
         },
         "4.dlevo.com": {
@@ -1851,10 +1851,10 @@
             "status": "ACTIVE"
         },
         "apps.clickcash.com": {
-            "included_at_epoch": 1601565879.35585,
-            "included_at_iso": "2020-10-01T15:24:39.355850",
-            "last_retested_at_epoch": 1601565879.35585,
-            "last_retested_at_iso": "2020-10-01T15:24:39.355850",
+            "included_at_epoch": 1604080495.833651,
+            "included_at_iso": "2020-10-30T17:54:55.833651",
+            "last_retested_at_epoch": 1604080495.833651,
+            "last_retested_at_iso": "2020-10-30T17:54:55.833651",
             "status": "ACTIVE"
         },
         "apps.nastydollars.com": {
@@ -6506,10 +6506,10 @@
             "status": "INACTIVE"
         },
         "lifeeverest.com": {
-            "included_at_epoch": 1601565879.397256,
-            "included_at_iso": "2020-10-01T15:24:39.397256",
-            "last_retested_at_epoch": 1601565879.397256,
-            "last_retested_at_iso": "2020-10-01T15:24:39.397256",
+            "included_at_epoch": 1604080495.873617,
+            "included_at_iso": "2020-10-30T17:54:55.873617",
+            "last_retested_at_epoch": 1604080495.873617,
+            "last_retested_at_iso": "2020-10-30T17:54:55.873617",
             "status": "INACTIVE"
         },
         "lilian.redirectme.net": {
@@ -13450,10 +13450,10 @@
             "status": "ACTIVE"
         },
         "www.dentairemalin.com": {
-            "included_at_epoch": 1601565879.437983,
-            "included_at_iso": "2020-10-01T15:24:39.437983",
-            "last_retested_at_epoch": 1601565879.437983,
-            "last_retested_at_iso": "2020-10-01T15:24:39.437983",
+            "included_at_epoch": 1604080495.91308,
+            "included_at_iso": "2020-10-30T17:54:55.913080",
+            "last_retested_at_epoch": 1604080495.91308,
+            "last_retested_at_iso": "2020-10-30T17:54:55.913080",
             "status": "INACTIVE"
         },
         "www.desifever.com": {
@@ -15403,10 +15403,10 @@
             "status": "ACTIVE"
         },
         "www.oneund.ru": {
-            "included_at_epoch": 1601565879.478589,
-            "included_at_iso": "2020-10-01T15:24:39.478589",
-            "last_retested_at_epoch": 1601565879.478589,
-            "last_retested_at_iso": "2020-10-01T15:24:39.478589",
+            "included_at_epoch": 1604080495.952784,
+            "included_at_iso": "2020-10-30T17:54:55.952784",
+            "last_retested_at_epoch": 1604080495.952784,
+            "last_retested_at_iso": "2020-10-30T17:54:55.952784",
             "status": "INACTIVE"
         },
         "www.online.sh.cn": {
