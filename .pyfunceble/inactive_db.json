@@ -5715,10 +5715,10 @@
             "status": "ACTIVE"
         },
         "ias.avidmedia.net": {
-            "included_at_epoch": 1603034791.051996,
-            "included_at_iso": "2020-10-18T15:26:31.051996",
-            "last_retested_at_epoch": 1603034791.051996,
-            "last_retested_at_iso": "2020-10-18T15:26:31.051996",
+            "included_at_epoch": 1605456900.890919,
+            "included_at_iso": "2020-11-15T16:15:00.890919",
+            "last_retested_at_epoch": 1605456900.890919,
+            "last_retested_at_iso": "2020-11-15T16:15:00.890919",
             "status": "INACTIVE"
         },
         "ibmvideo.com": {
@@ -5750,11 +5750,11 @@
             "status": "ACTIVE"
         },
         "id.get35.com": {
-            "included_at_epoch": 1603034791.108675,
-            "included_at_iso": "2020-10-18T15:26:31.108675",
-            "last_retested_at_epoch": 1603034791.108675,
-            "last_retested_at_iso": "2020-10-18T15:26:31.108675",
-            "status": "INACTIVE"
+            "included_at_epoch": 1605456900.946464,
+            "included_at_iso": "2020-11-15T16:15:00.946464",
+            "last_retested_at_epoch": 1605456900.946464,
+            "last_retested_at_iso": "2020-11-15T16:15:00.946464",
+            "status": "ACTIVE"
         },
         "ieginc.com": {
             "included_at_epoch": 1603555107.657613,
@@ -7220,10 +7220,10 @@
             "status": "ACTIVE"
         },
         "monofeel.com": {
-            "included_at_epoch": 1603034791.149304,
-            "included_at_iso": "2020-10-18T15:26:31.149304",
-            "last_retested_at_epoch": 1603034791.149304,
-            "last_retested_at_iso": "2020-10-18T15:26:31.149304",
+            "included_at_epoch": 1605456900.986924,
+            "included_at_iso": "2020-11-15T16:15:00.986924",
+            "last_retested_at_epoch": 1605456900.986924,
+            "last_retested_at_iso": "2020-11-15T16:15:00.986924",
             "status": "INACTIVE"
         },
         "morenews3.net": {
@@ -12400,10 +12400,10 @@
             "status": "ACTIVE"
         },
         "www.albiondrugs.com": {
-            "included_at_epoch": 1603034791.189696,
-            "included_at_iso": "2020-10-18T15:26:31.189696",
-            "last_retested_at_epoch": 1603034791.189696,
-            "last_retested_at_iso": "2020-10-18T15:26:31.189696",
+            "included_at_epoch": 1605456901.027396,
+            "included_at_iso": "2020-11-15T16:15:01.027396",
+            "last_retested_at_epoch": 1605456901.027396,
+            "last_retested_at_iso": "2020-11-15T16:15:01.027396",
             "status": "ACTIVE"
         },
         "www.all-internet-security.com": {
