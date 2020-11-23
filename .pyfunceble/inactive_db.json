@@ -3853,10 +3853,10 @@
             "status": "ACTIVE"
         },
         "directhackerz.tk": {
-            "included_at_epoch": 1603734096.47814,
-            "included_at_iso": "2020-10-26T17:41:36.478140",
-            "last_retested_at_epoch": 1603734096.47814,
-            "last_retested_at_iso": "2020-10-26T17:41:36.478140",
+            "included_at_epoch": 1606156198.888285,
+            "included_at_iso": "2020-11-23T18:29:58.888285",
+            "last_retested_at_epoch": 1606156198.888285,
+            "last_retested_at_iso": "2020-11-23T18:29:58.888285",
             "status": "INACTIVE"
         },
         "directxex.com": {
@@ -6401,10 +6401,10 @@
             "status": "ACTIVE"
         },
         "l.zeroredirect.com": {
-            "included_at_epoch": 1603734096.518446,
-            "included_at_iso": "2020-10-26T17:41:36.518446",
-            "last_retested_at_epoch": 1603734096.518446,
-            "last_retested_at_iso": "2020-10-26T17:41:36.518446",
+            "included_at_epoch": 1606156198.929185,
+            "included_at_iso": "2020-11-23T18:29:58.929185",
+            "last_retested_at_epoch": 1606156198.929185,
+            "last_retested_at_iso": "2020-11-23T18:29:58.929185",
             "status": "INACTIVE"
         },
         "laexotic.com": {
@@ -6821,10 +6821,10 @@
             "status": "ACTIVE"
         },
         "mail.poker.cm": {
-            "included_at_epoch": 1603734096.558836,
-            "included_at_iso": "2020-10-26T17:41:36.558836",
-            "last_retested_at_epoch": 1603734096.558836,
-            "last_retested_at_iso": "2020-10-26T17:41:36.558836",
+            "included_at_epoch": 1606156198.9687,
+            "included_at_iso": "2020-11-23T18:29:58.968700",
+            "last_retested_at_epoch": 1606156198.9687,
+            "last_retested_at_iso": "2020-11-23T18:29:58.968700",
             "status": "INACTIVE"
         },
         "mail.target.cm": {
@@ -7612,11 +7612,11 @@
             "status": "ACTIVE"
         },
         "ns3.ishosting.net": {
-            "included_at_epoch": 1603734096.598299,
-            "included_at_iso": "2020-10-26T17:41:36.598299",
-            "last_retested_at_epoch": 1603734096.598299,
-            "last_retested_at_iso": "2020-10-26T17:41:36.598299",
-            "status": "INACTIVE"
+            "included_at_epoch": 1606156199.008096,
+            "included_at_iso": "2020-11-23T18:29:59.008096",
+            "last_retested_at_epoch": 1606156199.008096,
+            "last_retested_at_iso": "2020-11-23T18:29:59.008096",
+            "status": "ACTIVE"
         },
         "nsrecord.org": {
             "included_at_epoch": 1605978157.378917,
@@ -14234,10 +14234,10 @@
             "status": "ACTIVE"
         },
         "www.getsearchlist.com": {
-            "included_at_epoch": 1603734096.637676,
-            "included_at_iso": "2020-10-26T17:41:36.637676",
-            "last_retested_at_epoch": 1603734096.637676,
-            "last_retested_at_iso": "2020-10-26T17:41:36.637676",
+            "included_at_epoch": 1606156199.047399,
+            "included_at_iso": "2020-11-23T18:29:59.047399",
+            "last_retested_at_epoch": 1606156199.047399,
+            "last_retested_at_iso": "2020-11-23T18:29:59.047399",
             "status": "INACTIVE"
         },
         "www.gilvision.com": {
@@ -17265,10 +17265,10 @@
             "status": "ACTIVE"
         },
         "www.winaproduct.com": {
-            "included_at_epoch": 1603734096.678423,
-            "included_at_iso": "2020-10-26T17:41:36.678423",
-            "last_retested_at_epoch": 1603734096.678423,
-            "last_retested_at_iso": "2020-10-26T17:41:36.678423",
+            "included_at_epoch": 1606156199.087007,
+            "included_at_iso": "2020-11-23T18:29:59.087007",
+            "last_retested_at_epoch": 1606156199.087007,
+            "last_retested_at_iso": "2020-11-23T18:29:59.087007",
             "status": "INACTIVE"
         },
         "www.wincleaner.com": {
