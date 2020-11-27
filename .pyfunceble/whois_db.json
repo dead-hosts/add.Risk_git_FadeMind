@@ -36,8 +36,9 @@
         "state": "future"
     },
     "2607.cn": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "302br.net": {
@@ -150,8 +151,9 @@
         "state": "future"
     },
     "adgtracker.com": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adlock.in": {
@@ -618,8 +620,9 @@
         "state": "future"
     },
     "bonzybuddy.com": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "boostsoftware.com": {
@@ -724,8 +727,8 @@
         "state": "future"
     },
     "catz4.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1218,10 +1221,10 @@
         "state": "future"
     },
     "divx.it": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "djsrp.com": {
         "epoch": 1612137600.0,
@@ -1459,8 +1462,9 @@
         "state": "future"
     },
     "expressaffiliatesite.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "expressomatogrosso.com.br": {
