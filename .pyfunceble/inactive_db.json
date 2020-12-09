@@ -842,13 +842,6 @@
             "last_retested_at_iso": "2020-12-09T17:35:23.390836",
             "status": "ACTIVE"
         },
-        "4.whereinitaly.com": {
-            "included_at_epoch": 1605116545.240781,
-            "included_at_iso": "2020-11-11T17:42:25.240781",
-            "last_retested_at_epoch": 1607535323.466069,
-            "last_retested_at_iso": "2020-12-09T17:35:23.466069",
-            "status": "INACTIVE"
-        },
         "4.whereinlazio.com": {
             "included_at_epoch": 1606850359.553275,
             "included_at_iso": "2020-12-01T19:19:19.553275",
@@ -3509,13 +3502,6 @@
             "last_retested_at_iso": "2020-12-09T17:35:37.343039",
             "status": "ACTIVE"
         },
-        "continentialairline.com": {
-            "included_at_epoch": 1605116545.278579,
-            "included_at_iso": "2020-11-11T17:42:25.278579",
-            "last_retested_at_epoch": 1607535337.419109,
-            "last_retested_at_iso": "2020-12-09T17:35:37.419109",
-            "status": "INACTIVE"
-        },
         "contniental.com": {
             "included_at_epoch": 1605978149.07366,
             "included_at_iso": "2020-11-21T17:02:29.073660",
@@ -3774,13 +3760,6 @@
             "last_retested_at_epoch": 1607535338.853406,
             "last_retested_at_iso": "2020-12-09T17:35:38.853406",
             "status": "ACTIVE"
-        },
-        "d.tds.adlabs.ru": {
-            "included_at_epoch": 1605116545.317746,
-            "included_at_iso": "2020-11-11T17:42:25.317746",
-            "last_retested_at_epoch": 1607535341.266867,
-            "last_retested_at_iso": "2020-12-09T17:35:41.266867",
-            "status": "INACTIVE"
         },
         "d.zeroredirect.com": {
             "included_at_epoch": 1606850360.842669,
@@ -6786,10 +6765,10 @@
             "status": "ACTIVE"
         },
         "maconbraves.com": {
-            "included_at_epoch": 1605116545.357458,
-            "included_at_iso": "2020-11-11T17:42:25.357458",
-            "last_retested_at_epoch": 1605116545.357458,
-            "last_retested_at_iso": "2020-11-11T17:42:25.357458",
+            "included_at_epoch": 1607544558.717324,
+            "included_at_iso": "2020-12-09T20:09:18.717324",
+            "last_retested_at_epoch": 1607544558.717324,
+            "last_retested_at_iso": "2020-12-09T20:09:18.717324",
             "status": "INACTIVE"
         },
         "magellen.com": {
@@ -9600,10 +9579,10 @@
             "status": "ACTIVE"
         },
         "site.falconbucks.com": {
-            "included_at_epoch": 1605116545.395736,
-            "included_at_iso": "2020-11-11T17:42:25.395736",
-            "last_retested_at_epoch": 1605116545.395736,
-            "last_retested_at_iso": "2020-11-11T17:42:25.395736",
+            "included_at_epoch": 1607544558.756111,
+            "included_at_iso": "2020-12-09T20:09:18.756111",
+            "last_retested_at_epoch": 1607544558.756111,
+            "last_retested_at_iso": "2020-12-09T20:09:18.756111",
             "status": "INACTIVE"
         },
         "siteanalytics.compete.com": {
@@ -10720,10 +10699,10 @@
             "status": "ACTIVE"
         },
         "toolbar.wips.com": {
-            "included_at_epoch": 1605116545.434524,
-            "included_at_iso": "2020-11-11T17:42:25.434524",
-            "last_retested_at_epoch": 1605116545.434524,
-            "last_retested_at_iso": "2020-11-11T17:42:25.434524",
+            "included_at_epoch": 1607544558.796582,
+            "included_at_iso": "2020-12-09T20:09:18.796582",
+            "last_retested_at_epoch": 1607544558.796582,
+            "last_retested_at_iso": "2020-12-09T20:09:18.796582",
             "status": "ACTIVE"
         },
         "toolbarwizard.vmn.net": {
@@ -13653,10 +13632,10 @@
             "status": "ACTIVE"
         },
         "www.eclean.or.kr": {
-            "included_at_epoch": 1605116545.472875,
-            "included_at_iso": "2020-11-11T17:42:25.472875",
-            "last_retested_at_epoch": 1605116545.472875,
-            "last_retested_at_iso": "2020-11-11T17:42:25.472875",
+            "included_at_epoch": 1607544558.837234,
+            "included_at_iso": "2020-12-09T20:09:18.837234",
+            "last_retested_at_epoch": 1607544558.837234,
+            "last_retested_at_iso": "2020-12-09T20:09:18.837234",
             "status": "INACTIVE"
         },
         "www.eclkspsa.com": {
@@ -18448,17 +18427,17 @@
             "status": "ACTIVE"
         },
         "zf1.zeroredirect11.com": {
-            "included_at_epoch": 1605116545.512259,
-            "included_at_iso": "2020-11-11T17:42:25.512259",
-            "last_retested_at_epoch": 1605116545.512259,
-            "last_retested_at_iso": "2020-11-11T17:42:25.512259",
+            "included_at_epoch": 1607544558.876475,
+            "included_at_iso": "2020-12-09T20:09:18.876475",
+            "last_retested_at_epoch": 1607544558.876475,
+            "last_retested_at_iso": "2020-12-09T20:09:18.876475",
             "status": "ACTIVE"
         },
         "zh1.zeroredirect11.com": {
-            "included_at_epoch": 1605116545.550955,
-            "included_at_iso": "2020-11-11T17:42:25.550955",
-            "last_retested_at_epoch": 1605116545.550955,
-            "last_retested_at_iso": "2020-11-11T17:42:25.550955",
+            "included_at_epoch": 1607544558.915954,
+            "included_at_iso": "2020-12-09T20:09:18.915954",
+            "last_retested_at_epoch": 1607544558.915954,
+            "last_retested_at_iso": "2020-12-09T20:09:18.915954",
             "status": "ACTIVE"
         },
         "zipitfast.com": {
@@ -18581,10 +18560,10 @@
             "status": "ACTIVE"
         },
         "zr1.zeroredirect11.com": {
-            "included_at_epoch": 1605116545.590576,
-            "included_at_iso": "2020-11-11T17:42:25.590576",
-            "last_retested_at_epoch": 1605116545.590576,
-            "last_retested_at_iso": "2020-11-11T17:42:25.590576",
+            "included_at_epoch": 1607544558.955223,
+            "included_at_iso": "2020-12-09T20:09:18.955223",
+            "last_retested_at_epoch": 1607544558.955223,
+            "last_retested_at_iso": "2020-12-09T20:09:18.955223",
             "status": "ACTIVE"
         },
         "zs1.zeroredirect1.com": {
