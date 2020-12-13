@@ -5715,10 +5715,10 @@
             "status": "ACTIVE"
         },
         "ias.avidmedia.net": {
-            "included_at_epoch": 1605456900.890919,
-            "included_at_iso": "2020-11-15T16:15:00.890919",
-            "last_retested_at_epoch": 1607535349.396764,
-            "last_retested_at_iso": "2020-12-09T17:35:49.396764",
+            "included_at_epoch": 1607877754.38483,
+            "included_at_iso": "2020-12-13T16:42:34.384830",
+            "last_retested_at_epoch": 1607877754.38483,
+            "last_retested_at_iso": "2020-12-13T16:42:34.384830",
             "status": "INACTIVE"
         },
         "ibmvideo.com": {
@@ -5750,10 +5750,10 @@
             "status": "ACTIVE"
         },
         "id.get35.com": {
-            "included_at_epoch": 1605456900.946464,
-            "included_at_iso": "2020-11-15T16:15:00.946464",
-            "last_retested_at_epoch": 1607535349.623001,
-            "last_retested_at_iso": "2020-12-09T17:35:49.623001",
+            "included_at_epoch": 1607877754.435867,
+            "included_at_iso": "2020-12-13T16:42:34.435867",
+            "last_retested_at_epoch": 1607877754.435867,
+            "last_retested_at_iso": "2020-12-13T16:42:34.435867",
             "status": "ACTIVE"
         },
         "ieginc.com": {
@@ -7220,10 +7220,10 @@
             "status": "ACTIVE"
         },
         "monofeel.com": {
-            "included_at_epoch": 1605456900.986924,
-            "included_at_iso": "2020-11-15T16:15:00.986924",
-            "last_retested_at_epoch": 1605456900.986924,
-            "last_retested_at_iso": "2020-11-15T16:15:00.986924",
+            "included_at_epoch": 1607877754.475843,
+            "included_at_iso": "2020-12-13T16:42:34.475843",
+            "last_retested_at_epoch": 1607877754.475843,
+            "last_retested_at_iso": "2020-12-13T16:42:34.475843",
             "status": "INACTIVE"
         },
         "morenews3.net": {
@@ -12400,10 +12400,10 @@
             "status": "ACTIVE"
         },
         "www.albiondrugs.com": {
-            "included_at_epoch": 1605456901.027396,
-            "included_at_iso": "2020-11-15T16:15:01.027396",
-            "last_retested_at_epoch": 1605456901.027396,
-            "last_retested_at_iso": "2020-11-15T16:15:01.027396",
+            "included_at_epoch": 1607877754.515965,
+            "included_at_iso": "2020-12-13T16:42:34.515965",
+            "last_retested_at_epoch": 1607877754.515965,
+            "last_retested_at_iso": "2020-12-13T16:42:34.515965",
             "status": "ACTIVE"
         },
         "www.all-internet-security.com": {
