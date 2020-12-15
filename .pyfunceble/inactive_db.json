@@ -10797,10 +10797,10 @@
             "status": "ACTIVE"
         },
         "totszentmarton.hu": {
-            "included_at_epoch": 1605631619.171142,
-            "included_at_iso": "2020-11-17T16:46:59.171142",
-            "last_retested_at_epoch": 1605631619.171142,
-            "last_retested_at_iso": "2020-11-17T16:46:59.171142",
+            "included_at_epoch": 1608054919.931365,
+            "included_at_iso": "2020-12-15T17:55:19.931365",
+            "last_retested_at_epoch": 1608054919.931365,
+            "last_retested_at_iso": "2020-12-15T17:55:19.931365",
             "status": "ACTIVE"
         },
         "towerecords.com": {
@@ -13464,10 +13464,10 @@
             "status": "ACTIVE"
         },
         "www.digiaquascr.com": {
-            "included_at_epoch": 1605631619.221882,
-            "included_at_iso": "2020-11-17T16:46:59.221882",
-            "last_retested_at_epoch": 1605631619.221882,
-            "last_retested_at_iso": "2020-11-17T16:46:59.221882",
+            "included_at_epoch": 1608054919.979558,
+            "included_at_iso": "2020-12-15T17:55:19.979558",
+            "last_retested_at_epoch": 1608054919.979558,
+            "last_retested_at_iso": "2020-12-15T17:55:19.979558",
             "status": "ACTIVE"
         },
         "www.dimarsbg.com": {
@@ -13737,10 +13737,10 @@
             "status": "ACTIVE"
         },
         "www.enoratraffic.com": {
-            "included_at_epoch": 1605631619.262809,
-            "included_at_iso": "2020-11-17T16:46:59.262809",
-            "last_retested_at_epoch": 1605631619.262809,
-            "last_retested_at_iso": "2020-11-17T16:46:59.262809",
+            "included_at_epoch": 1608054920.018024,
+            "included_at_iso": "2020-12-15T17:55:20.018024",
+            "last_retested_at_epoch": 1608054920.018024,
+            "last_retested_at_iso": "2020-12-15T17:55:20.018024",
             "status": "INACTIVE"
         },
         "www.epmads.com": {
