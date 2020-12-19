@@ -3255,9 +3255,10 @@
         "state": "future"
     },
     "pokemonporno.com": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
-        "state": "past"
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "poker.cm": {
         "epoch": 1621296000.0,
