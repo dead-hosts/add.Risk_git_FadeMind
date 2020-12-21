@@ -669,8 +669,8 @@
         "state": "future"
     },
     "buffalogoesout.com": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2889,8 +2889,9 @@
         "state": "future"
     },
     "newclick.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "newcracks.net": {
@@ -2900,8 +2901,9 @@
         "state": "future"
     },
     "neweed.org": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1733616000.0,
+        "expiration_date": "08-dec-2024",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "neyscape.com": {
@@ -2916,8 +2918,9 @@
         "state": "future"
     },
     "nmapquest.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "notrecommended.co.uk": {
@@ -2959,10 +2962,10 @@
         "state": "future"
     },
     "oldgames.zp.ua": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
         "server": "whois.ua",
-        "state": "past"
+        "state": "future"
     },
     "omnicleaningservices.com": {
         "epoch": 1615507200.0,
@@ -2996,8 +2999,9 @@
         "state": "future"
     },
     "onlinedownloads.org": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "onwardclick.com": {
@@ -3041,8 +3045,9 @@
         "state": "future"
     },
     "oreware.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oriceline.com": {
@@ -3066,13 +3071,15 @@
         "state": "future"
     },
     "paraskov.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pastie.org": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "pay-per-search.com": {
@@ -3113,8 +3120,9 @@
         "state": "future"
     },
     "pc-wallpapers.co.uk": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1671408000.0,
+        "expiration_date": "19-dec-2022",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "pccleaner.com": {
@@ -3151,8 +3159,9 @@
         "state": "future"
     },
     "pcsecurityshield.com": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pdf-platinum.info": {
@@ -3234,8 +3243,9 @@
         "state": "future"
     },
     "playgril.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "playsataion.com": {
@@ -3276,13 +3286,15 @@
         "state": "future"
     },
     "praceline.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "predictivesearch.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "premiumpedia.com": {
@@ -3408,8 +3420,9 @@
         "state": "future"
     },
     "registry-cleaners-compared.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "registry-error-cleaner.com": {
@@ -3440,8 +3453,9 @@
         "state": "future"
     },
     "registrycleanertechnology.com": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "registrycleanertop.com": {
@@ -3528,7 +3542,8 @@
     "robtopol.in": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
-        "state": "future"
+        "server": "whois.registry.in",
+        "state": "past"
     },
     "root--servers.org": {
         "epoch": 1613779200.0,
@@ -3576,8 +3591,9 @@
         "state": "future"
     },
     "safepccleaner.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "samaclub.com": {
@@ -3586,13 +3602,15 @@
         "state": "future"
     },
     "samvaulter.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sankakustatic.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sasdiskcleaner.com": {
@@ -3802,8 +3820,9 @@
         "state": "future"
     },
     "sj88.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "skassets.com": {
@@ -3854,8 +3873,9 @@
         "state": "future"
     },
     "software-phile.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "softwareupdaterlp.com": {
@@ -3877,8 +3897,9 @@
         "state": "future"
     },
     "specilized.com": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1670198400.0,
+        "expiration_date": "05-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "speedcounts.com": {
@@ -3941,8 +3962,9 @@
         "state": "future"
     },
     "stamplive.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "startnow.com": {
