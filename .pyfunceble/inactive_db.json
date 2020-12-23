@@ -3852,6 +3852,13 @@
             "last_retested_at_iso": "2020-12-21T17:37:42.998116",
             "status": "ACTIVE"
         },
+        "directhackerz.tk": {
+            "included_at_epoch": 1608742845.713721,
+            "included_at_iso": "2020-12-23T17:00:45.713721",
+            "last_retested_at_epoch": 1608742845.713721,
+            "last_retested_at_iso": "2020-12-23T17:00:45.713721",
+            "status": "INACTIVE"
+        },
         "directxex.com": {
             "included_at_epoch": 1608572263.022394,
             "included_at_iso": "2020-12-21T17:37:43.022394",
@@ -6393,6 +6400,13 @@
             "last_retested_at_iso": "2020-12-21T17:37:47.894110",
             "status": "ACTIVE"
         },
+        "l.zeroredirect.com": {
+            "included_at_epoch": 1608742845.767941,
+            "included_at_iso": "2020-12-23T17:00:45.767941",
+            "last_retested_at_epoch": 1608742845.767941,
+            "last_retested_at_iso": "2020-12-23T17:00:45.767941",
+            "status": "INACTIVE"
+        },
         "laexotic.com": {
             "included_at_epoch": 1608572267.876838,
             "included_at_iso": "2020-12-21T17:37:47.876838",
@@ -6805,6 +6819,13 @@
             "last_retested_at_epoch": 1608572268.707974,
             "last_retested_at_iso": "2020-12-21T17:37:48.707974",
             "status": "ACTIVE"
+        },
+        "mail.poker.cm": {
+            "included_at_epoch": 1608742845.806909,
+            "included_at_iso": "2020-12-23T17:00:45.806909",
+            "last_retested_at_epoch": 1608742845.806909,
+            "last_retested_at_iso": "2020-12-23T17:00:45.806909",
+            "status": "INACTIVE"
         },
         "mail.target.cm": {
             "included_at_epoch": 1608572268.761992,
@@ -7588,6 +7609,13 @@
             "included_at_iso": "2020-12-21T17:37:50.616449",
             "last_retested_at_epoch": 1608572270.616449,
             "last_retested_at_iso": "2020-12-21T17:37:50.616449",
+            "status": "ACTIVE"
+        },
+        "ns3.ishosting.net": {
+            "included_at_epoch": 1608742845.845819,
+            "included_at_iso": "2020-12-23T17:00:45.845819",
+            "last_retested_at_epoch": 1608742845.845819,
+            "last_retested_at_iso": "2020-12-23T17:00:45.845819",
             "status": "ACTIVE"
         },
         "nsrecord.org": {
