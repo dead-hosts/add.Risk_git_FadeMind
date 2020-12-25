@@ -7584,11 +7584,11 @@
             "status": "INACTIVE"
         },
         "ns1.the-sinner.net": {
-            "included_at_epoch": 1606330172.958092,
-            "included_at_iso": "2020-11-25T18:49:32.958092",
-            "last_retested_at_epoch": 1606330172.958092,
-            "last_retested_at_iso": "2020-11-25T18:49:32.958092",
-            "status": "ACTIVE"
+            "included_at_epoch": 1608913653.369231,
+            "included_at_iso": "2020-12-25T16:27:33.369231",
+            "last_retested_at_epoch": 1608913653.369231,
+            "last_retested_at_iso": "2020-12-25T16:27:33.369231",
+            "status": "INACTIVE"
         },
         "ns1.vicp.net": {
             "included_at_epoch": 1608572270.597307,
@@ -7710,10 +7710,10 @@
             "status": "ACTIVE"
         },
         "oneund.ru": {
-            "included_at_epoch": 1606330173.016858,
-            "included_at_iso": "2020-11-25T18:49:33.016858",
-            "last_retested_at_epoch": 1606330173.016858,
-            "last_retested_at_iso": "2020-11-25T18:49:33.016858",
+            "included_at_epoch": 1608913653.423878,
+            "included_at_iso": "2020-12-25T16:27:33.423878",
+            "last_retested_at_epoch": 1608913653.423878,
+            "last_retested_at_iso": "2020-12-25T16:27:33.423878",
             "status": "INACTIVE"
         },
         "online.sh.cn": {
@@ -12162,10 +12162,10 @@
             "status": "ACTIVE"
         },
         "www.39dvd-999.com": {
-            "included_at_epoch": 1606330173.056311,
-            "included_at_iso": "2020-11-25T18:49:33.056311",
-            "last_retested_at_epoch": 1606330173.056311,
-            "last_retested_at_iso": "2020-11-25T18:49:33.056311",
+            "included_at_epoch": 1608913653.463076,
+            "included_at_iso": "2020-12-25T16:27:33.463076",
+            "last_retested_at_epoch": 1608913653.463076,
+            "last_retested_at_iso": "2020-12-25T16:27:33.463076",
             "status": "ACTIVE"
         },
         "www.7metasearch.com": {
