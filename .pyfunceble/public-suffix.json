@@ -5184,6 +5184,7 @@
         "glas.museum",
         "glass.museum",
         "gorge.museum",
+        "gov.mw",
         "grandrapids.museum",
         "graz.museum",
         "guernsey.museum",
@@ -6670,7 +6671,6 @@
         "xn--mlselv-iua.no",
         "xn--moreke-jua.no",
         "xn--mosjen-eya.no",
-        "xn--mot-tla.no",
         "xn--msy-ula0h.no",
         "xn--mtta-vrjjat-k7af.no",
         "xn--muost-0qa.no",
@@ -6760,7 +6760,6 @@
         "ålesund.no",
         "ålgård.no",
         "åmli.no",
-        "åmot.no",
         "årdal.no",
         "ås.no",
         "åseral.no",
@@ -8378,7 +8377,8 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us"
+        "wy.us",
+        "xn--mot-tla.no"
     ],
     "uy": [
         "blogspot.com.uy",
