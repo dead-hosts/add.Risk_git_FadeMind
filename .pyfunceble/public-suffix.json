@@ -6795,7 +6795,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "georgia.su",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -7761,6 +7760,7 @@
         "dagestan.su",
         "east-kazakhstan.su",
         "exnet.su",
+        "georgia.su",
         "grozny.su",
         "ivanovo.su",
         "jambyl.su",
@@ -7802,6 +7802,7 @@
         "barsy.support"
     ],
     "sv": [
+        "com.sv",
         "edu.sv",
         "gob.sv",
         "org.sv",
@@ -8554,7 +8555,6 @@
     "zw": [
         "ac.zw",
         "co.zw",
-        "com.sv",
         "gov.zw",
         "mil.zw",
         "org.zw"
