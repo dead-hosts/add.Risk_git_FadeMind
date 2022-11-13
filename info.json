@@ -6,8 +6,8 @@
     "finish_timestamp": 1668232523.716703,
     "last_download_datetime": "2020-12-27T16:36:58.825750",
     "last_download_timestamp": 1609087018.82575,
-    "latest_part_finish_datetime": "2022-11-12T05:55:23.716703",
-    "latest_part_finish_timestamp": 1668232523.716703,
+    "latest_part_finish_datetime": "2022-11-13T05:38:45.310394",
+    "latest_part_finish_timestamp": 1668317925.310394,
     "latest_part_start_datetime": "2020-12-27T16:36:58.844556",
     "latest_part_start_timestamp": 1609087018.844556,
     "live_update": true,
@@ -17,6 +17,7 @@
         "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
+    "repo": "add.Risk_git_FadeMind/add.Risk_git_FadeMind",
     "start_datetime": "2020-12-27T16:36:58.841375",
     "start_timestamp": 1609087018.841375
 }
