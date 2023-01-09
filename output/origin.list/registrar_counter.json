@@ -1,12 +1,16 @@
 {
     "counter": {
-        "DNSPod, Inc.": 1,
-        "Key-Systems GmbH": 1,
-        "total": 2
+        "! #1 Host Japan, LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "TurnCommerce, Inc. DBA NameBright.com": 1,
+        "total": 4
     },
     "percentage": {
-        "DNSPod, Inc.": 50.0,
-        "Key-Systems GmbH": 50.0,
+        "! #1 Host Japan, LLC": 25.0,
+        "GoDaddy.com, LLC": 25.0,
+        "Hosting Concepts B.V. d/b/a Openprovider": 25.0,
+        "TurnCommerce, Inc. DBA NameBright.com": 25.0,
         "total": 100.0
     }
 }
