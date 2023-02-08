@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "DNSPod, Inc.": 1,
+        "Key-Systems GmbH": 1,
+        "total": 2
+    },
+    "percentage": {
+        "DNSPod, Inc.": 50.0,
+        "Key-Systems GmbH": 50.0,
+        "total": 100.0
+    }
+}
