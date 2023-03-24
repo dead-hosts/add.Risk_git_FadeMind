@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.get-avast.com,AVAILABILITY,origin.list,2023-03-23 05:42:00.369817
-www.pc-detox.com,AVAILABILITY,origin.list,2023-03-23 05:42:00.805973
-click.uamtrk.com,AVAILABILITY,origin.list,2023-03-23 05:42:02.813446
-www.cleanup-your-computer.com,AVAILABILITY,origin.list,2023-03-23 05:42:03.255234
-kls.secure-cart.biz,AVAILABILITY,origin.list,2023-03-23 05:42:03.312404
-www.full-edition.info,AVAILABILITY,origin.list,2023-03-23 05:42:03.343486
-www.butterfly-media.co.uk,AVAILABILITY,origin.list,2023-03-23 05:42:03.669699
-www.x-diesel.info,AVAILABILITY,origin.list,2023-03-23 05:42:03.688068
-www.paypal-exchange.com,AVAILABILITY,origin.list,2023-03-23 05:42:03.749723
-www.amazing-offers.co.il,AVAILABILITY,origin.list,2023-03-23 05:42:03.782942
 www.wmserver.net,AVAILABILITY,origin.list,2023-03-23 05:42:04.029174
 www.mueller-holz-bau.com,AVAILABILITY,origin.list,2023-03-23 05:42:04.100564
 www.auto-overview.com,AVAILABILITY,origin.list,2023-03-23 05:42:04.122123
@@ -334,3 +324,13 @@ www.wwwcheaptickets.com,AVAILABILITY,origin.list,2023-03-23 05:47:42.441774
 www.cheapticketes.com,AVAILABILITY,origin.list,2023-03-23 05:47:47.429258
 www.cheapstickets.com,AVAILABILITY,origin.list,2023-03-23 05:47:55.525289
 www.kickassratios.com,AVAILABILITY,origin.list,2023-03-24 05:41:05.490623
+www.get-avast.com,AVAILABILITY,origin.list,2023-03-24 05:45:45.710658
+www.pc-detox.com,AVAILABILITY,origin.list,2023-03-24 05:45:45.794484
+www.cleanup-your-computer.com,AVAILABILITY,origin.list,2023-03-24 05:45:46.188099
+kls.secure-cart.biz,AVAILABILITY,origin.list,2023-03-24 05:45:46.247915
+www.full-edition.info,AVAILABILITY,origin.list,2023-03-24 05:45:46.636485
+www.butterfly-media.co.uk,AVAILABILITY,origin.list,2023-03-24 05:45:46.690959
+www.x-diesel.info,AVAILABILITY,origin.list,2023-03-24 05:45:47.084156
+www.paypal-exchange.com,AVAILABILITY,origin.list,2023-03-24 05:45:47.135770
+www.amazing-offers.co.il,AVAILABILITY,origin.list,2023-03-24 05:45:47.533157
+click.uamtrk.com,AVAILABILITY,origin.list,2023-03-24 05:46:05.818800
