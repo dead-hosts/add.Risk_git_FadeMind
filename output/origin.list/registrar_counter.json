@@ -2,17 +2,21 @@
     "counter": {
         "! #1 Host Japan, LLC": 2,
         "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 2,
+        "DNSPod, Inc.": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "Key-Systems GmbH": 2,
         "PSI-USA, Inc. dba Domain Robot": 2,
         "TurnCommerce, Inc. DBA NameBright.com": 2,
-        "total": 10
+        "total": 14
     },
     "percentage": {
-        "! #1 Host Japan, LLC": 20.0,
-        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 20.0,
-        "Hosting Concepts B.V. d/b/a Openprovider": 20.0,
-        "PSI-USA, Inc. dba Domain Robot": 20.0,
-        "TurnCommerce, Inc. DBA NameBright.com": 20.0,
-        "total": 100.0
+        "! #1 Host Japan, LLC": 14.285714285714286,
+        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 14.285714285714286,
+        "DNSPod, Inc.": 14.285714285714286,
+        "Hosting Concepts B.V. d/b/a Openprovider": 14.285714285714286,
+        "Key-Systems GmbH": 14.285714285714286,
+        "PSI-USA, Inc. dba Domain Robot": 14.285714285714286,
+        "TurnCommerce, Inc. DBA NameBright.com": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
