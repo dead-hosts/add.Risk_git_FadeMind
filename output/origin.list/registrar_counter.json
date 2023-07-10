@@ -1,16 +1,20 @@
 {
     "counter": {
         "! #1 Host Japan, LLC": 2,
+        "DNSPod, Inc.": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "Key-Systems GmbH": 2,
         "PSI-USA, Inc. dba Domain Robot": 2,
         "TurnCommerce, Inc. DBA NameBright.com": 2,
-        "total": 8
+        "total": 12
     },
     "percentage": {
-        "! #1 Host Japan, LLC": 25.0,
-        "Hosting Concepts B.V. d/b/a Openprovider": 25.0,
-        "PSI-USA, Inc. dba Domain Robot": 25.0,
-        "TurnCommerce, Inc. DBA NameBright.com": 25.0,
-        "total": 100.0
+        "! #1 Host Japan, LLC": 16.666666666666668,
+        "DNSPod, Inc.": 16.666666666666668,
+        "Hosting Concepts B.V. d/b/a Openprovider": 16.666666666666668,
+        "Key-Systems GmbH": 16.666666666666668,
+        "PSI-USA, Inc. dba Domain Robot": 16.666666666666668,
+        "TurnCommerce, Inc. DBA NameBright.com": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
